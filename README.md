@@ -61,8 +61,8 @@ The application analyzes accessibility to 14 destination categories:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Ali8D/qaz_acc_dashboard.git
-   cd qaz_acc_dashboard
+   git clone https://github.com/Ali8D/acc_dashboard.git
+   cd acc_dashboard
    ```
 
 2. **Install dependencies**
