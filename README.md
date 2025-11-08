@@ -103,4 +103,6 @@ The application analyzes accessibility to 14 destination categories:
 streamlit run qaz_acc_dashboard.py
 ```
 
-The app will automatically open in your browser at `http://localhost:8501`
+The app will automatically open in your browser at `http://localhost:8501` .
+
+Contact: alidarvishvand28@gmail.com
