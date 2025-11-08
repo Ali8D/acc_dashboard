@@ -1,0 +1,2283 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_04a0a74829366b3ee9d0af0330991975 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_04a0a74829366b3ee9d0af0330991975" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_04a0a74829366b3ee9d0af0330991975 = L.map(
+                "map_04a0a74829366b3ee9d0af0330991975",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ac069e953af104dfd1dbf0e53d7aecf1 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var marker_0a9ef1673e5c239d59b2689c70adb463 = L.marker(
+                [36.2815241, 50.0175959],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_2266364f2ccc82b0bfb9fab53d913ccd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_0a9ef1673e5c239d59b2689c70adb463.setIcon(icon_2266364f2ccc82b0bfb9fab53d913ccd);
+        
+    
+        var popup_404025b9cfa6e3adcebda50db5115e81 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_047c1e9ef4761c21ce773b7acf077c73 = $(`<div id="html_047c1e9ef4761c21ce773b7acf077c73" style="width: 100.0%; height: 100.0%;">دبستان محمد تقی نوروزی<br>Mohammad Taghi Nourozi<br>POINT (50.0175959 36.2815241)<br>school</div>`)[0];
+                popup_404025b9cfa6e3adcebda50db5115e81.setContent(html_047c1e9ef4761c21ce773b7acf077c73);
+            
+        
+
+        marker_0a9ef1673e5c239d59b2689c70adb463.bindPopup(popup_404025b9cfa6e3adcebda50db5115e81)
+        ;
+
+        
+    
+    
+            var marker_b75cde80106f56ded21eea53a6a4549b = L.marker(
+                [36.3121253, 50.0049162],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_a8a9386b7d8fca25077dbe94ddc7f6ba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_b75cde80106f56ded21eea53a6a4549b.setIcon(icon_a8a9386b7d8fca25077dbe94ddc7f6ba);
+        
+    
+        var popup_ef934cb29f3c8b19eb712881b4bd7109 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_afb47dc914c46d20770607838cef33fb = $(`<div id="html_afb47dc914c46d20770607838cef33fb" style="width: 100.0%; height: 100.0%;">دبستان دخترانه الزهرا<br>nan<br>POINT (50.0049162 36.3121253)<br>school</div>`)[0];
+                popup_ef934cb29f3c8b19eb712881b4bd7109.setContent(html_afb47dc914c46d20770607838cef33fb);
+            
+        
+
+        marker_b75cde80106f56ded21eea53a6a4549b.bindPopup(popup_ef934cb29f3c8b19eb712881b4bd7109)
+        ;
+
+        
+    
+    
+            var marker_4d4143c19aa5552159d752ddb2b532af = L.marker(
+                [36.272091, 50.0175035],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_4240df378e0dc98aaa260f17fad888e9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_4d4143c19aa5552159d752ddb2b532af.setIcon(icon_4240df378e0dc98aaa260f17fad888e9);
+        
+    
+        var popup_c751d87c7596302dff0db9a67ae4bcd1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_63ddfcd54b2099a5bd0233e83179d7c1 = $(`<div id="html_63ddfcd54b2099a5bd0233e83179d7c1" style="width: 100.0%; height: 100.0%;">دبیرستان رضی الوالدین - قدس<br>Qods Highschool<br>POINT (50.0175035 36.272091)<br>school</div>`)[0];
+                popup_c751d87c7596302dff0db9a67ae4bcd1.setContent(html_63ddfcd54b2099a5bd0233e83179d7c1);
+            
+        
+
+        marker_4d4143c19aa5552159d752ddb2b532af.bindPopup(popup_c751d87c7596302dff0db9a67ae4bcd1)
+        ;
+
+        
+    
+    
+            var marker_531f5b308b2fe26bca9eed8465d28a17 = L.marker(
+                [36.3158715, 50.0091546],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_05d0c17bb8d7d117129d353ad3863039 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_531f5b308b2fe26bca9eed8465d28a17.setIcon(icon_05d0c17bb8d7d117129d353ad3863039);
+        
+    
+        var popup_6ac414a1a320132b239069d84a17218c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9df221a76263ef06be09bb9d48c02c5a = $(`<div id="html_9df221a76263ef06be09bb9d48c02c5a" style="width: 100.0%; height: 100.0%;">دبیرستان استعداد های درخشان شهیدان شالباف<br>استعدادهای درخشان شهیدان شالباف<br>POINT (50.0091546 36.3158715)<br>school</div>`)[0];
+                popup_6ac414a1a320132b239069d84a17218c.setContent(html_9df221a76263ef06be09bb9d48c02c5a);
+            
+        
+
+        marker_531f5b308b2fe26bca9eed8465d28a17.bindPopup(popup_6ac414a1a320132b239069d84a17218c)
+        ;
+
+        
+    
+    
+            var marker_36f353318fc24214cf1ba4a53f779e8b = L.marker(
+                [36.2861883, 50.0013084],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_28c0e8c7adcfd5730eda6dd5365b25a9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_36f353318fc24214cf1ba4a53f779e8b.setIcon(icon_28c0e8c7adcfd5730eda6dd5365b25a9);
+        
+    
+        var popup_86307924c9e97e26b1ca1030ec96e5b8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_12ef3e2672c34e45dc3b1bb533ba3ca9 = $(`<div id="html_12ef3e2672c34e45dc3b1bb533ba3ca9" style="width: 100.0%; height: 100.0%;">سپیده کاشانی<br>Sepide Kashani<br>POINT (50.0013084 36.2861883)<br>school</div>`)[0];
+                popup_86307924c9e97e26b1ca1030ec96e5b8.setContent(html_12ef3e2672c34e45dc3b1bb533ba3ca9);
+            
+        
+
+        marker_36f353318fc24214cf1ba4a53f779e8b.bindPopup(popup_86307924c9e97e26b1ca1030ec96e5b8)
+        ;
+
+        
+    
+    
+            var marker_0436f57b212f9f4511bf8d991d40bb1d = L.marker(
+                [36.3003621, 50.0067072],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d49e7e42bd100a979e3a8f16e249ab1e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_0436f57b212f9f4511bf8d991d40bb1d.setIcon(icon_d49e7e42bd100a979e3a8f16e249ab1e);
+        
+    
+        var popup_e0a50bc8a552f9ef31ba654abd03401c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2e3dce5abca68176a0f02f3b22a3b86a = $(`<div id="html_2e3dce5abca68176a0f02f3b22a3b86a" style="width: 100.0%; height: 100.0%;">دبیرستان بخارایی<br>Bokharaei High School<br>POINT (50.0067072 36.3003621)<br>school</div>`)[0];
+                popup_e0a50bc8a552f9ef31ba654abd03401c.setContent(html_2e3dce5abca68176a0f02f3b22a3b86a);
+            
+        
+
+        marker_0436f57b212f9f4511bf8d991d40bb1d.bindPopup(popup_e0a50bc8a552f9ef31ba654abd03401c)
+        ;
+
+        
+    
+    
+            var marker_b32b558a38b206454247ab3ef90d665a = L.marker(
+                [36.2722958, 50.0118797],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_73cf599fc86b58633cd8628c6523d14c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_b32b558a38b206454247ab3ef90d665a.setIcon(icon_73cf599fc86b58633cd8628c6523d14c);
+        
+    
+        var popup_def5c9388adcb57339559b3a35196da8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_94b3e6fb87e73ce4d3e76ff57a6183ef = $(`<div id="html_94b3e6fb87e73ce4d3e76ff57a6183ef" style="width: 100.0%; height: 100.0%;">دبیرستان توحید<br>Tohid school<br>POINT (50.0118797 36.2722958)<br>school</div>`)[0];
+                popup_def5c9388adcb57339559b3a35196da8.setContent(html_94b3e6fb87e73ce4d3e76ff57a6183ef);
+            
+        
+
+        marker_b32b558a38b206454247ab3ef90d665a.bindPopup(popup_def5c9388adcb57339559b3a35196da8)
+        ;
+
+        
+    
+    
+            var marker_3ea02abab7583d4a0fe94bc1143c47f1 = L.marker(
+                [36.278076, 50.0193395],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_19bcdd0796801bfff8aeb7835985362f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_3ea02abab7583d4a0fe94bc1143c47f1.setIcon(icon_19bcdd0796801bfff8aeb7835985362f);
+        
+    
+        var popup_721c80918b387a9b110b68564357aa13 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_18109b89c28b176a19716c88b577c5b1 = $(`<div id="html_18109b89c28b176a19716c88b577c5b1" style="width: 100.0%; height: 100.0%;">دبیرستان غیردولتی پاسارگاد<br>Pasargad High Scored<br>POINT (50.0193395 36.278076)<br>school</div>`)[0];
+                popup_721c80918b387a9b110b68564357aa13.setContent(html_18109b89c28b176a19716c88b577c5b1);
+            
+        
+
+        marker_3ea02abab7583d4a0fe94bc1143c47f1.bindPopup(popup_721c80918b387a9b110b68564357aa13)
+        ;
+
+        
+    
+    
+            var marker_abd77b3e712f43060459e00d900a90a3 = L.marker(
+                [36.3005204, 50.0194005],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_28b817ddc3d6343a971ca69b3a4f2f06 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_abd77b3e712f43060459e00d900a90a3.setIcon(icon_28b817ddc3d6343a971ca69b3a4f2f06);
+        
+    
+        var popup_24a61ed0271b61105dc0990407c7b6c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6f536c85de40eedd9c22c3f6f142dbce = $(`<div id="html_6f536c85de40eedd9c22c3f6f142dbce" style="width: 100.0%; height: 100.0%;">دبیرستان فرزانگان<br>Farzanegan Sampad (NODET) High school<br>POINT (50.0194005 36.3005204)<br>school</div>`)[0];
+                popup_24a61ed0271b61105dc0990407c7b6c2.setContent(html_6f536c85de40eedd9c22c3f6f142dbce);
+            
+        
+
+        marker_abd77b3e712f43060459e00d900a90a3.bindPopup(popup_24a61ed0271b61105dc0990407c7b6c2)
+        ;
+
+        
+    
+    
+            var marker_16ff58921d045d2df878c7f18c34ef14 = L.marker(
+                [36.3096302, 49.9969512],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_8e017ade0d10a360f5ac93f7d38ff5ac = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_16ff58921d045d2df878c7f18c34ef14.setIcon(icon_8e017ade0d10a360f5ac93f7d38ff5ac);
+        
+    
+        var popup_fd8b086c7d32754d8931878c8873634a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_51385b4ee5669525729cb671716df9a7 = $(`<div id="html_51385b4ee5669525729cb671716df9a7" style="width: 100.0%; height: 100.0%;">مدرسه ی کابل البرز<br>nan<br>POINT (49.9969512 36.3096302)<br>school</div>`)[0];
+                popup_fd8b086c7d32754d8931878c8873634a.setContent(html_51385b4ee5669525729cb671716df9a7);
+            
+        
+
+        marker_16ff58921d045d2df878c7f18c34ef14.bindPopup(popup_fd8b086c7d32754d8931878c8873634a)
+        ;
+
+        
+    
+    
+            var marker_67c8b4dc54641094b477434589e504f5 = L.marker(
+                [36.2790822, 50.019937],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_15b8bf7fffa4f58d5906f25d2f63a482 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_67c8b4dc54641094b477434589e504f5.setIcon(icon_15b8bf7fffa4f58d5906f25d2f63a482);
+        
+    
+        var popup_6bf4b0086e63727c8b17768c4b49414b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_64178ed2379902bef12ef22439c002b5 = $(`<div id="html_64178ed2379902bef12ef22439c002b5" style="width: 100.0%; height: 100.0%;">دبیرستان حضرت قاسم (ع) و خلیج فارس<br>nan<br>POINT (50.019937 36.2790822)<br>school</div>`)[0];
+                popup_6bf4b0086e63727c8b17768c4b49414b.setContent(html_64178ed2379902bef12ef22439c002b5);
+            
+        
+
+        marker_67c8b4dc54641094b477434589e504f5.bindPopup(popup_6bf4b0086e63727c8b17768c4b49414b)
+        ;
+
+        
+    
+    
+            var marker_057b8f80849d6552c42678f4df7a2b26 = L.marker(
+                [36.2677258, 50.004097],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_ae54861902e4e65618c288e424141c57 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_057b8f80849d6552c42678f4df7a2b26.setIcon(icon_ae54861902e4e65618c288e424141c57);
+        
+    
+        var popup_86ac27acd711c18ff146a13a82e6177c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a34e35a36b166d74070a6109bd6b1fed = $(`<div id="html_a34e35a36b166d74070a6109bd6b1fed" style="width: 100.0%; height: 100.0%;">دبیرستان پاسداران<br>Pasdaran highschool<br>POINT (50.004097 36.2677258)<br>school</div>`)[0];
+                popup_86ac27acd711c18ff146a13a82e6177c.setContent(html_a34e35a36b166d74070a6109bd6b1fed);
+            
+        
+
+        marker_057b8f80849d6552c42678f4df7a2b26.bindPopup(popup_86ac27acd711c18ff146a13a82e6177c)
+        ;
+
+        
+    
+    
+            var marker_f16cd97a1486176e15aa9103ba7b3f1a = L.marker(
+                [36.3159534, 50.0099848],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_5d0fb566bbd9c84a9fca08abfbc2c577 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_f16cd97a1486176e15aa9103ba7b3f1a.setIcon(icon_5d0fb566bbd9c84a9fca08abfbc2c577);
+        
+    
+        var popup_1e92b06a7fe3ab0c548c55c19ffb3b69 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1185133f3cabd1cbe4827359c4fe28bb = $(`<div id="html_1185133f3cabd1cbe4827359c4fe28bb" style="width: 100.0%; height: 100.0%;">مدرسه علوم و معارف اسلامی صدرا ولایت<br>nan<br>POINT (50.0099848 36.3159534)<br>school</div>`)[0];
+                popup_1e92b06a7fe3ab0c548c55c19ffb3b69.setContent(html_1185133f3cabd1cbe4827359c4fe28bb);
+            
+        
+
+        marker_f16cd97a1486176e15aa9103ba7b3f1a.bindPopup(popup_1e92b06a7fe3ab0c548c55c19ffb3b69)
+        ;
+
+        
+    
+    
+            var marker_d90bcc3600ef57c1c324e2215725c554 = L.marker(
+                [36.2698306, 50.0190702],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_f8a9404eeb56a332acd68fa2c1d8da55 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_d90bcc3600ef57c1c324e2215725c554.setIcon(icon_f8a9404eeb56a332acd68fa2c1d8da55);
+        
+    
+        var popup_5e4a6e98ce7cb51ab7629d75857641a4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e6876f8f84045cc0894f7c7f73d4ebc2 = $(`<div id="html_e6876f8f84045cc0894f7c7f73d4ebc2" style="width: 100.0%; height: 100.0%;">مدرسه معمارپور<br>nan<br>POINT (50.0190702 36.2698306)<br>school</div>`)[0];
+                popup_5e4a6e98ce7cb51ab7629d75857641a4.setContent(html_e6876f8f84045cc0894f7c7f73d4ebc2);
+            
+        
+
+        marker_d90bcc3600ef57c1c324e2215725c554.bindPopup(popup_5e4a6e98ce7cb51ab7629d75857641a4)
+        ;
+
+        
+    
+    
+            var marker_d8280de77147a913318fb4de1989e420 = L.marker(
+                [36.2641238, 49.9982152],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_7437bb702c32df050850ba55d8caf897 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_d8280de77147a913318fb4de1989e420.setIcon(icon_7437bb702c32df050850ba55d8caf897);
+        
+    
+        var popup_4d0d6b80319ae5fc04667c7e5285c297 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_df5eedc450bbdf32dc4f50ec995b1b3d = $(`<div id="html_df5eedc450bbdf32dc4f50ec995b1b3d" style="width: 100.0%; height: 100.0%;">دبیرستان دخترانه  ابوطالب تقوی<br>nan<br>POINT (49.9982152 36.2641238)<br>school</div>`)[0];
+                popup_4d0d6b80319ae5fc04667c7e5285c297.setContent(html_df5eedc450bbdf32dc4f50ec995b1b3d);
+            
+        
+
+        marker_d8280de77147a913318fb4de1989e420.bindPopup(popup_4d0d6b80319ae5fc04667c7e5285c297)
+        ;
+
+        
+    
+    
+            var marker_732fc26ecec49c47c72166e0b2a8a85f = L.marker(
+                [36.3011415, 50.0260964],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_1590d24dba228331be3727d32047cffe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_732fc26ecec49c47c72166e0b2a8a85f.setIcon(icon_1590d24dba228331be3727d32047cffe);
+        
+    
+        var popup_993f456997e243aea9d89cb100cb0438 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8f46414e4eef7087eba73e13c6ef442c = $(`<div id="html_8f46414e4eef7087eba73e13c6ef442c" style="width: 100.0%; height: 100.0%;">دبستان و پیشدبستانی خردمند<br>nan<br>POINT (50.0260964 36.3011415)<br>school</div>`)[0];
+                popup_993f456997e243aea9d89cb100cb0438.setContent(html_8f46414e4eef7087eba73e13c6ef442c);
+            
+        
+
+        marker_732fc26ecec49c47c72166e0b2a8a85f.bindPopup(popup_993f456997e243aea9d89cb100cb0438)
+        ;
+
+        
+    
+    
+            var marker_2458c90c1bf3348eb00e8c03f7fb1729 = L.marker(
+                [36.29564456309782, 50.02271854330961],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_099d3d05762e05cefefb9179ddb6eea4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_2458c90c1bf3348eb00e8c03f7fb1729.setIcon(icon_099d3d05762e05cefefb9179ddb6eea4);
+        
+    
+        var popup_a5eccbe9a4cce52430498b04a6b8186a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_33d7e9f33641ab5647a48f3b7aca01ea = $(`<div id="html_33d7e9f33641ab5647a48f3b7aca01ea" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.02271854330961 36.29564456309782)<br>school</div>`)[0];
+                popup_a5eccbe9a4cce52430498b04a6b8186a.setContent(html_33d7e9f33641ab5647a48f3b7aca01ea);
+            
+        
+
+        marker_2458c90c1bf3348eb00e8c03f7fb1729.bindPopup(popup_a5eccbe9a4cce52430498b04a6b8186a)
+        ;
+
+        
+    
+    
+            var marker_f2a113fb67d1d19312cf51b5006dcf23 = L.marker(
+                [36.2913879712246, 50.01726939010974],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_a7858b64f6989568d46056ea2b03d786 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_f2a113fb67d1d19312cf51b5006dcf23.setIcon(icon_a7858b64f6989568d46056ea2b03d786);
+        
+    
+        var popup_cebf4a853450f5590303511d4300b36f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a72b47779b30c18da74b5ab4b958d6c0 = $(`<div id="html_a72b47779b30c18da74b5ab4b958d6c0" style="width: 100.0%; height: 100.0%;">نمونه دولتی صدیقه کبری<br>nan<br>POINT (50.01726939010974 36.2913879712246)<br>school</div>`)[0];
+                popup_cebf4a853450f5590303511d4300b36f.setContent(html_a72b47779b30c18da74b5ab4b958d6c0);
+            
+        
+
+        marker_f2a113fb67d1d19312cf51b5006dcf23.bindPopup(popup_cebf4a853450f5590303511d4300b36f)
+        ;
+
+        
+    
+    
+            var marker_eda6e0606f297492bbc7b23d745f1768 = L.marker(
+                [36.292643248443795, 50.01335105279725],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_9bcdaf7d0f57c74d1e2d2debd5e92f8d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_eda6e0606f297492bbc7b23d745f1768.setIcon(icon_9bcdaf7d0f57c74d1e2d2debd5e92f8d);
+        
+    
+        var popup_eea313accf0419f23f206ee592d9771b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_47c86ff3d3615df8f8011b78cf1877d5 = $(`<div id="html_47c86ff3d3615df8f8011b78cf1877d5" style="width: 100.0%; height: 100.0%;">عرفان<br>Erfan<br>POINT (50.01335105279725 36.292643248443795)<br>school</div>`)[0];
+                popup_eea313accf0419f23f206ee592d9771b.setContent(html_47c86ff3d3615df8f8011b78cf1877d5);
+            
+        
+
+        marker_eda6e0606f297492bbc7b23d745f1768.bindPopup(popup_eea313accf0419f23f206ee592d9771b)
+        ;
+
+        
+    
+    
+            var marker_21b5ceb3fab5ad6462c6d3340a9d4af3 = L.marker(
+                [36.2990233119857, 50.02206039729162],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_fe13f787e90f559daa6417cb2de27a21 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_21b5ceb3fab5ad6462c6d3340a9d4af3.setIcon(icon_fe13f787e90f559daa6417cb2de27a21);
+        
+    
+        var popup_6e7139a6ba32ce4701ac9d1e257f3467 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0bcee7cd515cc285eb255e4015d92ed4 = $(`<div id="html_0bcee7cd515cc285eb255e4015d92ed4" style="width: 100.0%; height: 100.0%;">هنرستان فنی خاتم الانبیا<br>Khatamol anbia Technical School<br>POINT (50.02206039729162 36.2990233119857)<br>school</div>`)[0];
+                popup_6e7139a6ba32ce4701ac9d1e257f3467.setContent(html_0bcee7cd515cc285eb255e4015d92ed4);
+            
+        
+
+        marker_21b5ceb3fab5ad6462c6d3340a9d4af3.bindPopup(popup_6e7139a6ba32ce4701ac9d1e257f3467)
+        ;
+
+        
+    
+    
+            var marker_b39abcc30c03213a050c867ff1c7b1fb = L.marker(
+                [36.29943185945364, 50.02242525353299],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_1e3ef9ce34845867391f7b7d386e5db0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_b39abcc30c03213a050c867ff1c7b1fb.setIcon(icon_1e3ef9ce34845867391f7b7d386e5db0);
+        
+    
+        var popup_67e02f8f038b45cb0853fa3e1fc2cb6b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_351dac827ba076141368338a83584ce4 = $(`<div id="html_351dac827ba076141368338a83584ce4" style="width: 100.0%; height: 100.0%;">هنرستان فنی انقلاب اسلامی<br>Enghelab-e-Eslami Technical school<br>POINT (50.02242525353299 36.29943185945364)<br>school</div>`)[0];
+                popup_67e02f8f038b45cb0853fa3e1fc2cb6b.setContent(html_351dac827ba076141368338a83584ce4);
+            
+        
+
+        marker_b39abcc30c03213a050c867ff1c7b1fb.bindPopup(popup_67e02f8f038b45cb0853fa3e1fc2cb6b)
+        ;
+
+        
+    
+    
+            var marker_6383149b025dc518551ffe2773709ce6 = L.marker(
+                [36.290266335565974, 50.01035482035401],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_6a7e2a22df598f768cb58f041c35195e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6383149b025dc518551ffe2773709ce6.setIcon(icon_6a7e2a22df598f768cb58f041c35195e);
+        
+    
+        var popup_9f998a741aad0fac084822373c4fd0f2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0f71066ec13a53d0c44016bb193aab21 = $(`<div id="html_0f71066ec13a53d0c44016bb193aab21" style="width: 100.0%; height: 100.0%;">مدرسه شاهد<br>Shahed<br>POINT (50.01035482035401 36.290266335565974)<br>school</div>`)[0];
+                popup_9f998a741aad0fac084822373c4fd0f2.setContent(html_0f71066ec13a53d0c44016bb193aab21);
+            
+        
+
+        marker_6383149b025dc518551ffe2773709ce6.bindPopup(popup_9f998a741aad0fac084822373c4fd0f2)
+        ;
+
+        
+    
+    
+            var marker_6ab5df4a10d96576d6b92eef4d9e93f9 = L.marker(
+                [36.2896240860005, 50.010112680394855],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_35123522585fb6bfaae686487d6ec162 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6ab5df4a10d96576d6b92eef4d9e93f9.setIcon(icon_35123522585fb6bfaae686487d6ec162);
+        
+    
+        var popup_c374f916167ca9734343acd75d313285 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_808c5be600e919d92eacaab6053b024a = $(`<div id="html_808c5be600e919d92eacaab6053b024a" style="width: 100.0%; height: 100.0%;">مدرسه شاهد<br>Shahed<br>POINT (50.010112680394855 36.2896240860005)<br>school</div>`)[0];
+                popup_c374f916167ca9734343acd75d313285.setContent(html_808c5be600e919d92eacaab6053b024a);
+            
+        
+
+        marker_6ab5df4a10d96576d6b92eef4d9e93f9.bindPopup(popup_c374f916167ca9734343acd75d313285)
+        ;
+
+        
+    
+    
+            var marker_3d02b72722416095c8b73cc855a485be = L.marker(
+                [36.292712817007676, 50.01342891581398],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d7fe01fd651d099dff1a63cbb4bdec79 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_3d02b72722416095c8b73cc855a485be.setIcon(icon_d7fe01fd651d099dff1a63cbb4bdec79);
+        
+    
+        var popup_bae7e017a80633c0de7d681a64258879 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_968897326448c2461ad0b346abebce23 = $(`<div id="html_968897326448c2461ad0b346abebce23" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.01342891581398 36.292712817007676)<br>nan</div>`)[0];
+                popup_bae7e017a80633c0de7d681a64258879.setContent(html_968897326448c2461ad0b346abebce23);
+            
+        
+
+        marker_3d02b72722416095c8b73cc855a485be.bindPopup(popup_bae7e017a80633c0de7d681a64258879)
+        ;
+
+        
+    
+    
+            var marker_fd9cdb684209d429543b200e8c507704 = L.marker(
+                [36.28293143323411, 50.00797485451487],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_9481e32544f1e5df629a111941e5f287 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_fd9cdb684209d429543b200e8c507704.setIcon(icon_9481e32544f1e5df629a111941e5f287);
+        
+    
+        var popup_8a2868cbf1d0ed0b97e3038e860b6236 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_780ec881a0382267e662930d4bc49261 = $(`<div id="html_780ec881a0382267e662930d4bc49261" style="width: 100.0%; height: 100.0%;">مدرسه متوسطه دوم علامه امینی<br>nan<br>POINT (50.00797485451487 36.28293143323411)<br>school</div>`)[0];
+                popup_8a2868cbf1d0ed0b97e3038e860b6236.setContent(html_780ec881a0382267e662930d4bc49261);
+            
+        
+
+        marker_fd9cdb684209d429543b200e8c507704.bindPopup(popup_8a2868cbf1d0ed0b97e3038e860b6236)
+        ;
+
+        
+    
+    
+            var marker_57b147dd90da71412d4befc877e16791 = L.marker(
+                [36.27960660894157, 50.000303245819666],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_edb7c00c6f99ba636c5d526f9c80a5e3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_57b147dd90da71412d4befc877e16791.setIcon(icon_edb7c00c6f99ba636c5d526f9c80a5e3);
+        
+    
+        var popup_72767b3a83bf9674884d0b3003276c9d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_97ee55f7ef2d70855da7c18155f6c2bb = $(`<div id="html_97ee55f7ef2d70855da7c18155f6c2bb" style="width: 100.0%; height: 100.0%;">هنرستان چمران<br>Chamran<br>POINT (50.000303245819666 36.27960660894157)<br>nan</div>`)[0];
+                popup_72767b3a83bf9674884d0b3003276c9d.setContent(html_97ee55f7ef2d70855da7c18155f6c2bb);
+            
+        
+
+        marker_57b147dd90da71412d4befc877e16791.bindPopup(popup_72767b3a83bf9674884d0b3003276c9d)
+        ;
+
+        
+    
+    
+            var marker_270c867a914c0a20b050e9f4963061d1 = L.marker(
+                [36.28070837370247, 50.01031786774597],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_18f3e388240772e5cca1f78031d4b450 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_270c867a914c0a20b050e9f4963061d1.setIcon(icon_18f3e388240772e5cca1f78031d4b450);
+        
+    
+        var popup_8fa2edcfbfbd85b7f2e6d6bd52fdc1c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_76bf27dc074feadf29b3879f0270fd62 = $(`<div id="html_76bf27dc074feadf29b3879f0270fd62" style="width: 100.0%; height: 100.0%;">دبیرستان نمونه دولتی نوروزیان<br>Nourozian School<br>POINT (50.01031786774597 36.28070837370247)<br>school</div>`)[0];
+                popup_8fa2edcfbfbd85b7f2e6d6bd52fdc1c2.setContent(html_76bf27dc074feadf29b3879f0270fd62);
+            
+        
+
+        marker_270c867a914c0a20b050e9f4963061d1.bindPopup(popup_8fa2edcfbfbd85b7f2e6d6bd52fdc1c2)
+        ;
+
+        
+    
+    
+            var marker_f19fdcd9e037b9e6345c57db857c6faf = L.marker(
+                [36.28086415444421, 50.01035934048026],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_f46b1d3e44222dfa2e7a59c706468d0f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_f19fdcd9e037b9e6345c57db857c6faf.setIcon(icon_f46b1d3e44222dfa2e7a59c706468d0f);
+        
+    
+        var popup_8a4239856f427eca9417342bc19329bd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_774f75f201105126be0b083b52687ade = $(`<div id="html_774f75f201105126be0b083b52687ade" style="width: 100.0%; height: 100.0%;">مدرسه نوروزیان<br>Nourozian School Building<br>POINT (50.01035934048026 36.28086415444421)<br>nan</div>`)[0];
+                popup_8a4239856f427eca9417342bc19329bd.setContent(html_774f75f201105126be0b083b52687ade);
+            
+        
+
+        marker_f19fdcd9e037b9e6345c57db857c6faf.bindPopup(popup_8a4239856f427eca9417342bc19329bd)
+        ;
+
+        
+    
+    
+            var marker_7947ea17447e5920265937fada052b8d = L.marker(
+                [36.25721030986928, 50.00684667087813],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_e141115d07f896105bfef23186fa6597 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_7947ea17447e5920265937fada052b8d.setIcon(icon_e141115d07f896105bfef23186fa6597);
+        
+    
+        var popup_19816783a9d7458f23570d4e1e6c6504 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_44ab2cc7bd6f93cbccdf2157562d1491 = $(`<div id="html_44ab2cc7bd6f93cbccdf2157562d1491" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00684667087813 36.25721030986928)<br>school</div>`)[0];
+                popup_19816783a9d7458f23570d4e1e6c6504.setContent(html_44ab2cc7bd6f93cbccdf2157562d1491);
+            
+        
+
+        marker_7947ea17447e5920265937fada052b8d.bindPopup(popup_19816783a9d7458f23570d4e1e6c6504)
+        ;
+
+        
+    
+    
+            var marker_fcdb616ab35f4f718c55f93710ee268d = L.marker(
+                [36.25734045124426, 50.00667849367664],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_ab7d4ddb7a4c228ef84f335c55dc507e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_fcdb616ab35f4f718c55f93710ee268d.setIcon(icon_ab7d4ddb7a4c228ef84f335c55dc507e);
+        
+    
+        var popup_de5e83473bc2065338fbdd297eaea6a8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a4b996982e7b5d01bf7c7429313dc170 = $(`<div id="html_a4b996982e7b5d01bf7c7429313dc170" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00667849367664 36.25734045124426)<br>nan</div>`)[0];
+                popup_de5e83473bc2065338fbdd297eaea6a8.setContent(html_a4b996982e7b5d01bf7c7429313dc170);
+            
+        
+
+        marker_fcdb616ab35f4f718c55f93710ee268d.bindPopup(popup_de5e83473bc2065338fbdd297eaea6a8)
+        ;
+
+        
+    
+    
+            var marker_a724f2701de40dd2e56943bd4cc1a760 = L.marker(
+                [36.26991444647277, 50.01314267622872],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_66b245e9ce3e65df0c9ce83ff0ac2943 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_a724f2701de40dd2e56943bd4cc1a760.setIcon(icon_66b245e9ce3e65df0c9ce83ff0ac2943);
+        
+    
+        var popup_e8a321d312849e53f02c0ccbccca87c4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8cb431b781d8d66780959677a5817785 = $(`<div id="html_8cb431b781d8d66780959677a5817785" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.01314267622872 36.26991444647277)<br>school</div>`)[0];
+                popup_e8a321d312849e53f02c0ccbccca87c4.setContent(html_8cb431b781d8d66780959677a5817785);
+            
+        
+
+        marker_a724f2701de40dd2e56943bd4cc1a760.bindPopup(popup_e8a321d312849e53f02c0ccbccca87c4)
+        ;
+
+        
+    
+    
+            var marker_9acd3982a4dfb0f80e24bbe74ffd9ec1 = L.marker(
+                [36.299973949999995, 50.020381900000004],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_46d62452682bb2242517ab391a2dbb6a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_9acd3982a4dfb0f80e24bbe74ffd9ec1.setIcon(icon_46d62452682bb2242517ab391a2dbb6a);
+        
+    
+        var popup_10535011ae11a7d9003963b38e649e7b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9b468e159da8100b1eb7d2c325e47f62 = $(`<div id="html_9b468e159da8100b1eb7d2c325e47f62" style="width: 100.0%; height: 100.0%;">مدرسه راهنمایی شاهد<br>Shahed School<br>POINT (50.020381900000004 36.299973949999995)<br>school</div>`)[0];
+                popup_10535011ae11a7d9003963b38e649e7b.setContent(html_9b468e159da8100b1eb7d2c325e47f62);
+            
+        
+
+        marker_9acd3982a4dfb0f80e24bbe74ffd9ec1.bindPopup(popup_10535011ae11a7d9003963b38e649e7b)
+        ;
+
+        
+    
+    
+            var marker_742ce9d4db252237e351dac01e6119e7 = L.marker(
+                [36.30063491484705, 50.02068721029788],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_2803c00659e257961317169ef4e462f7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_742ce9d4db252237e351dac01e6119e7.setIcon(icon_2803c00659e257961317169ef4e462f7);
+        
+    
+        var popup_4d3927f33f3080351b7976fb66c1b06a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_61b1204cfc94cc2e8eb5343c0a6ebc85 = $(`<div id="html_61b1204cfc94cc2e8eb5343c0a6ebc85" style="width: 100.0%; height: 100.0%;">مرکز آموزشی استعداد های درخشان شهید بابایی قزوین - دوره دوم - دبیرستان<br>Martyr Babayi elites Highschool<br>POINT (50.02068721029788 36.30063491484705)<br>school</div>`)[0];
+                popup_4d3927f33f3080351b7976fb66c1b06a.setContent(html_61b1204cfc94cc2e8eb5343c0a6ebc85);
+            
+        
+
+        marker_742ce9d4db252237e351dac01e6119e7.bindPopup(popup_4d3927f33f3080351b7976fb66c1b06a)
+        ;
+
+        
+    
+    
+            var marker_5d170613f0d1e8784de133784de57c37 = L.marker(
+                [36.28289201721035, 50.00790995379363],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_e99b731c16bbf9ce4c1184bafd9cf848 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_5d170613f0d1e8784de133784de57c37.setIcon(icon_e99b731c16bbf9ce4c1184bafd9cf848);
+        
+    
+        var popup_27da0ce90076d38799110734bd45eed4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8b2bac5c0ced91e09563437cbbcdb282 = $(`<div id="html_8b2bac5c0ced91e09563437cbbcdb282" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00790995379363 36.28289201721035)<br>school</div>`)[0];
+                popup_27da0ce90076d38799110734bd45eed4.setContent(html_8b2bac5c0ced91e09563437cbbcdb282);
+            
+        
+
+        marker_5d170613f0d1e8784de133784de57c37.bindPopup(popup_27da0ce90076d38799110734bd45eed4)
+        ;
+
+        
+    
+    
+            var marker_990bf43865817f0f21dc44e46e900829 = L.marker(
+                [36.306814675884624, 50.01898716890663],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d9277d4e2207cf89a9f2cd6c25e93f4c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_990bf43865817f0f21dc44e46e900829.setIcon(icon_d9277d4e2207cf89a9f2cd6c25e93f4c);
+        
+    
+        var popup_2d1c02158085713ae9959371f03da004 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2009281615638b95339a67de1639a66b = $(`<div id="html_2009281615638b95339a67de1639a66b" style="width: 100.0%; height: 100.0%;">مدرسه جابرابن حیان<br>Jaberebn e Hayyan<br>POINT (50.01898716890663 36.306814675884624)<br>school</div>`)[0];
+                popup_2d1c02158085713ae9959371f03da004.setContent(html_2009281615638b95339a67de1639a66b);
+            
+        
+
+        marker_990bf43865817f0f21dc44e46e900829.bindPopup(popup_2d1c02158085713ae9959371f03da004)
+        ;
+
+        
+    
+    
+            var marker_ae7c3bd35e394702153f8adfb3f55349 = L.marker(
+                [36.30974509105331, 50.03150725321212],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_8a8c3c46744bb6af38c0cfb91e045f46 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_ae7c3bd35e394702153f8adfb3f55349.setIcon(icon_8a8c3c46744bb6af38c0cfb91e045f46);
+        
+    
+        var popup_0a640b7c10e4a83e38fcfb3725d90978 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6ce09ff98653a2dde952a22699731807 = $(`<div id="html_6ce09ff98653a2dde952a22699731807" style="width: 100.0%; height: 100.0%;">مدرسه نجاتیه<br>Nejatiye<br>POINT (50.03150725321212 36.30974509105331)<br>school</div>`)[0];
+                popup_0a640b7c10e4a83e38fcfb3725d90978.setContent(html_6ce09ff98653a2dde952a22699731807);
+            
+        
+
+        marker_ae7c3bd35e394702153f8adfb3f55349.bindPopup(popup_0a640b7c10e4a83e38fcfb3725d90978)
+        ;
+
+        
+    
+    
+            var marker_e036d7f3ecef7e39e65369a6279c4419 = L.marker(
+                [36.27636648340637, 50.00809737017472],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_04e3ede4389c977072f2bf2dbb997e7c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_e036d7f3ecef7e39e65369a6279c4419.setIcon(icon_04e3ede4389c977072f2bf2dbb997e7c);
+        
+    
+        var popup_cc5541300d86cf079b1ac7d36cc9f0ed = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_71617d7b839cd3988da11cdf1aeef946 = $(`<div id="html_71617d7b839cd3988da11cdf1aeef946" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00809737017472 36.27636648340637)<br>nan</div>`)[0];
+                popup_cc5541300d86cf079b1ac7d36cc9f0ed.setContent(html_71617d7b839cd3988da11cdf1aeef946);
+            
+        
+
+        marker_e036d7f3ecef7e39e65369a6279c4419.bindPopup(popup_cc5541300d86cf079b1ac7d36cc9f0ed)
+        ;
+
+        
+    
+    
+            var marker_184feccbffc61368b698fc6fbfca284c = L.marker(
+                [36.269487179895535, 50.01053259869936],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d676f2f2da74cba5a22da71b2383577f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_184feccbffc61368b698fc6fbfca284c.setIcon(icon_d676f2f2da74cba5a22da71b2383577f);
+        
+    
+        var popup_8521020ad1c76c2291166979a768f32d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3b029741c00b4f804883ead4dda5c39e = $(`<div id="html_3b029741c00b4f804883ead4dda5c39e" style="width: 100.0%; height: 100.0%;">مدرسه فاطمه الزهرا<br>nan<br>POINT (50.01053259869936 36.269487179895535)<br>school</div>`)[0];
+                popup_8521020ad1c76c2291166979a768f32d.setContent(html_3b029741c00b4f804883ead4dda5c39e);
+            
+        
+
+        marker_184feccbffc61368b698fc6fbfca284c.bindPopup(popup_8521020ad1c76c2291166979a768f32d)
+        ;
+
+        
+    
+    
+            var marker_c4d1e1f8807b7af866e167804766310f = L.marker(
+                [36.318493249999996, 50.026591499999995],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_9b5da96f59c08b9fd9a6e084c13ba5bc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_c4d1e1f8807b7af866e167804766310f.setIcon(icon_9b5da96f59c08b9fd9a6e084c13ba5bc);
+        
+    
+        var popup_c4ce7a0faf6150dd912e8917dbd13370 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed3e039eb46ae15fc039bacfe852c8ec = $(`<div id="html_ed3e039eb46ae15fc039bacfe852c8ec" style="width: 100.0%; height: 100.0%;">دبیرستان غیر دولتی دانشمند<br>Daneshmand High School<br>POINT (50.026591499999995 36.318493249999996)<br>school</div>`)[0];
+                popup_c4ce7a0faf6150dd912e8917dbd13370.setContent(html_ed3e039eb46ae15fc039bacfe852c8ec);
+            
+        
+
+        marker_c4d1e1f8807b7af866e167804766310f.bindPopup(popup_c4ce7a0faf6150dd912e8917dbd13370)
+        ;
+
+        
+    
+    
+            var marker_b8e0e43cd3ed6b2e0a69fd54377f9157 = L.marker(
+                [36.272944188803855, 50.004654311048895],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_18ae683dbc3437f7aedfc464162c1609 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_b8e0e43cd3ed6b2e0a69fd54377f9157.setIcon(icon_18ae683dbc3437f7aedfc464162c1609);
+        
+    
+        var popup_804a1ed928ca8462d302a03b4b176a6d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0a8253610e4519e89a7877271c5a2430 = $(`<div id="html_0a8253610e4519e89a7877271c5a2430" style="width: 100.0%; height: 100.0%;">دبستان زنده یاد امین رامبد<br>Amin Rambood<br>POINT (50.004654311048895 36.272944188803855)<br>school</div>`)[0];
+                popup_804a1ed928ca8462d302a03b4b176a6d.setContent(html_0a8253610e4519e89a7877271c5a2430);
+            
+        
+
+        marker_b8e0e43cd3ed6b2e0a69fd54377f9157.bindPopup(popup_804a1ed928ca8462d302a03b4b176a6d)
+        ;
+
+        
+    
+    
+            var marker_68b7c27f1be7f2e240c047afec612f51 = L.marker(
+                [36.27801983156042, 49.99749335603341],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_0ce69de7c65f54b337f149d27eb4ee4a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_68b7c27f1be7f2e240c047afec612f51.setIcon(icon_0ce69de7c65f54b337f149d27eb4ee4a);
+        
+    
+        var popup_e98345d25f62c495d42fbc0eb41aafcc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bbba042c3e4044687c9b5bc924f1432d = $(`<div id="html_bbba042c3e4044687c9b5bc924f1432d" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (49.99749335603341 36.27801983156042)<br>nan</div>`)[0];
+                popup_e98345d25f62c495d42fbc0eb41aafcc.setContent(html_bbba042c3e4044687c9b5bc924f1432d);
+            
+        
+
+        marker_68b7c27f1be7f2e240c047afec612f51.bindPopup(popup_e98345d25f62c495d42fbc0eb41aafcc)
+        ;
+
+        
+    
+    
+            var marker_6f884469ce6dd45b601b74ce80cce155 = L.marker(
+                [36.29646665090087, 50.00437531768275],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_8863c439fbd62a4e0a97bf1454f8a40f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6f884469ce6dd45b601b74ce80cce155.setIcon(icon_8863c439fbd62a4e0a97bf1454f8a40f);
+        
+    
+        var popup_744939944db0817b1b62585e625fae6b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30e9b8150ac6d6e03eabcfad924e8c09 = $(`<div id="html_30e9b8150ac6d6e03eabcfad924e8c09" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00437531768275 36.29646665090087)<br>nan</div>`)[0];
+                popup_744939944db0817b1b62585e625fae6b.setContent(html_30e9b8150ac6d6e03eabcfad924e8c09);
+            
+        
+
+        marker_6f884469ce6dd45b601b74ce80cce155.bindPopup(popup_744939944db0817b1b62585e625fae6b)
+        ;
+
+        
+    
+    
+            var marker_9ee6909e7f31c5c256ec8033bfb41949 = L.marker(
+                [36.29607601674676, 50.007749548531216],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_f125d7d1b031f37de6250a76fd8a7e06 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_9ee6909e7f31c5c256ec8033bfb41949.setIcon(icon_f125d7d1b031f37de6250a76fd8a7e06);
+        
+    
+        var popup_c083f5bd7526ec516beec564e41933b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7f4f67d3fc518bd0f2225c35eab49273 = $(`<div id="html_7f4f67d3fc518bd0f2225c35eab49273" style="width: 100.0%; height: 100.0%;">دبستان هیئت امنایی رشادت<br>Reshadat<br>POINT (50.007749548531216 36.29607601674676)<br>school</div>`)[0];
+                popup_c083f5bd7526ec516beec564e41933b3.setContent(html_7f4f67d3fc518bd0f2225c35eab49273);
+            
+        
+
+        marker_9ee6909e7f31c5c256ec8033bfb41949.bindPopup(popup_c083f5bd7526ec516beec564e41933b3)
+        ;
+
+        
+    
+    
+            var marker_04da9442206ff48f06c71fa200798184 = L.marker(
+                [36.278917912365486, 50.00281168481873],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d797dcc66cdadc8c386c02e101bc08b0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_04da9442206ff48f06c71fa200798184.setIcon(icon_d797dcc66cdadc8c386c02e101bc08b0);
+        
+    
+        var popup_f9970c71ea04aa15851a357118af1953 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8ca70b5d583dac42da0374410c3d39de = $(`<div id="html_8ca70b5d583dac42da0374410c3d39de" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00281168481873 36.278917912365486)<br>school</div>`)[0];
+                popup_f9970c71ea04aa15851a357118af1953.setContent(html_8ca70b5d583dac42da0374410c3d39de);
+            
+        
+
+        marker_04da9442206ff48f06c71fa200798184.bindPopup(popup_f9970c71ea04aa15851a357118af1953)
+        ;
+
+        
+    
+    
+            var marker_64bbb1dde53e9f73eea04710d7b769ca = L.marker(
+                [36.27908942226105, 50.00235189880393],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_e9be31049098770c1bd9eb1b073bc2ef = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_64bbb1dde53e9f73eea04710d7b769ca.setIcon(icon_e9be31049098770c1bd9eb1b073bc2ef);
+        
+    
+        var popup_28fe01c92867420d83c35c5bd7a642cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_866b8bd6a70835c89ebf67a510e7a1b1 = $(`<div id="html_866b8bd6a70835c89ebf67a510e7a1b1" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00235189880393 36.27908942226105)<br>school</div>`)[0];
+                popup_28fe01c92867420d83c35c5bd7a642cd.setContent(html_866b8bd6a70835c89ebf67a510e7a1b1);
+            
+        
+
+        marker_64bbb1dde53e9f73eea04710d7b769ca.bindPopup(popup_28fe01c92867420d83c35c5bd7a642cd)
+        ;
+
+        
+    
+    
+            var marker_6592555fe69a9c88eb207341c8de0433 = L.marker(
+                [36.311173376294306, 50.02663193736761],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_f926a1d2aa69fe76c11c97e7fc3900b8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6592555fe69a9c88eb207341c8de0433.setIcon(icon_f926a1d2aa69fe76c11c97e7fc3900b8);
+        
+    
+        var popup_b1ed4b8b5d4508c17f7aee70400b83c2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_34d4ebc67d754e3f512a4bd3cc4e4c3e = $(`<div id="html_34d4ebc67d754e3f512a4bd3cc4e4c3e" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.02663193736761 36.311173376294306)<br>school</div>`)[0];
+                popup_b1ed4b8b5d4508c17f7aee70400b83c2.setContent(html_34d4ebc67d754e3f512a4bd3cc4e4c3e);
+            
+        
+
+        marker_6592555fe69a9c88eb207341c8de0433.bindPopup(popup_b1ed4b8b5d4508c17f7aee70400b83c2)
+        ;
+
+        
+    
+    
+            var marker_7c8c15d2ddbc3cd570ba2559c19a8fc8 = L.marker(
+                [36.31058347074183, 50.02662884676765],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_345dfb11f81489fa1aeeea1ae10c0c9d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_7c8c15d2ddbc3cd570ba2559c19a8fc8.setIcon(icon_345dfb11f81489fa1aeeea1ae10c0c9d);
+        
+    
+        var popup_51253e44805ca491e4fd5481e015e65a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e70ab956d96ef133dd111e950732450e = $(`<div id="html_e70ab956d96ef133dd111e950732450e" style="width: 100.0%; height: 100.0%;">دبیرستان استعداد های درخشان شهید بابایی<br>nan<br>POINT (50.02662884676765 36.31058347074183)<br>school</div>`)[0];
+                popup_51253e44805ca491e4fd5481e015e65a.setContent(html_e70ab956d96ef133dd111e950732450e);
+            
+        
+
+        marker_7c8c15d2ddbc3cd570ba2559c19a8fc8.bindPopup(popup_51253e44805ca491e4fd5481e015e65a)
+        ;
+
+        
+    
+    
+            var marker_83f3e049dd51eb2383288c7660ddc2c9 = L.marker(
+                [36.25860442722818, 50.010793197459876],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_e0a171740b15398da9e811b6ad97483a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_83f3e049dd51eb2383288c7660ddc2c9.setIcon(icon_e0a171740b15398da9e811b6ad97483a);
+        
+    
+        var popup_81aa738da1002da94c24d2d909ad916f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_213d22dcd412c447ee5cd51bdede3233 = $(`<div id="html_213d22dcd412c447ee5cd51bdede3233" style="width: 100.0%; height: 100.0%;">هنرستان شهید انصاری<br>nan<br>POINT (50.010793197459876 36.25860442722818)<br>school</div>`)[0];
+                popup_81aa738da1002da94c24d2d909ad916f.setContent(html_213d22dcd412c447ee5cd51bdede3233);
+            
+        
+
+        marker_83f3e049dd51eb2383288c7660ddc2c9.bindPopup(popup_81aa738da1002da94c24d2d909ad916f)
+        ;
+
+        
+    
+    
+            var marker_0e8e15f241b9bfca735a0199d68f5c21 = L.marker(
+                [36.28201284493763, 50.01102733117909],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_0533d9a9a58e20723b31c251270ed0b9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_0e8e15f241b9bfca735a0199d68f5c21.setIcon(icon_0533d9a9a58e20723b31c251270ed0b9);
+        
+    
+        var popup_0cb9893a67d1f37922f31d79fc3e0aea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5b12dffe1b3f33430c8cbaae89b1868a = $(`<div id="html_5b12dffe1b3f33430c8cbaae89b1868a" style="width: 100.0%; height: 100.0%;">دبیرستان صدرا<br>Sadra<br>POINT (50.01102733117909 36.28201284493763)<br>school</div>`)[0];
+                popup_0cb9893a67d1f37922f31d79fc3e0aea.setContent(html_5b12dffe1b3f33430c8cbaae89b1868a);
+            
+        
+
+        marker_0e8e15f241b9bfca735a0199d68f5c21.bindPopup(popup_0cb9893a67d1f37922f31d79fc3e0aea)
+        ;
+
+        
+    
+    
+            var marker_55173c396f48ef972049717e13b0ea64 = L.marker(
+                [36.32407224793114, 49.994930262843724],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_3d70a7d715a35f04d8da16dc78e52eeb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_55173c396f48ef972049717e13b0ea64.setIcon(icon_3d70a7d715a35f04d8da16dc78e52eeb);
+        
+    
+        var popup_a51b76260e334934c2f16334d63aa60e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dd87a9d5014b86cf6f746c508f369a7d = $(`<div id="html_dd87a9d5014b86cf6f746c508f369a7d" style="width: 100.0%; height: 100.0%;">دبیرستان هیت امنایی دکتر علی شریعتی<br>nan<br>POINT (49.994930262843724 36.32407224793114)<br>school</div>`)[0];
+                popup_a51b76260e334934c2f16334d63aa60e.setContent(html_dd87a9d5014b86cf6f746c508f369a7d);
+            
+        
+
+        marker_55173c396f48ef972049717e13b0ea64.bindPopup(popup_a51b76260e334934c2f16334d63aa60e)
+        ;
+
+        
+    
+    
+            var marker_a982e23cd1ff1bda500c3fcf36a288c1 = L.marker(
+                [36.292905007496294, 49.99837247799202],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_e87aa0ea6ea81f8ad8655977abb2ce12 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_a982e23cd1ff1bda500c3fcf36a288c1.setIcon(icon_e87aa0ea6ea81f8ad8655977abb2ce12);
+        
+    
+        var popup_8d85865d6d7cb87883de93625f0f4b79 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e041084da1f94a043e9c5c8e9047a1b9 = $(`<div id="html_e041084da1f94a043e9c5c8e9047a1b9" style="width: 100.0%; height: 100.0%;">مدرسه راهنمایی تربیت<br>Tarbiat<br>POINT (49.99837247799202 36.292905007496294)<br>school</div>`)[0];
+                popup_8d85865d6d7cb87883de93625f0f4b79.setContent(html_e041084da1f94a043e9c5c8e9047a1b9);
+            
+        
+
+        marker_a982e23cd1ff1bda500c3fcf36a288c1.bindPopup(popup_8d85865d6d7cb87883de93625f0f4b79)
+        ;
+
+        
+    
+    
+            var marker_e94833e2c5f65c99d77da85b9911ced9 = L.marker(
+                [36.309694981362235, 49.98736004742065],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_181e89dceb0f85dc4192e8bca2c878f8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_e94833e2c5f65c99d77da85b9911ced9.setIcon(icon_181e89dceb0f85dc4192e8bca2c878f8);
+        
+    
+        var popup_6d96702449e8758c9606294f4b362cb4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_566f773447f29030d1e38b17bc98a460 = $(`<div id="html_566f773447f29030d1e38b17bc98a460" style="width: 100.0%; height: 100.0%;">دبستان لوازم خانگی پارس<br>nan<br>POINT (49.98736004742065 36.309694981362235)<br>school</div>`)[0];
+                popup_6d96702449e8758c9606294f4b362cb4.setContent(html_566f773447f29030d1e38b17bc98a460);
+            
+        
+
+        marker_e94833e2c5f65c99d77da85b9911ced9.bindPopup(popup_6d96702449e8758c9606294f4b362cb4)
+        ;
+
+        
+    
+    
+            var marker_7f06e079a6ee8933ba2b958ffed65cbe = L.marker(
+                [36.31038093385377, 49.98564778620322],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_bf6fe9b23838bd72d6e8aff99647e320 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_7f06e079a6ee8933ba2b958ffed65cbe.setIcon(icon_bf6fe9b23838bd72d6e8aff99647e320);
+        
+    
+        var popup_2738a4faffaa64f8c5c602645ccc9942 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_32560ebb522d2409a4e1a86e5f47425d = $(`<div id="html_32560ebb522d2409a4e1a86e5f47425d" style="width: 100.0%; height: 100.0%;">مدرسه استثنایی<br>Exceptional Children School<br>POINT (49.98564778620322 36.31038093385377)<br>school</div>`)[0];
+                popup_2738a4faffaa64f8c5c602645ccc9942.setContent(html_32560ebb522d2409a4e1a86e5f47425d);
+            
+        
+
+        marker_7f06e079a6ee8933ba2b958ffed65cbe.bindPopup(popup_2738a4faffaa64f8c5c602645ccc9942)
+        ;
+
+        
+    
+    
+            var marker_3ab520557d0579e731700c3fb194d4d5 = L.marker(
+                [36.269750985853925, 50.00561691602154],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_0503ac111c0166695bc382517bff4aa9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_3ab520557d0579e731700c3fb194d4d5.setIcon(icon_0503ac111c0166695bc382517bff4aa9);
+        
+    
+        var popup_d36b11b0971d1e75407f8ef630199de1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0719c699e3fe32b941b66cce391943ae = $(`<div id="html_0719c699e3fe32b941b66cce391943ae" style="width: 100.0%; height: 100.0%;">دبستان شهیدی<br>Shahidi<br>POINT (50.00561691602154 36.269750985853925)<br>school</div>`)[0];
+                popup_d36b11b0971d1e75407f8ef630199de1.setContent(html_0719c699e3fe32b941b66cce391943ae);
+            
+        
+
+        marker_3ab520557d0579e731700c3fb194d4d5.bindPopup(popup_d36b11b0971d1e75407f8ef630199de1)
+        ;
+
+        
+    
+    
+            var marker_c444c8661a3b29c4ae489c761ce63d57 = L.marker(
+                [36.316514730851296, 50.0331638807306],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_801b6dbdecd2e9f70670ed2cc1d4d617 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_c444c8661a3b29c4ae489c761ce63d57.setIcon(icon_801b6dbdecd2e9f70670ed2cc1d4d617);
+        
+    
+        var popup_860bb26eeec4104ed64cd941aab15b80 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e3ec30f5c27823e8c136093363f87c9a = $(`<div id="html_e3ec30f5c27823e8c136093363f87c9a" style="width: 100.0%; height: 100.0%;">مدرسه آینده سازان نوین<br>Ayande Sazan Novin<br>POINT (50.0331638807306 36.316514730851296)<br>school</div>`)[0];
+                popup_860bb26eeec4104ed64cd941aab15b80.setContent(html_e3ec30f5c27823e8c136093363f87c9a);
+            
+        
+
+        marker_c444c8661a3b29c4ae489c761ce63d57.bindPopup(popup_860bb26eeec4104ed64cd941aab15b80)
+        ;
+
+        
+    
+    
+            var marker_56b8a04d705d7e49bd4ebc03c52d0ba3 = L.marker(
+                [36.297718565239244, 50.0126250164493],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_c10e9316130f4cc6cae71e6be3d86197 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_56b8a04d705d7e49bd4ebc03c52d0ba3.setIcon(icon_c10e9316130f4cc6cae71e6be3d86197);
+        
+    
+        var popup_138b96f54b10c95362869cf7df441f7a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fd45d7fb1ff885f5b8a5cfe9a2e043c9 = $(`<div id="html_fd45d7fb1ff885f5b8a5cfe9a2e043c9" style="width: 100.0%; height: 100.0%;">دبیرستان عرفان<br>Erfan High School<br>POINT (50.0126250164493 36.297718565239244)<br>school</div>`)[0];
+                popup_138b96f54b10c95362869cf7df441f7a.setContent(html_fd45d7fb1ff885f5b8a5cfe9a2e043c9);
+            
+        
+
+        marker_56b8a04d705d7e49bd4ebc03c52d0ba3.bindPopup(popup_138b96f54b10c95362869cf7df441f7a)
+        ;
+
+        
+    
+    
+            var marker_813320e29f2197ee3fb2ddfc7a11a9a0 = L.marker(
+                [36.272963985850154, 49.99965483220331],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_79f9761b8c84e05b7b89ac93ce9a12fb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_813320e29f2197ee3fb2ddfc7a11a9a0.setIcon(icon_79f9761b8c84e05b7b89ac93ce9a12fb);
+        
+    
+        var popup_c7d38a6453fb9f7a5c307ddb3e6ce401 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_71c971bf8b5abd0dacc0511039dba9e6 = $(`<div id="html_71c971bf8b5abd0dacc0511039dba9e6" style="width: 100.0%; height: 100.0%;">دبیرستان دهخدا و فارابی<br>Dehkhoda And Farabi High school<br>POINT (49.99965483220331 36.272963985850154)<br>nan</div>`)[0];
+                popup_c7d38a6453fb9f7a5c307ddb3e6ce401.setContent(html_71c971bf8b5abd0dacc0511039dba9e6);
+            
+        
+
+        marker_813320e29f2197ee3fb2ddfc7a11a9a0.bindPopup(popup_c7d38a6453fb9f7a5c307ddb3e6ce401)
+        ;
+
+        
+    
+    
+            var marker_1a668a02281a79138b91bfdbe651bc55 = L.marker(
+                [36.27285087200949, 49.99961323230972],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d5dbae25f68421116519c9173b895f23 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_1a668a02281a79138b91bfdbe651bc55.setIcon(icon_d5dbae25f68421116519c9173b895f23);
+        
+    
+        var popup_0ee91bb9b850dcebe3ad976c0960b487 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_032ad3f9fe5b86b55e27a6333bb4f522 = $(`<div id="html_032ad3f9fe5b86b55e27a6333bb4f522" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (49.99961323230972 36.27285087200949)<br>school</div>`)[0];
+                popup_0ee91bb9b850dcebe3ad976c0960b487.setContent(html_032ad3f9fe5b86b55e27a6333bb4f522);
+            
+        
+
+        marker_1a668a02281a79138b91bfdbe651bc55.bindPopup(popup_0ee91bb9b850dcebe3ad976c0960b487)
+        ;
+
+        
+    
+    
+            var marker_5268a1a5d57920b7caacf6d256607264 = L.marker(
+                [36.272459275077225, 50.008792622952264],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_d0ae81c3b8dc1e6e0fc31d9e6ada397f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_5268a1a5d57920b7caacf6d256607264.setIcon(icon_d0ae81c3b8dc1e6e0fc31d9e6ada397f);
+        
+    
+        var popup_bd06a631a6f8ae4c1042c159b926f48a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6d0ffadb458427e86dde8d2eca1bda88 = $(`<div id="html_6d0ffadb458427e86dde8d2eca1bda88" style="width: 100.0%; height: 100.0%;">دبستان شهید شیرودی و حاج سید فضل اله قوام<br>Shirodi and Haj Seyed Fazlollah Ghavam<br>POINT (50.008792622952264 36.272459275077225)<br>school</div>`)[0];
+                popup_bd06a631a6f8ae4c1042c159b926f48a.setContent(html_6d0ffadb458427e86dde8d2eca1bda88);
+            
+        
+
+        marker_5268a1a5d57920b7caacf6d256607264.bindPopup(popup_bd06a631a6f8ae4c1042c159b926f48a)
+        ;
+
+        
+    
+    
+            var marker_688fc6d8af786bef89738495dcef9a16 = L.marker(
+                [36.27236155454364, 50.00908548687528],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_41f20c537885ce4e58d274646f38979d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_688fc6d8af786bef89738495dcef9a16.setIcon(icon_41f20c537885ce4e58d274646f38979d);
+        
+    
+        var popup_10b6365a638f75d63930cd20c96c7596 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_84a1a8dce86a58e6caaeaf7b6336c579 = $(`<div id="html_84a1a8dce86a58e6caaeaf7b6336c579" style="width: 100.0%; height: 100.0%;">دبیرستان هیئت امنایی شیخ طوسی و کلینی<br>Sheykh e Toosi and Kalini<br>POINT (50.00908548687528 36.27236155454364)<br>school</div>`)[0];
+                popup_10b6365a638f75d63930cd20c96c7596.setContent(html_84a1a8dce86a58e6caaeaf7b6336c579);
+            
+        
+
+        marker_688fc6d8af786bef89738495dcef9a16.bindPopup(popup_10b6365a638f75d63930cd20c96c7596)
+        ;
+
+        
+    
+    
+            var marker_c79b21210726632ba5e626664756a426 = L.marker(
+                [36.26628477909649, 50.00665875760935],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_9995dd8a14bf70989796291f4434cd9b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_c79b21210726632ba5e626664756a426.setIcon(icon_9995dd8a14bf70989796291f4434cd9b);
+        
+    
+        var popup_85717a7cd58983dbb6b0c5da39442e21 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f87879816d1240d1e0675fda124309e0 = $(`<div id="html_f87879816d1240d1e0675fda124309e0" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00665875760935 36.26628477909649)<br>school</div>`)[0];
+                popup_85717a7cd58983dbb6b0c5da39442e21.setContent(html_f87879816d1240d1e0675fda124309e0);
+            
+        
+
+        marker_c79b21210726632ba5e626664756a426.bindPopup(popup_85717a7cd58983dbb6b0c5da39442e21)
+        ;
+
+        
+    
+    
+            var marker_efdb14018c538441b7c8938d71f1dc5c = L.marker(
+                [36.307529027045916, 50.017588600710745],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_e351765c5d8adda28a53e2ccbd69befd = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_efdb14018c538441b7c8938d71f1dc5c.setIcon(icon_e351765c5d8adda28a53e2ccbd69befd);
+        
+    
+        var popup_e62b986f7b84b78d651a11e3eb8bddf4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d98cd487568661521110b3ac949c09bf = $(`<div id="html_d98cd487568661521110b3ac949c09bf" style="width: 100.0%; height: 100.0%;">مدرسه عبداللهی<br>Abdollahi School<br>POINT (50.017588600710745 36.307529027045916)<br>school</div>`)[0];
+                popup_e62b986f7b84b78d651a11e3eb8bddf4.setContent(html_d98cd487568661521110b3ac949c09bf);
+            
+        
+
+        marker_efdb14018c538441b7c8938d71f1dc5c.bindPopup(popup_e62b986f7b84b78d651a11e3eb8bddf4)
+        ;
+
+        
+    
+    
+            var marker_241bff3d99b4312418179fae8a3e5595 = L.marker(
+                [36.30714208327217, 50.01745225660124],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_ba916568eb0f2766cf7a45b2a558a0ed = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_241bff3d99b4312418179fae8a3e5595.setIcon(icon_ba916568eb0f2766cf7a45b2a558a0ed);
+        
+    
+        var popup_762287022143bb18f85a7b32120c4c14 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a60c734d6a806a636a9a666a3ffcb32f = $(`<div id="html_a60c734d6a806a636a9a666a3ffcb32f" style="width: 100.0%; height: 100.0%;">مدرسه سعادت<br>Sa'adat School<br>POINT (50.01745225660124 36.30714208327217)<br>school</div>`)[0];
+                popup_762287022143bb18f85a7b32120c4c14.setContent(html_a60c734d6a806a636a9a666a3ffcb32f);
+            
+        
+
+        marker_241bff3d99b4312418179fae8a3e5595.bindPopup(popup_762287022143bb18f85a7b32120c4c14)
+        ;
+
+        
+    
+    
+            var marker_2715cc72ae10c3b54883f2cafc22f4d7 = L.marker(
+                [36.267884194263765, 50.014205574357746],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_c12141f2305006812bedcc52d103dafa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_2715cc72ae10c3b54883f2cafc22f4d7.setIcon(icon_c12141f2305006812bedcc52d103dafa);
+        
+    
+        var popup_8f369f7350af3d5b1db93738c61aaa4a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f3b7cfa86c282bf40977b307952463e = $(`<div id="html_4f3b7cfa86c282bf40977b307952463e" style="width: 100.0%; height: 100.0%;">دبستان ولیعصر<br>Valiasr<br>POINT (50.014205574357746 36.267884194263765)<br>school</div>`)[0];
+                popup_8f369f7350af3d5b1db93738c61aaa4a.setContent(html_4f3b7cfa86c282bf40977b307952463e);
+            
+        
+
+        marker_2715cc72ae10c3b54883f2cafc22f4d7.bindPopup(popup_8f369f7350af3d5b1db93738c61aaa4a)
+        ;
+
+        
+    
+    
+            var marker_6c0945c957c30a3ecfc898b4d22935a1 = L.marker(
+                [36.27247475945987, 50.02102600103047],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_9c713217918e918fe8ada44605da4acb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6c0945c957c30a3ecfc898b4d22935a1.setIcon(icon_9c713217918e918fe8ada44605da4acb);
+        
+    
+        var popup_4039246297b3afae19df48325d539f67 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_351a09691debd86b0e7fbfb94f4e5cfc = $(`<div id="html_351a09691debd86b0e7fbfb94f4e5cfc" style="width: 100.0%; height: 100.0%;">دبیرستان نمونه دولتی اقمشه<br>Aghmashe High School<br>POINT (50.02102600103047 36.27247475945987)<br>school</div>`)[0];
+                popup_4039246297b3afae19df48325d539f67.setContent(html_351a09691debd86b0e7fbfb94f4e5cfc);
+            
+        
+
+        marker_6c0945c957c30a3ecfc898b4d22935a1.bindPopup(popup_4039246297b3afae19df48325d539f67)
+        ;
+
+        
+    
+    
+            var marker_5f9244ac9c211a93252c70866b788672 = L.marker(
+                [36.2813816072953, 50.00232453772568],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_3d3a7cb11d341d002d10ef92f94eac00 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_5f9244ac9c211a93252c70866b788672.setIcon(icon_3d3a7cb11d341d002d10ef92f94eac00);
+        
+    
+        var popup_aefbf9b38f63f848ccc255c84319c122 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6a2dffd523082c036413adb31474789b = $(`<div id="html_6a2dffd523082c036413adb31474789b" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00232453772568 36.2813816072953)<br>school</div>`)[0];
+                popup_aefbf9b38f63f848ccc255c84319c122.setContent(html_6a2dffd523082c036413adb31474789b);
+            
+        
+
+        marker_5f9244ac9c211a93252c70866b788672.bindPopup(popup_aefbf9b38f63f848ccc255c84319c122)
+        ;
+
+        
+    
+    
+            var marker_897eee6584422873d2f61f1bd0b3257e = L.marker(
+                [36.2951062296961, 50.00048604320942],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_55aa7116b1ccb0fe36aa45a3b8e9a6d9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_897eee6584422873d2f61f1bd0b3257e.setIcon(icon_55aa7116b1ccb0fe36aa45a3b8e9a6d9);
+        
+    
+        var popup_f325126a3fe822247ae076eba1a5565b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_31f46cfb64417be752beb85e9b8062f3 = $(`<div id="html_31f46cfb64417be752beb85e9b8062f3" style="width: 100.0%; height: 100.0%;">مدرسه صادقین<br>nan<br>POINT (50.00048604320942 36.2951062296961)<br>nan</div>`)[0];
+                popup_f325126a3fe822247ae076eba1a5565b.setContent(html_31f46cfb64417be752beb85e9b8062f3);
+            
+        
+
+        marker_897eee6584422873d2f61f1bd0b3257e.bindPopup(popup_f325126a3fe822247ae076eba1a5565b)
+        ;
+
+        
+    
+    
+            var marker_6f6cb156e267644c29ed7d039c21cbb2 = L.marker(
+                [36.29521974834946, 50.00136720006475],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_0bf534b7869c5bab41cda7ffe9ee9614 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6f6cb156e267644c29ed7d039c21cbb2.setIcon(icon_0bf534b7869c5bab41cda7ffe9ee9614);
+        
+    
+        var popup_fdb206a8305866b4b369076d85c86a91 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_139b9f91b19d8165f014a4c701adfb83 = $(`<div id="html_139b9f91b19d8165f014a4c701adfb83" style="width: 100.0%; height: 100.0%;">مدرسه عبادی<br>nan<br>POINT (50.00136720006475 36.29521974834946)<br>nan</div>`)[0];
+                popup_fdb206a8305866b4b369076d85c86a91.setContent(html_139b9f91b19d8165f014a4c701adfb83);
+            
+        
+
+        marker_6f6cb156e267644c29ed7d039c21cbb2.bindPopup(popup_fdb206a8305866b4b369076d85c86a91)
+        ;
+
+        
+    
+    
+            var marker_4e679ad9eae4d6a4556f2efadbe463f6 = L.marker(
+                [36.2809981655661, 50.002068411904624],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_4b905789ff5e428c91f951084c6b47ed = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_4e679ad9eae4d6a4556f2efadbe463f6.setIcon(icon_4b905789ff5e428c91f951084c6b47ed);
+        
+    
+        var popup_beade3ecf66ace1ebe937bd2824e7446 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_03d41d10feb4d1f1a5bfff1db3fcb3f1 = $(`<div id="html_03d41d10feb4d1f1a5bfff1db3fcb3f1" style="width: 100.0%; height: 100.0%;">مدرسه همت<br>Hemmat School<br>POINT (50.002068411904624 36.2809981655661)<br>school</div>`)[0];
+                popup_beade3ecf66ace1ebe937bd2824e7446.setContent(html_03d41d10feb4d1f1a5bfff1db3fcb3f1);
+            
+        
+
+        marker_4e679ad9eae4d6a4556f2efadbe463f6.bindPopup(popup_beade3ecf66ace1ebe937bd2824e7446)
+        ;
+
+        
+    
+    
+            var marker_520394a6d805df3a6ed588c5c7602198 = L.marker(
+                [36.25658940013716, 50.011949619149235],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_bed72c12372a03bd694ace63ac0d4ee8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_520394a6d805df3a6ed588c5c7602198.setIcon(icon_bed72c12372a03bd694ace63ac0d4ee8);
+        
+    
+        var popup_f3798db2e46706fa7bad83f516978403 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_15ee2e9c88effdfc98968a537961860d = $(`<div id="html_15ee2e9c88effdfc98968a537961860d" style="width: 100.0%; height: 100.0%;">مدرسه ابتدایی رضا دشتی<br>nan<br>POINT (50.011949619149235 36.25658940013716)<br>nan</div>`)[0];
+                popup_f3798db2e46706fa7bad83f516978403.setContent(html_15ee2e9c88effdfc98968a537961860d);
+            
+        
+
+        marker_520394a6d805df3a6ed588c5c7602198.bindPopup(popup_f3798db2e46706fa7bad83f516978403)
+        ;
+
+        
+    
+    
+            var marker_8127f28fcf4680a953dad355974a06cb = L.marker(
+                [36.31040373061456, 50.016063176827984],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_8f7733d56c3644b13b7fd77c95c180ec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_8127f28fcf4680a953dad355974a06cb.setIcon(icon_8f7733d56c3644b13b7fd77c95c180ec);
+        
+    
+        var popup_770de06e85a6e035ce8d4518b04e0f8e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9192ff3ae89370251952e3a18155806b = $(`<div id="html_9192ff3ae89370251952e3a18155806b" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.016063176827984 36.31040373061456)<br>school</div>`)[0];
+                popup_770de06e85a6e035ce8d4518b04e0f8e.setContent(html_9192ff3ae89370251952e3a18155806b);
+            
+        
+
+        marker_8127f28fcf4680a953dad355974a06cb.bindPopup(popup_770de06e85a6e035ce8d4518b04e0f8e)
+        ;
+
+        
+    
+    
+            var marker_f21e10dab54bf4f5ecd4d502f6b41650 = L.marker(
+                [36.324058511927355, 49.994464324535436],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_3574b5e5427f8caa007718db83c6ba52 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_f21e10dab54bf4f5ecd4d502f6b41650.setIcon(icon_3574b5e5427f8caa007718db83c6ba52);
+        
+    
+        var popup_c6cb2d84d20f34553a5d0f373368efb8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_70016cae1d4bce71917e1054e71a09b8 = $(`<div id="html_70016cae1d4bce71917e1054e71a09b8" style="width: 100.0%; height: 100.0%;">دبیرستان زنده یاد مجابی<br>nan<br>POINT (49.994464324535436 36.324058511927355)<br>school</div>`)[0];
+                popup_c6cb2d84d20f34553a5d0f373368efb8.setContent(html_70016cae1d4bce71917e1054e71a09b8);
+            
+        
+
+        marker_f21e10dab54bf4f5ecd4d502f6b41650.bindPopup(popup_c6cb2d84d20f34553a5d0f373368efb8)
+        ;
+
+        
+    
+    
+            var marker_bdc9724d1cba297c4a4c77c059c0b082 = L.marker(
+                [36.31114612469627, 49.993341146623465],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_181f31252203176697c0e760fb3537ab = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_bdc9724d1cba297c4a4c77c059c0b082.setIcon(icon_181f31252203176697c0e760fb3537ab);
+        
+    
+        var popup_254a3163b8cb4641a423be21b10de48c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f15ee0ddf7d4df9cf53233cd964c1ee8 = $(`<div id="html_f15ee0ddf7d4df9cf53233cd964c1ee8" style="width: 100.0%; height: 100.0%;">دبیرستان دخترانه اندیشه سبز<br>nan<br>POINT (49.993341146623465 36.31114612469627)<br>school</div>`)[0];
+                popup_254a3163b8cb4641a423be21b10de48c.setContent(html_f15ee0ddf7d4df9cf53233cd964c1ee8);
+            
+        
+
+        marker_bdc9724d1cba297c4a4c77c059c0b082.bindPopup(popup_254a3163b8cb4641a423be21b10de48c)
+        ;
+
+        
+    
+    
+            var marker_0420d284a7feaa38a34f9de8526c97f2 = L.marker(
+                [36.29249584350616, 49.99762436828784],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_dc87e12a646dba3062eaf7e6f0a7f14a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_0420d284a7feaa38a34f9de8526c97f2.setIcon(icon_dc87e12a646dba3062eaf7e6f0a7f14a);
+        
+    
+        var popup_3bd24b21d7a8e0e8dd159173d65833fd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8dcdc80329c3e2d1fa1445034fa24c01 = $(`<div id="html_8dcdc80329c3e2d1fa1445034fa24c01" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (49.99762436828784 36.29249584350616)<br>school</div>`)[0];
+                popup_3bd24b21d7a8e0e8dd159173d65833fd.setContent(html_8dcdc80329c3e2d1fa1445034fa24c01);
+            
+        
+
+        marker_0420d284a7feaa38a34f9de8526c97f2.bindPopup(popup_3bd24b21d7a8e0e8dd159173d65833fd)
+        ;
+
+        
+    
+    
+            var marker_37b4f882eaa2297ec89aa36e8cb4d9eb = L.marker(
+                [36.2937432899132, 49.99827995124865],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_0288a9af4ff2b9085328278f6130bedf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_37b4f882eaa2297ec89aa36e8cb4d9eb.setIcon(icon_0288a9af4ff2b9085328278f6130bedf);
+        
+    
+        var popup_21ce2af6fea3f0d73a8974f84b720086 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_62ee9e6b6272833f2db793c2f88df384 = $(`<div id="html_62ee9e6b6272833f2db793c2f88df384" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (49.99827995124865 36.2937432899132)<br>school</div>`)[0];
+                popup_21ce2af6fea3f0d73a8974f84b720086.setContent(html_62ee9e6b6272833f2db793c2f88df384);
+            
+        
+
+        marker_37b4f882eaa2297ec89aa36e8cb4d9eb.bindPopup(popup_21ce2af6fea3f0d73a8974f84b720086)
+        ;
+
+        
+    
+    
+            var marker_f832f4a0242f2350885e2118fb698303 = L.marker(
+                [36.293390815266214, 49.998614735161375],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_0a24037704a86193c33d6e019458d27a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_f832f4a0242f2350885e2118fb698303.setIcon(icon_0a24037704a86193c33d6e019458d27a);
+        
+    
+        var popup_525e0338ce388d36bb92cbe8351af1cc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_06092432526d64313bd8bacbd546bc43 = $(`<div id="html_06092432526d64313bd8bacbd546bc43" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (49.998614735161375 36.293390815266214)<br>school</div>`)[0];
+                popup_525e0338ce388d36bb92cbe8351af1cc.setContent(html_06092432526d64313bd8bacbd546bc43);
+            
+        
+
+        marker_f832f4a0242f2350885e2118fb698303.bindPopup(popup_525e0338ce388d36bb92cbe8351af1cc)
+        ;
+
+        
+    
+    
+            var marker_3121961147f8c5a3b5966f3a9e738471 = L.marker(
+                [36.31157778300522, 49.99333212990178],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_4ca7a8a79f3583febbc81a90cb512895 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_3121961147f8c5a3b5966f3a9e738471.setIcon(icon_4ca7a8a79f3583febbc81a90cb512895);
+        
+    
+        var popup_c1cdd197b74b60a6776ebc24b3db0a0e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_94233c7933ae0c4f6a58629fe6ddc077 = $(`<div id="html_94233c7933ae0c4f6a58629fe6ddc077" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (49.99333212990178 36.31157778300522)<br>school</div>`)[0];
+                popup_c1cdd197b74b60a6776ebc24b3db0a0e.setContent(html_94233c7933ae0c4f6a58629fe6ddc077);
+            
+        
+
+        marker_3121961147f8c5a3b5966f3a9e738471.bindPopup(popup_c1cdd197b74b60a6776ebc24b3db0a0e)
+        ;
+
+        
+    
+    
+            var marker_d1bf5f72deff809cdabfa1f9789b505f = L.marker(
+                [36.312183523176394, 49.99333868397136],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_8421c8744b3c00147a9f24c389f605fa = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_d1bf5f72deff809cdabfa1f9789b505f.setIcon(icon_8421c8744b3c00147a9f24c389f605fa);
+        
+    
+        var popup_7f5485a49152e04d754c80e9ba47dd5c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_18c0484955b4bee3aad68eb47021ef73 = $(`<div id="html_18c0484955b4bee3aad68eb47021ef73" style="width: 100.0%; height: 100.0%;">دبیرستان دخترانه متانت<br>nan<br>POINT (49.99333868397136 36.312183523176394)<br>school</div>`)[0];
+                popup_7f5485a49152e04d754c80e9ba47dd5c.setContent(html_18c0484955b4bee3aad68eb47021ef73);
+            
+        
+
+        marker_d1bf5f72deff809cdabfa1f9789b505f.bindPopup(popup_7f5485a49152e04d754c80e9ba47dd5c)
+        ;
+
+        
+    
+    
+            var marker_0f0d9337445c8b51b2ca575b2d80ac89 = L.marker(
+                [36.320292821647456, 49.99105662143082],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_aee6e4ede087dfccb34054ead2631e78 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_0f0d9337445c8b51b2ca575b2d80ac89.setIcon(icon_aee6e4ede087dfccb34054ead2631e78);
+        
+    
+        var popup_63c7c26a2fc75a353d0830c79ae93472 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_34c854cb9a3122782b0ddc811911b7ba = $(`<div id="html_34c854cb9a3122782b0ddc811911b7ba" style="width: 100.0%; height: 100.0%;">دبیرستان علامه جعفری<br>Allame Jafari High school<br>POINT (49.99105662143082 36.320292821647456)<br>school</div>`)[0];
+                popup_63c7c26a2fc75a353d0830c79ae93472.setContent(html_34c854cb9a3122782b0ddc811911b7ba);
+            
+        
+
+        marker_0f0d9337445c8b51b2ca575b2d80ac89.bindPopup(popup_63c7c26a2fc75a353d0830c79ae93472)
+        ;
+
+        
+    
+    
+            var marker_6e7dd2aa04f4569050fbeeea39242f6b = L.marker(
+                [36.29481388166954, 50.02370248940181],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_81de5a2ae1318443345a6611a2ac9137 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_6e7dd2aa04f4569050fbeeea39242f6b.setIcon(icon_81de5a2ae1318443345a6611a2ac9137);
+        
+    
+        var popup_55c2223963083ec964c43a3fbdfec58f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ddf8d01568567b2e867500ca1ad42323 = $(`<div id="html_ddf8d01568567b2e867500ca1ad42323" style="width: 100.0%; height: 100.0%;">دبیرستان سعادت<br>nan<br>POINT (50.02370248940181 36.29481388166954)<br>school</div>`)[0];
+                popup_55c2223963083ec964c43a3fbdfec58f.setContent(html_ddf8d01568567b2e867500ca1ad42323);
+            
+        
+
+        marker_6e7dd2aa04f4569050fbeeea39242f6b.bindPopup(popup_55c2223963083ec964c43a3fbdfec58f)
+        ;
+
+        
+    
+    
+            var marker_1ac8a0d4ea43d319e566bc07ed9df9b6 = L.marker(
+                [36.27309707256465, 50.0227237247667],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_b5348d36c300bef75dead186a09808a9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_1ac8a0d4ea43d319e566bc07ed9df9b6.setIcon(icon_b5348d36c300bef75dead186a09808a9);
+        
+    
+        var popup_ea9cc3562194a17ba807ba8e5a98109e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5fea84306bf3f18103fa3e4defc1f932 = $(`<div id="html_5fea84306bf3f18103fa3e4defc1f932" style="width: 100.0%; height: 100.0%;">دبیرستان ایران دخت<br>nan<br>POINT (50.0227237247667 36.27309707256465)<br>school</div>`)[0];
+                popup_ea9cc3562194a17ba807ba8e5a98109e.setContent(html_5fea84306bf3f18103fa3e4defc1f932);
+            
+        
+
+        marker_1ac8a0d4ea43d319e566bc07ed9df9b6.bindPopup(popup_ea9cc3562194a17ba807ba8e5a98109e)
+        ;
+
+        
+    
+    
+            var marker_55a80ce0f9890736e09a193398d6ddb8 = L.marker(
+                [36.27621931732798, 50.00846476369865],
+                {}
+            ).addTo(map_04a0a74829366b3ee9d0af0330991975);
+        
+    
+            var icon_2aa6029ed0a787754fea5c880274c1d7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-graduation-cap", "iconColor": "white", "markerColor": "gray", "prefix": "fa"}
+            );
+            marker_55a80ce0f9890736e09a193398d6ddb8.setIcon(icon_2aa6029ed0a787754fea5c880274c1d7);
+        
+    
+        var popup_9ee55309b5670a799654c76cfa5c2acc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8b1ca2143d48138ae4b11251c62e9896 = $(`<div id="html_8b1ca2143d48138ae4b11251c62e9896" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.00846476369865 36.27621931732798)<br>nan</div>`)[0];
+                popup_9ee55309b5670a799654c76cfa5c2acc.setContent(html_8b1ca2143d48138ae4b11251c62e9896);
+            
+        
+
+        marker_55a80ce0f9890736e09a193398d6ddb8.bindPopup(popup_9ee55309b5670a799654c76cfa5c2acc)
+        ;
+
+        
+    
+</script>
+</html>

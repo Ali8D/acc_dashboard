@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1ff34c989e3c5d7bfa242eb8cec4aa9c {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1ff34c989e3c5d7bfa242eb8cec4aa9c" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1ff34c989e3c5d7bfa242eb8cec4aa9c = L.map(
+                "map_1ff34c989e3c5d7bfa242eb8cec4aa9c",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_08400399a99002772ba840a99365106f = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_1ff34c989e3c5d7bfa242eb8cec4aa9c);
+        
+    
+            var marker_e5c84d8578d5f124b34dbece8d64335d = L.marker(
+                [36.27212850653134, 50.01339664141763],
+                {}
+            ).addTo(map_1ff34c989e3c5d7bfa242eb8cec4aa9c);
+        
+    
+            var icon_9859d340bb6d10fb018260a87e555d41 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon-tree-conifer", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_e5c84d8578d5f124b34dbece8d64335d.setIcon(icon_9859d340bb6d10fb018260a87e555d41);
+        
+    
+        var popup_07888180e61b2caf1d3bd780799892f2 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b1053c7e49ef1f7629f186120bf3d7a8 = $(`<div id="html_b1053c7e49ef1f7629f186120bf3d7a8" style="width: 100.0%; height: 100.0%;">پارک ملت<br>Mellat Park</div>`)[0];
+                popup_07888180e61b2caf1d3bd780799892f2.setContent(html_b1053c7e49ef1f7629f186120bf3d7a8);
+            
+        
+
+        marker_e5c84d8578d5f124b34dbece8d64335d.bindPopup(popup_07888180e61b2caf1d3bd780799892f2)
+        ;
+
+        
+    
+    
+            var marker_566ef428902ef291b4fd9bd98ba59c3b = L.marker(
+                [36.257095786743136, 49.98921945385839],
+                {}
+            ).addTo(map_1ff34c989e3c5d7bfa242eb8cec4aa9c);
+        
+    
+            var icon_ebfb8d74de8af89b40c8fb99d520581c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon-tree-conifer", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_566ef428902ef291b4fd9bd98ba59c3b.setIcon(icon_ebfb8d74de8af89b40c8fb99d520581c);
+        
+    
+        var popup_ad89f4d3e652f9f0762b0070880d5657 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b50d8895848793373599681575e0c000 = $(`<div id="html_b50d8895848793373599681575e0c000" style="width: 100.0%; height: 100.0%;">بوستان ملاخلیلا<br>Molla Khalila Park</div>`)[0];
+                popup_ad89f4d3e652f9f0762b0070880d5657.setContent(html_b50d8895848793373599681575e0c000);
+            
+        
+
+        marker_566ef428902ef291b4fd9bd98ba59c3b.bindPopup(popup_ad89f4d3e652f9f0762b0070880d5657)
+        ;
+
+        
+    
+    
+            var marker_37e9687b5433114d6996119a7504dba8 = L.marker(
+                [36.29957873757869, 50.01881063710893],
+                {}
+            ).addTo(map_1ff34c989e3c5d7bfa242eb8cec4aa9c);
+        
+    
+            var icon_d7722d9337f8534f5079139a4652281a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon-tree-conifer", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_37e9687b5433114d6996119a7504dba8.setIcon(icon_d7722d9337f8534f5079139a4652281a);
+        
+    
+        var popup_4dd3734c63bd4d3774354be7cfca2a36 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b1f993b5e09f6d0fc3cc18be87b62b92 = $(`<div id="html_b1f993b5e09f6d0fc3cc18be87b62b92" style="width: 100.0%; height: 100.0%;">بوستان الغدیر<br>AlQadir Park</div>`)[0];
+                popup_4dd3734c63bd4d3774354be7cfca2a36.setContent(html_b1f993b5e09f6d0fc3cc18be87b62b92);
+            
+        
+
+        marker_37e9687b5433114d6996119a7504dba8.bindPopup(popup_4dd3734c63bd4d3774354be7cfca2a36)
+        ;
+
+        
+    
+    
+            var marker_141d912a33f7b3d34ea35654442f3f9e = L.marker(
+                [36.31626649824523, 49.995990485451735],
+                {}
+            ).addTo(map_1ff34c989e3c5d7bfa242eb8cec4aa9c);
+        
+    
+            var icon_de0f5d5c94c7d56d674c065d140e6ba7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon-tree-conifer", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_141d912a33f7b3d34ea35654442f3f9e.setIcon(icon_de0f5d5c94c7d56d674c065d140e6ba7);
+        
+    
+        var popup_15fde903a424d032c6673456534ce639 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_26003ca8441142cc598243507a569ef8 = $(`<div id="html_26003ca8441142cc598243507a569ef8" style="width: 100.0%; height: 100.0%;">بوستان پامچال<br>Pamchal Park</div>`)[0];
+                popup_15fde903a424d032c6673456534ce639.setContent(html_26003ca8441142cc598243507a569ef8);
+            
+        
+
+        marker_141d912a33f7b3d34ea35654442f3f9e.bindPopup(popup_15fde903a424d032c6673456534ce639)
+        ;
+
+        
+    
+    
+            var marker_988b8a9200b45173338926b852f723a7 = L.marker(
+                [36.2511995899538, 50.00948790790212],
+                {}
+            ).addTo(map_1ff34c989e3c5d7bfa242eb8cec4aa9c);
+        
+    
+            var icon_d793940aaaf95a333a0857e9dab8919e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "glyphicon-tree-conifer", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_988b8a9200b45173338926b852f723a7.setIcon(icon_d793940aaaf95a333a0857e9dab8919e);
+        
+    
+        var popup_1dae0b8a59c51ed700e669e0b031678c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_57c25a00943cde964ceae48663fc25fb = $(`<div id="html_57c25a00943cde964ceae48663fc25fb" style="width: 100.0%; height: 100.0%;">بوستان مادر و کودک<br>Mother and Child Park</div>`)[0];
+                popup_1dae0b8a59c51ed700e669e0b031678c.setContent(html_57c25a00943cde964ceae48663fc25fb);
+            
+        
+
+        marker_988b8a9200b45173338926b852f723a7.bindPopup(popup_1dae0b8a59c51ed700e669e0b031678c)
+        ;
+
+        
+    
+</script>
+</html>

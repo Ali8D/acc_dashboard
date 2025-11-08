@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "فرهنگسرای بانو", "name:en": "Bano Cultural Center", "address": "HashtBehesht Park", "lon": 50.008100470893567, "lat": 36.293214435311981 }, "geometry": { "type": "Point", "coordinates": [ 50.008100470893567, 36.293214435311981 ] } },
+{ "type": "Feature", "properties": { "name": "خانه فرهنگ پردیس (خانه مشارکت های مردمی)", "name:en": "Pardis Cultural Center", "address": "Orkideh Park-Nowrouzian", "lon": 50.016822775745503, "lat": 36.313748143703357 }, "geometry": { "type": "Point", "coordinates": [ 50.016822775745503, 36.313748143703357 ] } },
+{ "type": "Feature", "properties": { "name": "فرهنگ سرای هادی آباد (خانه سلامت اجتماعی)", "name:en": "HadiAbad Cultural Center", "address": "Hadi Abad", "lon": 49.998345674397598, "lat": 36.292130811599932 }, "geometry": { "type": "Point", "coordinates": [ 49.998345674397598, 36.292130811599932 ] } },
+{ "type": "Feature", "properties": { "name": "خانه فرهنگ و کتابخانه شهید نواب صفوی", "name:en": "Navab Safavi Cultural center & Library", "address": "near the shahid Babaei Park-Navab Sfavi Blv.", "lon": 49.994204075978516, "lat": 36.277761686808276 }, "geometry": { "type": "Point", "coordinates": [ 49.994204075978516, 36.277761686808276 ] } },
+{ "type": "Feature", "properties": { "name": "فرهنگسرای رز (فرهنگسرای قرآن و نهج البلاغه)", "name:en": "Rose Cultural center", "address": "near the Rose Park-RahAhan&BoeenZahra intersection", "lon": 50.006483934487292, "lat": 36.245129952894523 }, "geometry": { "type": "Point", "coordinates": [ 50.006483934487292, 36.245129952894523 ] } },
+{ "type": "Feature", "properties": { "name": "خانه فرهنگ و کتابخانه محمدیه", "name:en": "Mohamadieh Cultural center & Library", "address": "Mohamadieh St.", "lon": 50.00488557220217, "lat": 36.263289986076565 }, "geometry": { "type": "Point", "coordinates": [ 50.00488557220217, 36.263289986076565 ] } },
+{ "type": "Feature", "properties": { "name": "فرهنگسرای تخصصی خانواده (منتظری)", "name:en": "Specialized Family Cultural Center (Montazeri)", "address": "Attari ave.-Montazeri St.", "lon": 49.991970524287318, "lat": 36.26116167697635 }, "geometry": { "type": "Point", "coordinates": [ 49.991970524287318, 36.26116167697635 ] } }
+]
+}

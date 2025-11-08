@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_45b52a719a8442895211230349d587d8 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_45b52a719a8442895211230349d587d8" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_45b52a719a8442895211230349d587d8 = L.map(
+                "map_45b52a719a8442895211230349d587d8",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ab146189cb59d7307aa4375c311c7aaf = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var marker_d5a21ec46368d4c30ba0dac46023f664 = L.marker(
+                [36.29321443531198, 50.00810047089357],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_9da24f8682ac534936ba555b99b7e65c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_d5a21ec46368d4c30ba0dac46023f664.setIcon(icon_9da24f8682ac534936ba555b99b7e65c);
+        
+    
+        var popup_32c74a43ba6213843f9a5a37f121bd64 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e7161b802c1fa597245c057fbcdb87bd = $(`<div id="html_e7161b802c1fa597245c057fbcdb87bd" style="width: 100.0%; height: 100.0%;">فرهنگسرای بانو<br>Bano Cultural Center<br>POINT (50.00810047089357 36.29321443531198)</div>`)[0];
+                popup_32c74a43ba6213843f9a5a37f121bd64.setContent(html_e7161b802c1fa597245c057fbcdb87bd);
+            
+        
+
+        marker_d5a21ec46368d4c30ba0dac46023f664.bindPopup(popup_32c74a43ba6213843f9a5a37f121bd64)
+        ;
+
+        
+    
+    
+            var marker_156fe2a9252b1bc3a12285d86ecb0b1a = L.marker(
+                [36.31374814370336, 50.0168227757455],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_f70bf11fd329e1ae470e1d1bd24300f8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_156fe2a9252b1bc3a12285d86ecb0b1a.setIcon(icon_f70bf11fd329e1ae470e1d1bd24300f8);
+        
+    
+        var popup_f40266cc348ea5cfc43611b25a09c6bb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_48391973ce61154455afb45bad8cb643 = $(`<div id="html_48391973ce61154455afb45bad8cb643" style="width: 100.0%; height: 100.0%;">خانه فرهنگ پردیس (خانه مشارکت های مردمی)<br>Pardis Cultural Center<br>POINT (50.0168227757455 36.31374814370336)</div>`)[0];
+                popup_f40266cc348ea5cfc43611b25a09c6bb.setContent(html_48391973ce61154455afb45bad8cb643);
+            
+        
+
+        marker_156fe2a9252b1bc3a12285d86ecb0b1a.bindPopup(popup_f40266cc348ea5cfc43611b25a09c6bb)
+        ;
+
+        
+    
+    
+            var marker_70e733a9c0fd9b7967bc583a26d9995e = L.marker(
+                [36.29213081159993, 49.9983456743976],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_89e74e07debc6210242d01bb208e36a5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_70e733a9c0fd9b7967bc583a26d9995e.setIcon(icon_89e74e07debc6210242d01bb208e36a5);
+        
+    
+        var popup_7408811e12cbb5b9012ff75d914e0ace = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_337135bac4cf99fa2c6aec35b579903f = $(`<div id="html_337135bac4cf99fa2c6aec35b579903f" style="width: 100.0%; height: 100.0%;">فرهنگ سرای هادی آباد (خانه سلامت اجتماعی)<br>HadiAbad Cultural Center<br>POINT (49.9983456743976 36.29213081159993)</div>`)[0];
+                popup_7408811e12cbb5b9012ff75d914e0ace.setContent(html_337135bac4cf99fa2c6aec35b579903f);
+            
+        
+
+        marker_70e733a9c0fd9b7967bc583a26d9995e.bindPopup(popup_7408811e12cbb5b9012ff75d914e0ace)
+        ;
+
+        
+    
+    
+            var marker_e6aa373585bb5e05a4f4205ce7ec96d6 = L.marker(
+                [36.277761686808276, 49.994204075978516],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_121499229add42f22adf7a4d9a0f09d1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_e6aa373585bb5e05a4f4205ce7ec96d6.setIcon(icon_121499229add42f22adf7a4d9a0f09d1);
+        
+    
+        var popup_d6da94ee4a4b234b7b2b21d588ead059 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e172f53f7e403dabda9a487b2acf9c04 = $(`<div id="html_e172f53f7e403dabda9a487b2acf9c04" style="width: 100.0%; height: 100.0%;">خانه فرهنگ و کتابخانه شهید نواب صفوی<br>Navab Safavi Cultural center & Library<br>POINT (49.994204075978516 36.277761686808276)</div>`)[0];
+                popup_d6da94ee4a4b234b7b2b21d588ead059.setContent(html_e172f53f7e403dabda9a487b2acf9c04);
+            
+        
+
+        marker_e6aa373585bb5e05a4f4205ce7ec96d6.bindPopup(popup_d6da94ee4a4b234b7b2b21d588ead059)
+        ;
+
+        
+    
+    
+            var marker_e9b4300f017c31f41e71bead7e5ba293 = L.marker(
+                [36.24512995289452, 50.00648393448729],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_fb07ba27184796b0f6b0f9234a71a10c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_e9b4300f017c31f41e71bead7e5ba293.setIcon(icon_fb07ba27184796b0f6b0f9234a71a10c);
+        
+    
+        var popup_c3ae483838ebc01fa79945dcc42e6d97 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0b86580f6f768689dbfa5d3b6d17a9e0 = $(`<div id="html_0b86580f6f768689dbfa5d3b6d17a9e0" style="width: 100.0%; height: 100.0%;">فرهنگسرای رز (فرهنگسرای قرآن و نهج البلاغه)<br>Rose Cultural center<br>POINT (50.00648393448729 36.24512995289452)</div>`)[0];
+                popup_c3ae483838ebc01fa79945dcc42e6d97.setContent(html_0b86580f6f768689dbfa5d3b6d17a9e0);
+            
+        
+
+        marker_e9b4300f017c31f41e71bead7e5ba293.bindPopup(popup_c3ae483838ebc01fa79945dcc42e6d97)
+        ;
+
+        
+    
+    
+            var marker_e2921c7c479fc6697ba5321ec54bb10e = L.marker(
+                [36.263289986076565, 50.00488557220217],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_c4328b73d6208a7983dc0cf1e41364a3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_e2921c7c479fc6697ba5321ec54bb10e.setIcon(icon_c4328b73d6208a7983dc0cf1e41364a3);
+        
+    
+        var popup_1a6b977324635644fd0287c688613ee5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c0f65240cbeea55ceaec2539b0ad88bc = $(`<div id="html_c0f65240cbeea55ceaec2539b0ad88bc" style="width: 100.0%; height: 100.0%;">خانه فرهنگ و کتابخانه محمدیه<br>Mohamadieh Cultural center & Library<br>POINT (50.00488557220217 36.263289986076565)</div>`)[0];
+                popup_1a6b977324635644fd0287c688613ee5.setContent(html_c0f65240cbeea55ceaec2539b0ad88bc);
+            
+        
+
+        marker_e2921c7c479fc6697ba5321ec54bb10e.bindPopup(popup_1a6b977324635644fd0287c688613ee5)
+        ;
+
+        
+    
+    
+            var marker_d29f15c45b483a3d509c53773b8edeb6 = L.marker(
+                [36.26116167697635, 49.99197052428732],
+                {}
+            ).addTo(map_45b52a719a8442895211230349d587d8);
+        
+    
+            var icon_c1ae8eae521ad2bcebf0e9a9e2a2d48b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-landmark-flag", "iconColor": "white", "markerColor": "pink", "prefix": "fa"}
+            );
+            marker_d29f15c45b483a3d509c53773b8edeb6.setIcon(icon_c1ae8eae521ad2bcebf0e9a9e2a2d48b);
+        
+    
+        var popup_57e0a9a121e2f5faae9d5ae3703ea76d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9700e4f43b700a3224f93a0df34592b4 = $(`<div id="html_9700e4f43b700a3224f93a0df34592b4" style="width: 100.0%; height: 100.0%;">فرهنگسرای تخصصی خانواده (منتظری)<br>Specialized Family Cultural Center (Montazeri)<br>POINT (49.99197052428732 36.26116167697635)</div>`)[0];
+                popup_57e0a9a121e2f5faae9d5ae3703ea76d.setContent(html_9700e4f43b700a3224f93a0df34592b4);
+            
+        
+
+        marker_d29f15c45b483a3d509c53773b8edeb6.bindPopup(popup_57e0a9a121e2f5faae9d5ae3703ea76d)
+        ;
+
+        
+    
+</script>
+</html>

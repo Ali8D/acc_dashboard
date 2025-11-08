@@ -1,0 +1,4201 @@
+from_id,to_id,travel_time
+22,Farhangian Clinic,37
+22,Ghaem Clinic,39
+22,Boo Alii Sina Clinic,40
+22,Emam Ali Clinic 24hours,46
+22,Sina Clinic,29
+22,Red Crescent General and Specialized Clinic,45
+22,24h Clinic of Minoudar,42
+22,Goharshad Clinic,55
+22,Parsian,28
+22,Specialized Clinics of Velayat Hospital,49
+22,Imam Khomeini Clinic,36
+22,Shahid Pakravan Clinic,36
+22,Imam Sajjad Clinic,36
+22,Community health centre No. 2,52
+22,Community health centre No. 3,44
+22,Imam Hussein Clinic and Doctors Building,40
+22,Community health centre No. 7 (Ferdosi),39
+22,Community health centre No. 6 (Valiasr),25
+22,Aref Clinic,31
+22,Community health centre (Madani),29
+22,Radmehr Specialized Clinic,31
+22,Razi Medical Clinic,28
+22,Shahid Bolandian Health Center,32
+22,Community health centre (Poonak number11),43
+22,Amir Ol-Mo'menin Clinic,45
+22,Abotaleb Taghavi Clinic,46
+22,Yasin clinic,34
+22,Community health centre (Alijani No. 8),42
+22,Community health centre (HadiAbad number9),39
+22,Shohadaye Naja Clinic,35
+22,Community health centre (Navab No. 8),30
+22,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,38
+22,Community health centre (Sadi),37
+22,Community health centre (Tabriz),47
+22,Milad Clinic,38
+22,Mehregan Clinic,26
+22,Poonak Clinic,41
+22,Aria Clinic,36
+22,Mohammadzadeh Specialized Clinic,39
+22,Comprehensive Health Services Center No. 13 (Bano Mohtasham),43
+31,Farhangian Clinic,35
+31,Ghaem Clinic,26
+31,Boo Alii Sina Clinic,28
+31,Emam Ali Clinic 24hours,21
+31,Sina Clinic,52
+31,Red Crescent General and Specialized Clinic,28
+31,24h Clinic of Minoudar,62
+31,Goharshad Clinic,75
+31,Parsian,51
+31,Specialized Clinics of Velayat Hospital,69
+31,Imam Khomeini Clinic,56
+31,Shahid Pakravan Clinic,54
+31,Imam Sajjad Clinic,50
+31,Community health centre No. 2,11
+31,Community health centre No. 3,20
+31,Imam Hussein Clinic and Doctors Building,29
+31,Community health centre No. 7 (Ferdosi),37
+31,Community health centre No. 6 (Valiasr),31
+31,Aref Clinic,41
+31,Community health centre (Madani),52
+31,Radmehr Specialized Clinic,54
+31,Razi Medical Clinic,51
+31,Shahid Bolandian Health Center,55
+31,Community health centre (Poonak number11),66
+31,Amir Ol-Mo'menin Clinic,65
+31,Abotaleb Taghavi Clinic,66
+31,Yasin clinic,55
+31,Community health centre (Alijani No. 8),62
+31,Community health centre (HadiAbad number9),60
+31,Shohadaye Naja Clinic,52
+31,Community health centre (Navab No. 8),45
+31,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,40
+31,Community health centre (Sadi),40
+31,Community health centre (Tabriz),44
+31,Milad Clinic,45
+31,Mehregan Clinic,49
+31,Poonak Clinic,64
+31,Aria Clinic,59
+31,Mohammadzadeh Specialized Clinic,62
+31,Comprehensive Health Services Center No. 13 (Bano Mohtasham),30
+32,Farhangian Clinic,35
+32,Ghaem Clinic,26
+32,Boo Alii Sina Clinic,28
+32,Emam Ali Clinic 24hours,21
+32,Sina Clinic,52
+32,Red Crescent General and Specialized Clinic,28
+32,24h Clinic of Minoudar,62
+32,Goharshad Clinic,74
+32,Parsian,51
+32,Specialized Clinics of Velayat Hospital,69
+32,Imam Khomeini Clinic,56
+32,Shahid Pakravan Clinic,54
+32,Imam Sajjad Clinic,50
+32,Community health centre No. 2,9
+32,Community health centre No. 3,20
+32,Imam Hussein Clinic and Doctors Building,29
+32,Community health centre No. 7 (Ferdosi),37
+32,Community health centre No. 6 (Valiasr),31
+32,Aref Clinic,41
+32,Community health centre (Madani),52
+32,Radmehr Specialized Clinic,54
+32,Razi Medical Clinic,51
+32,Shahid Bolandian Health Center,55
+32,Community health centre (Poonak number11),66
+32,Amir Ol-Mo'menin Clinic,65
+32,Abotaleb Taghavi Clinic,66
+32,Yasin clinic,55
+32,Community health centre (Alijani No. 8),62
+32,Community health centre (HadiAbad number9),58
+32,Shohadaye Naja Clinic,50
+32,Community health centre (Navab No. 8),44
+32,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,40
+32,Community health centre (Sadi),40
+32,Community health centre (Tabriz),42
+32,Milad Clinic,45
+32,Mehregan Clinic,49
+32,Poonak Clinic,64
+32,Aria Clinic,59
+32,Mohammadzadeh Specialized Clinic,62
+32,Comprehensive Health Services Center No. 13 (Bano Mohtasham),30
+33,Farhangian Clinic,38
+33,Ghaem Clinic,29
+33,Boo Alii Sina Clinic,31
+33,Emam Ali Clinic 24hours,22
+33,Sina Clinic,57
+33,Red Crescent General and Specialized Clinic,31
+33,24h Clinic of Minoudar,67
+33,Goharshad Clinic,74
+33,Parsian,56
+33,Specialized Clinics of Velayat Hospital,75
+33,Imam Khomeini Clinic,62
+33,Shahid Pakravan Clinic,55
+33,Imam Sajjad Clinic,53
+33,Community health centre No. 2,15
+33,Community health centre No. 3,18
+33,Imam Hussein Clinic and Doctors Building,32
+33,Community health centre No. 7 (Ferdosi),40
+33,Community health centre No. 6 (Valiasr),37
+33,Aref Clinic,47
+33,Community health centre (Madani),57
+33,Radmehr Specialized Clinic,59
+33,Razi Medical Clinic,56
+33,Shahid Bolandian Health Center,60
+33,Community health centre (Poonak number11),71
+33,Amir Ol-Mo'menin Clinic,71
+33,Abotaleb Taghavi Clinic,67
+33,Yasin clinic,60
+33,Community health centre (Alijani No. 8),64
+33,Community health centre (HadiAbad number9),54
+33,Shohadaye Naja Clinic,48
+33,Community health centre (Navab No. 8),43
+33,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,43
+33,Community health centre (Sadi),42
+33,Community health centre (Tabriz),35
+33,Milad Clinic,48
+33,Mehregan Clinic,54
+33,Poonak Clinic,69
+33,Aria Clinic,64
+33,Mohammadzadeh Specialized Clinic,67
+33,Comprehensive Health Services Center No. 13 (Bano Mohtasham),33
+36,Farhangian Clinic,33
+36,Ghaem Clinic,24
+36,Boo Alii Sina Clinic,26
+36,Emam Ali Clinic 24hours,16
+36,Sina Clinic,42
+36,Red Crescent General and Specialized Clinic,24
+36,24h Clinic of Minoudar,57
+36,Goharshad Clinic,68
+36,Parsian,41
+36,Specialized Clinics of Velayat Hospital,63
+36,Imam Khomeini Clinic,51
+36,Shahid Pakravan Clinic,46
+36,Imam Sajjad Clinic,43
+36,Community health centre No. 2,15
+36,Community health centre No. 3,12
+36,Imam Hussein Clinic and Doctors Building,27
+36,Community health centre No. 7 (Ferdosi),35
+36,Community health centre No. 6 (Valiasr),24
+36,Aref Clinic,37
+36,Community health centre (Madani),42
+36,Radmehr Specialized Clinic,44
+36,Razi Medical Clinic,41
+36,Shahid Bolandian Health Center,45
+36,Community health centre (Poonak number11),56
+36,Amir Ol-Mo'menin Clinic,60
+36,Abotaleb Taghavi Clinic,61
+36,Yasin clinic,45
+36,Community health centre (Alijani No. 8),55
+36,Community health centre (HadiAbad number9),51
+36,Shohadaye Naja Clinic,45
+36,Community health centre (Navab No. 8),41
+36,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,38
+36,Community health centre (Sadi),38
+36,Community health centre (Tabriz),37
+36,Milad Clinic,42
+36,Mehregan Clinic,39
+36,Poonak Clinic,54
+36,Aria Clinic,49
+36,Mohammadzadeh Specialized Clinic,52
+36,Comprehensive Health Services Center No. 13 (Bano Mohtasham),26
+37,Farhangian Clinic,28
+37,Ghaem Clinic,19
+37,Boo Alii Sina Clinic,21
+37,Emam Ali Clinic 24hours,12
+37,Sina Clinic,47
+37,Red Crescent General and Specialized Clinic,21
+37,24h Clinic of Minoudar,57
+37,Goharshad Clinic,65
+37,Parsian,46
+37,Specialized Clinics of Velayat Hospital,65
+37,Imam Khomeini Clinic,52
+37,Shahid Pakravan Clinic,46
+37,Imam Sajjad Clinic,44
+37,Community health centre No. 2,13
+37,Community health centre No. 3,7
+37,Imam Hussein Clinic and Doctors Building,22
+37,Community health centre No. 7 (Ferdosi),30
+37,Community health centre No. 6 (Valiasr),27
+37,Aref Clinic,37
+37,Community health centre (Madani),47
+37,Radmehr Specialized Clinic,49
+37,Razi Medical Clinic,46
+37,Shahid Bolandian Health Center,50
+37,Community health centre (Poonak number11),61
+37,Amir Ol-Mo'menin Clinic,61
+37,Abotaleb Taghavi Clinic,58
+37,Yasin clinic,50
+37,Community health centre (Alijani No. 8),54
+37,Community health centre (HadiAbad number9),46
+37,Shohadaye Naja Clinic,39
+37,Community health centre (Navab No. 8),35
+37,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,33
+37,Community health centre (Sadi),33
+37,Community health centre (Tabriz),30
+37,Milad Clinic,38
+37,Mehregan Clinic,44
+37,Poonak Clinic,59
+37,Aria Clinic,54
+37,Mohammadzadeh Specialized Clinic,57
+37,Comprehensive Health Services Center No. 13 (Bano Mohtasham),23
+38,Farhangian Clinic,30
+38,Ghaem Clinic,20
+38,Boo Alii Sina Clinic,22
+38,Emam Ali Clinic 24hours,15
+38,Sina Clinic,46
+38,Red Crescent General and Specialized Clinic,20
+38,24h Clinic of Minoudar,57
+38,Goharshad Clinic,63
+38,Parsian,46
+38,Specialized Clinics of Velayat Hospital,65
+38,Imam Khomeini Clinic,52
+38,Shahid Pakravan Clinic,43
+38,Imam Sajjad Clinic,41
+38,Community health centre No. 2,23
+38,Community health centre No. 3,10
+38,Imam Hussein Clinic and Doctors Building,23
+38,Community health centre No. 7 (Ferdosi),31
+38,Community health centre No. 6 (Valiasr),33
+38,Aref Clinic,40
+38,Community health centre (Madani),47
+38,Radmehr Specialized Clinic,49
+38,Razi Medical Clinic,47
+38,Shahid Bolandian Health Center,50
+38,Community health centre (Poonak number11),60
+38,Amir Ol-Mo'menin Clinic,61
+38,Abotaleb Taghavi Clinic,57
+38,Yasin clinic,49
+38,Community health centre (Alijani No. 8),54
+38,Community health centre (HadiAbad number9),42
+38,Shohadaye Naja Clinic,36
+38,Community health centre (Navab No. 8),31
+38,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,34
+38,Community health centre (Sadi),29
+38,Community health centre (Tabriz),24
+38,Milad Clinic,38
+38,Mehregan Clinic,44
+38,Poonak Clinic,58
+38,Aria Clinic,56
+38,Mohammadzadeh Specialized Clinic,56
+38,Comprehensive Health Services Center No. 13 (Bano Mohtasham),23
+39,Farhangian Clinic,32
+39,Ghaem Clinic,23
+39,Boo Alii Sina Clinic,25
+39,Emam Ali Clinic 24hours,20
+39,Sina Clinic,47
+39,Red Crescent General and Specialized Clinic,24
+39,24h Clinic of Minoudar,53
+39,Goharshad Clinic,59
+39,Parsian,47
+39,Specialized Clinics of Velayat Hospital,61
+39,Imam Khomeini Clinic,48
+39,Shahid Pakravan Clinic,42
+39,Imam Sajjad Clinic,41
+39,Community health centre No. 2,29
+39,Community health centre No. 3,19
+39,Imam Hussein Clinic and Doctors Building,26
+39,Community health centre No. 7 (Ferdosi),33
+39,Community health centre No. 6 (Valiasr),40
+39,Aref Clinic,45
+39,Community health centre (Madani),48
+39,Radmehr Specialized Clinic,50
+39,Razi Medical Clinic,48
+39,Shahid Bolandian Health Center,51
+39,Community health centre (Poonak number11),61
+39,Amir Ol-Mo'menin Clinic,57
+39,Abotaleb Taghavi Clinic,53
+39,Yasin clinic,50
+39,Community health centre (Alijani No. 8),50
+39,Community health centre (HadiAbad number9),38
+39,Shohadaye Naja Clinic,32
+39,Community health centre (Navab No. 8),27
+39,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,34
+39,Community health centre (Sadi),31
+39,Community health centre (Tabriz),14
+39,Milad Clinic,40
+39,Mehregan Clinic,45
+39,Poonak Clinic,59
+39,Aria Clinic,58
+39,Mohammadzadeh Specialized Clinic,57
+39,Comprehensive Health Services Center No. 13 (Bano Mohtasham),26
+40,Farhangian Clinic,39
+40,Ghaem Clinic,31
+40,Boo Alii Sina Clinic,33
+40,Emam Ali Clinic 24hours,28
+40,Sina Clinic,53
+40,Red Crescent General and Specialized Clinic,32
+40,24h Clinic of Minoudar,57
+40,Goharshad Clinic,63
+40,Parsian,55
+40,Specialized Clinics of Velayat Hospital,65
+40,Imam Khomeini Clinic,52
+40,Shahid Pakravan Clinic,46
+40,Imam Sajjad Clinic,46
+40,Community health centre No. 2,39
+40,Community health centre No. 3,27
+40,Imam Hussein Clinic and Doctors Building,34
+40,Community health centre No. 7 (Ferdosi),41
+40,Community health centre No. 6 (Valiasr),48
+40,Aref Clinic,52
+40,Community health centre (Madani),54
+40,Radmehr Specialized Clinic,58
+40,Razi Medical Clinic,56
+40,Shahid Bolandian Health Center,59
+40,Community health centre (Poonak number11),69
+40,Amir Ol-Mo'menin Clinic,61
+40,Abotaleb Taghavi Clinic,57
+40,Yasin clinic,57
+40,Community health centre (Alijani No. 8),54
+40,Community health centre (HadiAbad number9),42
+40,Shohadaye Naja Clinic,36
+40,Community health centre (Navab No. 8),31
+40,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,39
+40,Community health centre (Sadi),38
+40,Community health centre (Tabriz),18
+40,Milad Clinic,48
+40,Mehregan Clinic,53
+40,Poonak Clinic,67
+40,Aria Clinic,66
+40,Mohammadzadeh Specialized Clinic,65
+40,Comprehensive Health Services Center No. 13 (Bano Mohtasham),34
+41,Farhangian Clinic,31
+41,Ghaem Clinic,21
+41,Boo Alii Sina Clinic,23
+41,Emam Ali Clinic 24hours,11
+41,Sina Clinic,40
+41,Red Crescent General and Specialized Clinic,16
+41,24h Clinic of Minoudar,56
+41,Goharshad Clinic,68
+41,Parsian,39
+41,Specialized Clinics of Velayat Hospital,61
+41,Imam Khomeini Clinic,50
+41,Shahid Pakravan Clinic,44
+41,Imam Sajjad Clinic,40
+41,Community health centre No. 2,24
+41,Community health centre No. 3,12
+41,Imam Hussein Clinic and Doctors Building,20
+41,Community health centre No. 7 (Ferdosi),31
+41,Community health centre No. 6 (Valiasr),23
+41,Aref Clinic,29
+41,Community health centre (Madani),40
+41,Radmehr Specialized Clinic,42
+41,Razi Medical Clinic,39
+41,Shahid Bolandian Health Center,43
+41,Community health centre (Poonak number11),54
+41,Amir Ol-Mo'menin Clinic,59
+41,Abotaleb Taghavi Clinic,60
+41,Yasin clinic,43
+41,Community health centre (Alijani No. 8),54
+41,Community health centre (HadiAbad number9),50
+41,Shohadaye Naja Clinic,44
+41,Community health centre (Navab No. 8),39
+41,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,35
+41,Community health centre (Sadi),34
+41,Community health centre (Tabriz),37
+41,Milad Clinic,33
+41,Mehregan Clinic,37
+41,Poonak Clinic,52
+41,Aria Clinic,47
+41,Mohammadzadeh Specialized Clinic,50
+41,Comprehensive Health Services Center No. 13 (Bano Mohtasham),18
+42,Farhangian Clinic,26
+42,Ghaem Clinic,18
+42,Boo Alii Sina Clinic,19
+42,Emam Ali Clinic 24hours,14
+42,Sina Clinic,46
+42,Red Crescent General and Specialized Clinic,13
+42,24h Clinic of Minoudar,58
+42,Goharshad Clinic,64
+42,Parsian,46
+42,Specialized Clinics of Velayat Hospital,64
+42,Imam Khomeini Clinic,51
+42,Shahid Pakravan Clinic,41
+42,Imam Sajjad Clinic,38
+42,Community health centre No. 2,25
+42,Community health centre No. 3,9
+42,Imam Hussein Clinic and Doctors Building,19
+42,Community health centre No. 7 (Ferdosi),28
+42,Community health centre No. 6 (Valiasr),33
+42,Aref Clinic,38
+42,Community health centre (Madani),47
+42,Radmehr Specialized Clinic,49
+42,Razi Medical Clinic,47
+42,Shahid Bolandian Health Center,50
+42,Community health centre (Poonak number11),60
+42,Amir Ol-Mo'menin Clinic,60
+42,Abotaleb Taghavi Clinic,58
+42,Yasin clinic,49
+42,Community health centre (Alijani No. 8),54
+42,Community health centre (HadiAbad number9),43
+42,Shohadaye Naja Clinic,36
+42,Community health centre (Navab No. 8),31
+42,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,30
+42,Community health centre (Sadi),21
+42,Community health centre (Tabriz),20
+42,Milad Clinic,35
+42,Mehregan Clinic,44
+42,Poonak Clinic,58
+42,Aria Clinic,56
+42,Mohammadzadeh Specialized Clinic,56
+42,Comprehensive Health Services Center No. 13 (Bano Mohtasham),15
+44,Farhangian Clinic,32
+44,Ghaem Clinic,26
+44,Boo Alii Sina Clinic,28
+44,Emam Ali Clinic 24hours,24
+44,Sina Clinic,50
+44,Red Crescent General and Specialized Clinic,24
+44,24h Clinic of Minoudar,54
+44,Goharshad Clinic,61
+44,Parsian,51
+44,Specialized Clinics of Velayat Hospital,62
+44,Imam Khomeini Clinic,49
+44,Shahid Pakravan Clinic,41
+44,Imam Sajjad Clinic,38
+44,Community health centre No. 2,36
+44,Community health centre No. 3,21
+44,Imam Hussein Clinic and Doctors Building,29
+44,Community health centre No. 7 (Ferdosi),37
+44,Community health centre No. 6 (Valiasr),44
+44,Aref Clinic,45
+44,Community health centre (Madani),51
+44,Radmehr Specialized Clinic,54
+44,Razi Medical Clinic,52
+44,Shahid Bolandian Health Center,55
+44,Community health centre (Poonak number11),65
+44,Amir Ol-Mo'menin Clinic,58
+44,Abotaleb Taghavi Clinic,54
+44,Yasin clinic,54
+44,Community health centre (Alijani No. 8),51
+44,Community health centre (HadiAbad number9),40
+44,Shohadaye Naja Clinic,32
+44,Community health centre (Navab No. 8),28
+44,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,31
+44,Community health centre (Sadi),21
+44,Community health centre (Tabriz),7
+44,Milad Clinic,44
+44,Mehregan Clinic,49
+44,Poonak Clinic,63
+44,Aria Clinic,62
+44,Mohammadzadeh Specialized Clinic,61
+44,Comprehensive Health Services Center No. 13 (Bano Mohtasham),27
+45,Farhangian Clinic,31
+45,Ghaem Clinic,21
+45,Boo Alii Sina Clinic,22
+45,Emam Ali Clinic 24hours,21
+45,Sina Clinic,32
+45,Red Crescent General and Specialized Clinic,19
+45,24h Clinic of Minoudar,46
+45,Goharshad Clinic,59
+45,Parsian,31
+45,Specialized Clinics of Velayat Hospital,52
+45,Imam Khomeini Clinic,40
+45,Shahid Pakravan Clinic,36
+45,Imam Sajjad Clinic,33
+45,Community health centre No. 2,27
+45,Community health centre No. 3,19
+45,Imam Hussein Clinic and Doctors Building,18
+45,Community health centre No. 7 (Ferdosi),28
+45,Community health centre No. 6 (Valiasr),15
+45,Aref Clinic,23
+45,Community health centre (Madani),32
+45,Radmehr Specialized Clinic,34
+45,Razi Medical Clinic,31
+45,Shahid Bolandian Health Center,35
+45,Community health centre (Poonak number11),46
+45,Amir Ol-Mo'menin Clinic,49
+45,Abotaleb Taghavi Clinic,50
+45,Yasin clinic,35
+45,Community health centre (Alijani No. 8),45
+45,Community health centre (HadiAbad number9),42
+45,Shohadaye Naja Clinic,36
+45,Community health centre (Navab No. 8),33
+45,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,36
+45,Community health centre (Sadi),30
+45,Community health centre (Tabriz),39
+45,Milad Clinic,27
+45,Mehregan Clinic,29
+45,Poonak Clinic,44
+45,Aria Clinic,39
+45,Mohammadzadeh Specialized Clinic,42
+45,Comprehensive Health Services Center No. 13 (Bano Mohtasham),21
+46,Farhangian Clinic,42
+46,Ghaem Clinic,33
+46,Boo Alii Sina Clinic,34
+46,Emam Ali Clinic 24hours,32
+46,Sina Clinic,35
+46,Red Crescent General and Specialized Clinic,32
+46,24h Clinic of Minoudar,50
+46,Goharshad Clinic,63
+46,Parsian,34
+46,Specialized Clinics of Velayat Hospital,56
+46,Imam Khomeini Clinic,44
+46,Shahid Pakravan Clinic,40
+46,Imam Sajjad Clinic,37
+46,Community health centre No. 2,38
+46,Community health centre No. 3,30
+46,Imam Hussein Clinic and Doctors Building,31
+46,Community health centre No. 7 (Ferdosi),40
+46,Community health centre No. 6 (Valiasr),19
+46,Aref Clinic,31
+46,Community health centre (Madani),35
+46,Radmehr Specialized Clinic,37
+46,Razi Medical Clinic,34
+46,Shahid Bolandian Health Center,38
+46,Community health centre (Poonak number11),49
+46,Amir Ol-Mo'menin Clinic,53
+46,Abotaleb Taghavi Clinic,54
+46,Yasin clinic,38
+46,Community health centre (Alijani No. 8),48
+46,Community health centre (HadiAbad number9),45
+46,Shohadaye Naja Clinic,42
+46,Community health centre (Navab No. 8),38
+46,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,44
+46,Community health centre (Sadi),42
+46,Community health centre (Tabriz),50
+46,Milad Clinic,40
+46,Mehregan Clinic,32
+46,Poonak Clinic,47
+46,Aria Clinic,42
+46,Mohammadzadeh Specialized Clinic,45
+46,Comprehensive Health Services Center No. 13 (Bano Mohtasham),34
+47,Farhangian Clinic,25
+47,Ghaem Clinic,13
+47,Boo Alii Sina Clinic,13
+47,Emam Ali Clinic 24hours,13
+47,Sina Clinic,44
+47,Red Crescent General and Specialized Clinic,6
+47,24h Clinic of Minoudar,57
+47,Goharshad Clinic,66
+47,Parsian,43
+47,Specialized Clinics of Velayat Hospital,64
+47,Imam Khomeini Clinic,51
+47,Shahid Pakravan Clinic,43
+47,Imam Sajjad Clinic,39
+47,Community health centre No. 2,32
+47,Community health centre No. 3,18
+47,Imam Hussein Clinic and Doctors Building,10
+47,Community health centre No. 7 (Ferdosi),22
+47,Community health centre No. 6 (Valiasr),25
+47,Aref Clinic,24
+47,Community health centre (Madani),44
+47,Radmehr Specialized Clinic,46
+47,Razi Medical Clinic,43
+47,Shahid Bolandian Health Center,47
+47,Community health centre (Poonak number11),58
+47,Amir Ol-Mo'menin Clinic,60
+47,Abotaleb Taghavi Clinic,59
+47,Yasin clinic,47
+47,Community health centre (Alijani No. 8),55
+47,Community health centre (HadiAbad number9),47
+47,Shohadaye Naja Clinic,39
+47,Community health centre (Navab No. 8),36
+47,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,29
+47,Community health centre (Sadi),26
+47,Community health centre (Tabriz),31
+47,Milad Clinic,25
+47,Mehregan Clinic,41
+47,Poonak Clinic,56
+47,Aria Clinic,51
+47,Mohammadzadeh Specialized Clinic,54
+47,Comprehensive Health Services Center No. 13 (Bano Mohtasham),8
+48,Farhangian Clinic,13
+48,Ghaem Clinic,5
+48,Boo Alii Sina Clinic,5
+48,Emam Ali Clinic 24hours,18
+48,Sina Clinic,34
+48,Red Crescent General and Specialized Clinic,9
+48,24h Clinic of Minoudar,52
+48,Goharshad Clinic,61
+48,Parsian,34
+48,Specialized Clinics of Velayat Hospital,56
+48,Imam Khomeini Clinic,45
+48,Shahid Pakravan Clinic,32
+48,Imam Sajjad Clinic,28
+48,Community health centre No. 2,28
+48,Community health centre No. 3,16
+48,Imam Hussein Clinic and Doctors Building,5
+48,Community health centre No. 7 (Ferdosi),14
+48,Community health centre No. 6 (Valiasr),23
+48,Aref Clinic,24
+48,Community health centre (Madani),35
+48,Radmehr Specialized Clinic,37
+48,Razi Medical Clinic,35
+48,Shahid Bolandian Health Center,38
+48,Community health centre (Poonak number11),48
+48,Amir Ol-Mo'menin Clinic,54
+48,Abotaleb Taghavi Clinic,53
+48,Yasin clinic,37
+48,Community health centre (Alijani No. 8),48
+48,Community health centre (HadiAbad number9),39
+48,Shohadaye Naja Clinic,30
+48,Community health centre (Navab No. 8),25
+48,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,18
+48,Community health centre (Sadi),15
+48,Community health centre (Tabriz),31
+48,Milad Clinic,22
+48,Mehregan Clinic,32
+48,Poonak Clinic,46
+48,Aria Clinic,44
+48,Mohammadzadeh Specialized Clinic,44
+48,Comprehensive Health Services Center No. 13 (Bano Mohtasham),6
+49,Farhangian Clinic,18
+49,Ghaem Clinic,13
+49,Boo Alii Sina Clinic,15
+49,Emam Ali Clinic 24hours,15
+49,Sina Clinic,40
+49,Red Crescent General and Specialized Clinic,12
+49,24h Clinic of Minoudar,48
+49,Goharshad Clinic,56
+49,Parsian,40
+49,Specialized Clinics of Velayat Hospital,54
+49,Imam Khomeini Clinic,41
+49,Shahid Pakravan Clinic,32
+49,Imam Sajjad Clinic,29
+49,Community health centre No. 2,30
+49,Community health centre No. 3,18
+49,Imam Hussein Clinic and Doctors Building,14
+49,Community health centre No. 7 (Ferdosi),24
+49,Community health centre No. 6 (Valiasr),32
+49,Aref Clinic,33
+49,Community health centre (Madani),41
+49,Radmehr Specialized Clinic,43
+49,Razi Medical Clinic,41
+49,Shahid Bolandian Health Center,44
+49,Community health centre (Poonak number11),54
+49,Amir Ol-Mo'menin Clinic,50
+49,Abotaleb Taghavi Clinic,49
+49,Yasin clinic,43
+49,Community health centre (Alijani No. 8),45
+49,Community health centre (HadiAbad number9),34
+49,Shohadaye Naja Clinic,26
+49,Community health centre (Navab No. 8),21
+49,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,21
+49,Community health centre (Sadi),11
+49,Community health centre (Tabriz),19
+49,Milad Clinic,31
+49,Mehregan Clinic,38
+49,Poonak Clinic,52
+49,Aria Clinic,51
+49,Mohammadzadeh Specialized Clinic,50
+49,Comprehensive Health Services Center No. 13 (Bano Mohtasham),14
+50,Farhangian Clinic,21
+50,Ghaem Clinic,12
+50,Boo Alii Sina Clinic,12
+50,Emam Ali Clinic 24hours,22
+50,Sina Clinic,41
+50,Red Crescent General and Specialized Clinic,14
+50,24h Clinic of Minoudar,53
+50,Goharshad Clinic,62
+50,Parsian,40
+50,Specialized Clinics of Velayat Hospital,60
+50,Imam Khomeini Clinic,47
+50,Shahid Pakravan Clinic,41
+50,Imam Sajjad Clinic,37
+50,Community health centre No. 2,32
+50,Community health centre No. 3,22
+50,Imam Hussein Clinic and Doctors Building,9
+50,Community health centre No. 7 (Ferdosi),17
+50,Community health centre No. 6 (Valiasr),21
+50,Aref Clinic,14
+50,Community health centre (Madani),41
+50,Radmehr Specialized Clinic,43
+50,Razi Medical Clinic,40
+50,Shahid Bolandian Health Center,44
+50,Community health centre (Poonak number11),55
+50,Amir Ol-Mo'menin Clinic,56
+50,Abotaleb Taghavi Clinic,55
+50,Yasin clinic,44
+50,Community health centre (Alijani No. 8),52
+50,Community health centre (HadiAbad number9),44
+50,Shohadaye Naja Clinic,36
+50,Community health centre (Navab No. 8),33
+50,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,28
+50,Community health centre (Sadi),25
+50,Community health centre (Tabriz),36
+50,Milad Clinic,18
+50,Mehregan Clinic,38
+50,Poonak Clinic,53
+50,Aria Clinic,48
+50,Mohammadzadeh Specialized Clinic,51
+50,Comprehensive Health Services Center No. 13 (Bano Mohtasham),12
+51,Farhangian Clinic,13
+51,Ghaem Clinic,4
+51,Boo Alii Sina Clinic,2
+51,Emam Ali Clinic 24hours,19
+51,Sina Clinic,34
+51,Red Crescent General and Specialized Clinic,9
+51,24h Clinic of Minoudar,53
+51,Goharshad Clinic,61
+51,Parsian,34
+51,Specialized Clinics of Velayat Hospital,57
+51,Imam Khomeini Clinic,48
+51,Shahid Pakravan Clinic,34
+51,Imam Sajjad Clinic,30
+51,Community health centre No. 2,30
+51,Community health centre No. 3,18
+51,Imam Hussein Clinic and Doctors Building,5
+51,Community health centre No. 7 (Ferdosi),10
+51,Community health centre No. 6 (Valiasr),23
+51,Aref Clinic,18
+51,Community health centre (Madani),35
+51,Radmehr Specialized Clinic,37
+51,Razi Medical Clinic,35
+51,Shahid Bolandian Health Center,38
+51,Community health centre (Poonak number11),48
+51,Amir Ol-Mo'menin Clinic,57
+51,Abotaleb Taghavi Clinic,54
+51,Yasin clinic,37
+51,Community health centre (Alijani No. 8),49
+51,Community health centre (HadiAbad number9),40
+51,Shohadaye Naja Clinic,32
+51,Community health centre (Navab No. 8),27
+51,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,20
+51,Community health centre (Sadi),19
+51,Community health centre (Tabriz),30
+51,Milad Clinic,14
+51,Mehregan Clinic,32
+51,Poonak Clinic,46
+51,Aria Clinic,44
+51,Mohammadzadeh Specialized Clinic,44
+51,Comprehensive Health Services Center No. 13 (Bano Mohtasham),7
+52,Farhangian Clinic,24
+52,Ghaem Clinic,22
+52,Boo Alii Sina Clinic,24
+52,Emam Ali Clinic 24hours,26
+52,Sina Clinic,45
+52,Red Crescent General and Specialized Clinic,23
+52,24h Clinic of Minoudar,44
+52,Goharshad Clinic,52
+52,Parsian,49
+52,Specialized Clinics of Velayat Hospital,52
+52,Imam Khomeini Clinic,39
+52,Shahid Pakravan Clinic,33
+52,Imam Sajjad Clinic,30
+52,Community health centre No. 2,41
+52,Community health centre No. 3,28
+52,Imam Hussein Clinic and Doctors Building,23
+52,Community health centre No. 7 (Ferdosi),31
+52,Community health centre No. 6 (Valiasr),39
+52,Aref Clinic,41
+52,Community health centre (Madani),46
+52,Radmehr Specialized Clinic,52
+52,Razi Medical Clinic,49
+52,Shahid Bolandian Health Center,53
+52,Community health centre (Poonak number11),63
+52,Amir Ol-Mo'menin Clinic,48
+52,Abotaleb Taghavi Clinic,45
+52,Yasin clinic,50
+52,Community health centre (Alijani No. 8),41
+52,Community health centre (HadiAbad number9),32
+52,Shohadaye Naja Clinic,23
+52,Community health centre (Navab No. 8),16
+52,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,22
+52,Community health centre (Sadi),12
+52,Community health centre (Tabriz),10
+52,Milad Clinic,38
+52,Mehregan Clinic,47
+52,Poonak Clinic,61
+52,Aria Clinic,59
+52,Mohammadzadeh Specialized Clinic,59
+52,Comprehensive Health Services Center No. 13 (Bano Mohtasham),25
+53,Farhangian Clinic,36
+53,Ghaem Clinic,31
+53,Boo Alii Sina Clinic,33
+53,Emam Ali Clinic 24hours,28
+53,Sina Clinic,51
+53,Red Crescent General and Specialized Clinic,32
+53,24h Clinic of Minoudar,52
+53,Goharshad Clinic,58
+53,Parsian,55
+53,Specialized Clinics of Velayat Hospital,60
+53,Imam Khomeini Clinic,47
+53,Shahid Pakravan Clinic,41
+53,Imam Sajjad Clinic,42
+53,Community health centre No. 2,42
+53,Community health centre No. 3,27
+53,Imam Hussein Clinic and Doctors Building,34
+53,Community health centre No. 7 (Ferdosi),40
+53,Community health centre No. 6 (Valiasr),48
+53,Aref Clinic,52
+53,Community health centre (Madani),52
+53,Radmehr Specialized Clinic,58
+53,Razi Medical Clinic,56
+53,Shahid Bolandian Health Center,59
+53,Community health centre (Poonak number11),69
+53,Amir Ol-Mo'menin Clinic,56
+53,Abotaleb Taghavi Clinic,52
+53,Yasin clinic,56
+53,Community health centre (Alijani No. 8),49
+53,Community health centre (HadiAbad number9),37
+53,Shohadaye Naja Clinic,31
+53,Community health centre (Navab No. 8),26
+53,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,34
+53,Community health centre (Sadi),31
+53,Community health centre (Tabriz),13
+53,Milad Clinic,48
+53,Mehregan Clinic,53
+53,Poonak Clinic,67
+53,Aria Clinic,66
+53,Mohammadzadeh Specialized Clinic,65
+53,Comprehensive Health Services Center No. 13 (Bano Mohtasham),34
+54,Farhangian Clinic,35
+54,Ghaem Clinic,27
+54,Boo Alii Sina Clinic,28
+54,Emam Ali Clinic 24hours,34
+54,Sina Clinic,28
+54,Red Crescent General and Specialized Clinic,32
+54,24h Clinic of Minoudar,41
+54,Goharshad Clinic,54
+54,Parsian,27
+54,Specialized Clinics of Velayat Hospital,48
+54,Imam Khomeini Clinic,35
+54,Shahid Pakravan Clinic,32
+54,Imam Sajjad Clinic,29
+54,Community health centre No. 2,39
+54,Community health centre No. 3,31
+54,Imam Hussein Clinic and Doctors Building,27
+54,Community health centre No. 7 (Ferdosi),34
+54,Community health centre No. 6 (Valiasr),6
+54,Aref Clinic,23
+54,Community health centre (Madani),28
+54,Radmehr Specialized Clinic,30
+54,Razi Medical Clinic,27
+54,Shahid Bolandian Health Center,31
+54,Community health centre (Poonak number11),42
+54,Amir Ol-Mo'menin Clinic,44
+54,Abotaleb Taghavi Clinic,45
+54,Yasin clinic,32
+54,Community health centre (Alijani No. 8),41
+54,Community health centre (HadiAbad number9),38
+54,Shohadaye Naja Clinic,33
+54,Community health centre (Navab No. 8),29
+54,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,37
+54,Community health centre (Sadi),34
+54,Community health centre (Tabriz),46
+54,Milad Clinic,33
+54,Mehregan Clinic,25
+54,Poonak Clinic,40
+54,Aria Clinic,35
+54,Mohammadzadeh Specialized Clinic,38
+54,Comprehensive Health Services Center No. 13 (Bano Mohtasham),30
+55,Farhangian Clinic,14
+55,Ghaem Clinic,18
+55,Boo Alii Sina Clinic,16
+55,Emam Ali Clinic 24hours,33
+55,Sina Clinic,39
+55,Red Crescent General and Specialized Clinic,23
+55,24h Clinic of Minoudar,52
+55,Goharshad Clinic,64
+55,Parsian,37
+55,Specialized Clinics of Velayat Hospital,59
+55,Imam Khomeini Clinic,46
+55,Shahid Pakravan Clinic,37
+55,Imam Sajjad Clinic,34
+55,Community health centre No. 2,39
+55,Community health centre No. 3,29
+55,Imam Hussein Clinic and Doctors Building,17
+55,Community health centre No. 7 (Ferdosi),10
+55,Community health centre No. 6 (Valiasr),23
+55,Aref Clinic,7
+55,Community health centre (Madani),38
+55,Radmehr Specialized Clinic,40
+55,Razi Medical Clinic,38
+55,Shahid Bolandian Health Center,41
+55,Community health centre (Poonak number11),51
+55,Amir Ol-Mo'menin Clinic,55
+55,Abotaleb Taghavi Clinic,56
+55,Yasin clinic,45
+55,Community health centre (Alijani No. 8),49
+55,Community health centre (HadiAbad number9),42
+55,Shohadaye Naja Clinic,33
+55,Community health centre (Navab No. 8),25
+55,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,22
+55,Community health centre (Sadi),22
+55,Community health centre (Tabriz),40
+55,Milad Clinic,11
+55,Mehregan Clinic,35
+55,Poonak Clinic,49
+55,Aria Clinic,47
+55,Mohammadzadeh Specialized Clinic,47
+55,Comprehensive Health Services Center No. 13 (Bano Mohtasham),20
+56,Farhangian Clinic,10
+56,Ghaem Clinic,8
+56,Boo Alii Sina Clinic,6
+56,Emam Ali Clinic 24hours,22
+56,Sina Clinic,35
+56,Red Crescent General and Specialized Clinic,13
+56,24h Clinic of Minoudar,53
+56,Goharshad Clinic,63
+56,Parsian,34
+56,Specialized Clinics of Velayat Hospital,58
+56,Imam Khomeini Clinic,47
+56,Shahid Pakravan Clinic,35
+56,Imam Sajjad Clinic,31
+56,Community health centre No. 2,34
+56,Community health centre No. 3,22
+56,Imam Hussein Clinic and Doctors Building,9
+56,Community health centre No. 7 (Ferdosi),6
+56,Community health centre No. 6 (Valiasr),27
+56,Aref Clinic,14
+56,Community health centre (Madani),35
+56,Radmehr Specialized Clinic,37
+56,Razi Medical Clinic,35
+56,Shahid Bolandian Health Center,38
+56,Community health centre (Poonak number11),48
+56,Amir Ol-Mo'menin Clinic,56
+56,Abotaleb Taghavi Clinic,55
+56,Yasin clinic,40
+56,Community health centre (Alijani No. 8),49
+56,Community health centre (HadiAbad number9),41
+56,Shohadaye Naja Clinic,32
+56,Community health centre (Navab No. 8),24
+56,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,17
+56,Community health centre (Sadi),21
+56,Community health centre (Tabriz),33
+56,Milad Clinic,10
+56,Mehregan Clinic,32
+56,Poonak Clinic,46
+56,Aria Clinic,45
+56,Mohammadzadeh Specialized Clinic,44
+56,Comprehensive Health Services Center No. 13 (Bano Mohtasham),10
+57,Farhangian Clinic,20
+57,Ghaem Clinic,16
+57,Boo Alii Sina Clinic,14
+57,Emam Ali Clinic 24hours,29
+57,Sina Clinic,40
+57,Red Crescent General and Specialized Clinic,20
+57,24h Clinic of Minoudar,54
+57,Goharshad Clinic,65
+57,Parsian,39
+57,Specialized Clinics of Velayat Hospital,60
+57,Imam Khomeini Clinic,48
+57,Shahid Pakravan Clinic,39
+57,Imam Sajjad Clinic,36
+57,Community health centre No. 2,35
+57,Community health centre No. 3,25
+57,Imam Hussein Clinic and Doctors Building,15
+57,Community health centre No. 7 (Ferdosi),16
+57,Community health centre No. 6 (Valiasr),15
+57,Aref Clinic,8
+57,Community health centre (Madani),40
+57,Radmehr Specialized Clinic,42
+57,Razi Medical Clinic,39
+57,Shahid Bolandian Health Center,43
+57,Community health centre (Poonak number11),54
+57,Amir Ol-Mo'menin Clinic,57
+57,Abotaleb Taghavi Clinic,57
+57,Yasin clinic,43
+57,Community health centre (Alijani No. 8),51
+57,Community health centre (HadiAbad number9),44
+57,Shohadaye Naja Clinic,35
+57,Community health centre (Navab No. 8),29
+57,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,28
+57,Community health centre (Sadi),24
+57,Community health centre (Tabriz),39
+57,Milad Clinic,15
+57,Mehregan Clinic,37
+57,Poonak Clinic,52
+57,Aria Clinic,47
+57,Mohammadzadeh Specialized Clinic,50
+57,Comprehensive Health Services Center No. 13 (Bano Mohtasham),18
+59,Farhangian Clinic,5
+59,Ghaem Clinic,5
+59,Boo Alii Sina Clinic,7
+59,Emam Ali Clinic 24hours,19
+59,Sina Clinic,33
+59,Red Crescent General and Specialized Clinic,13
+59,24h Clinic of Minoudar,47
+59,Goharshad Clinic,56
+59,Parsian,33
+59,Specialized Clinics of Velayat Hospital,53
+59,Imam Khomeini Clinic,40
+59,Shahid Pakravan Clinic,29
+59,Imam Sajjad Clinic,25
+59,Community health centre No. 2,26
+59,Community health centre No. 3,14
+59,Imam Hussein Clinic and Doctors Building,9
+59,Community health centre No. 7 (Ferdosi),12
+59,Community health centre No. 6 (Valiasr),27
+59,Aref Clinic,24
+59,Community health centre (Madani),34
+59,Radmehr Specialized Clinic,36
+59,Razi Medical Clinic,34
+59,Shahid Bolandian Health Center,37
+59,Community health centre (Poonak number11),47
+59,Amir Ol-Mo'menin Clinic,49
+59,Abotaleb Taghavi Clinic,49
+59,Yasin clinic,36
+59,Community health centre (Alijani No. 8),43
+59,Community health centre (HadiAbad number9),35
+59,Shohadaye Naja Clinic,27
+59,Community health centre (Navab No. 8),17
+59,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,10
+59,Community health centre (Sadi),12
+59,Community health centre (Tabriz),30
+59,Milad Clinic,20
+59,Mehregan Clinic,31
+59,Poonak Clinic,45
+59,Aria Clinic,44
+59,Mohammadzadeh Specialized Clinic,43
+59,Comprehensive Health Services Center No. 13 (Bano Mohtasham),10
+60,Farhangian Clinic,10
+60,Ghaem Clinic,7
+60,Boo Alii Sina Clinic,5
+60,Emam Ali Clinic 24hours,22
+60,Sina Clinic,35
+60,Red Crescent General and Specialized Clinic,12
+60,24h Clinic of Minoudar,54
+60,Goharshad Clinic,63
+60,Parsian,35
+60,Specialized Clinics of Velayat Hospital,58
+60,Imam Khomeini Clinic,47
+60,Shahid Pakravan Clinic,34
+60,Imam Sajjad Clinic,30
+60,Community health centre No. 2,33
+60,Community health centre No. 3,21
+60,Imam Hussein Clinic and Doctors Building,8
+60,Community health centre No. 7 (Ferdosi),7
+60,Community health centre No. 6 (Valiasr),26
+60,Aref Clinic,18
+60,Community health centre (Madani),36
+60,Radmehr Specialized Clinic,38
+60,Razi Medical Clinic,36
+60,Shahid Bolandian Health Center,39
+60,Community health centre (Poonak number11),49
+60,Amir Ol-Mo'menin Clinic,56
+60,Abotaleb Taghavi Clinic,56
+60,Yasin clinic,39
+60,Community health centre (Alijani No. 8),50
+60,Community health centre (HadiAbad number9),41
+60,Shohadaye Naja Clinic,33
+60,Community health centre (Navab No. 8),24
+60,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,17
+60,Community health centre (Sadi),21
+60,Community health centre (Tabriz),33
+60,Milad Clinic,15
+60,Mehregan Clinic,33
+60,Poonak Clinic,47
+60,Aria Clinic,46
+60,Mohammadzadeh Specialized Clinic,45
+60,Comprehensive Health Services Center No. 13 (Bano Mohtasham),9
+61,Farhangian Clinic,6
+61,Ghaem Clinic,11
+61,Boo Alii Sina Clinic,13
+61,Emam Ali Clinic 24hours,24
+61,Sina Clinic,36
+61,Red Crescent General and Specialized Clinic,18
+61,24h Clinic of Minoudar,42
+61,Goharshad Clinic,52
+61,Parsian,36
+61,Specialized Clinics of Velayat Hospital,48
+61,Imam Khomeini Clinic,35
+61,Shahid Pakravan Clinic,26
+61,Imam Sajjad Clinic,23
+61,Community health centre No. 2,31
+61,Community health centre No. 3,19
+61,Imam Hussein Clinic and Doctors Building,14
+61,Community health centre No. 7 (Ferdosi),13
+61,Community health centre No. 6 (Valiasr),32
+61,Aref Clinic,25
+61,Community health centre (Madani),37
+61,Radmehr Specialized Clinic,39
+61,Razi Medical Clinic,37
+61,Shahid Bolandian Health Center,40
+61,Community health centre (Poonak number11),50
+61,Amir Ol-Mo'menin Clinic,44
+61,Abotaleb Taghavi Clinic,44
+61,Yasin clinic,41
+61,Community health centre (Alijani No. 8),38
+61,Community health centre (HadiAbad number9),30
+61,Shohadaye Naja Clinic,23
+61,Community health centre (Navab No. 8),12
+61,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,9
+61,Community health centre (Sadi),7
+61,Community health centre (Tabriz),27
+61,Milad Clinic,21
+61,Mehregan Clinic,34
+61,Poonak Clinic,48
+61,Aria Clinic,47
+61,Mohammadzadeh Specialized Clinic,46
+61,Comprehensive Health Services Center No. 13 (Bano Mohtasham),15
+62,Farhangian Clinic,15
+62,Ghaem Clinic,19
+62,Boo Alii Sina Clinic,21
+62,Emam Ali Clinic 24hours,30
+62,Sina Clinic,40
+62,Red Crescent General and Specialized Clinic,24
+62,24h Clinic of Minoudar,38
+62,Goharshad Clinic,48
+62,Parsian,44
+62,Specialized Clinics of Velayat Hospital,46
+62,Imam Khomeini Clinic,33
+62,Shahid Pakravan Clinic,28
+62,Imam Sajjad Clinic,25
+62,Community health centre No. 2,41
+62,Community health centre No. 3,28
+62,Imam Hussein Clinic and Doctors Building,20
+62,Community health centre No. 7 (Ferdosi),21
+62,Community health centre No. 6 (Valiasr),38
+62,Aref Clinic,32
+62,Community health centre (Madani),41
+62,Radmehr Specialized Clinic,47
+62,Razi Medical Clinic,45
+62,Shahid Bolandian Health Center,48
+62,Community health centre (Poonak number11),58
+62,Amir Ol-Mo'menin Clinic,42
+62,Abotaleb Taghavi Clinic,40
+62,Yasin clinic,46
+62,Community health centre (Alijani No. 8),37
+62,Community health centre (HadiAbad number9),29
+62,Shohadaye Naja Clinic,20
+62,Community health centre (Navab No. 8),8
+62,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,11
+62,Community health centre (Sadi),6
+62,Community health centre (Tabriz),20
+62,Milad Clinic,28
+62,Mehregan Clinic,42
+62,Poonak Clinic,56
+62,Aria Clinic,55
+62,Mohammadzadeh Specialized Clinic,54
+62,Comprehensive Health Services Center No. 13 (Bano Mohtasham),22
+63,Farhangian Clinic,20
+63,Ghaem Clinic,24
+63,Boo Alii Sina Clinic,26
+63,Emam Ali Clinic 24hours,31
+63,Sina Clinic,36
+63,Red Crescent General and Specialized Clinic,29
+63,24h Clinic of Minoudar,35
+63,Goharshad Clinic,45
+63,Parsian,44
+63,Specialized Clinics of Velayat Hospital,42
+63,Imam Khomeini Clinic,29
+63,Shahid Pakravan Clinic,27
+63,Imam Sajjad Clinic,28
+63,Community health centre No. 2,42
+63,Community health centre No. 3,29
+63,Imam Hussein Clinic and Doctors Building,26
+63,Community health centre No. 7 (Ferdosi),25
+63,Community health centre No. 6 (Valiasr),39
+63,Aref Clinic,36
+63,Community health centre (Madani),37
+63,Radmehr Specialized Clinic,44
+63,Razi Medical Clinic,44
+63,Shahid Bolandian Health Center,50
+63,Community health centre (Poonak number11),62
+63,Amir Ol-Mo'menin Clinic,38
+63,Abotaleb Taghavi Clinic,37
+63,Yasin clinic,43
+63,Community health centre (Alijani No. 8),32
+63,Community health centre (HadiAbad number9),26
+63,Shohadaye Naja Clinic,18
+63,Community health centre (Navab No. 8),6
+63,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,15
+63,Community health centre (Sadi),14
+63,Community health centre (Tabriz),17
+63,Milad Clinic,33
+63,Mehregan Clinic,39
+63,Poonak Clinic,60
+63,Aria Clinic,54
+63,Mohammadzadeh Specialized Clinic,58
+63,Comprehensive Health Services Center No. 13 (Bano Mohtasham),27
+64,Farhangian Clinic,13
+64,Ghaem Clinic,17
+64,Boo Alii Sina Clinic,15
+64,Emam Ali Clinic 24hours,32
+64,Sina Clinic,33
+64,Red Crescent General and Specialized Clinic,22
+64,24h Clinic of Minoudar,53
+64,Goharshad Clinic,64
+64,Parsian,30
+64,Specialized Clinics of Velayat Hospital,58
+64,Imam Khomeini Clinic,47
+64,Shahid Pakravan Clinic,34
+64,Imam Sajjad Clinic,29
+64,Community health centre No. 2,40
+64,Community health centre No. 3,29
+64,Imam Hussein Clinic and Doctors Building,16
+64,Community health centre No. 7 (Ferdosi),8
+64,Community health centre No. 6 (Valiasr),24
+64,Aref Clinic,8
+64,Community health centre (Madani),31
+64,Radmehr Specialized Clinic,33
+64,Razi Medical Clinic,31
+64,Shahid Bolandian Health Center,34
+64,Community health centre (Poonak number11),44
+64,Amir Ol-Mo'menin Clinic,56
+64,Abotaleb Taghavi Clinic,56
+64,Yasin clinic,40
+64,Community health centre (Alijani No. 8),49
+64,Community health centre (HadiAbad number9),41
+64,Shohadaye Naja Clinic,34
+64,Community health centre (Navab No. 8),26
+64,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,20
+64,Community health centre (Sadi),23
+64,Community health centre (Tabriz),39
+64,Milad Clinic,4
+64,Mehregan Clinic,28
+64,Poonak Clinic,42
+64,Aria Clinic,41
+64,Mohammadzadeh Specialized Clinic,40
+64,Comprehensive Health Services Center No. 13 (Bano Mohtasham),19
+65,Farhangian Clinic,30
+65,Ghaem Clinic,31
+65,Boo Alii Sina Clinic,30
+65,Emam Ali Clinic 24hours,38
+65,Sina Clinic,33
+65,Red Crescent General and Specialized Clinic,36
+65,24h Clinic of Minoudar,46
+65,Goharshad Clinic,58
+65,Parsian,32
+65,Specialized Clinics of Velayat Hospital,53
+65,Imam Khomeini Clinic,40
+65,Shahid Pakravan Clinic,34
+65,Imam Sajjad Clinic,28
+65,Community health centre No. 2,43
+65,Community health centre No. 3,35
+65,Imam Hussein Clinic and Doctors Building,31
+65,Community health centre No. 7 (Ferdosi),26
+65,Community health centre No. 6 (Valiasr),14
+65,Aref Clinic,13
+65,Community health centre (Madani),33
+65,Radmehr Specialized Clinic,35
+65,Razi Medical Clinic,32
+65,Shahid Bolandian Health Center,36
+65,Community health centre (Poonak number11),47
+65,Amir Ol-Mo'menin Clinic,49
+65,Abotaleb Taghavi Clinic,50
+65,Yasin clinic,37
+65,Community health centre (Alijani No. 8),46
+65,Community health centre (HadiAbad number9),41
+65,Shohadaye Naja Clinic,35
+65,Community health centre (Navab No. 8),34
+65,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,35
+65,Community health centre (Sadi),34
+65,Community health centre (Tabriz),49
+65,Milad Clinic,23
+65,Mehregan Clinic,30
+65,Poonak Clinic,45
+65,Aria Clinic,40
+65,Mohammadzadeh Specialized Clinic,43
+65,Comprehensive Health Services Center No. 13 (Bano Mohtasham),34
+66,Farhangian Clinic,11
+66,Ghaem Clinic,15
+66,Boo Alii Sina Clinic,13
+66,Emam Ali Clinic 24hours,30
+66,Sina Clinic,30
+66,Red Crescent General and Specialized Clinic,21
+66,24h Clinic of Minoudar,52
+66,Goharshad Clinic,62
+66,Parsian,28
+66,Specialized Clinics of Velayat Hospital,56
+66,Imam Khomeini Clinic,47
+66,Shahid Pakravan Clinic,32
+66,Imam Sajjad Clinic,27
+66,Community health centre No. 2,42
+66,Community health centre No. 3,30
+66,Imam Hussein Clinic and Doctors Building,17
+66,Community health centre No. 7 (Ferdosi),4
+66,Community health centre No. 6 (Valiasr),29
+66,Aref Clinic,12
+66,Community health centre (Madani),29
+66,Radmehr Specialized Clinic,31
+66,Razi Medical Clinic,29
+66,Shahid Bolandian Health Center,32
+66,Community health centre (Poonak number11),42
+66,Amir Ol-Mo'menin Clinic,56
+66,Abotaleb Taghavi Clinic,54
+66,Yasin clinic,36
+66,Community health centre (Alijani No. 8),48
+66,Community health centre (HadiAbad number9),39
+66,Shohadaye Naja Clinic,32
+66,Community health centre (Navab No. 8),25
+66,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,18
+66,Community health centre (Sadi),24
+66,Community health centre (Tabriz),39
+66,Milad Clinic,4
+66,Mehregan Clinic,26
+66,Poonak Clinic,40
+66,Aria Clinic,39
+66,Mohammadzadeh Specialized Clinic,38
+66,Comprehensive Health Services Center No. 13 (Bano Mohtasham),18
+67,Farhangian Clinic,24
+67,Ghaem Clinic,28
+67,Boo Alii Sina Clinic,26
+67,Emam Ali Clinic 24hours,41
+67,Sina Clinic,37
+67,Red Crescent General and Specialized Clinic,33
+67,24h Clinic of Minoudar,48
+67,Goharshad Clinic,60
+67,Parsian,36
+67,Specialized Clinics of Velayat Hospital,55
+67,Imam Khomeini Clinic,42
+67,Shahid Pakravan Clinic,36
+67,Imam Sajjad Clinic,30
+67,Community health centre No. 2,47
+67,Community health centre No. 3,37
+67,Imam Hussein Clinic and Doctors Building,27
+67,Community health centre No. 7 (Ferdosi),20
+67,Community health centre No. 6 (Valiasr),16
+67,Aref Clinic,7
+67,Community health centre (Madani),37
+67,Radmehr Specialized Clinic,39
+67,Razi Medical Clinic,36
+67,Shahid Bolandian Health Center,40
+67,Community health centre (Poonak number11),51
+67,Amir Ol-Mo'menin Clinic,51
+67,Abotaleb Taghavi Clinic,52
+67,Yasin clinic,41
+67,Community health centre (Alijani No. 8),48
+67,Community health centre (HadiAbad number9),43
+67,Shohadaye Naja Clinic,37
+67,Community health centre (Navab No. 8),34
+67,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,31
+67,Community health centre (Sadi),31
+67,Community health centre (Tabriz),49
+67,Milad Clinic,17
+67,Mehregan Clinic,34
+67,Poonak Clinic,49
+67,Aria Clinic,44
+67,Mohammadzadeh Specialized Clinic,47
+67,Comprehensive Health Services Center No. 13 (Bano Mohtasham),30
+68,Farhangian Clinic,7
+68,Ghaem Clinic,15
+68,Boo Alii Sina Clinic,14
+68,Emam Ali Clinic 24hours,27
+68,Sina Clinic,27
+68,Red Crescent General and Specialized Clinic,21
+68,24h Clinic of Minoudar,51
+68,Goharshad Clinic,59
+68,Parsian,27
+68,Specialized Clinics of Velayat Hospital,52
+68,Imam Khomeini Clinic,42
+68,Shahid Pakravan Clinic,28
+68,Imam Sajjad Clinic,23
+68,Community health centre No. 2,37
+68,Community health centre No. 3,25
+68,Imam Hussein Clinic and Doctors Building,17
+68,Community health centre No. 7 (Ferdosi),5
+68,Community health centre No. 6 (Valiasr),33
+68,Aref Clinic,17
+68,Community health centre (Madani),28
+68,Radmehr Specialized Clinic,30
+68,Razi Medical Clinic,28
+68,Shahid Bolandian Health Center,31
+68,Community health centre (Poonak number11),41
+68,Amir Ol-Mo'menin Clinic,51
+68,Abotaleb Taghavi Clinic,51
+68,Yasin clinic,32
+68,Community health centre (Alijani No. 8),45
+68,Community health centre (HadiAbad number9),36
+68,Shohadaye Naja Clinic,26
+68,Community health centre (Navab No. 8),21
+68,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,12
+68,Community health centre (Sadi),20
+68,Community health centre (Tabriz),38
+68,Milad Clinic,8
+68,Mehregan Clinic,25
+68,Poonak Clinic,39
+68,Aria Clinic,38
+68,Mohammadzadeh Specialized Clinic,37
+68,Comprehensive Health Services Center No. 13 (Bano Mohtasham),19
+69,Farhangian Clinic,8
+69,Ghaem Clinic,16
+69,Boo Alii Sina Clinic,18
+69,Emam Ali Clinic 24hours,28
+69,Sina Clinic,30
+69,Red Crescent General and Specialized Clinic,23
+69,24h Clinic of Minoudar,44
+69,Goharshad Clinic,53
+69,Parsian,30
+69,Specialized Clinics of Velayat Hospital,49
+69,Imam Khomeini Clinic,36
+69,Shahid Pakravan Clinic,27
+69,Imam Sajjad Clinic,22
+69,Community health centre No. 2,39
+69,Community health centre No. 3,27
+69,Imam Hussein Clinic and Doctors Building,19
+69,Community health centre No. 7 (Ferdosi),13
+69,Community health centre No. 6 (Valiasr),36
+69,Aref Clinic,25
+69,Community health centre (Madani),31
+69,Radmehr Specialized Clinic,33
+69,Razi Medical Clinic,31
+69,Shahid Bolandian Health Center,34
+69,Community health centre (Poonak number11),44
+69,Amir Ol-Mo'menin Clinic,45
+69,Abotaleb Taghavi Clinic,45
+69,Yasin clinic,35
+69,Community health centre (Alijani No. 8),41
+69,Community health centre (HadiAbad number9),32
+69,Shohadaye Naja Clinic,20
+69,Community health centre (Navab No. 8),14
+69,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,4
+69,Community health centre (Sadi),14
+69,Community health centre (Tabriz),34
+69,Milad Clinic,17
+69,Mehregan Clinic,28
+69,Poonak Clinic,42
+69,Aria Clinic,41
+69,Mohammadzadeh Specialized Clinic,40
+69,Comprehensive Health Services Center No. 13 (Bano Mohtasham),21
+70,Farhangian Clinic,22
+70,Ghaem Clinic,27
+70,Boo Alii Sina Clinic,25
+70,Emam Ali Clinic 24hours,39
+70,Sina Clinic,35
+70,Red Crescent General and Specialized Clinic,31
+70,24h Clinic of Minoudar,49
+70,Goharshad Clinic,60
+70,Parsian,32
+70,Specialized Clinics of Velayat Hospital,56
+70,Imam Khomeini Clinic,43
+70,Shahid Pakravan Clinic,35
+70,Imam Sajjad Clinic,29
+70,Community health centre No. 2,47
+70,Community health centre No. 3,37
+70,Imam Hussein Clinic and Doctors Building,25
+70,Community health centre No. 7 (Ferdosi),16
+70,Community health centre No. 6 (Valiasr),24
+70,Aref Clinic,5
+70,Community health centre (Madani),33
+70,Radmehr Specialized Clinic,35
+70,Razi Medical Clinic,32
+70,Shahid Bolandian Health Center,36
+70,Community health centre (Poonak number11),47
+70,Amir Ol-Mo'menin Clinic,52
+70,Abotaleb Taghavi Clinic,52
+70,Yasin clinic,41
+70,Community health centre (Alijani No. 8),48
+70,Community health centre (HadiAbad number9),42
+70,Shohadaye Naja Clinic,36
+70,Community health centre (Navab No. 8),34
+70,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,28
+70,Community health centre (Sadi),31
+70,Community health centre (Tabriz),48
+70,Milad Clinic,9
+70,Mehregan Clinic,30
+70,Poonak Clinic,45
+70,Aria Clinic,40
+70,Mohammadzadeh Specialized Clinic,43
+70,Comprehensive Health Services Center No. 13 (Bano Mohtasham),28
+71,Farhangian Clinic,21
+71,Ghaem Clinic,25
+71,Boo Alii Sina Clinic,23
+71,Emam Ali Clinic 24hours,38
+71,Sina Clinic,31
+71,Red Crescent General and Specialized Clinic,30
+71,24h Clinic of Minoudar,49
+71,Goharshad Clinic,58
+71,Parsian,26
+71,Specialized Clinics of Velayat Hospital,56
+71,Imam Khomeini Clinic,43
+71,Shahid Pakravan Clinic,28
+71,Imam Sajjad Clinic,23
+71,Community health centre No. 2,49
+71,Community health centre No. 3,38
+71,Imam Hussein Clinic and Doctors Building,24
+71,Community health centre No. 7 (Ferdosi),15
+71,Community health centre No. 6 (Valiasr),25
+71,Aref Clinic,13
+71,Community health centre (Madani),27
+71,Radmehr Specialized Clinic,29
+71,Razi Medical Clinic,27
+71,Shahid Bolandian Health Center,30
+71,Community health centre (Poonak number11),40
+71,Amir Ol-Mo'menin Clinic,52
+71,Abotaleb Taghavi Clinic,51
+71,Yasin clinic,40
+71,Community health centre (Alijani No. 8),47
+71,Community health centre (HadiAbad number9),39
+71,Shohadaye Naja Clinic,33
+71,Community health centre (Navab No. 8),33
+71,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,25
+71,Community health centre (Sadi),29
+71,Community health centre (Tabriz),45
+71,Milad Clinic,8
+71,Mehregan Clinic,24
+71,Poonak Clinic,38
+71,Aria Clinic,37
+71,Mohammadzadeh Specialized Clinic,36
+71,Comprehensive Health Services Center No. 13 (Bano Mohtasham),27
+72,Farhangian Clinic,17
+72,Ghaem Clinic,21
+72,Boo Alii Sina Clinic,19
+72,Emam Ali Clinic 24hours,33
+72,Sina Clinic,28
+72,Red Crescent General and Specialized Clinic,26
+72,24h Clinic of Minoudar,46
+72,Goharshad Clinic,56
+72,Parsian,23
+72,Specialized Clinics of Velayat Hospital,53
+72,Imam Khomeini Clinic,40
+72,Shahid Pakravan Clinic,25
+72,Imam Sajjad Clinic,20
+72,Community health centre No. 2,47
+72,Community health centre No. 3,35
+72,Imam Hussein Clinic and Doctors Building,22
+72,Community health centre No. 7 (Ferdosi),10
+72,Community health centre No. 6 (Valiasr),28
+72,Aref Clinic,16
+72,Community health centre (Madani),24
+72,Radmehr Specialized Clinic,26
+72,Razi Medical Clinic,24
+72,Shahid Bolandian Health Center,27
+72,Community health centre (Poonak number11),37
+72,Amir Ol-Mo'menin Clinic,49
+72,Abotaleb Taghavi Clinic,48
+72,Yasin clinic,37
+72,Community health centre (Alijani No. 8),44
+72,Community health centre (HadiAbad number9),37
+72,Shohadaye Naja Clinic,29
+72,Community health centre (Navab No. 8),30
+72,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,20
+72,Community health centre (Sadi),27
+72,Community health centre (Tabriz),43
+72,Milad Clinic,7
+72,Mehregan Clinic,21
+72,Poonak Clinic,35
+72,Aria Clinic,34
+72,Mohammadzadeh Specialized Clinic,33
+72,Comprehensive Health Services Center No. 13 (Bano Mohtasham),24
+73,Farhangian Clinic,16
+73,Ghaem Clinic,23
+73,Boo Alii Sina Clinic,25
+73,Emam Ali Clinic 24hours,35
+73,Sina Clinic,37
+73,Red Crescent General and Specialized Clinic,30
+73,24h Clinic of Minoudar,39
+73,Goharshad Clinic,45
+73,Parsian,38
+73,Specialized Clinics of Velayat Hospital,45
+73,Imam Khomeini Clinic,32
+73,Shahid Pakravan Clinic,23
+73,Imam Sajjad Clinic,19
+73,Community health centre No. 2,43
+73,Community health centre No. 3,31
+73,Imam Hussein Clinic and Doctors Building,26
+73,Community health centre No. 7 (Ferdosi),21
+73,Community health centre No. 6 (Valiasr),39
+73,Aref Clinic,32
+73,Community health centre (Madani),37
+73,Radmehr Specialized Clinic,41
+73,Razi Medical Clinic,39
+73,Shahid Bolandian Health Center,42
+73,Community health centre (Poonak number11),52
+73,Amir Ol-Mo'menin Clinic,41
+73,Abotaleb Taghavi Clinic,39
+73,Yasin clinic,41
+73,Community health centre (Alijani No. 8),35
+73,Community health centre (HadiAbad number9),24
+73,Shohadaye Naja Clinic,9
+73,Community health centre (Navab No. 8),11
+73,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,7
+73,Community health centre (Sadi),14
+73,Community health centre (Tabriz),31
+73,Milad Clinic,25
+73,Mehregan Clinic,36
+73,Poonak Clinic,50
+73,Aria Clinic,49
+73,Mohammadzadeh Specialized Clinic,48
+73,Comprehensive Health Services Center No. 13 (Bano Mohtasham),27
+74,Farhangian Clinic,26
+74,Ghaem Clinic,33
+74,Boo Alii Sina Clinic,35
+74,Emam Ali Clinic 24hours,38
+74,Sina Clinic,35
+74,Red Crescent General and Specialized Clinic,39
+74,24h Clinic of Minoudar,34
+74,Goharshad Clinic,47
+74,Parsian,45
+74,Specialized Clinics of Velayat Hospital,41
+74,Imam Khomeini Clinic,28
+74,Shahid Pakravan Clinic,31
+74,Imam Sajjad Clinic,31
+74,Community health centre No. 2,50
+74,Community health centre No. 3,37
+74,Imam Hussein Clinic and Doctors Building,36
+74,Community health centre No. 7 (Ferdosi),31
+74,Community health centre No. 6 (Valiasr),43
+74,Aref Clinic,42
+74,Community health centre (Madani),36
+74,Radmehr Specialized Clinic,43
+74,Razi Medical Clinic,45
+74,Shahid Bolandian Health Center,52
+74,Community health centre (Poonak number11),66
+74,Amir Ol-Mo'menin Clinic,37
+74,Abotaleb Taghavi Clinic,38
+74,Yasin clinic,42
+74,Community health centre (Alijani No. 8),33
+74,Community health centre (HadiAbad number9),30
+74,Shohadaye Naja Clinic,19
+74,Community health centre (Navab No. 8),11
+74,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,21
+74,Community health centre (Sadi),21
+74,Community health centre (Tabriz),26
+74,Milad Clinic,39
+74,Mehregan Clinic,38
+74,Poonak Clinic,64
+74,Aria Clinic,55
+74,Mohammadzadeh Specialized Clinic,62
+74,Comprehensive Health Services Center No. 13 (Bano Mohtasham),37
+75,Farhangian Clinic,30
+75,Ghaem Clinic,27
+75,Boo Alii Sina Clinic,28
+75,Emam Ali Clinic 24hours,34
+75,Sina Clinic,25
+75,Red Crescent General and Specialized Clinic,33
+75,24h Clinic of Minoudar,38
+75,Goharshad Clinic,51
+75,Parsian,24
+75,Specialized Clinics of Velayat Hospital,45
+75,Imam Khomeini Clinic,32
+75,Shahid Pakravan Clinic,29
+75,Imam Sajjad Clinic,26
+75,Community health centre No. 2,40
+75,Community health centre No. 3,32
+75,Imam Hussein Clinic and Doctors Building,28
+75,Community health centre No. 7 (Ferdosi),29
+75,Community health centre No. 6 (Valiasr),13
+75,Aref Clinic,18
+75,Community health centre (Madani),25
+75,Radmehr Specialized Clinic,27
+75,Razi Medical Clinic,24
+75,Shahid Bolandian Health Center,28
+75,Community health centre (Poonak number11),39
+75,Amir Ol-Mo'menin Clinic,41
+75,Abotaleb Taghavi Clinic,42
+75,Yasin clinic,29
+75,Community health centre (Alijani No. 8),38
+75,Community health centre (HadiAbad number9),34
+75,Shohadaye Naja Clinic,29
+75,Community health centre (Navab No. 8),26
+75,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,31
+75,Community health centre (Sadi),30
+75,Community health centre (Tabriz),43
+75,Milad Clinic,23
+75,Mehregan Clinic,22
+75,Poonak Clinic,37
+75,Aria Clinic,32
+75,Mohammadzadeh Specialized Clinic,35
+75,Comprehensive Health Services Center No. 13 (Bano Mohtasham),31
+76,Farhangian Clinic,30
+76,Ghaem Clinic,36
+76,Boo Alii Sina Clinic,38
+76,Emam Ali Clinic 24hours,42
+76,Sina Clinic,37
+76,Red Crescent General and Specialized Clinic,42
+76,24h Clinic of Minoudar,36
+76,Goharshad Clinic,47
+76,Parsian,46
+76,Specialized Clinics of Velayat Hospital,43
+76,Imam Khomeini Clinic,30
+76,Shahid Pakravan Clinic,29
+76,Imam Sajjad Clinic,27
+76,Community health centre No. 2,53
+76,Community health centre No. 3,40
+76,Imam Hussein Clinic and Doctors Building,38
+76,Community health centre No. 7 (Ferdosi),35
+76,Community health centre No. 6 (Valiasr),42
+76,Aref Clinic,46
+76,Community health centre (Madani),38
+76,Radmehr Specialized Clinic,45
+76,Razi Medical Clinic,46
+76,Shahid Bolandian Health Center,52
+76,Community health centre (Poonak number11),66
+76,Amir Ol-Mo'menin Clinic,39
+76,Abotaleb Taghavi Clinic,40
+76,Yasin clinic,44
+76,Community health centre (Alijani No. 8),33
+76,Community health centre (HadiAbad number9),26
+76,Shohadaye Naja Clinic,8
+76,Community health centre (Navab No. 8),15
+76,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,24
+76,Community health centre (Sadi),24
+76,Community health centre (Tabriz),33
+76,Milad Clinic,39
+76,Mehregan Clinic,40
+76,Poonak Clinic,64
+76,Aria Clinic,56
+76,Mohammadzadeh Specialized Clinic,62
+76,Comprehensive Health Services Center No. 13 (Bano Mohtasham),39
+77,Farhangian Clinic,18
+77,Ghaem Clinic,19
+77,Boo Alii Sina Clinic,21
+77,Emam Ali Clinic 24hours,32
+77,Sina Clinic,26
+77,Red Crescent General and Specialized Clinic,26
+77,24h Clinic of Minoudar,45
+77,Goharshad Clinic,55
+77,Parsian,24
+77,Specialized Clinics of Velayat Hospital,50
+77,Imam Khomeini Clinic,38
+77,Shahid Pakravan Clinic,21
+77,Imam Sajjad Clinic,16
+77,Community health centre No. 2,47
+77,Community health centre No. 3,35
+77,Imam Hussein Clinic and Doctors Building,22
+77,Community health centre No. 7 (Ferdosi),14
+77,Community health centre No. 6 (Valiasr),28
+77,Aref Clinic,22
+77,Community health centre (Madani),25
+77,Radmehr Specialized Clinic,27
+77,Razi Medical Clinic,25
+77,Shahid Bolandian Health Center,28
+77,Community health centre (Poonak number11),38
+77,Amir Ol-Mo'menin Clinic,47
+77,Abotaleb Taghavi Clinic,47
+77,Yasin clinic,32
+77,Community health centre (Alijani No. 8),42
+77,Community health centre (HadiAbad number9),34
+77,Shohadaye Naja Clinic,27
+77,Community health centre (Navab No. 8),28
+77,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,18
+77,Community health centre (Sadi),28
+77,Community health centre (Tabriz),44
+77,Milad Clinic,12
+77,Mehregan Clinic,22
+77,Poonak Clinic,36
+77,Aria Clinic,35
+77,Mohammadzadeh Specialized Clinic,34
+77,Comprehensive Health Services Center No. 13 (Bano Mohtasham),24
+78,Farhangian Clinic,17
+78,Ghaem Clinic,19
+78,Boo Alii Sina Clinic,21
+78,Emam Ali Clinic 24hours,32
+78,Sina Clinic,30
+78,Red Crescent General and Specialized Clinic,26
+78,24h Clinic of Minoudar,42
+78,Goharshad Clinic,50
+78,Parsian,32
+78,Specialized Clinics of Velayat Hospital,46
+78,Imam Khomeini Clinic,34
+78,Shahid Pakravan Clinic,17
+78,Imam Sajjad Clinic,11
+78,Community health centre No. 2,46
+78,Community health centre No. 3,34
+78,Imam Hussein Clinic and Doctors Building,22
+78,Community health centre No. 7 (Ferdosi),17
+78,Community health centre No. 6 (Valiasr),31
+78,Aref Clinic,26
+78,Community health centre (Madani),31
+78,Radmehr Specialized Clinic,33
+78,Razi Medical Clinic,33
+78,Shahid Bolandian Health Center,36
+78,Community health centre (Poonak number11),46
+78,Amir Ol-Mo'menin Clinic,41
+78,Abotaleb Taghavi Clinic,44
+78,Yasin clinic,33
+78,Community health centre (Alijani No. 8),38
+78,Community health centre (HadiAbad number9),27
+78,Shohadaye Naja Clinic,17
+78,Community health centre (Navab No. 8),22
+78,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,14
+78,Community health centre (Sadi),24
+78,Community health centre (Tabriz),41
+78,Milad Clinic,17
+78,Mehregan Clinic,28
+78,Poonak Clinic,44
+78,Aria Clinic,41
+78,Mohammadzadeh Specialized Clinic,42
+78,Comprehensive Health Services Center No. 13 (Bano Mohtasham),23
+79,Farhangian Clinic,23
+79,Ghaem Clinic,26
+79,Boo Alii Sina Clinic,28
+79,Emam Ali Clinic 24hours,39
+79,Sina Clinic,34
+79,Red Crescent General and Specialized Clinic,33
+79,24h Clinic of Minoudar,36
+79,Goharshad Clinic,42
+79,Parsian,38
+79,Specialized Clinics of Velayat Hospital,43
+79,Imam Khomeini Clinic,30
+79,Shahid Pakravan Clinic,14
+79,Imam Sajjad Clinic,9
+79,Community health centre No. 2,52
+79,Community health centre No. 3,40
+79,Imam Hussein Clinic and Doctors Building,29
+79,Community health centre No. 7 (Ferdosi),25
+79,Community health centre No. 6 (Valiasr),32
+79,Aref Clinic,34
+79,Community health centre (Madani),35
+79,Radmehr Specialized Clinic,39
+79,Razi Medical Clinic,38
+79,Shahid Bolandian Health Center,42
+79,Community health centre (Poonak number11),53
+79,Amir Ol-Mo'menin Clinic,39
+79,Abotaleb Taghavi Clinic,36
+79,Yasin clinic,37
+79,Community health centre (Alijani No. 8),34
+79,Community health centre (HadiAbad number9),21
+79,Shohadaye Naja Clinic,10
+79,Community health centre (Navab No. 8),17
+79,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,15
+79,Community health centre (Sadi),20
+79,Community health centre (Tabriz),38
+79,Milad Clinic,24
+79,Mehregan Clinic,34
+79,Poonak Clinic,51
+79,Aria Clinic,46
+79,Mohammadzadeh Specialized Clinic,49
+79,Comprehensive Health Services Center No. 13 (Bano Mohtasham),31
+80,Farhangian Clinic,24
+80,Ghaem Clinic,30
+80,Boo Alii Sina Clinic,32
+80,Emam Ali Clinic 24hours,41
+80,Sina Clinic,39
+80,Red Crescent General and Specialized Clinic,36
+80,24h Clinic of Minoudar,36
+80,Goharshad Clinic,44
+80,Parsian,44
+80,Specialized Clinics of Velayat Hospital,45
+80,Imam Khomeini Clinic,32
+80,Shahid Pakravan Clinic,25
+80,Imam Sajjad Clinic,21
+80,Community health centre No. 2,52
+80,Community health centre No. 3,40
+80,Imam Hussein Clinic and Doctors Building,32
+80,Community health centre No. 7 (Ferdosi),29
+80,Community health centre No. 6 (Valiasr),40
+80,Aref Clinic,41
+80,Community health centre (Madani),40
+80,Radmehr Specialized Clinic,46
+80,Razi Medical Clinic,44
+80,Shahid Bolandian Health Center,49
+80,Community health centre (Poonak number11),59
+80,Amir Ol-Mo'menin Clinic,41
+80,Abotaleb Taghavi Clinic,37
+80,Yasin clinic,44
+80,Community health centre (Alijani No. 8),34
+80,Community health centre (HadiAbad number9),22
+80,Shohadaye Naja Clinic,3
+80,Community health centre (Navab No. 8),10
+80,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,15
+80,Community health centre (Sadi),20
+80,Community health centre (Tabriz),32
+80,Milad Clinic,32
+80,Mehregan Clinic,41
+80,Poonak Clinic,57
+80,Aria Clinic,54
+80,Mohammadzadeh Specialized Clinic,55
+80,Comprehensive Health Services Center No. 13 (Bano Mohtasham),34
+81,Farhangian Clinic,31
+81,Ghaem Clinic,33
+81,Boo Alii Sina Clinic,34
+81,Emam Ali Clinic 24hours,41
+81,Sina Clinic,29
+81,Red Crescent General and Specialized Clinic,39
+81,24h Clinic of Minoudar,41
+81,Goharshad Clinic,54
+81,Parsian,28
+81,Specialized Clinics of Velayat Hospital,48
+81,Imam Khomeini Clinic,35
+81,Shahid Pakravan Clinic,33
+81,Imam Sajjad Clinic,30
+81,Community health centre No. 2,46
+81,Community health centre No. 3,38
+81,Imam Hussein Clinic and Doctors Building,34
+81,Community health centre No. 7 (Ferdosi),31
+81,Community health centre No. 6 (Valiasr),19
+81,Aref Clinic,22
+81,Community health centre (Madani),29
+81,Radmehr Specialized Clinic,31
+81,Razi Medical Clinic,28
+81,Shahid Bolandian Health Center,32
+81,Community health centre (Poonak number11),43
+81,Amir Ol-Mo'menin Clinic,44
+81,Abotaleb Taghavi Clinic,45
+81,Yasin clinic,33
+81,Community health centre (Alijani No. 8),41
+81,Community health centre (HadiAbad number9),38
+81,Shohadaye Naja Clinic,33
+81,Community health centre (Navab No. 8),29
+81,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,33
+81,Community health centre (Sadi),32
+81,Community health centre (Tabriz),46
+81,Milad Clinic,27
+81,Mehregan Clinic,26
+81,Poonak Clinic,41
+81,Aria Clinic,36
+81,Mohammadzadeh Specialized Clinic,39
+81,Comprehensive Health Services Center No. 13 (Bano Mohtasham),37
+82,Farhangian Clinic,26
+82,Ghaem Clinic,26
+82,Boo Alii Sina Clinic,28
+82,Emam Ali Clinic 24hours,39
+82,Sina Clinic,25
+82,Red Crescent General and Specialized Clinic,33
+82,24h Clinic of Minoudar,38
+82,Goharshad Clinic,51
+82,Parsian,22
+82,Specialized Clinics of Velayat Hospital,45
+82,Imam Khomeini Clinic,32
+82,Shahid Pakravan Clinic,25
+82,Imam Sajjad Clinic,22
+82,Community health centre No. 2,48
+82,Community health centre No. 3,38
+82,Imam Hussein Clinic and Doctors Building,29
+82,Community health centre No. 7 (Ferdosi),24
+82,Community health centre No. 6 (Valiasr),22
+82,Aref Clinic,22
+82,Community health centre (Madani),23
+82,Radmehr Specialized Clinic,25
+82,Razi Medical Clinic,22
+82,Shahid Bolandian Health Center,26
+82,Community health centre (Poonak number11),37
+82,Amir Ol-Mo'menin Clinic,41
+82,Abotaleb Taghavi Clinic,42
+82,Yasin clinic,31
+82,Community health centre (Alijani No. 8),38
+82,Community health centre (HadiAbad number9),35
+82,Shohadaye Naja Clinic,29
+82,Community health centre (Navab No. 8),26
+82,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,28
+82,Community health centre (Sadi),32
+82,Community health centre (Tabriz),43
+82,Milad Clinic,20
+82,Mehregan Clinic,20
+82,Poonak Clinic,35
+82,Aria Clinic,31
+82,Mohammadzadeh Specialized Clinic,33
+82,Comprehensive Health Services Center No. 13 (Bano Mohtasham),31
+83,Farhangian Clinic,22
+83,Ghaem Clinic,22
+83,Boo Alii Sina Clinic,24
+83,Emam Ali Clinic 24hours,35
+83,Sina Clinic,23
+83,Red Crescent General and Specialized Clinic,29
+83,24h Clinic of Minoudar,37
+83,Goharshad Clinic,49
+83,Parsian,22
+83,Specialized Clinics of Velayat Hospital,43
+83,Imam Khomeini Clinic,30
+83,Shahid Pakravan Clinic,15
+83,Imam Sajjad Clinic,13
+83,Community health centre No. 2,46
+83,Community health centre No. 3,35
+83,Imam Hussein Clinic and Doctors Building,25
+83,Community health centre No. 7 (Ferdosi),22
+83,Community health centre No. 6 (Valiasr),22
+83,Aref Clinic,30
+83,Community health centre (Madani),23
+83,Radmehr Specialized Clinic,25
+83,Razi Medical Clinic,22
+83,Shahid Bolandian Health Center,26
+83,Community health centre (Poonak number11),37
+83,Amir Ol-Mo'menin Clinic,39
+83,Abotaleb Taghavi Clinic,41
+83,Yasin clinic,28
+83,Community health centre (Alijani No. 8),36
+83,Community health centre (HadiAbad number9),28
+83,Shohadaye Naja Clinic,28
+83,Community health centre (Navab No. 8),25
+83,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,25
+83,Community health centre (Sadi),29
+83,Community health centre (Tabriz),42
+83,Milad Clinic,20
+83,Mehregan Clinic,20
+83,Poonak Clinic,35
+83,Aria Clinic,30
+83,Mohammadzadeh Specialized Clinic,33
+83,Comprehensive Health Services Center No. 13 (Bano Mohtasham),26
+84,Farhangian Clinic,36
+84,Ghaem Clinic,36
+84,Boo Alii Sina Clinic,37
+84,Emam Ali Clinic 24hours,45
+84,Sina Clinic,29
+84,Red Crescent General and Specialized Clinic,42
+84,24h Clinic of Minoudar,42
+84,Goharshad Clinic,55
+84,Parsian,27
+84,Specialized Clinics of Velayat Hospital,49
+84,Imam Khomeini Clinic,36
+84,Shahid Pakravan Clinic,34
+84,Imam Sajjad Clinic,35
+84,Community health centre No. 2,50
+84,Community health centre No. 3,42
+84,Imam Hussein Clinic and Doctors Building,38
+84,Community health centre No. 7 (Ferdosi),37
+84,Community health centre No. 6 (Valiasr),23
+84,Aref Clinic,30
+84,Community health centre (Madani),26
+84,Radmehr Specialized Clinic,30
+84,Razi Medical Clinic,27
+84,Shahid Bolandian Health Center,31
+84,Community health centre (Poonak number11),43
+84,Amir Ol-Mo'menin Clinic,45
+84,Abotaleb Taghavi Clinic,46
+84,Yasin clinic,33
+84,Community health centre (Alijani No. 8),42
+84,Community health centre (HadiAbad number9),39
+84,Shohadaye Naja Clinic,35
+84,Community health centre (Navab No. 8),30
+84,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,38
+84,Community health centre (Sadi),37
+84,Community health centre (Tabriz),47
+84,Milad Clinic,31
+84,Mehregan Clinic,22
+84,Poonak Clinic,41
+84,Aria Clinic,36
+84,Mohammadzadeh Specialized Clinic,39
+84,Comprehensive Health Services Center No. 13 (Bano Mohtasham),40
+85,Farhangian Clinic,26
+85,Ghaem Clinic,26
+85,Boo Alii Sina Clinic,28
+85,Emam Ali Clinic 24hours,39
+85,Sina Clinic,25
+85,Red Crescent General and Specialized Clinic,33
+85,24h Clinic of Minoudar,36
+85,Goharshad Clinic,47
+85,Parsian,30
+85,Specialized Clinics of Velayat Hospital,40
+85,Imam Khomeini Clinic,28
+85,Shahid Pakravan Clinic,6
+85,Imam Sajjad Clinic,5
+85,Community health centre No. 2,49
+85,Community health centre No. 3,37
+85,Imam Hussein Clinic and Doctors Building,29
+85,Community health centre No. 7 (Ferdosi),27
+85,Community health centre No. 6 (Valiasr),23
+85,Aref Clinic,32
+85,Community health centre (Madani),26
+85,Radmehr Specialized Clinic,30
+85,Razi Medical Clinic,29
+85,Shahid Bolandian Health Center,34
+85,Community health centre (Poonak number11),46
+85,Amir Ol-Mo'menin Clinic,35
+85,Abotaleb Taghavi Clinic,39
+85,Yasin clinic,28
+85,Community health centre (Alijani No. 8),33
+85,Community health centre (HadiAbad number9),21
+85,Shohadaye Naja Clinic,25
+85,Community health centre (Navab No. 8),26
+85,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,26
+85,Community health centre (Sadi),28
+85,Community health centre (Tabriz),43
+85,Milad Clinic,26
+85,Mehregan Clinic,25
+85,Poonak Clinic,44
+85,Aria Clinic,36
+85,Mohammadzadeh Specialized Clinic,42
+85,Comprehensive Health Services Center No. 13 (Bano Mohtasham),30
+86,Farhangian Clinic,27
+86,Ghaem Clinic,27
+86,Boo Alii Sina Clinic,29
+86,Emam Ali Clinic 24hours,40
+86,Sina Clinic,19
+86,Red Crescent General and Specialized Clinic,34
+86,24h Clinic of Minoudar,34
+86,Goharshad Clinic,47
+86,Parsian,25
+86,Specialized Clinics of Velayat Hospital,41
+86,Imam Khomeini Clinic,28
+86,Shahid Pakravan Clinic,17
+86,Imam Sajjad Clinic,18
+86,Community health centre No. 2,48
+86,Community health centre No. 3,37
+86,Imam Hussein Clinic and Doctors Building,30
+86,Community health centre No. 7 (Ferdosi),29
+86,Community health centre No. 6 (Valiasr),24
+86,Aref Clinic,35
+86,Community health centre (Madani),20
+86,Radmehr Specialized Clinic,25
+86,Razi Medical Clinic,24
+86,Shahid Bolandian Health Center,29
+86,Community health centre (Poonak number11),40
+86,Amir Ol-Mo'menin Clinic,37
+86,Abotaleb Taghavi Clinic,38
+86,Yasin clinic,24
+86,Community health centre (Alijani No. 8),33
+86,Community health centre (HadiAbad number9),28
+86,Shohadaye Naja Clinic,27
+86,Community health centre (Navab No. 8),22
+86,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,27
+86,Community health centre (Sadi),29
+86,Community health centre (Tabriz),39
+86,Milad Clinic,28
+86,Mehregan Clinic,20
+86,Poonak Clinic,38
+86,Aria Clinic,31
+86,Mohammadzadeh Specialized Clinic,36
+86,Comprehensive Health Services Center No. 13 (Bano Mohtasham),32
+87,Farhangian Clinic,27
+87,Ghaem Clinic,27
+87,Boo Alii Sina Clinic,29
+87,Emam Ali Clinic 24hours,38
+87,Sina Clinic,14
+87,Red Crescent General and Specialized Clinic,34
+87,24h Clinic of Minoudar,39
+87,Goharshad Clinic,52
+87,Parsian,15
+87,Specialized Clinics of Velayat Hospital,45
+87,Imam Khomeini Clinic,33
+87,Shahid Pakravan Clinic,26
+87,Imam Sajjad Clinic,26
+87,Community health centre No. 2,44
+87,Community health centre No. 3,36
+87,Imam Hussein Clinic and Doctors Building,30
+87,Community health centre No. 7 (Ferdosi),26
+87,Community health centre No. 6 (Valiasr),23
+87,Aref Clinic,31
+87,Community health centre (Madani),11
+87,Radmehr Specialized Clinic,18
+87,Razi Medical Clinic,15
+87,Shahid Bolandian Health Center,19
+87,Community health centre (Poonak number11),30
+87,Amir Ol-Mo'menin Clinic,42
+87,Abotaleb Taghavi Clinic,43
+87,Yasin clinic,28
+87,Community health centre (Alijani No. 8),38
+87,Community health centre (HadiAbad number9),32
+87,Shohadaye Naja Clinic,32
+87,Community health centre (Navab No. 8),27
+87,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,29
+87,Community health centre (Sadi),33
+87,Community health centre (Tabriz),44
+87,Milad Clinic,25
+87,Mehregan Clinic,8
+87,Poonak Clinic,28
+87,Aria Clinic,23
+87,Mohammadzadeh Specialized Clinic,26
+87,Comprehensive Health Services Center No. 13 (Bano Mohtasham),32
+88,Farhangian Clinic,28
+88,Ghaem Clinic,29
+88,Boo Alii Sina Clinic,31
+88,Emam Ali Clinic 24hours,40
+88,Sina Clinic,22
+88,Red Crescent General and Specialized Clinic,36
+88,24h Clinic of Minoudar,37
+88,Goharshad Clinic,50
+88,Parsian,19
+88,Specialized Clinics of Velayat Hospital,44
+88,Imam Khomeini Clinic,31
+88,Shahid Pakravan Clinic,26
+88,Imam Sajjad Clinic,27
+88,Community health centre No. 2,47
+88,Community health centre No. 3,38
+88,Imam Hussein Clinic and Doctors Building,32
+88,Community health centre No. 7 (Ferdosi),27
+88,Community health centre No. 6 (Valiasr),23
+88,Aref Clinic,26
+88,Community health centre (Madani),16
+88,Radmehr Specialized Clinic,22
+88,Razi Medical Clinic,19
+88,Shahid Bolandian Health Center,23
+88,Community health centre (Poonak number11),34
+88,Amir Ol-Mo'menin Clinic,40
+88,Abotaleb Taghavi Clinic,41
+88,Yasin clinic,30
+88,Community health centre (Alijani No. 8),37
+88,Community health centre (HadiAbad number9),35
+88,Shohadaye Naja Clinic,30
+88,Community health centre (Navab No. 8),25
+88,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,29
+88,Community health centre (Sadi),32
+88,Community health centre (Tabriz),42
+88,Milad Clinic,27
+88,Mehregan Clinic,13
+88,Poonak Clinic,32
+88,Aria Clinic,27
+88,Mohammadzadeh Specialized Clinic,30
+88,Comprehensive Health Services Center No. 13 (Bano Mohtasham),34
+89,Farhangian Clinic,28
+89,Ghaem Clinic,28
+89,Boo Alii Sina Clinic,30
+89,Emam Ali Clinic 24hours,39
+89,Sina Clinic,15
+89,Red Crescent General and Specialized Clinic,35
+89,24h Clinic of Minoudar,28
+89,Goharshad Clinic,39
+89,Parsian,25
+89,Specialized Clinics of Velayat Hospital,32
+89,Imam Khomeini Clinic,19
+89,Shahid Pakravan Clinic,14
+89,Imam Sajjad Clinic,18
+89,Community health centre No. 2,47
+89,Community health centre No. 3,37
+89,Imam Hussein Clinic and Doctors Building,30
+89,Community health centre No. 7 (Ferdosi),32
+89,Community health centre No. 6 (Valiasr),23
+89,Aref Clinic,34
+89,Community health centre (Madani),16
+89,Radmehr Specialized Clinic,26
+89,Razi Medical Clinic,25
+89,Shahid Bolandian Health Center,32
+89,Community health centre (Poonak number11),45
+89,Amir Ol-Mo'menin Clinic,28
+89,Abotaleb Taghavi Clinic,32
+89,Yasin clinic,25
+89,Community health centre (Alijani No. 8),25
+89,Community health centre (HadiAbad number9),21
+89,Shohadaye Naja Clinic,34
+89,Community health centre (Navab No. 8),29
+89,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,30
+89,Community health centre (Sadi),33
+89,Community health centre (Tabriz),46
+89,Milad Clinic,31
+89,Mehregan Clinic,17
+89,Poonak Clinic,43
+89,Aria Clinic,34
+89,Mohammadzadeh Specialized Clinic,41
+89,Comprehensive Health Services Center No. 13 (Bano Mohtasham),32
+90,Farhangian Clinic,31
+90,Ghaem Clinic,37
+90,Boo Alii Sina Clinic,39
+90,Emam Ali Clinic 24hours,48
+90,Sina Clinic,37
+90,Red Crescent General and Specialized Clinic,42
+90,24h Clinic of Minoudar,35
+90,Goharshad Clinic,44
+90,Parsian,48
+90,Specialized Clinics of Velayat Hospital,46
+90,Imam Khomeini Clinic,33
+90,Shahid Pakravan Clinic,18
+90,Imam Sajjad Clinic,20
+90,Community health centre No. 2,56
+90,Community health centre No. 3,46
+90,Imam Hussein Clinic and Doctors Building,39
+90,Community health centre No. 7 (Ferdosi),34
+90,Community health centre No. 6 (Valiasr),34
+90,Aref Clinic,39
+90,Community health centre (Madani),39
+90,Radmehr Specialized Clinic,45
+90,Razi Medical Clinic,47
+90,Shahid Bolandian Health Center,52
+90,Community health centre (Poonak number11),66
+90,Amir Ol-Mo'menin Clinic,42
+90,Abotaleb Taghavi Clinic,37
+90,Yasin clinic,39
+90,Community health centre (Alijani No. 8),27
+90,Community health centre (HadiAbad number9),14
+90,Shohadaye Naja Clinic,21
+90,Community health centre (Navab No. 8),20
+90,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,27
+90,Community health centre (Sadi),25
+90,Community health centre (Tabriz),40
+90,Milad Clinic,34
+90,Mehregan Clinic,41
+90,Poonak Clinic,64
+90,Aria Clinic,53
+90,Mohammadzadeh Specialized Clinic,62
+90,Comprehensive Health Services Center No. 13 (Bano Mohtasham),40
+91,Farhangian Clinic,32
+91,Ghaem Clinic,37
+91,Boo Alii Sina Clinic,39
+91,Emam Ali Clinic 24hours,49
+91,Sina Clinic,33
+91,Red Crescent General and Specialized Clinic,43
+91,24h Clinic of Minoudar,30
+91,Goharshad Clinic,36
+91,Parsian,40
+91,Specialized Clinics of Velayat Hospital,38
+91,Imam Khomeini Clinic,25
+91,Shahid Pakravan Clinic,6
+91,Imam Sajjad Clinic,12
+91,Community health centre No. 2,57
+91,Community health centre No. 3,47
+91,Imam Hussein Clinic and Doctors Building,40
+91,Community health centre No. 7 (Ferdosi),37
+91,Community health centre No. 6 (Valiasr),31
+91,Aref Clinic,41
+91,Community health centre (Madani),35
+91,Radmehr Specialized Clinic,40
+91,Razi Medical Clinic,39
+91,Shahid Bolandian Health Center,44
+91,Community health centre (Poonak number11),56
+91,Amir Ol-Mo'menin Clinic,34
+91,Abotaleb Taghavi Clinic,30
+91,Yasin clinic,36
+91,Community health centre (Alijani No. 8),26
+91,Community health centre (HadiAbad number9),12
+91,Shohadaye Naja Clinic,22
+91,Community health centre (Navab No. 8),23
+91,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,27
+91,Community health centre (Sadi),27
+91,Community health centre (Tabriz),43
+91,Milad Clinic,36
+91,Mehregan Clinic,35
+91,Poonak Clinic,54
+91,Aria Clinic,46
+91,Mohammadzadeh Specialized Clinic,52
+91,Comprehensive Health Services Center No. 13 (Bano Mohtasham),41
+92,Farhangian Clinic,36
+92,Ghaem Clinic,39
+92,Boo Alii Sina Clinic,41
+92,Emam Ali Clinic 24hours,50
+92,Sina Clinic,22
+92,Red Crescent General and Specialized Clinic,46
+92,24h Clinic of Minoudar,56
+92,Goharshad Clinic,69
+92,Parsian,11
+92,Specialized Clinics of Velayat Hospital,60
+92,Imam Khomeini Clinic,50
+92,Shahid Pakravan Clinic,41
+92,Imam Sajjad Clinic,40
+92,Community health centre No. 2,54
+92,Community health centre No. 3,46
+92,Imam Hussein Clinic and Doctors Building,42
+92,Community health centre No. 7 (Ferdosi),36
+92,Community health centre No. 6 (Valiasr),30
+92,Aref Clinic,28
+92,Community health centre (Madani),19
+92,Radmehr Specialized Clinic,15
+92,Razi Medical Clinic,13
+92,Shahid Bolandian Health Center,16
+92,Community health centre (Poonak number11),35
+92,Amir Ol-Mo'menin Clinic,59
+92,Abotaleb Taghavi Clinic,60
+92,Yasin clinic,41
+92,Community health centre (Alijani No. 8),51
+92,Community health centre (HadiAbad number9),51
+92,Shohadaye Naja Clinic,47
+92,Community health centre (Navab No. 8),44
+92,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,42
+92,Community health centre (Sadi),41
+92,Community health centre (Tabriz),59
+92,Milad Clinic,37
+92,Mehregan Clinic,16
+92,Poonak Clinic,33
+92,Aria Clinic,28
+92,Mohammadzadeh Specialized Clinic,31
+92,Comprehensive Health Services Center No. 13 (Bano Mohtasham),44
+93,Farhangian Clinic,32
+93,Ghaem Clinic,34
+93,Boo Alii Sina Clinic,36
+93,Emam Ali Clinic 24hours,45
+93,Sina Clinic,17
+93,Red Crescent General and Specialized Clinic,41
+93,24h Clinic of Minoudar,51
+93,Goharshad Clinic,63
+93,Parsian,3
+93,Specialized Clinics of Velayat Hospital,54
+93,Imam Khomeini Clinic,45
+93,Shahid Pakravan Clinic,35
+93,Imam Sajjad Clinic,35
+93,Community health centre No. 2,51
+93,Community health centre No. 3,43
+93,Imam Hussein Clinic and Doctors Building,37
+93,Community health centre No. 7 (Ferdosi),31
+93,Community health centre No. 6 (Valiasr),27
+93,Aref Clinic,29
+93,Community health centre (Madani),15
+93,Radmehr Specialized Clinic,8
+93,Razi Medical Clinic,5
+93,Shahid Bolandian Health Center,12
+93,Community health centre (Poonak number11),28
+93,Amir Ol-Mo'menin Clinic,54
+93,Abotaleb Taghavi Clinic,55
+93,Yasin clinic,34
+93,Community health centre (Alijani No. 8),45
+93,Community health centre (HadiAbad number9),46
+93,Shohadaye Naja Clinic,42
+93,Community health centre (Navab No. 8),39
+93,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,37
+93,Community health centre (Sadi),39
+93,Community health centre (Tabriz),54
+93,Milad Clinic,32
+93,Mehregan Clinic,12
+93,Poonak Clinic,26
+93,Aria Clinic,21
+93,Mohammadzadeh Specialized Clinic,24
+93,Comprehensive Health Services Center No. 13 (Bano Mohtasham),39
+94,Farhangian Clinic,34
+94,Ghaem Clinic,36
+94,Boo Alii Sina Clinic,38
+94,Emam Ali Clinic 24hours,47
+94,Sina Clinic,20
+94,Red Crescent General and Specialized Clinic,43
+94,24h Clinic of Minoudar,28
+94,Goharshad Clinic,39
+94,Parsian,31
+94,Specialized Clinics of Velayat Hospital,32
+94,Imam Khomeini Clinic,19
+94,Shahid Pakravan Clinic,12
+94,Imam Sajjad Clinic,18
+94,Community health centre No. 2,54
+94,Community health centre No. 3,45
+94,Imam Hussein Clinic and Doctors Building,38
+94,Community health centre No. 7 (Ferdosi),38
+94,Community health centre No. 6 (Valiasr),27
+94,Aref Clinic,36
+94,Community health centre (Madani),21
+94,Radmehr Specialized Clinic,29
+94,Razi Medical Clinic,31
+94,Shahid Bolandian Health Center,38
+94,Community health centre (Poonak number11),51
+94,Amir Ol-Mo'menin Clinic,28
+94,Abotaleb Taghavi Clinic,32
+94,Yasin clinic,31
+94,Community health centre (Alijani No. 8),22
+94,Community health centre (HadiAbad number9),11
+94,Shohadaye Naja Clinic,31
+94,Community health centre (Navab No. 8),29
+94,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,31
+94,Community health centre (Sadi),31
+94,Community health centre (Tabriz),48
+94,Milad Clinic,39
+94,Mehregan Clinic,23
+94,Poonak Clinic,49
+94,Aria Clinic,40
+94,Mohammadzadeh Specialized Clinic,47
+94,Comprehensive Health Services Center No. 13 (Bano Mohtasham),40
+95,Farhangian Clinic,35
+95,Ghaem Clinic,35
+95,Boo Alii Sina Clinic,36
+95,Emam Ali Clinic 24hours,46
+95,Sina Clinic,17
+95,Red Crescent General and Specialized Clinic,41
+95,24h Clinic of Minoudar,29
+95,Goharshad Clinic,39
+95,Parsian,25
+95,Specialized Clinics of Velayat Hospital,33
+95,Imam Khomeini Clinic,20
+95,Shahid Pakravan Clinic,25
+95,Imam Sajjad Clinic,26
+95,Community health centre No. 2,53
+95,Community health centre No. 3,43
+95,Imam Hussein Clinic and Doctors Building,37
+95,Community health centre No. 7 (Ferdosi),39
+95,Community health centre No. 6 (Valiasr),28
+95,Aref Clinic,40
+95,Community health centre (Madani),23
+95,Radmehr Specialized Clinic,21
+95,Razi Medical Clinic,24
+95,Shahid Bolandian Health Center,27
+95,Community health centre (Poonak number11),48
+95,Amir Ol-Mo'menin Clinic,29
+95,Abotaleb Taghavi Clinic,32
+95,Yasin clinic,22
+95,Community health centre (Alijani No. 8),20
+95,Community health centre (HadiAbad number9),22
+95,Shohadaye Naja Clinic,41
+95,Community health centre (Navab No. 8),39
+95,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,36
+95,Community health centre (Sadi),39
+95,Community health centre (Tabriz),55
+95,Milad Clinic,38
+95,Mehregan Clinic,25
+95,Poonak Clinic,46
+95,Aria Clinic,36
+95,Mohammadzadeh Specialized Clinic,44
+95,Comprehensive Health Services Center No. 13 (Bano Mohtasham),39
+96,Farhangian Clinic,34
+96,Ghaem Clinic,34
+96,Boo Alii Sina Clinic,36
+96,Emam Ali Clinic 24hours,46
+96,Sina Clinic,12
+96,Red Crescent General and Specialized Clinic,41
+96,24h Clinic of Minoudar,46
+96,Goharshad Clinic,57
+96,Parsian,8
+96,Specialized Clinics of Velayat Hospital,47
+96,Imam Khomeini Clinic,37
+96,Shahid Pakravan Clinic,32
+96,Imam Sajjad Clinic,31
+96,Community health centre No. 2,54
+96,Community health centre No. 3,44
+96,Imam Hussein Clinic and Doctors Building,37
+96,Community health centre No. 7 (Ferdosi),35
+96,Community health centre No. 6 (Valiasr),30
+96,Aref Clinic,39
+96,Community health centre (Madani),12
+96,Radmehr Specialized Clinic,5
+96,Razi Medical Clinic,7
+96,Shahid Bolandian Health Center,13
+96,Community health centre (Poonak number11),31
+96,Amir Ol-Mo'menin Clinic,46
+96,Abotaleb Taghavi Clinic,49
+96,Yasin clinic,26
+96,Community health centre (Alijani No. 8),36
+96,Community health centre (HadiAbad number9),36
+96,Shohadaye Naja Clinic,45
+96,Community health centre (Navab No. 8),42
+96,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,38
+96,Community health centre (Sadi),44
+96,Community health centre (Tabriz),58
+96,Milad Clinic,34
+96,Mehregan Clinic,15
+96,Poonak Clinic,29
+96,Aria Clinic,24
+96,Mohammadzadeh Specialized Clinic,27
+96,Comprehensive Health Services Center No. 13 (Bano Mohtasham),39
+97,Farhangian Clinic,41
+97,Ghaem Clinic,47
+97,Boo Alii Sina Clinic,49
+97,Emam Ali Clinic 24hours,58
+97,Sina Clinic,42
+97,Red Crescent General and Specialized Clinic,52
+97,24h Clinic of Minoudar,30
+97,Goharshad Clinic,45
+97,Parsian,48
+97,Specialized Clinics of Velayat Hospital,46
+97,Imam Khomeini Clinic,34
+97,Shahid Pakravan Clinic,26
+97,Imam Sajjad Clinic,33
+97,Community health centre No. 2,66
+97,Community health centre No. 3,56
+97,Imam Hussein Clinic and Doctors Building,49
+97,Community health centre No. 7 (Ferdosi),46
+97,Community health centre No. 6 (Valiasr),39
+97,Aref Clinic,47
+97,Community health centre (Madani),44
+97,Radmehr Specialized Clinic,48
+97,Razi Medical Clinic,48
+97,Shahid Bolandian Health Center,53
+97,Community health centre (Poonak number11),64
+97,Amir Ol-Mo'menin Clinic,43
+97,Abotaleb Taghavi Clinic,34
+97,Yasin clinic,46
+97,Community health centre (Alijani No. 8),16
+97,Community health centre (HadiAbad number9),11
+97,Shohadaye Naja Clinic,32
+97,Community health centre (Navab No. 8),30
+97,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,37
+97,Community health centre (Sadi),35
+97,Community health centre (Tabriz),50
+97,Milad Clinic,48
+97,Mehregan Clinic,46
+97,Poonak Clinic,62
+97,Aria Clinic,57
+97,Mohammadzadeh Specialized Clinic,60
+97,Comprehensive Health Services Center No. 13 (Bano Mohtasham),50
+99,Farhangian Clinic,42
+99,Ghaem Clinic,42
+99,Boo Alii Sina Clinic,44
+99,Emam Ali Clinic 24hours,53
+99,Sina Clinic,27
+99,Red Crescent General and Specialized Clinic,49
+99,24h Clinic of Minoudar,44
+99,Goharshad Clinic,53
+99,Parsian,19
+99,Specialized Clinics of Velayat Hospital,46
+99,Imam Khomeini Clinic,36
+99,Shahid Pakravan Clinic,39
+99,Imam Sajjad Clinic,38
+99,Community health centre No. 2,60
+99,Community health centre No. 3,51
+99,Imam Hussein Clinic and Doctors Building,45
+99,Community health centre No. 7 (Ferdosi),42
+99,Community health centre No. 6 (Valiasr),36
+99,Aref Clinic,43
+99,Community health centre (Madani),27
+99,Radmehr Specialized Clinic,20
+99,Razi Medical Clinic,19
+99,Shahid Bolandian Health Center,9
+99,Community health centre (Poonak number11),31
+99,Amir Ol-Mo'menin Clinic,46
+99,Abotaleb Taghavi Clinic,45
+99,Yasin clinic,20
+99,Community health centre (Alijani No. 8),38
+99,Community health centre (HadiAbad number9),39
+99,Shohadaye Naja Clinic,50
+99,Community health centre (Navab No. 8),48
+99,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,46
+99,Community health centre (Sadi),50
+99,Community health centre (Tabriz),65
+99,Milad Clinic,41
+99,Mehregan Clinic,24
+99,Poonak Clinic,30
+99,Aria Clinic,17
+99,Mohammadzadeh Specialized Clinic,28
+99,Comprehensive Health Services Center No. 13 (Bano Mohtasham),47
+100,Farhangian Clinic,44
+100,Ghaem Clinic,50
+100,Boo Alii Sina Clinic,52
+100,Emam Ali Clinic 24hours,61
+100,Sina Clinic,46
+100,Red Crescent General and Specialized Clinic,55
+100,24h Clinic of Minoudar,18
+100,Goharshad Clinic,34
+100,Parsian,51
+100,Specialized Clinics of Velayat Hospital,35
+100,Imam Khomeini Clinic,28
+100,Shahid Pakravan Clinic,34
+100,Imam Sajjad Clinic,37
+100,Community health centre No. 2,69
+100,Community health centre No. 3,59
+100,Imam Hussein Clinic and Doctors Building,52
+100,Community health centre No. 7 (Ferdosi),49
+100,Community health centre No. 6 (Valiasr),41
+100,Aref Clinic,49
+100,Community health centre (Madani),48
+100,Radmehr Specialized Clinic,52
+100,Razi Medical Clinic,51
+100,Shahid Bolandian Health Center,54
+100,Community health centre (Poonak number11),65
+100,Amir Ol-Mo'menin Clinic,38
+100,Abotaleb Taghavi Clinic,22
+100,Yasin clinic,40
+100,Community health centre (Alijani No. 8),20
+100,Community health centre (HadiAbad number9),23
+100,Shohadaye Naja Clinic,35
+100,Community health centre (Navab No. 8),33
+100,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,40
+100,Community health centre (Sadi),38
+100,Community health centre (Tabriz),53
+100,Milad Clinic,54
+100,Mehregan Clinic,49
+100,Poonak Clinic,63
+100,Aria Clinic,56
+100,Mohammadzadeh Specialized Clinic,61
+100,Comprehensive Health Services Center No. 13 (Bano Mohtasham),53
+98,Farhangian Clinic,39
+98,Ghaem Clinic,45
+98,Boo Alii Sina Clinic,47
+98,Emam Ali Clinic 24hours,56
+98,Sina Clinic,39
+98,Red Crescent General and Specialized Clinic,50
+98,24h Clinic of Minoudar,24
+98,Goharshad Clinic,36
+98,Parsian,44
+98,Specialized Clinics of Velayat Hospital,34
+98,Imam Khomeini Clinic,19
+98,Shahid Pakravan Clinic,29
+98,Imam Sajjad Clinic,32
+98,Community health centre No. 2,64
+98,Community health centre No. 3,54
+98,Imam Hussein Clinic and Doctors Building,47
+98,Community health centre No. 7 (Ferdosi),44
+98,Community health centre No. 6 (Valiasr),34
+98,Aref Clinic,42
+98,Community health centre (Madani),41
+98,Radmehr Specialized Clinic,44
+98,Razi Medical Clinic,44
+98,Shahid Bolandian Health Center,43
+98,Community health centre (Poonak number11),56
+98,Amir Ol-Mo'menin Clinic,30
+98,Abotaleb Taghavi Clinic,28
+98,Yasin clinic,27
+98,Community health centre (Alijani No. 8),25
+98,Community health centre (HadiAbad number9),18
+98,Shohadaye Naja Clinic,30
+98,Community health centre (Navab No. 8),28
+98,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,35
+98,Community health centre (Sadi),33
+98,Community health centre (Tabriz),48
+98,Milad Clinic,49
+98,Mehregan Clinic,42
+98,Poonak Clinic,54
+98,Aria Clinic,44
+98,Mohammadzadeh Specialized Clinic,52
+98,Comprehensive Health Services Center No. 13 (Bano Mohtasham),48
+101,Farhangian Clinic,43
+101,Ghaem Clinic,45
+101,Boo Alii Sina Clinic,47
+101,Emam Ali Clinic 24hours,56
+101,Sina Clinic,31
+101,Red Crescent General and Specialized Clinic,52
+101,24h Clinic of Minoudar,59
+101,Goharshad Clinic,68
+101,Parsian,23
+101,Specialized Clinics of Velayat Hospital,56
+101,Imam Khomeini Clinic,50
+101,Shahid Pakravan Clinic,46
+101,Imam Sajjad Clinic,46
+101,Community health centre No. 2,61
+101,Community health centre No. 3,53
+101,Imam Hussein Clinic and Doctors Building,48
+101,Community health centre No. 7 (Ferdosi),43
+101,Community health centre No. 6 (Valiasr),38
+101,Aref Clinic,41
+101,Community health centre (Madani),29
+101,Radmehr Specialized Clinic,25
+101,Razi Medical Clinic,23
+101,Shahid Bolandian Health Center,19
+101,Community health centre (Poonak number11),22
+101,Amir Ol-Mo'menin Clinic,57
+101,Abotaleb Taghavi Clinic,63
+101,Yasin clinic,35
+101,Community health centre (Alijani No. 8),56
+101,Community health centre (HadiAbad number9),55
+101,Shohadaye Naja Clinic,54
+101,Community health centre (Navab No. 8),50
+101,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,48
+101,Community health centre (Sadi),51
+101,Community health centre (Tabriz),66
+101,Milad Clinic,43
+101,Mehregan Clinic,26
+101,Poonak Clinic,20
+101,Aria Clinic,20
+101,Mohammadzadeh Specialized Clinic,22
+101,Comprehensive Health Services Center No. 13 (Bano Mohtasham),50
+102,Farhangian Clinic,42
+102,Ghaem Clinic,42
+102,Boo Alii Sina Clinic,44
+102,Emam Ali Clinic 24hours,54
+102,Sina Clinic,30
+102,Red Crescent General and Specialized Clinic,49
+102,24h Clinic of Minoudar,58
+102,Goharshad Clinic,67
+102,Parsian,21
+102,Specialized Clinics of Velayat Hospital,56
+102,Imam Khomeini Clinic,49
+102,Shahid Pakravan Clinic,46
+102,Imam Sajjad Clinic,45
+102,Community health centre No. 2,64
+102,Community health centre No. 3,54
+102,Imam Hussein Clinic and Doctors Building,45
+102,Community health centre No. 7 (Ferdosi),41
+102,Community health centre No. 6 (Valiasr),42
+102,Aref Clinic,46
+102,Community health centre (Madani),27
+102,Radmehr Specialized Clinic,24
+102,Razi Medical Clinic,21
+102,Shahid Bolandian Health Center,23
+102,Community health centre (Poonak number11),6
+102,Amir Ol-Mo'menin Clinic,57
+102,Abotaleb Taghavi Clinic,62
+102,Yasin clinic,32
+102,Community health centre (Alijani No. 8),58
+102,Community health centre (HadiAbad number9),52
+102,Shohadaye Naja Clinic,52
+102,Community health centre (Navab No. 8),47
+102,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,46
+102,Community health centre (Sadi),52
+102,Community health centre (Tabriz),64
+102,Milad Clinic,40
+102,Mehregan Clinic,24
+102,Poonak Clinic,5
+102,Aria Clinic,15
+102,Mohammadzadeh Specialized Clinic,7
+102,Comprehensive Health Services Center No. 13 (Bano Mohtasham),47
+103,Farhangian Clinic,44
+103,Ghaem Clinic,44
+103,Boo Alii Sina Clinic,46
+103,Emam Ali Clinic 24hours,55
+103,Sina Clinic,30
+103,Red Crescent General and Specialized Clinic,51
+103,24h Clinic of Minoudar,57
+103,Goharshad Clinic,66
+103,Parsian,22
+103,Specialized Clinics of Velayat Hospital,53
+103,Imam Khomeini Clinic,48
+103,Shahid Pakravan Clinic,45
+103,Imam Sajjad Clinic,45
+103,Community health centre No. 2,62
+103,Community health centre No. 3,53
+103,Imam Hussein Clinic and Doctors Building,47
+103,Community health centre No. 7 (Ferdosi),43
+103,Community health centre No. 6 (Valiasr),41
+103,Aref Clinic,48
+103,Community health centre (Madani),28
+103,Radmehr Specialized Clinic,24
+103,Razi Medical Clinic,22
+103,Shahid Bolandian Health Center,24
+103,Community health centre (Poonak number11),10
+103,Amir Ol-Mo'menin Clinic,54
+103,Abotaleb Taghavi Clinic,61
+103,Yasin clinic,30
+103,Community health centre (Alijani No. 8),59
+103,Community health centre (HadiAbad number9),53
+103,Shohadaye Naja Clinic,54
+103,Community health centre (Navab No. 8),49
+103,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,48
+103,Community health centre (Sadi),54
+103,Community health centre (Tabriz),66
+103,Milad Clinic,42
+103,Mehregan Clinic,25
+103,Poonak Clinic,5
+103,Aria Clinic,13
+103,Mohammadzadeh Specialized Clinic,3
+103,Comprehensive Health Services Center No. 13 (Bano Mohtasham),49
+104,Farhangian Clinic,52
+104,Ghaem Clinic,52
+104,Boo Alii Sina Clinic,54
+104,Emam Ali Clinic 24hours,64
+104,Sina Clinic,39
+104,Red Crescent General and Specialized Clinic,59
+104,24h Clinic of Minoudar,67
+104,Goharshad Clinic,76
+104,Parsian,31
+104,Specialized Clinics of Velayat Hospital,64
+104,Imam Khomeini Clinic,58
+104,Shahid Pakravan Clinic,55
+104,Imam Sajjad Clinic,54
+104,Community health centre No. 2,73
+104,Community health centre No. 3,63
+104,Imam Hussein Clinic and Doctors Building,55
+104,Community health centre No. 7 (Ferdosi),51
+104,Community health centre No. 6 (Valiasr),52
+104,Aref Clinic,56
+104,Community health centre (Madani),37
+104,Radmehr Specialized Clinic,33
+104,Razi Medical Clinic,31
+104,Shahid Bolandian Health Center,33
+104,Community health centre (Poonak number11),7
+104,Amir Ol-Mo'menin Clinic,65
+104,Abotaleb Taghavi Clinic,71
+104,Yasin clinic,37
+104,Community health centre (Alijani No. 8),63
+104,Community health centre (HadiAbad number9),62
+104,Shohadaye Naja Clinic,62
+104,Community health centre (Navab No. 8),57
+104,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,56
+104,Community health centre (Sadi),62
+104,Community health centre (Tabriz),74
+104,Milad Clinic,50
+104,Mehregan Clinic,34
+104,Poonak Clinic,9
+104,Aria Clinic,23
+104,Mohammadzadeh Specialized Clinic,13
+104,Comprehensive Health Services Center No. 13 (Bano Mohtasham),57
+105,Farhangian Clinic,50
+105,Ghaem Clinic,50
+105,Boo Alii Sina Clinic,52
+105,Emam Ali Clinic 24hours,61
+105,Sina Clinic,36
+105,Red Crescent General and Specialized Clinic,57
+105,24h Clinic of Minoudar,55
+105,Goharshad Clinic,62
+105,Parsian,28
+105,Specialized Clinics of Velayat Hospital,49
+105,Imam Khomeini Clinic,45
+105,Shahid Pakravan Clinic,47
+105,Imam Sajjad Clinic,47
+105,Community health centre No. 2,65
+105,Community health centre No. 3,57
+105,Imam Hussein Clinic and Doctors Building,53
+105,Community health centre No. 7 (Ferdosi),49
+105,Community health centre No. 6 (Valiasr),43
+105,Aref Clinic,54
+105,Community health centre (Madani),34
+105,Radmehr Specialized Clinic,30
+105,Razi Medical Clinic,28
+105,Shahid Bolandian Health Center,30
+105,Community health centre (Poonak number11),23
+105,Amir Ol-Mo'menin Clinic,50
+105,Abotaleb Taghavi Clinic,59
+105,Yasin clinic,27
+105,Community health centre (Alijani No. 8),56
+105,Community health centre (HadiAbad number9),53
+105,Shohadaye Naja Clinic,59
+105,Community health centre (Navab No. 8),55
+105,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,54
+105,Community health centre (Sadi),60
+105,Community health centre (Tabriz),72
+105,Milad Clinic,48
+105,Mehregan Clinic,31
+105,Poonak Clinic,22
+105,Aria Clinic,14
+105,Mohammadzadeh Specialized Clinic,19
+105,Comprehensive Health Services Center No. 13 (Bano Mohtasham),55
+107,Farhangian Clinic,44
+107,Ghaem Clinic,50
+107,Boo Alii Sina Clinic,52
+107,Emam Ali Clinic 24hours,61
+107,Sina Clinic,45
+107,Red Crescent General and Specialized Clinic,55
+107,24h Clinic of Minoudar,21
+107,Goharshad Clinic,28
+107,Parsian,50
+107,Specialized Clinics of Velayat Hospital,30
+107,Imam Khomeini Clinic,26
+107,Shahid Pakravan Clinic,34
+107,Imam Sajjad Clinic,37
+107,Community health centre No. 2,69
+107,Community health centre No. 3,59
+107,Imam Hussein Clinic and Doctors Building,52
+107,Community health centre No. 7 (Ferdosi),49
+107,Community health centre No. 6 (Valiasr),40
+107,Aref Clinic,48
+107,Community health centre (Madani),47
+107,Radmehr Specialized Clinic,51
+107,Razi Medical Clinic,50
+107,Shahid Bolandian Health Center,54
+107,Community health centre (Poonak number11),64
+107,Amir Ol-Mo'menin Clinic,34
+107,Abotaleb Taghavi Clinic,11
+107,Yasin clinic,39
+107,Community health centre (Alijani No. 8),30
+107,Community health centre (HadiAbad number9),23
+107,Shohadaye Naja Clinic,35
+107,Community health centre (Navab No. 8),33
+107,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,40
+107,Community health centre (Sadi),38
+107,Community health centre (Tabriz),53
+107,Milad Clinic,54
+107,Mehregan Clinic,48
+107,Poonak Clinic,62
+107,Aria Clinic,55
+107,Mohammadzadeh Specialized Clinic,60
+107,Comprehensive Health Services Center No. 13 (Bano Mohtasham),53
+108,Farhangian Clinic,52
+108,Ghaem Clinic,58
+108,Boo Alii Sina Clinic,60
+108,Emam Ali Clinic 24hours,69
+108,Sina Clinic,53
+108,Red Crescent General and Specialized Clinic,63
+108,24h Clinic of Minoudar,23
+108,Goharshad Clinic,25
+108,Parsian,58
+108,Specialized Clinics of Velayat Hospital,25
+108,Imam Khomeini Clinic,27
+108,Shahid Pakravan Clinic,42
+108,Imam Sajjad Clinic,45
+108,Community health centre No. 2,77
+108,Community health centre No. 3,67
+108,Imam Hussein Clinic and Doctors Building,60
+108,Community health centre No. 7 (Ferdosi),57
+108,Community health centre No. 6 (Valiasr),48
+108,Aref Clinic,56
+108,Community health centre (Madani),55
+108,Radmehr Specialized Clinic,59
+108,Razi Medical Clinic,58
+108,Shahid Bolandian Health Center,62
+108,Community health centre (Poonak number11),65
+108,Amir Ol-Mo'menin Clinic,25
+108,Abotaleb Taghavi Clinic,17
+108,Yasin clinic,43
+108,Community health centre (Alijani No. 8),38
+108,Community health centre (HadiAbad number9),31
+108,Shohadaye Naja Clinic,43
+108,Community health centre (Navab No. 8),41
+108,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,48
+108,Community health centre (Sadi),46
+108,Community health centre (Tabriz),61
+108,Milad Clinic,62
+108,Mehregan Clinic,56
+108,Poonak Clinic,63
+108,Aria Clinic,55
+108,Mohammadzadeh Specialized Clinic,63
+108,Comprehensive Health Services Center No. 13 (Bano Mohtasham),61
+109,Farhangian Clinic,47
+109,Ghaem Clinic,53
+109,Boo Alii Sina Clinic,55
+109,Emam Ali Clinic 24hours,64
+109,Sina Clinic,47
+109,Red Crescent General and Specialized Clinic,58
+109,24h Clinic of Minoudar,22
+109,Goharshad Clinic,18
+109,Parsian,52
+109,Specialized Clinics of Velayat Hospital,25
+109,Imam Khomeini Clinic,26
+109,Shahid Pakravan Clinic,37
+109,Imam Sajjad Clinic,40
+109,Community health centre No. 2,72
+109,Community health centre No. 3,62
+109,Imam Hussein Clinic and Doctors Building,55
+109,Community health centre No. 7 (Ferdosi),52
+109,Community health centre No. 6 (Valiasr),42
+109,Aref Clinic,50
+109,Community health centre (Madani),49
+109,Radmehr Specialized Clinic,53
+109,Razi Medical Clinic,52
+109,Shahid Bolandian Health Center,56
+109,Community health centre (Poonak number11),67
+109,Amir Ol-Mo'menin Clinic,27
+109,Abotaleb Taghavi Clinic,4
+109,Yasin clinic,42
+109,Community health centre (Alijani No. 8),33
+109,Community health centre (HadiAbad number9),26
+109,Shohadaye Naja Clinic,38
+109,Community health centre (Navab No. 8),36
+109,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,43
+109,Community health centre (Sadi),41
+109,Community health centre (Tabriz),56
+109,Milad Clinic,57
+109,Mehregan Clinic,50
+109,Poonak Clinic,65
+109,Aria Clinic,58
+109,Mohammadzadeh Specialized Clinic,63
+109,Comprehensive Health Services Center No. 13 (Bano Mohtasham),56
+110,Farhangian Clinic,44
+110,Ghaem Clinic,50
+110,Boo Alii Sina Clinic,52
+110,Emam Ali Clinic 24hours,61
+110,Sina Clinic,42
+110,Red Crescent General and Specialized Clinic,55
+110,24h Clinic of Minoudar,12
+110,Goharshad Clinic,29
+110,Parsian,48
+110,Specialized Clinics of Velayat Hospital,27
+110,Imam Khomeini Clinic,4
+110,Shahid Pakravan Clinic,32
+110,Imam Sajjad Clinic,35
+110,Community health centre No. 2,69
+110,Community health centre No. 3,59
+110,Imam Hussein Clinic and Doctors Building,52
+110,Community health centre No. 7 (Ferdosi),49
+110,Community health centre No. 6 (Valiasr),41
+110,Aref Clinic,49
+110,Community health centre (Madani),44
+110,Radmehr Specialized Clinic,47
+110,Razi Medical Clinic,48
+110,Shahid Bolandian Health Center,46
+110,Community health centre (Poonak number11),59
+110,Amir Ol-Mo'menin Clinic,24
+110,Abotaleb Taghavi Clinic,21
+110,Yasin clinic,30
+110,Community health centre (Alijani No. 8),28
+110,Community health centre (HadiAbad number9),21
+110,Shohadaye Naja Clinic,35
+110,Community health centre (Navab No. 8),33
+110,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,39
+110,Community health centre (Sadi),38
+110,Community health centre (Tabriz),53
+110,Milad Clinic,53
+110,Mehregan Clinic,45
+110,Poonak Clinic,57
+110,Aria Clinic,46
+110,Mohammadzadeh Specialized Clinic,56
+110,Comprehensive Health Services Center No. 13 (Bano Mohtasham),53
+111,Farhangian Clinic,43
+111,Ghaem Clinic,41
+111,Boo Alii Sina Clinic,42
+111,Emam Ali Clinic 24hours,51
+111,Sina Clinic,28
+111,Red Crescent General and Specialized Clinic,47
+111,24h Clinic of Minoudar,33
+111,Goharshad Clinic,42
+111,Parsian,35
+111,Specialized Clinics of Velayat Hospital,38
+111,Imam Khomeini Clinic,25
+111,Shahid Pakravan Clinic,34
+111,Imam Sajjad Clinic,34
+111,Community health centre No. 2,58
+111,Community health centre No. 3,49
+111,Imam Hussein Clinic and Doctors Building,42
+111,Community health centre No. 7 (Ferdosi),47
+111,Community health centre No. 6 (Valiasr),34
+111,Aref Clinic,47
+111,Community health centre (Madani),33
+111,Radmehr Specialized Clinic,31
+111,Razi Medical Clinic,33
+111,Shahid Bolandian Health Center,29
+111,Community health centre (Poonak number11),45
+111,Amir Ol-Mo'menin Clinic,35
+111,Abotaleb Taghavi Clinic,34
+111,Yasin clinic,9
+111,Community health centre (Alijani No. 8),35
+111,Community health centre (HadiAbad number9),29
+111,Shohadaye Naja Clinic,41
+111,Community health centre (Navab No. 8),39
+111,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,43
+111,Community health centre (Sadi),44
+111,Community health centre (Tabriz),58
+111,Milad Clinic,46
+111,Mehregan Clinic,34
+111,Poonak Clinic,43
+111,Aria Clinic,30
+111,Mohammadzadeh Specialized Clinic,42
+111,Comprehensive Health Services Center No. 13 (Bano Mohtasham),45
+112,Farhangian Clinic,43
+112,Ghaem Clinic,42
+112,Boo Alii Sina Clinic,44
+112,Emam Ali Clinic 24hours,54
+112,Sina Clinic,31
+112,Red Crescent General and Specialized Clinic,49
+112,24h Clinic of Minoudar,43
+112,Goharshad Clinic,49
+112,Parsian,27
+112,Specialized Clinics of Velayat Hospital,36
+112,Imam Khomeini Clinic,32
+112,Shahid Pakravan Clinic,37
+112,Imam Sajjad Clinic,36
+112,Community health centre No. 2,61
+112,Community health centre No. 3,51
+112,Imam Hussein Clinic and Doctors Building,45
+112,Community health centre No. 7 (Ferdosi),45
+112,Community health centre No. 6 (Valiasr),37
+112,Aref Clinic,50
+112,Community health centre (Madani),31
+112,Radmehr Specialized Clinic,29
+112,Razi Medical Clinic,27
+112,Shahid Bolandian Health Center,29
+112,Community health centre (Poonak number11),26
+112,Amir Ol-Mo'menin Clinic,37
+112,Abotaleb Taghavi Clinic,48
+112,Yasin clinic,16
+112,Community health centre (Alijani No. 8),43
+112,Community health centre (HadiAbad number9),41
+112,Shohadaye Naja Clinic,52
+112,Community health centre (Navab No. 8),51
+112,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,47
+112,Community health centre (Sadi),52
+112,Community health centre (Tabriz),66
+112,Milad Clinic,44
+112,Mehregan Clinic,30
+112,Poonak Clinic,24
+112,Aria Clinic,16
+112,Mohammadzadeh Specialized Clinic,25
+112,Comprehensive Health Services Center No. 13 (Bano Mohtasham),47
+113,Farhangian Clinic,57
+113,Ghaem Clinic,57
+113,Boo Alii Sina Clinic,59
+113,Emam Ali Clinic 24hours,68
+113,Sina Clinic,43
+113,Red Crescent General and Specialized Clinic,64
+113,24h Clinic of Minoudar,67
+113,Goharshad Clinic,72
+113,Parsian,35
+113,Specialized Clinics of Velayat Hospital,59
+113,Imam Khomeini Clinic,55
+113,Shahid Pakravan Clinic,56
+113,Imam Sajjad Clinic,56
+113,Community health centre No. 2,72
+113,Community health centre No. 3,64
+113,Imam Hussein Clinic and Doctors Building,60
+113,Community health centre No. 7 (Ferdosi),56
+113,Community health centre No. 6 (Valiasr),51
+113,Aref Clinic,61
+113,Community health centre (Madani),41
+113,Radmehr Specialized Clinic,37
+113,Razi Medical Clinic,35
+113,Shahid Bolandian Health Center,37
+113,Community health centre (Poonak number11),13
+113,Amir Ol-Mo'menin Clinic,60
+113,Abotaleb Taghavi Clinic,71
+113,Yasin clinic,36
+113,Community health centre (Alijani No. 8),63
+113,Community health centre (HadiAbad number9),65
+113,Shohadaye Naja Clinic,67
+113,Community health centre (Navab No. 8),62
+113,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,61
+113,Community health centre (Sadi),67
+113,Community health centre (Tabriz),79
+113,Milad Clinic,55
+113,Mehregan Clinic,38
+113,Poonak Clinic,14
+113,Aria Clinic,24
+113,Mohammadzadeh Specialized Clinic,18
+113,Comprehensive Health Services Center No. 13 (Bano Mohtasham),62
+114,Farhangian Clinic,46
+114,Ghaem Clinic,46
+114,Boo Alii Sina Clinic,48
+114,Emam Ali Clinic 24hours,57
+114,Sina Clinic,34
+114,Red Crescent General and Specialized Clinic,53
+114,24h Clinic of Minoudar,45
+114,Goharshad Clinic,50
+114,Parsian,26
+114,Specialized Clinics of Velayat Hospital,37
+114,Imam Khomeini Clinic,33
+114,Shahid Pakravan Clinic,42
+114,Imam Sajjad Clinic,41
+114,Community health centre No. 2,63
+114,Community health centre No. 3,55
+114,Imam Hussein Clinic and Doctors Building,49
+114,Community health centre No. 7 (Ferdosi),47
+114,Community health centre No. 6 (Valiasr),39
+114,Aref Clinic,52
+114,Community health centre (Madani),32
+114,Radmehr Specialized Clinic,28
+114,Razi Medical Clinic,26
+114,Shahid Bolandian Health Center,28
+114,Community health centre (Poonak number11),25
+114,Amir Ol-Mo'menin Clinic,38
+114,Abotaleb Taghavi Clinic,50
+114,Yasin clinic,21
+114,Community health centre (Alijani No. 8),47
+114,Community health centre (HadiAbad number9),43
+114,Shohadaye Naja Clinic,55
+114,Community health centre (Navab No. 8),53
+114,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,50
+114,Community health centre (Sadi),56
+114,Community health centre (Tabriz),69
+114,Milad Clinic,46
+114,Mehregan Clinic,29
+114,Poonak Clinic,23
+114,Aria Clinic,15
+114,Mohammadzadeh Specialized Clinic,24
+114,Comprehensive Health Services Center No. 13 (Bano Mohtasham),51
+115,Farhangian Clinic,50
+115,Ghaem Clinic,56
+115,Boo Alii Sina Clinic,58
+115,Emam Ali Clinic 24hours,67
+115,Sina Clinic,51
+115,Red Crescent General and Specialized Clinic,61
+115,24h Clinic of Minoudar,32
+115,Goharshad Clinic,8
+115,Parsian,56
+115,Specialized Clinics of Velayat Hospital,16
+115,Imam Khomeini Clinic,31
+115,Shahid Pakravan Clinic,40
+115,Imam Sajjad Clinic,43
+115,Community health centre No. 2,75
+115,Community health centre No. 3,65
+115,Imam Hussein Clinic and Doctors Building,58
+115,Community health centre No. 7 (Ferdosi),55
+115,Community health centre No. 6 (Valiasr),46
+115,Aref Clinic,54
+115,Community health centre (Madani),53
+115,Radmehr Specialized Clinic,57
+115,Razi Medical Clinic,56
+115,Shahid Bolandian Health Center,60
+115,Community health centre (Poonak number11),69
+115,Amir Ol-Mo'menin Clinic,14
+115,Abotaleb Taghavi Clinic,22
+115,Yasin clinic,43
+115,Community health centre (Alijani No. 8),36
+115,Community health centre (HadiAbad number9),29
+115,Shohadaye Naja Clinic,41
+115,Community health centre (Navab No. 8),39
+115,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,46
+115,Community health centre (Sadi),44
+115,Community health centre (Tabriz),59
+115,Milad Clinic,60
+115,Mehregan Clinic,54
+115,Poonak Clinic,67
+115,Aria Clinic,60
+115,Mohammadzadeh Specialized Clinic,65
+115,Comprehensive Health Services Center No. 13 (Bano Mohtasham),59
+116,Farhangian Clinic,55
+116,Ghaem Clinic,61
+116,Boo Alii Sina Clinic,63
+116,Emam Ali Clinic 24hours,72
+116,Sina Clinic,52
+116,Red Crescent General and Specialized Clinic,66
+116,24h Clinic of Minoudar,35
+116,Goharshad Clinic,21
+116,Parsian,59
+116,Specialized Clinics of Velayat Hospital,3
+116,Imam Khomeini Clinic,26
+116,Shahid Pakravan Clinic,42
+116,Imam Sajjad Clinic,45
+116,Community health centre No. 2,80
+116,Community health centre No. 3,70
+116,Imam Hussein Clinic and Doctors Building,63
+116,Community health centre No. 7 (Ferdosi),60
+116,Community health centre No. 6 (Valiasr),54
+116,Aref Clinic,62
+116,Community health centre (Madani),54
+116,Radmehr Specialized Clinic,58
+116,Razi Medical Clinic,59
+116,Shahid Bolandian Health Center,66
+116,Community health centre (Poonak number11),66
+116,Amir Ol-Mo'menin Clinic,11
+116,Abotaleb Taghavi Clinic,28
+116,Yasin clinic,42
+116,Community health centre (Alijani No. 8),37
+116,Community health centre (HadiAbad number9),31
+116,Shohadaye Naja Clinic,46
+116,Community health centre (Navab No. 8),44
+116,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,50
+116,Community health centre (Sadi),49
+116,Community health centre (Tabriz),64
+116,Milad Clinic,64
+116,Mehregan Clinic,55
+116,Poonak Clinic,64
+116,Aria Clinic,55
+116,Mohammadzadeh Specialized Clinic,64
+116,Comprehensive Health Services Center No. 13 (Bano Mohtasham),64
+117,Farhangian Clinic,48
+117,Ghaem Clinic,46
+117,Boo Alii Sina Clinic,47
+117,Emam Ali Clinic 24hours,56
+117,Sina Clinic,33
+117,Red Crescent General and Specialized Clinic,52
+117,24h Clinic of Minoudar,41
+117,Goharshad Clinic,43
+117,Parsian,40
+117,Specialized Clinics of Velayat Hospital,30
+117,Imam Khomeini Clinic,31
+117,Shahid Pakravan Clinic,40
+117,Imam Sajjad Clinic,39
+117,Community health centre No. 2,63
+117,Community health centre No. 3,54
+117,Imam Hussein Clinic and Doctors Building,47
+117,Community health centre No. 7 (Ferdosi),52
+117,Community health centre No. 6 (Valiasr),39
+117,Aref Clinic,52
+117,Community health centre (Madani),38
+117,Radmehr Specialized Clinic,38
+117,Razi Medical Clinic,40
+117,Shahid Bolandian Health Center,40
+117,Community health centre (Poonak number11),41
+117,Amir Ol-Mo'menin Clinic,29
+117,Abotaleb Taghavi Clinic,43
+117,Yasin clinic,19
+117,Community health centre (Alijani No. 8),43
+117,Community health centre (HadiAbad number9),37
+117,Shohadaye Naja Clinic,52
+117,Community health centre (Navab No. 8),50
+117,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,51
+117,Community health centre (Sadi),54
+117,Community health centre (Tabriz),67
+117,Milad Clinic,51
+117,Mehregan Clinic,39
+117,Poonak Clinic,40
+117,Aria Clinic,29
+117,Mohammadzadeh Specialized Clinic,39
+117,Comprehensive Health Services Center No. 13 (Bano Mohtasham),50
+106,Farhangian Clinic,53
+106,Ghaem Clinic,52
+106,Boo Alii Sina Clinic,53
+106,Emam Ali Clinic 24hours,62
+106,Sina Clinic,40
+106,Red Crescent General and Specialized Clinic,58
+106,24h Clinic of Minoudar,32
+106,Goharshad Clinic,37
+106,Parsian,45
+106,Specialized Clinics of Velayat Hospital,26
+106,Imam Khomeini Clinic,22
+106,Shahid Pakravan Clinic,41
+106,Imam Sajjad Clinic,42
+106,Community health centre No. 2,69
+106,Community health centre No. 3,60
+106,Imam Hussein Clinic and Doctors Building,53
+106,Community health centre No. 7 (Ferdosi),57
+106,Community health centre No. 6 (Valiasr),45
+106,Aref Clinic,58
+106,Community health centre (Madani),44
+106,Radmehr Specialized Clinic,44
+106,Razi Medical Clinic,45
+106,Shahid Bolandian Health Center,46
+106,Community health centre (Poonak number11),44
+106,Amir Ol-Mo'menin Clinic,24
+106,Abotaleb Taghavi Clinic,37
+106,Yasin clinic,25
+106,Community health centre (Alijani No. 8),36
+106,Community health centre (HadiAbad number9),30
+106,Shohadaye Naja Clinic,47
+106,Community health centre (Navab No. 8),46
+106,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,50
+106,Community health centre (Sadi),50
+106,Community health centre (Tabriz),65
+106,Milad Clinic,57
+106,Mehregan Clinic,44
+106,Poonak Clinic,42
+106,Aria Clinic,34
+106,Mohammadzadeh Specialized Clinic,43
+106,Comprehensive Health Services Center No. 13 (Bano Mohtasham),56
+118,Farhangian Clinic,51
+118,Ghaem Clinic,57
+118,Boo Alii Sina Clinic,59
+118,Emam Ali Clinic 24hours,68
+118,Sina Clinic,46
+118,Red Crescent General and Specialized Clinic,62
+118,24h Clinic of Minoudar,31
+118,Goharshad Clinic,23
+118,Parsian,54
+118,Specialized Clinics of Velayat Hospital,5
+118,Imam Khomeini Clinic,20
+118,Shahid Pakravan Clinic,36
+118,Imam Sajjad Clinic,40
+118,Community health centre No. 2,77
+118,Community health centre No. 3,67
+118,Imam Hussein Clinic and Doctors Building,58
+118,Community health centre No. 7 (Ferdosi),56
+118,Community health centre No. 6 (Valiasr),53
+118,Aref Clinic,61
+118,Community health centre (Madani),48
+118,Radmehr Specialized Clinic,52
+118,Razi Medical Clinic,54
+118,Shahid Bolandian Health Center,60
+118,Community health centre (Poonak number11),60
+118,Amir Ol-Mo'menin Clinic,5
+118,Abotaleb Taghavi Clinic,31
+118,Yasin clinic,36
+118,Community health centre (Alijani No. 8),31
+118,Community health centre (HadiAbad number9),25
+118,Shohadaye Naja Clinic,42
+118,Community health centre (Navab No. 8),42
+118,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,45
+118,Community health centre (Sadi),45
+118,Community health centre (Tabriz),61
+118,Milad Clinic,60
+118,Mehregan Clinic,50
+118,Poonak Clinic,58
+118,Aria Clinic,49
+118,Mohammadzadeh Specialized Clinic,58
+118,Comprehensive Health Services Center No. 13 (Bano Mohtasham),60
+119,Farhangian Clinic,49
+119,Ghaem Clinic,55
+119,Boo Alii Sina Clinic,57
+119,Emam Ali Clinic 24hours,66
+119,Sina Clinic,49
+119,Red Crescent General and Specialized Clinic,60
+119,24h Clinic of Minoudar,31
+119,Goharshad Clinic,10
+119,Parsian,54
+119,Specialized Clinics of Velayat Hospital,18
+119,Imam Khomeini Clinic,34
+119,Shahid Pakravan Clinic,39
+119,Imam Sajjad Clinic,42
+119,Community health centre No. 2,74
+119,Community health centre No. 3,64
+119,Imam Hussein Clinic and Doctors Building,57
+119,Community health centre No. 7 (Ferdosi),54
+119,Community health centre No. 6 (Valiasr),44
+119,Aref Clinic,52
+119,Community health centre (Madani),51
+119,Radmehr Specialized Clinic,55
+119,Razi Medical Clinic,54
+119,Shahid Bolandian Health Center,58
+119,Community health centre (Poonak number11),69
+119,Amir Ol-Mo'menin Clinic,15
+119,Abotaleb Taghavi Clinic,24
+119,Yasin clinic,44
+119,Community health centre (Alijani No. 8),35
+119,Community health centre (HadiAbad number9),28
+119,Shohadaye Naja Clinic,40
+119,Community health centre (Navab No. 8),38
+119,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,45
+119,Community health centre (Sadi),43
+119,Community health centre (Tabriz),58
+119,Milad Clinic,59
+119,Mehregan Clinic,52
+119,Poonak Clinic,67
+119,Aria Clinic,60
+119,Mohammadzadeh Specialized Clinic,65
+119,Comprehensive Health Services Center No. 13 (Bano Mohtasham),58
+120,Farhangian Clinic,30
+120,Ghaem Clinic,28
+120,Boo Alii Sina Clinic,29
+120,Emam Ali Clinic 24hours,35
+120,Sina Clinic,34
+120,Red Crescent General and Specialized Clinic,32
+120,24h Clinic of Minoudar,47
+120,Goharshad Clinic,60
+120,Parsian,33
+120,Specialized Clinics of Velayat Hospital,54
+120,Imam Khomeini Clinic,41
+120,Shahid Pakravan Clinic,36
+120,Imam Sajjad Clinic,33
+120,Community health centre No. 2,40
+120,Community health centre No. 3,32
+120,Imam Hussein Clinic and Doctors Building,27
+120,Community health centre No. 7 (Ferdosi),26
+120,Community health centre No. 6 (Valiasr),8
+120,Aref Clinic,14
+120,Community health centre (Madani),34
+120,Radmehr Specialized Clinic,36
+120,Razi Medical Clinic,33
+120,Shahid Bolandian Health Center,37
+120,Community health centre (Poonak number11),48
+120,Amir Ol-Mo'menin Clinic,50
+120,Abotaleb Taghavi Clinic,51
+120,Yasin clinic,38
+120,Community health centre (Alijani No. 8),47
+120,Community health centre (HadiAbad number9),43
+120,Shohadaye Naja Clinic,38
+120,Community health centre (Navab No. 8),35
+120,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,37
+120,Community health centre (Sadi),33
+120,Community health centre (Tabriz),48
+120,Milad Clinic,25
+120,Mehregan Clinic,31
+120,Poonak Clinic,46
+120,Aria Clinic,41
+120,Mohammadzadeh Specialized Clinic,44
+120,Comprehensive Health Services Center No. 13 (Bano Mohtasham),30
+121,Farhangian Clinic,26
+121,Ghaem Clinic,23
+121,Boo Alii Sina Clinic,24
+121,Emam Ali Clinic 24hours,31
+121,Sina Clinic,33
+121,Red Crescent General and Specialized Clinic,26
+121,24h Clinic of Minoudar,45
+121,Goharshad Clinic,58
+121,Parsian,32
+121,Specialized Clinics of Velayat Hospital,52
+121,Imam Khomeini Clinic,39
+121,Shahid Pakravan Clinic,36
+121,Imam Sajjad Clinic,33
+121,Community health centre No. 2,35
+121,Community health centre No. 3,27
+121,Imam Hussein Clinic and Doctors Building,21
+121,Community health centre No. 7 (Ferdosi),22
+121,Community health centre No. 6 (Valiasr),7
+121,Aref Clinic,11
+121,Community health centre (Madani),33
+121,Radmehr Specialized Clinic,35
+121,Razi Medical Clinic,32
+121,Shahid Bolandian Health Center,36
+121,Community health centre (Poonak number11),47
+121,Amir Ol-Mo'menin Clinic,48
+121,Abotaleb Taghavi Clinic,49
+121,Yasin clinic,36
+121,Community health centre (Alijani No. 8),45
+121,Community health centre (HadiAbad number9),42
+121,Shohadaye Naja Clinic,36
+121,Community health centre (Navab No. 8),32
+121,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,33
+121,Community health centre (Sadi),29
+121,Community health centre (Tabriz),43
+121,Milad Clinic,21
+121,Mehregan Clinic,30
+121,Poonak Clinic,45
+121,Aria Clinic,40
+121,Mohammadzadeh Specialized Clinic,43
+121,Comprehensive Health Services Center No. 13 (Bano Mohtasham),24
+122,Farhangian Clinic,28
+122,Ghaem Clinic,31
+122,Boo Alii Sina Clinic,33
+122,Emam Ali Clinic 24hours,43
+122,Sina Clinic,29
+122,Red Crescent General and Specialized Clinic,37
+122,24h Clinic of Minoudar,36
+122,Goharshad Clinic,44
+122,Parsian,36
+122,Specialized Clinics of Velayat Hospital,40
+122,Imam Khomeini Clinic,28
+122,Shahid Pakravan Clinic,4
+122,Imam Sajjad Clinic,5
+122,Community health centre No. 2,53
+122,Community health centre No. 3,43
+122,Imam Hussein Clinic and Doctors Building,33
+122,Community health centre No. 7 (Ferdosi),31
+122,Community health centre No. 6 (Valiasr),27
+122,Aref Clinic,37
+122,Community health centre (Madani),31
+122,Radmehr Specialized Clinic,35
+122,Razi Medical Clinic,35
+122,Shahid Bolandian Health Center,39
+122,Community health centre (Poonak number11),52
+122,Amir Ol-Mo'menin Clinic,35
+122,Abotaleb Taghavi Clinic,38
+122,Yasin clinic,33
+122,Community health centre (Alijani No. 8),32
+122,Community health centre (HadiAbad number9),19
+122,Shohadaye Naja Clinic,21
+122,Community health centre (Navab No. 8),24
+122,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,24
+122,Community health centre (Sadi),26
+122,Community health centre (Tabriz),44
+122,Milad Clinic,30
+122,Mehregan Clinic,31
+122,Poonak Clinic,50
+122,Aria Clinic,42
+122,Mohammadzadeh Specialized Clinic,48
+122,Comprehensive Health Services Center No. 13 (Bano Mohtasham),35
+123,Farhangian Clinic,36
+123,Ghaem Clinic,43
+123,Boo Alii Sina Clinic,45
+123,Emam Ali Clinic 24hours,54
+123,Sina Clinic,39
+123,Red Crescent General and Specialized Clinic,48
+123,24h Clinic of Minoudar,26
+123,Goharshad Clinic,41
+123,Parsian,46
+123,Specialized Clinics of Velayat Hospital,42
+123,Imam Khomeini Clinic,30
+123,Shahid Pakravan Clinic,27
+123,Imam Sajjad Clinic,31
+123,Community health centre No. 2,61
+123,Community health centre No. 3,52
+123,Imam Hussein Clinic and Doctors Building,44
+123,Community health centre No. 7 (Ferdosi),41
+123,Community health centre No. 6 (Valiasr),37
+123,Aref Clinic,44
+123,Community health centre (Madani),41
+123,Radmehr Specialized Clinic,41
+123,Razi Medical Clinic,44
+123,Shahid Bolandian Health Center,43
+123,Community health centre (Poonak number11),62
+123,Amir Ol-Mo'menin Clinic,39
+123,Abotaleb Taghavi Clinic,31
+123,Yasin clinic,37
+123,Community health centre (Alijani No. 8),4
+123,Community health centre (HadiAbad number9),13
+123,Shohadaye Naja Clinic,27
+123,Community health centre (Navab No. 8),26
+123,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,32
+123,Community health centre (Sadi),31
+123,Community health centre (Tabriz),45
+123,Milad Clinic,47
+123,Mehregan Clinic,44
+123,Poonak Clinic,60
+123,Aria Clinic,50
+123,Mohammadzadeh Specialized Clinic,58
+123,Comprehensive Health Services Center No. 13 (Bano Mohtasham),46
+124,Farhangian Clinic,33
+124,Ghaem Clinic,33
+124,Boo Alii Sina Clinic,34
+124,Emam Ali Clinic 24hours,44
+124,Sina Clinic,12
+124,Red Crescent General and Specialized Clinic,39
+124,24h Clinic of Minoudar,32
+124,Goharshad Clinic,44
+124,Parsian,25
+124,Specialized Clinics of Velayat Hospital,36
+124,Imam Khomeini Clinic,23
+124,Shahid Pakravan Clinic,22
+124,Imam Sajjad Clinic,24
+124,Community health centre No. 2,51
+124,Community health centre No. 3,41
+124,Imam Hussein Clinic and Doctors Building,35
+124,Community health centre No. 7 (Ferdosi),37
+124,Community health centre No. 6 (Valiasr),27
+124,Aref Clinic,39
+124,Community health centre (Madani),17
+124,Radmehr Specialized Clinic,21
+124,Razi Medical Clinic,23
+124,Shahid Bolandian Health Center,30
+124,Community health centre (Poonak number11),44
+124,Amir Ol-Mo'menin Clinic,32
+124,Abotaleb Taghavi Clinic,36
+124,Yasin clinic,23
+124,Community health centre (Alijani No. 8),26
+124,Community health centre (HadiAbad number9),21
+124,Shohadaye Naja Clinic,39
+124,Community health centre (Navab No. 8),37
+124,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,34
+124,Community health centre (Sadi),38
+124,Community health centre (Tabriz),53
+124,Milad Clinic,36
+124,Mehregan Clinic,19
+124,Poonak Clinic,42
+124,Aria Clinic,33
+124,Mohammadzadeh Specialized Clinic,40
+124,Comprehensive Health Services Center No. 13 (Bano Mohtasham),37
+125,Farhangian Clinic,31
+125,Ghaem Clinic,31
+125,Boo Alii Sina Clinic,33
+125,Emam Ali Clinic 24hours,43
+125,Sina Clinic,0
+125,Red Crescent General and Specialized Clinic,38
+125,24h Clinic of Minoudar,43
+125,Goharshad Clinic,54
+125,Parsian,12
+125,Specialized Clinics of Velayat Hospital,44
+125,Imam Khomeini Clinic,34
+125,Shahid Pakravan Clinic,29
+125,Imam Sajjad Clinic,28
+125,Community health centre No. 2,52
+125,Community health centre No. 3,42
+125,Imam Hussein Clinic and Doctors Building,34
+125,Community health centre No. 7 (Ferdosi),32
+125,Community health centre No. 6 (Valiasr),29
+125,Aref Clinic,39
+125,Community health centre (Madani),5
+125,Radmehr Specialized Clinic,10
+125,Razi Medical Clinic,11
+125,Shahid Bolandian Health Center,21
+125,Community health centre (Poonak number11),32
+125,Amir Ol-Mo'menin Clinic,43
+125,Abotaleb Taghavi Clinic,47
+125,Yasin clinic,23
+125,Community health centre (Alijani No. 8),37
+125,Community health centre (HadiAbad number9),32
+125,Shohadaye Naja Clinic,41
+125,Community health centre (Navab No. 8),37
+125,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,35
+125,Community health centre (Sadi),40
+125,Community health centre (Tabriz),53
+125,Milad Clinic,31
+125,Mehregan Clinic,8
+125,Poonak Clinic,30
+125,Aria Clinic,25
+125,Mohammadzadeh Specialized Clinic,28
+125,Comprehensive Health Services Center No. 13 (Bano Mohtasham),35
+126,Farhangian Clinic,38
+126,Ghaem Clinic,41
+126,Boo Alii Sina Clinic,43
+126,Emam Ali Clinic 24hours,52
+126,Sina Clinic,27
+126,Red Crescent General and Specialized Clinic,48
+126,24h Clinic of Minoudar,57
+126,Goharshad Clinic,65
+126,Parsian,17
+126,Specialized Clinics of Velayat Hospital,55
+126,Imam Khomeini Clinic,48
+126,Shahid Pakravan Clinic,42
+126,Imam Sajjad Clinic,42
+126,Community health centre No. 2,58
+126,Community health centre No. 3,50
+126,Imam Hussein Clinic and Doctors Building,44
+126,Community health centre No. 7 (Ferdosi),38
+126,Community health centre No. 6 (Valiasr),34
+126,Aref Clinic,32
+126,Community health centre (Madani),25
+126,Radmehr Specialized Clinic,20
+126,Razi Medical Clinic,18
+126,Shahid Bolandian Health Center,11
+126,Community health centre (Poonak number11),26
+126,Amir Ol-Mo'menin Clinic,56
+126,Abotaleb Taghavi Clinic,60
+126,Yasin clinic,35
+126,Community health centre (Alijani No. 8),49
+126,Community health centre (HadiAbad number9),51
+126,Shohadaye Naja Clinic,49
+126,Community health centre (Navab No. 8),46
+126,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,44
+126,Community health centre (Sadi),44
+126,Community health centre (Tabriz),61
+126,Milad Clinic,39
+126,Mehregan Clinic,22
+126,Poonak Clinic,24
+126,Aria Clinic,19
+126,Mohammadzadeh Specialized Clinic,22
+126,Comprehensive Health Services Center No. 13 (Bano Mohtasham),46
+127,Farhangian Clinic,46
+127,Ghaem Clinic,46
+127,Boo Alii Sina Clinic,48
+127,Emam Ali Clinic 24hours,57
+127,Sina Clinic,32
+127,Red Crescent General and Specialized Clinic,53
+127,24h Clinic of Minoudar,50
+127,Goharshad Clinic,58
+127,Parsian,24
+127,Specialized Clinics of Velayat Hospital,49
+127,Imam Khomeini Clinic,42
+127,Shahid Pakravan Clinic,44
+127,Imam Sajjad Clinic,45
+127,Community health centre No. 2,61
+127,Community health centre No. 3,53
+127,Imam Hussein Clinic and Doctors Building,49
+127,Community health centre No. 7 (Ferdosi),45
+127,Community health centre No. 6 (Valiasr),40
+127,Aref Clinic,50
+127,Community health centre (Madani),30
+127,Radmehr Specialized Clinic,26
+127,Razi Medical Clinic,24
+127,Shahid Bolandian Health Center,22
+127,Community health centre (Poonak number11),23
+127,Amir Ol-Mo'menin Clinic,50
+127,Abotaleb Taghavi Clinic,52
+127,Yasin clinic,24
+127,Community health centre (Alijani No. 8),48
+127,Community health centre (HadiAbad number9),47
+127,Shohadaye Naja Clinic,54
+127,Community health centre (Navab No. 8),51
+127,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,50
+127,Community health centre (Sadi),56
+127,Community health centre (Tabriz),68
+127,Milad Clinic,44
+127,Mehregan Clinic,27
+127,Poonak Clinic,21
+127,Aria Clinic,6
+127,Mohammadzadeh Specialized Clinic,18
+127,Comprehensive Health Services Center No. 13 (Bano Mohtasham),51
+128,Farhangian Clinic,42
+128,Ghaem Clinic,40
+128,Boo Alii Sina Clinic,41
+128,Emam Ali Clinic 24hours,51
+128,Sina Clinic,28
+128,Red Crescent General and Specialized Clinic,46
+128,24h Clinic of Minoudar,40
+128,Goharshad Clinic,48
+128,Parsian,31
+128,Specialized Clinics of Velayat Hospital,39
+128,Imam Khomeini Clinic,32
+128,Shahid Pakravan Clinic,34
+128,Imam Sajjad Clinic,33
+128,Community health centre No. 2,58
+128,Community health centre No. 3,48
+128,Imam Hussein Clinic and Doctors Building,42
+128,Community health centre No. 7 (Ferdosi),46
+128,Community health centre No. 6 (Valiasr),34
+128,Aref Clinic,47
+128,Community health centre (Madani),32
+128,Radmehr Specialized Clinic,30
+128,Razi Medical Clinic,31
+128,Shahid Bolandian Health Center,25
+128,Community health centre (Poonak number11),30
+128,Amir Ol-Mo'menin Clinic,40
+128,Abotaleb Taghavi Clinic,42
+128,Yasin clinic,7
+128,Community health centre (Alijani No. 8),38
+128,Community health centre (HadiAbad number9),36
+128,Shohadaye Naja Clinic,48
+128,Community health centre (Navab No. 8),46
+128,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,46
+128,Community health centre (Sadi),48
+128,Community health centre (Tabriz),62
+128,Milad Clinic,45
+128,Mehregan Clinic,31
+128,Poonak Clinic,28
+128,Aria Clinic,15
+128,Mohammadzadeh Specialized Clinic,29
+128,Comprehensive Health Services Center No. 13 (Bano Mohtasham),44
+129,Farhangian Clinic,53
+129,Ghaem Clinic,53
+129,Boo Alii Sina Clinic,55
+129,Emam Ali Clinic 24hours,64
+129,Sina Clinic,39
+129,Red Crescent General and Specialized Clinic,60
+129,24h Clinic of Minoudar,65
+129,Goharshad Clinic,71
+129,Parsian,31
+129,Specialized Clinics of Velayat Hospital,58
+129,Imam Khomeini Clinic,54
+129,Shahid Pakravan Clinic,55
+129,Imam Sajjad Clinic,53
+129,Community health centre No. 2,72
+129,Community health centre No. 3,63
+129,Imam Hussein Clinic and Doctors Building,56
+129,Community health centre No. 7 (Ferdosi),52
+129,Community health centre No. 6 (Valiasr),51
+129,Aref Clinic,57
+129,Community health centre (Madani),37
+129,Radmehr Specialized Clinic,33
+129,Razi Medical Clinic,31
+129,Shahid Bolandian Health Center,33
+129,Community health centre (Poonak number11),9
+129,Amir Ol-Mo'menin Clinic,59
+129,Abotaleb Taghavi Clinic,69
+129,Yasin clinic,36
+129,Community health centre (Alijani No. 8),63
+129,Community health centre (HadiAbad number9),63
+129,Shohadaye Naja Clinic,63
+129,Community health centre (Navab No. 8),58
+129,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,57
+129,Community health centre (Sadi),63
+129,Community health centre (Tabriz),75
+129,Milad Clinic,51
+129,Mehregan Clinic,34
+129,Poonak Clinic,10
+129,Aria Clinic,22
+129,Mohammadzadeh Specialized Clinic,14
+129,Comprehensive Health Services Center No. 13 (Bano Mohtasham),58
+130,Farhangian Clinic,54
+130,Ghaem Clinic,54
+130,Boo Alii Sina Clinic,56
+130,Emam Ali Clinic 24hours,65
+130,Sina Clinic,40
+130,Red Crescent General and Specialized Clinic,61
+130,24h Clinic of Minoudar,55
+130,Goharshad Clinic,60
+130,Parsian,32
+130,Specialized Clinics of Velayat Hospital,47
+130,Imam Khomeini Clinic,43
+130,Shahid Pakravan Clinic,49
+130,Imam Sajjad Clinic,49
+130,Community health centre No. 2,69
+130,Community health centre No. 3,61
+130,Imam Hussein Clinic and Doctors Building,57
+130,Community health centre No. 7 (Ferdosi),53
+130,Community health centre No. 6 (Valiasr),45
+130,Aref Clinic,58
+130,Community health centre (Madani),38
+130,Radmehr Specialized Clinic,34
+130,Razi Medical Clinic,32
+130,Shahid Bolandian Health Center,34
+130,Community health centre (Poonak number11),20
+130,Amir Ol-Mo'menin Clinic,48
+130,Abotaleb Taghavi Clinic,60
+130,Yasin clinic,29
+130,Community health centre (Alijani No. 8),56
+130,Community health centre (HadiAbad number9),53
+130,Shohadaye Naja Clinic,61
+130,Community health centre (Navab No. 8),59
+130,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,58
+130,Community health centre (Sadi),64
+130,Community health centre (Tabriz),76
+130,Milad Clinic,52
+130,Mehregan Clinic,35
+130,Poonak Clinic,21
+130,Aria Clinic,21
+130,Mohammadzadeh Specialized Clinic,18
+130,Comprehensive Health Services Center No. 13 (Bano Mohtasham),59
+131,Farhangian Clinic,53
+131,Ghaem Clinic,53
+131,Boo Alii Sina Clinic,55
+131,Emam Ali Clinic 24hours,64
+131,Sina Clinic,39
+131,Red Crescent General and Specialized Clinic,60
+131,24h Clinic of Minoudar,55
+131,Goharshad Clinic,60
+131,Parsian,31
+131,Specialized Clinics of Velayat Hospital,47
+131,Imam Khomeini Clinic,43
+131,Shahid Pakravan Clinic,48
+131,Imam Sajjad Clinic,48
+131,Community health centre No. 2,68
+131,Community health centre No. 3,60
+131,Imam Hussein Clinic and Doctors Building,56
+131,Community health centre No. 7 (Ferdosi),52
+131,Community health centre No. 6 (Valiasr),44
+131,Aref Clinic,57
+131,Community health centre (Madani),37
+131,Radmehr Specialized Clinic,33
+131,Razi Medical Clinic,31
+131,Shahid Bolandian Health Center,33
+131,Community health centre (Poonak number11),21
+131,Amir Ol-Mo'menin Clinic,48
+131,Abotaleb Taghavi Clinic,60
+131,Yasin clinic,28
+131,Community health centre (Alijani No. 8),55
+131,Community health centre (HadiAbad number9),53
+131,Shohadaye Naja Clinic,60
+131,Community health centre (Navab No. 8),58
+131,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,57
+131,Community health centre (Sadi),63
+131,Community health centre (Tabriz),75
+131,Milad Clinic,51
+131,Mehregan Clinic,34
+131,Poonak Clinic,22
+131,Aria Clinic,20
+131,Mohammadzadeh Specialized Clinic,20
+131,Comprehensive Health Services Center No. 13 (Bano Mohtasham),58
+132,Farhangian Clinic,49
+132,Ghaem Clinic,55
+132,Boo Alii Sina Clinic,57
+132,Emam Ali Clinic 24hours,66
+132,Sina Clinic,46
+132,Red Crescent General and Specialized Clinic,61
+132,24h Clinic of Minoudar,25
+132,Goharshad Clinic,37
+132,Parsian,50
+132,Specialized Clinics of Velayat Hospital,28
+132,Imam Khomeini Clinic,13
+132,Shahid Pakravan Clinic,37
+132,Imam Sajjad Clinic,40
+132,Community health centre No. 2,72
+132,Community health centre No. 3,63
+132,Imam Hussein Clinic and Doctors Building,57
+132,Community health centre No. 7 (Ferdosi),54
+132,Community health centre No. 6 (Valiasr),46
+132,Aref Clinic,55
+132,Community health centre (Madani),49
+132,Radmehr Specialized Clinic,50
+132,Razi Medical Clinic,50
+132,Shahid Bolandian Health Center,51
+132,Community health centre (Poonak number11),51
+132,Amir Ol-Mo'menin Clinic,23
+132,Abotaleb Taghavi Clinic,32
+132,Yasin clinic,32
+132,Community health centre (Alijani No. 8),33
+132,Community health centre (HadiAbad number9),26
+132,Shohadaye Naja Clinic,40
+132,Community health centre (Navab No. 8),38
+132,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,45
+132,Community health centre (Sadi),44
+132,Community health centre (Tabriz),58
+132,Milad Clinic,58
+132,Mehregan Clinic,49
+132,Poonak Clinic,50
+132,Aria Clinic,40
+132,Mohammadzadeh Specialized Clinic,49
+132,Comprehensive Health Services Center No. 13 (Bano Mohtasham),58
+133,Farhangian Clinic,48
+133,Ghaem Clinic,54
+133,Boo Alii Sina Clinic,56
+133,Emam Ali Clinic 24hours,65
+133,Sina Clinic,43
+133,Red Crescent General and Specialized Clinic,59
+133,24h Clinic of Minoudar,19
+133,Goharshad Clinic,33
+133,Parsian,51
+133,Specialized Clinics of Velayat Hospital,21
+133,Imam Khomeini Clinic,15
+133,Shahid Pakravan Clinic,34
+133,Imam Sajjad Clinic,38
+133,Community health centre No. 2,72
+133,Community health centre No. 3,63
+133,Imam Hussein Clinic and Doctors Building,56
+133,Community health centre No. 7 (Ferdosi),53
+133,Community health centre No. 6 (Valiasr),47
+133,Aref Clinic,57
+133,Community health centre (Madani),46
+133,Radmehr Specialized Clinic,49
+133,Razi Medical Clinic,50
+133,Shahid Bolandian Health Center,53
+133,Community health centre (Poonak number11),54
+133,Amir Ol-Mo'menin Clinic,22
+133,Abotaleb Taghavi Clinic,25
+133,Yasin clinic,32
+133,Community health centre (Alijani No. 8),29
+133,Community health centre (HadiAbad number9),23
+133,Shohadaye Naja Clinic,39
+133,Community health centre (Navab No. 8),38
+133,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,43
+133,Community health centre (Sadi),42
+133,Community health centre (Tabriz),57
+133,Milad Clinic,57
+133,Mehregan Clinic,48
+133,Poonak Clinic,52
+133,Aria Clinic,44
+133,Mohammadzadeh Specialized Clinic,53
+133,Comprehensive Health Services Center No. 13 (Bano Mohtasham),57
+134,Farhangian Clinic,43
+134,Ghaem Clinic,49
+134,Boo Alii Sina Clinic,51
+134,Emam Ali Clinic 24hours,60
+134,Sina Clinic,45
+134,Red Crescent General and Specialized Clinic,54
+134,24h Clinic of Minoudar,8
+134,Goharshad Clinic,25
+134,Parsian,50
+134,Specialized Clinics of Velayat Hospital,21
+134,Imam Khomeini Clinic,13
+134,Shahid Pakravan Clinic,33
+134,Imam Sajjad Clinic,36
+134,Community health centre No. 2,68
+134,Community health centre No. 3,58
+134,Imam Hussein Clinic and Doctors Building,51
+134,Community health centre No. 7 (Ferdosi),48
+134,Community health centre No. 6 (Valiasr),40
+134,Aref Clinic,48
+134,Community health centre (Madani),46
+134,Radmehr Specialized Clinic,51
+134,Razi Medical Clinic,50
+134,Shahid Bolandian Health Center,51
+134,Community health centre (Poonak number11),63
+134,Amir Ol-Mo'menin Clinic,25
+134,Abotaleb Taghavi Clinic,15
+134,Yasin clinic,35
+134,Community health centre (Alijani No. 8),26
+134,Community health centre (HadiAbad number9),22
+134,Shohadaye Naja Clinic,34
+134,Community health centre (Navab No. 8),32
+134,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,39
+134,Community health centre (Sadi),37
+134,Community health centre (Tabriz),52
+134,Milad Clinic,53
+134,Mehregan Clinic,48
+134,Poonak Clinic,61
+134,Aria Clinic,51
+134,Mohammadzadeh Specialized Clinic,59
+134,Comprehensive Health Services Center No. 13 (Bano Mohtasham),52
+135,Farhangian Clinic,46
+135,Ghaem Clinic,52
+135,Boo Alii Sina Clinic,54
+135,Emam Ali Clinic 24hours,63
+135,Sina Clinic,46
+135,Red Crescent General and Specialized Clinic,57
+135,24h Clinic of Minoudar,28
+135,Goharshad Clinic,9
+135,Parsian,51
+135,Specialized Clinics of Velayat Hospital,22
+135,Imam Khomeini Clinic,34
+135,Shahid Pakravan Clinic,36
+135,Imam Sajjad Clinic,39
+135,Community health centre No. 2,71
+135,Community health centre No. 3,61
+135,Imam Hussein Clinic and Doctors Building,54
+135,Community health centre No. 7 (Ferdosi),51
+135,Community health centre No. 6 (Valiasr),41
+135,Aref Clinic,49
+135,Community health centre (Madani),48
+135,Radmehr Specialized Clinic,52
+135,Razi Medical Clinic,51
+135,Shahid Bolandian Health Center,55
+135,Community health centre (Poonak number11),66
+135,Amir Ol-Mo'menin Clinic,24
+135,Abotaleb Taghavi Clinic,19
+135,Yasin clinic,41
+135,Community health centre (Alijani No. 8),32
+135,Community health centre (HadiAbad number9),25
+135,Shohadaye Naja Clinic,37
+135,Community health centre (Navab No. 8),35
+135,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,42
+135,Community health centre (Sadi),40
+135,Community health centre (Tabriz),55
+135,Milad Clinic,56
+135,Mehregan Clinic,49
+135,Poonak Clinic,64
+135,Aria Clinic,57
+135,Mohammadzadeh Specialized Clinic,62
+135,Comprehensive Health Services Center No. 13 (Bano Mohtasham),55
+157,Farhangian Clinic,33
+157,Ghaem Clinic,34
+157,Boo Alii Sina Clinic,36
+157,Emam Ali Clinic 24hours,45
+157,Sina Clinic,15
+157,Red Crescent General and Specialized Clinic,41
+157,24h Clinic of Minoudar,45
+157,Goharshad Clinic,58
+157,Parsian,13
+157,Specialized Clinics of Velayat Hospital,52
+157,Imam Khomeini Clinic,39
+157,Shahid Pakravan Clinic,34
+157,Imam Sajjad Clinic,33
+157,Community health centre No. 2,52
+157,Community health centre No. 3,43
+157,Imam Hussein Clinic and Doctors Building,37
+157,Community health centre No. 7 (Ferdosi),32
+157,Community health centre No. 6 (Valiasr),28
+157,Aref Clinic,31
+157,Community health centre (Madani),11
+157,Radmehr Specialized Clinic,17
+157,Razi Medical Clinic,14
+157,Shahid Bolandian Health Center,22
+157,Community health centre (Poonak number11),33
+157,Amir Ol-Mo'menin Clinic,48
+157,Abotaleb Taghavi Clinic,49
+157,Yasin clinic,37
+157,Community health centre (Alijani No. 8),45
+157,Community health centre (HadiAbad number9),42
+157,Shohadaye Naja Clinic,38
+157,Community health centre (Navab No. 8),33
+157,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,36
+157,Community health centre (Sadi),38
+157,Community health centre (Tabriz),50
+157,Milad Clinic,32
+157,Mehregan Clinic,7
+157,Poonak Clinic,31
+157,Aria Clinic,26
+157,Mohammadzadeh Specialized Clinic,29
+157,Comprehensive Health Services Center No. 13 (Bano Mohtasham),39
+158,Farhangian Clinic,39
+158,Ghaem Clinic,37
+158,Boo Alii Sina Clinic,38
+158,Emam Ali Clinic 24hours,48
+158,Sina Clinic,25
+158,Red Crescent General and Specialized Clinic,43
+158,24h Clinic of Minoudar,38
+158,Goharshad Clinic,47
+158,Parsian,33
+158,Specialized Clinics of Velayat Hospital,34
+158,Imam Khomeini Clinic,29
+158,Shahid Pakravan Clinic,31
+158,Imam Sajjad Clinic,30
+158,Community health centre No. 2,55
+158,Community health centre No. 3,45
+158,Imam Hussein Clinic and Doctors Building,39
+158,Community health centre No. 7 (Ferdosi),43
+158,Community health centre No. 6 (Valiasr),31
+158,Aref Clinic,44
+158,Community health centre (Madani),29
+158,Radmehr Specialized Clinic,30
+158,Razi Medical Clinic,32
+158,Shahid Bolandian Health Center,32
+158,Community health centre (Poonak number11),33
+158,Amir Ol-Mo'menin Clinic,35
+158,Abotaleb Taghavi Clinic,43
+158,Yasin clinic,10
+158,Community health centre (Alijani No. 8),37
+158,Community health centre (HadiAbad number9),35
+158,Shohadaye Naja Clinic,46
+158,Community health centre (Navab No. 8),45
+158,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,43
+158,Community health centre (Sadi),46
+158,Community health centre (Tabriz),60
+158,Milad Clinic,42
+158,Mehregan Clinic,31
+158,Poonak Clinic,31
+158,Aria Clinic,18
+158,Mohammadzadeh Specialized Clinic,32
+158,Comprehensive Health Services Center No. 13 (Bano Mohtasham),41
+160,Farhangian Clinic,37
+160,Ghaem Clinic,37
+160,Boo Alii Sina Clinic,38
+160,Emam Ali Clinic 24hours,48
+160,Sina Clinic,24
+160,Red Crescent General and Specialized Clinic,43
+160,24h Clinic of Minoudar,37
+160,Goharshad Clinic,45
+160,Parsian,28
+160,Specialized Clinics of Velayat Hospital,41
+160,Imam Khomeini Clinic,29
+160,Shahid Pakravan Clinic,31
+160,Imam Sajjad Clinic,30
+160,Community health centre No. 2,55
+160,Community health centre No. 3,45
+160,Imam Hussein Clinic and Doctors Building,39
+160,Community health centre No. 7 (Ferdosi),41
+160,Community health centre No. 6 (Valiasr),33
+160,Aref Clinic,44
+160,Community health centre (Madani),29
+160,Radmehr Specialized Clinic,24
+160,Razi Medical Clinic,27
+160,Shahid Bolandian Health Center,25
+160,Community health centre (Poonak number11),46
+160,Amir Ol-Mo'menin Clinic,39
+160,Abotaleb Taghavi Clinic,38
+160,Yasin clinic,16
+160,Community health centre (Alijani No. 8),29
+160,Community health centre (HadiAbad number9),32
+160,Shohadaye Naja Clinic,43
+160,Community health centre (Navab No. 8),42
+160,Mohamadzadeh Clinic & Community health centre (Zaferanieh) ,41
+160,Community health centre (Sadi),43
+160,Community health centre (Tabriz),58
+160,Milad Clinic,40
+160,Mehregan Clinic,31
+160,Poonak Clinic,44
+160,Aria Clinic,33
+160,Mohammadzadeh Specialized Clinic,42
+160,Comprehensive Health Services Center No. 13 (Bano Mohtasham),41

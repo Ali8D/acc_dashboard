@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_0fdd934e7df1e9c5597e3b1e50e585e6 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_0fdd934e7df1e9c5597e3b1e50e585e6" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_0fdd934e7df1e9c5597e3b1e50e585e6 = L.map(
+                "map_0fdd934e7df1e9c5597e3b1e50e585e6",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_e9e4883935cbd1eaf85a05239dbd1595 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var marker_856d75dbbaba4e21b77c25c67e484046 = L.marker(
+                [36.2691757, 50.0144158],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_6871dacced4bb9d74c887bc6e700f6ed = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_856d75dbbaba4e21b77c25c67e484046.setIcon(icon_6871dacced4bb9d74c887bc6e700f6ed);
+        
+    
+        var popup_b018376e900700d6290c0ed1554f874d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bf817326ea33913ad8f73e39bafaa90a = $(`<div id="html_bf817326ea33913ad8f73e39bafaa90a" style="width: 100.0%; height: 100.0%;">بیمارستان کوثر</div>`)[0];
+                popup_b018376e900700d6290c0ed1554f874d.setContent(html_bf817326ea33913ad8f73e39bafaa90a);
+            
+        
+
+        marker_856d75dbbaba4e21b77c25c67e484046.bindPopup(popup_b018376e900700d6290c0ed1554f874d)
+        ;
+
+        
+    
+    
+            var marker_822ed0dfbb874dd11c50e660ddf02f5a = L.marker(
+                [36.32359808747064, 49.997641651982114],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_28ac770cb1e287edfcb7904dc03f3c08 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_822ed0dfbb874dd11c50e660ddf02f5a.setIcon(icon_28ac770cb1e287edfcb7904dc03f3c08);
+        
+    
+        var popup_523c644dab3f51bf73e0d60751e5af51 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8a59ecaa4c6b006f44387ebc2ca9d669 = $(`<div id="html_8a59ecaa4c6b006f44387ebc2ca9d669" style="width: 100.0%; height: 100.0%;">بیمارستان ولایت</div>`)[0];
+                popup_523c644dab3f51bf73e0d60751e5af51.setContent(html_8a59ecaa4c6b006f44387ebc2ca9d669);
+            
+        
+
+        marker_822ed0dfbb874dd11c50e660ddf02f5a.bindPopup(popup_523c644dab3f51bf73e0d60751e5af51)
+        ;
+
+        
+    
+    
+            var marker_6f1c8c5cd6b30e1fcfca62a7c0d9eac9 = L.marker(
+                [36.28047313917982, 50.01883483114703],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_a66a6cde265df4a8e2c9f868cede6586 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_6f1c8c5cd6b30e1fcfca62a7c0d9eac9.setIcon(icon_a66a6cde265df4a8e2c9f868cede6586);
+        
+    
+        var popup_d7658b5bb4535cc60b494c445ee85e68 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_872c6610557e200542c6fd89ae532ec5 = $(`<div id="html_872c6610557e200542c6fd89ae532ec5" style="width: 100.0%; height: 100.0%;">بیمارستان شهید رجایی</div>`)[0];
+                popup_d7658b5bb4535cc60b494c445ee85e68.setContent(html_872c6610557e200542c6fd89ae532ec5);
+            
+        
+
+        marker_6f1c8c5cd6b30e1fcfca62a7c0d9eac9.bindPopup(popup_d7658b5bb4535cc60b494c445ee85e68)
+        ;
+
+        
+    
+    
+            var marker_b726b187b45d707018c2ad1fd85e83bb = L.marker(
+                [36.27487547454091, 50.00513510383298],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_2993a9698eaff51a3e24a2739fa3268e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_b726b187b45d707018c2ad1fd85e83bb.setIcon(icon_2993a9698eaff51a3e24a2739fa3268e);
+        
+    
+        var popup_77201c076018aec09334df818860a4c8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f8b6c1b62c8cc324644c4f00b4ce0b35 = $(`<div id="html_f8b6c1b62c8cc324644c4f00b4ce0b35" style="width: 100.0%; height: 100.0%;">بیمارستان بوعلی سینا</div>`)[0];
+                popup_77201c076018aec09334df818860a4c8.setContent(html_f8b6c1b62c8cc324644c4f00b4ce0b35);
+            
+        
+
+        marker_b726b187b45d707018c2ad1fd85e83bb.bindPopup(popup_77201c076018aec09334df818860a4c8)
+        ;
+
+        
+    
+    
+            var marker_cf711bc3805fd68df098178c360389a4 = L.marker(
+                [36.26685493300012, 50.02486872052602],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_5fe13d3e74f39efd32232a4906a1bc23 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_cf711bc3805fd68df098178c360389a4.setIcon(icon_5fe13d3e74f39efd32232a4906a1bc23);
+        
+    
+        var popup_9d698ab2a758b48cb5793106c57cd2ef = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c1591bba6f862bb848a26ade448d7c49 = $(`<div id="html_c1591bba6f862bb848a26ade448d7c49" style="width: 100.0%; height: 100.0%;">بیمارستان پاستور</div>`)[0];
+                popup_9d698ab2a758b48cb5793106c57cd2ef.setContent(html_c1591bba6f862bb848a26ade448d7c49);
+            
+        
+
+        marker_cf711bc3805fd68df098178c360389a4.bindPopup(popup_9d698ab2a758b48cb5793106c57cd2ef)
+        ;
+
+        
+    
+    
+            var marker_9e9899a9f7e7779ae80770be77e10c6d = L.marker(
+                [36.286539998955554, 50.02206972983908],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_74849c2456a7c15188d43972e48ad13c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_9e9899a9f7e7779ae80770be77e10c6d.setIcon(icon_74849c2456a7c15188d43972e48ad13c);
+        
+    
+        var popup_39ad202b4a7ae3619812f8b6f8a979ab = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8bda8b4bc67301df5e4e700690bc7d82 = $(`<div id="html_8bda8b4bc67301df5e4e700690bc7d82" style="width: 100.0%; height: 100.0%;">بیمارستان 553 ارتش (شهید بهبودی)</div>`)[0];
+                popup_39ad202b4a7ae3619812f8b6f8a979ab.setContent(html_8bda8b4bc67301df5e4e700690bc7d82);
+            
+        
+
+        marker_9e9899a9f7e7779ae80770be77e10c6d.bindPopup(popup_39ad202b4a7ae3619812f8b6f8a979ab)
+        ;
+
+        
+    
+    
+            var marker_695cd2ebe57704c5c1429ffdfecf9006 = L.marker(
+                [36.27589091073027, 50.02503627755776],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_84041ac8599fb923c0035fce2b4a67c6 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_695cd2ebe57704c5c1429ffdfecf9006.setIcon(icon_84041ac8599fb923c0035fce2b4a67c6);
+        
+    
+        var popup_4ac1d86be9584e18e87366df84e7caf7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4fe48898ea7bd1106d4f160959daa9bc = $(`<div id="html_4fe48898ea7bd1106d4f160959daa9bc" style="width: 100.0%; height: 100.0%;">بیمارستان قدس</div>`)[0];
+                popup_4ac1d86be9584e18e87366df84e7caf7.setContent(html_4fe48898ea7bd1106d4f160959daa9bc);
+            
+        
+
+        marker_695cd2ebe57704c5c1429ffdfecf9006.bindPopup(popup_4ac1d86be9584e18e87366df84e7caf7)
+        ;
+
+        
+    
+    
+            var marker_ca561912fb349d2c237cbe35f86481f8 = L.marker(
+                [36.27504439526528, 50.00691069863723],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_25e3a38df1fc4ea39cfce70fc6c95287 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_ca561912fb349d2c237cbe35f86481f8.setIcon(icon_25e3a38df1fc4ea39cfce70fc6c95287);
+        
+    
+        var popup_b3fef6ede66b57c51c0bbf3c153d78bc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_80dfceba74a089fd1c1c5fd63143af12 = $(`<div id="html_80dfceba74a089fd1c1c5fd63143af12" style="width: 100.0%; height: 100.0%;">بیمارستان مهرگان</div>`)[0];
+                popup_b3fef6ede66b57c51c0bbf3c153d78bc.setContent(html_80dfceba74a089fd1c1c5fd63143af12);
+            
+        
+
+        marker_ca561912fb349d2c237cbe35f86481f8.bindPopup(popup_b3fef6ede66b57c51c0bbf3c153d78bc)
+        ;
+
+        
+    
+    
+            var marker_19fa8c62b9efeb77eb05c72f3e018b45 = L.marker(
+                [36.304265792008344, 50.022688331180426],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_3add4d233fb73e55b16b110c360fd3e7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_19fa8c62b9efeb77eb05c72f3e018b45.setIcon(icon_3add4d233fb73e55b16b110c360fd3e7);
+        
+    
+        var popup_515e9c67c169dc08e6b708f80c2296ad = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_28d00ea94cb09be2c3d92e94383b34fd = $(`<div id="html_28d00ea94cb09be2c3d92e94383b34fd" style="width: 100.0%; height: 100.0%;">بیمارستان زکریای رازی</div>`)[0];
+                popup_515e9c67c169dc08e6b708f80c2296ad.setContent(html_28d00ea94cb09be2c3d92e94383b34fd);
+            
+        
+
+        marker_19fa8c62b9efeb77eb05c72f3e018b45.bindPopup(popup_515e9c67c169dc08e6b708f80c2296ad)
+        ;
+
+        
+    
+    
+            var marker_4ce2f9293b9e3a8de9d244fc58da13e2 = L.marker(
+                [36.24494746290039, 50.008891625145054],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_fa80bb3f0d5e9afdfaf7a3140b662b9d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_4ce2f9293b9e3a8de9d244fc58da13e2.setIcon(icon_fa80bb3f0d5e9afdfaf7a3140b662b9d);
+        
+    
+        var popup_c7c46d4acdc54384de71a1c08f14d156 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_32be35138bfe169eb3bc902dad58ec4c = $(`<div id="html_32be35138bfe169eb3bc902dad58ec4c" style="width: 100.0%; height: 100.0%;">بیمارستان اعصاب و روان 22 بهمن</div>`)[0];
+                popup_c7c46d4acdc54384de71a1c08f14d156.setContent(html_32be35138bfe169eb3bc902dad58ec4c);
+            
+        
+
+        marker_4ce2f9293b9e3a8de9d244fc58da13e2.bindPopup(popup_c7c46d4acdc54384de71a1c08f14d156)
+        ;
+
+        
+    
+    
+            var marker_f8fe8f27b85f5ab2d1ec75e2b23d3173 = L.marker(
+                [36.280390735676036, 50.00756336058157],
+                {}
+            ).addTo(map_0fdd934e7df1e9c5597e3b1e50e585e6);
+        
+    
+            var icon_5dc2fe9193b8e5c39779ae08e83a4e45 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "plus-sign", "iconColor": "white", "markerColor": "darkred", "prefix": "glyphicon"}
+            );
+            marker_f8fe8f27b85f5ab2d1ec75e2b23d3173.setIcon(icon_5dc2fe9193b8e5c39779ae08e83a4e45);
+        
+    
+        var popup_5e6437711e87d34d69ce082798831dbe = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f0fe40e4764cafe21b462d45378ea979 = $(`<div id="html_f0fe40e4764cafe21b462d45378ea979" style="width: 100.0%; height: 100.0%;">بیمارستان دهخدا</div>`)[0];
+                popup_5e6437711e87d34d69ce082798831dbe.setContent(html_f0fe40e4764cafe21b462d45378ea979);
+            
+        
+
+        marker_f8fe8f27b85f5ab2d1ec75e2b23d3173.bindPopup(popup_5e6437711e87d34d69ce082798831dbe)
+        ;
+
+        
+    
+</script>
+</html>

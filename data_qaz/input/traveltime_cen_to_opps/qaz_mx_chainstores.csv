@@ -1,0 +1,5566 @@
+from_id,to_id,travel_time
+22,01_Win Market,57
+22,02_Ofoq Kourosh,38
+22,03_Ofoq Kourosh,46
+22,04_Ofoq Kourosh,48
+22,05_Win Market,26
+22,06_Ofoq Kourosh,25
+22,07_Daily Market,25
+22,08_Sorena,27
+22,09_Daily Market,29
+22,10_Refah,41
+22,11_Ofoq Kourosh,27
+22,12_Ofoq Kourosh,41
+22,13_Ofoq Kourosh,32
+22,14_Ofoq Kourosh,29
+22,15_Ofoq Kourosh,26
+22,16_Ofoq Kourosh,56
+22,17_Ofoq Kourosh,30
+22,18_Yas Chain Store,40
+22,19_Yas Chain Store,37
+22,20_Hayat Market,34
+22,21_Janbo,51
+22,22_Janbo,36
+22,23_Janbo,39
+22,24_Janbo,27
+22,25_Hyper Keeper,17
+22,26_Haft,43
+22,27_Haft,35
+22,28_Haft,29
+22,29_Haft,38
+22,30_Haft,32
+22,31_Daily Market,37
+22,32_Daily Market,37
+22,33_Daily Market,36
+22,34_HyperMe,36
+22,35_Val Market,24
+22,36_Etka,42
+22,37_Etka,38
+22,38_Etka,12
+22,39_Refah,29
+22,40_Refah,33
+22,41_Sorena,38
+22,42_Sorena,35
+22,43_Sorena,28
+22,44_Win Market,38
+22,45_Win Market,29
+22,46_Win Market,47
+22,47_Win Market,47
+22,48_Farhangian Consumer Cooperative,37
+22,49_Amiran,39
+22,50_Gandom,50
+22,51_Minou Mart,38
+22,52_Haft,39
+22,53_Hyperstar,33
+31,01_Win Market,77
+31,02_Ofoq Kourosh,58
+31,03_Ofoq Kourosh,66
+31,04_Ofoq Kourosh,68
+31,05_Win Market,52
+31,06_Ofoq Kourosh,53
+31,07_Daily Market,48
+31,08_Sorena,48
+31,09_Daily Market,51
+31,10_Refah,61
+31,11_Ofoq Kourosh,26
+31,12_Ofoq Kourosh,64
+31,13_Ofoq Kourosh,53
+31,14_Ofoq Kourosh,50
+31,15_Ofoq Kourosh,46
+31,16_Ofoq Kourosh,37
+31,17_Ofoq Kourosh,41
+31,18_Yas Chain Store,60
+31,19_Yas Chain Store,42
+31,20_Hayat Market,57
+31,21_Janbo,71
+31,22_Janbo,59
+31,23_Janbo,27
+31,24_Janbo,28
+31,25_Hyper Keeper,46
+31,26_Haft,63
+31,27_Haft,58
+31,28_Haft,52
+31,29_Haft,43
+31,30_Haft,37
+31,31_Daily Market,38
+31,32_Daily Market,41
+31,33_Daily Market,20
+31,34_HyperMe,40
+31,35_Val Market,47
+31,36_Etka,65
+31,37_Etka,58
+31,38_Etka,43
+31,39_Refah,50
+31,40_Refah,34
+31,41_Sorena,58
+31,42_Sorena,55
+31,43_Sorena,36
+31,44_Win Market,61
+31,45_Win Market,49
+31,46_Win Market,23
+31,47_Win Market,11
+31,48_Farhangian Consumer Cooperative,37
+31,49_Amiran,62
+31,50_Gandom,70
+31,51_Minou Mart,61
+31,52_Haft,20
+31,53_Hyperstar,35
+32,01_Win Market,76
+32,02_Ofoq Kourosh,58
+32,03_Ofoq Kourosh,66
+32,04_Ofoq Kourosh,68
+32,05_Win Market,52
+32,06_Ofoq Kourosh,53
+32,07_Daily Market,48
+32,08_Sorena,48
+32,09_Daily Market,51
+32,10_Refah,59
+32,11_Ofoq Kourosh,26
+32,12_Ofoq Kourosh,64
+32,13_Ofoq Kourosh,53
+32,14_Ofoq Kourosh,50
+32,15_Ofoq Kourosh,46
+32,16_Ofoq Kourosh,32
+32,17_Ofoq Kourosh,41
+32,18_Yas Chain Store,60
+32,19_Yas Chain Store,42
+32,20_Hayat Market,57
+32,21_Janbo,71
+32,22_Janbo,59
+32,23_Janbo,27
+32,24_Janbo,28
+32,25_Hyper Keeper,46
+32,26_Haft,61
+32,27_Haft,58
+32,28_Haft,52
+32,29_Haft,43
+32,30_Haft,37
+32,31_Daily Market,38
+32,32_Daily Market,41
+32,33_Daily Market,20
+32,34_HyperMe,40
+32,35_Val Market,47
+32,36_Etka,65
+32,37_Etka,58
+32,38_Etka,43
+32,39_Refah,50
+32,40_Refah,34
+32,41_Sorena,58
+32,42_Sorena,55
+32,43_Sorena,36
+32,44_Win Market,61
+32,45_Win Market,49
+32,46_Win Market,21
+32,47_Win Market,6
+32,48_Farhangian Consumer Cooperative,37
+32,49_Amiran,62
+32,50_Gandom,70
+32,51_Minou Mart,61
+32,52_Haft,20
+32,53_Hyperstar,35
+33,01_Win Market,76
+33,02_Ofoq Kourosh,62
+33,03_Ofoq Kourosh,72
+33,04_Ofoq Kourosh,68
+33,05_Win Market,57
+33,06_Ofoq Kourosh,58
+33,07_Daily Market,53
+33,08_Sorena,53
+33,09_Daily Market,56
+33,10_Refah,57
+33,11_Ofoq Kourosh,32
+33,12_Ofoq Kourosh,69
+33,13_Ofoq Kourosh,58
+33,14_Ofoq Kourosh,55
+33,15_Ofoq Kourosh,51
+33,16_Ofoq Kourosh,21
+33,17_Ofoq Kourosh,46
+33,18_Yas Chain Store,66
+33,19_Yas Chain Store,45
+33,20_Hayat Market,62
+33,21_Janbo,77
+33,22_Janbo,64
+33,23_Janbo,30
+33,24_Janbo,34
+33,25_Hyper Keeper,52
+33,26_Haft,61
+33,27_Haft,63
+33,28_Haft,57
+33,29_Haft,46
+33,30_Haft,43
+33,31_Daily Market,41
+33,32_Daily Market,43
+33,33_Daily Market,24
+33,34_HyperMe,43
+33,35_Val Market,52
+33,36_Etka,70
+33,37_Etka,64
+33,38_Etka,49
+33,39_Refah,55
+33,40_Refah,39
+33,41_Sorena,63
+33,42_Sorena,57
+33,43_Sorena,42
+33,44_Win Market,66
+33,45_Win Market,55
+33,46_Win Market,16
+33,47_Win Market,10
+33,48_Farhangian Consumer Cooperative,40
+33,49_Amiran,67
+33,50_Gandom,76
+33,51_Minou Mart,66
+33,52_Haft,21
+33,53_Hyperstar,41
+36,01_Win Market,70
+36,02_Ofoq Kourosh,53
+36,03_Ofoq Kourosh,61
+36,04_Ofoq Kourosh,61
+36,05_Win Market,42
+36,06_Ofoq Kourosh,43
+36,07_Daily Market,38
+36,08_Sorena,38
+36,09_Daily Market,37
+36,10_Refah,53
+36,11_Ofoq Kourosh,19
+36,12_Ofoq Kourosh,54
+36,13_Ofoq Kourosh,43
+36,14_Ofoq Kourosh,40
+36,15_Ofoq Kourosh,39
+36,16_Ofoq Kourosh,29
+36,17_Ofoq Kourosh,37
+36,18_Yas Chain Store,55
+36,19_Yas Chain Store,40
+36,20_Hayat Market,47
+36,21_Janbo,66
+36,22_Janbo,49
+36,23_Janbo,25
+36,24_Janbo,22
+36,25_Hyper Keeper,36
+36,26_Haft,55
+36,27_Haft,48
+36,28_Haft,42
+36,29_Haft,41
+36,30_Haft,30
+36,31_Daily Market,36
+36,32_Daily Market,39
+36,33_Daily Market,6
+36,34_HyperMe,38
+36,35_Val Market,37
+36,36_Etka,55
+36,37_Etka,53
+36,38_Etka,33
+36,39_Refah,40
+36,40_Refah,26
+36,41_Sorena,53
+36,42_Sorena,48
+36,43_Sorena,29
+36,44_Win Market,51
+36,45_Win Market,44
+36,46_Win Market,16
+36,47_Win Market,19
+36,48_Farhangian Consumer Cooperative,35
+36,49_Amiran,52
+36,50_Gandom,64
+36,51_Minou Mart,51
+36,52_Haft,8
+36,53_Hyperstar,28
+37,01_Win Market,67
+37,02_Ofoq Kourosh,52
+37,03_Ofoq Kourosh,62
+37,04_Ofoq Kourosh,59
+37,05_Win Market,47
+37,06_Ofoq Kourosh,48
+37,07_Daily Market,43
+37,08_Sorena,43
+37,09_Daily Market,46
+37,10_Refah,49
+37,11_Ofoq Kourosh,22
+37,12_Ofoq Kourosh,59
+37,13_Ofoq Kourosh,48
+37,14_Ofoq Kourosh,45
+37,15_Ofoq Kourosh,41
+37,16_Ofoq Kourosh,21
+37,17_Ofoq Kourosh,36
+37,18_Yas Chain Store,56
+37,19_Yas Chain Store,35
+37,20_Hayat Market,52
+37,21_Janbo,67
+37,22_Janbo,54
+37,23_Janbo,20
+37,24_Janbo,24
+37,25_Hyper Keeper,42
+37,26_Haft,52
+37,27_Haft,53
+37,28_Haft,47
+37,29_Haft,36
+37,30_Haft,33
+37,31_Daily Market,31
+37,32_Daily Market,34
+37,33_Daily Market,13
+37,34_HyperMe,33
+37,35_Val Market,42
+37,36_Etka,60
+37,37_Etka,54
+37,38_Etka,39
+37,39_Refah,45
+37,40_Refah,29
+37,41_Sorena,53
+37,42_Sorena,47
+37,43_Sorena,32
+37,44_Win Market,56
+37,45_Win Market,45
+37,46_Win Market,8
+37,47_Win Market,12
+37,48_Farhangian Consumer Cooperative,30
+37,49_Amiran,57
+37,50_Gandom,66
+37,51_Minou Mart,56
+37,52_Haft,10
+37,53_Hyperstar,31
+38,01_Win Market,65
+38,02_Ofoq Kourosh,52
+38,03_Ofoq Kourosh,62
+38,04_Ofoq Kourosh,58
+38,05_Win Market,46
+38,06_Ofoq Kourosh,47
+38,07_Daily Market,42
+38,08_Sorena,42
+38,09_Daily Market,45
+38,10_Refah,45
+38,11_Ofoq Kourosh,29
+38,12_Ofoq Kourosh,58
+38,13_Ofoq Kourosh,47
+38,14_Ofoq Kourosh,44
+38,15_Ofoq Kourosh,41
+38,16_Ofoq Kourosh,13
+38,17_Ofoq Kourosh,39
+38,18_Yas Chain Store,56
+38,19_Yas Chain Store,35
+38,20_Hayat Market,52
+38,21_Janbo,67
+38,22_Janbo,56
+38,23_Janbo,21
+38,24_Janbo,30
+38,25_Hyper Keeper,49
+38,26_Haft,49
+38,27_Haft,54
+38,28_Haft,47
+38,29_Haft,36
+38,30_Haft,37
+38,31_Daily Market,32
+38,32_Daily Market,30
+38,33_Daily Market,17
+38,34_HyperMe,32
+38,35_Val Market,42
+38,36_Etka,59
+38,37_Etka,54
+38,38_Etka,46
+38,39_Refah,44
+38,40_Refah,31
+38,41_Sorena,53
+38,42_Sorena,47
+38,43_Sorena,37
+38,44_Win Market,57
+38,45_Win Market,45
+38,46_Win Market,6
+38,47_Win Market,22
+38,48_Farhangian Consumer Cooperative,30
+38,49_Amiran,56
+38,50_Gandom,66
+38,51_Minou Mart,57
+38,52_Haft,14
+38,53_Hyperstar,38
+39,01_Win Market,61
+39,02_Ofoq Kourosh,48
+39,03_Ofoq Kourosh,58
+39,04_Ofoq Kourosh,54
+39,05_Win Market,47
+39,06_Ofoq Kourosh,48
+39,07_Daily Market,43
+39,08_Sorena,43
+39,09_Daily Market,47
+39,10_Refah,41
+39,11_Ofoq Kourosh,36
+39,12_Ofoq Kourosh,59
+39,13_Ofoq Kourosh,48
+39,14_Ofoq Kourosh,45
+39,15_Ofoq Kourosh,38
+39,16_Ofoq Kourosh,4
+39,17_Ofoq Kourosh,43
+39,18_Yas Chain Store,52
+39,19_Yas Chain Store,34
+39,20_Hayat Market,53
+39,21_Janbo,63
+39,22_Janbo,58
+39,23_Janbo,24
+39,24_Janbo,37
+39,25_Hyper Keeper,56
+39,26_Haft,45
+39,27_Haft,56
+39,28_Haft,48
+39,29_Haft,35
+39,30_Haft,43
+39,31_Daily Market,31
+39,32_Daily Market,32
+39,33_Daily Market,26
+39,34_HyperMe,33
+39,35_Val Market,43
+39,36_Etka,60
+39,37_Etka,50
+39,38_Etka,53
+39,39_Refah,44
+39,40_Refah,34
+39,41_Sorena,49
+39,42_Sorena,43
+39,43_Sorena,45
+39,44_Win Market,59
+39,45_Win Market,41
+39,46_Win Market,15
+39,47_Win Market,28
+39,48_Farhangian Consumer Cooperative,31
+39,49_Amiran,57
+39,50_Gandom,62
+39,51_Minou Mart,58
+39,52_Haft,23
+39,53_Hyperstar,45
+40,01_Win Market,65
+40,02_Ofoq Kourosh,52
+40,03_Ofoq Kourosh,62
+40,04_Ofoq Kourosh,58
+40,05_Win Market,55
+40,06_Ofoq Kourosh,56
+40,07_Daily Market,51
+40,08_Sorena,49
+40,09_Daily Market,55
+40,10_Refah,45
+40,11_Ofoq Kourosh,44
+40,12_Ofoq Kourosh,67
+40,13_Ofoq Kourosh,56
+40,14_Ofoq Kourosh,52
+40,15_Ofoq Kourosh,42
+40,16_Ofoq Kourosh,15
+40,17_Ofoq Kourosh,51
+40,18_Yas Chain Store,56
+40,19_Yas Chain Store,38
+40,20_Hayat Market,61
+40,21_Janbo,67
+40,22_Janbo,66
+40,23_Janbo,32
+40,24_Janbo,45
+40,25_Hyper Keeper,63
+40,26_Haft,49
+40,27_Haft,64
+40,28_Haft,56
+40,29_Haft,39
+40,30_Haft,51
+40,31_Daily Market,36
+40,32_Daily Market,38
+40,33_Daily Market,34
+40,34_HyperMe,41
+40,35_Val Market,51
+40,36_Etka,68
+40,37_Etka,54
+40,38_Etka,61
+40,39_Refah,50
+40,40_Refah,42
+40,41_Sorena,53
+40,42_Sorena,47
+40,43_Sorena,53
+40,44_Win Market,67
+40,45_Win Market,45
+40,46_Win Market,23
+40,47_Win Market,39
+40,48_Farhangian Consumer Cooperative,39
+40,49_Amiran,65
+40,50_Gandom,66
+40,51_Minou Mart,66
+40,52_Haft,31
+40,53_Hyperstar,53
+41,01_Win Market,70
+41,02_Ofoq Kourosh,52
+41,03_Ofoq Kourosh,60
+41,04_Ofoq Kourosh,59
+41,05_Win Market,40
+41,06_Ofoq Kourosh,41
+41,07_Daily Market,36
+41,08_Sorena,36
+41,09_Daily Market,35
+41,10_Refah,52
+41,11_Ofoq Kourosh,12
+41,12_Ofoq Kourosh,52
+41,13_Ofoq Kourosh,41
+41,14_Ofoq Kourosh,38
+41,15_Ofoq Kourosh,38
+41,16_Ofoq Kourosh,29
+41,17_Ofoq Kourosh,28
+41,18_Yas Chain Store,54
+41,19_Yas Chain Store,37
+41,20_Hayat Market,45
+41,21_Janbo,65
+41,22_Janbo,47
+41,23_Janbo,22
+41,24_Janbo,20
+41,25_Hyper Keeper,34
+41,26_Haft,55
+41,27_Haft,46
+41,28_Haft,40
+41,29_Haft,38
+41,30_Haft,26
+41,31_Daily Market,33
+41,32_Daily Market,35
+41,33_Daily Market,6
+41,34_HyperMe,35
+41,35_Val Market,35
+41,36_Etka,53
+41,37_Etka,52
+41,38_Etka,31
+41,39_Refah,38
+41,40_Refah,16
+41,41_Sorena,52
+41,42_Sorena,47
+41,43_Sorena,27
+41,44_Win Market,49
+41,45_Win Market,43
+41,46_Win Market,15
+41,47_Win Market,21
+41,48_Farhangian Consumer Cooperative,32
+41,49_Amiran,50
+41,50_Gandom,63
+41,51_Minou Mart,49
+41,52_Haft,7
+41,53_Hyperstar,27
+42,01_Win Market,66
+42,02_Ofoq Kourosh,51
+42,03_Ofoq Kourosh,61
+42,04_Ofoq Kourosh,59
+42,05_Win Market,46
+42,06_Ofoq Kourosh,47
+42,07_Daily Market,42
+42,08_Sorena,42
+42,09_Daily Market,45
+42,10_Refah,46
+42,11_Ofoq Kourosh,29
+42,12_Ofoq Kourosh,58
+42,13_Ofoq Kourosh,47
+42,14_Ofoq Kourosh,44
+42,15_Ofoq Kourosh,40
+42,16_Ofoq Kourosh,14
+42,17_Ofoq Kourosh,37
+42,18_Yas Chain Store,55
+42,19_Yas Chain Store,31
+42,20_Hayat Market,52
+42,21_Janbo,66
+42,22_Janbo,56
+42,23_Janbo,18
+42,24_Janbo,29
+42,25_Hyper Keeper,47
+42,26_Haft,50
+42,27_Haft,54
+42,28_Haft,47
+42,29_Haft,32
+42,30_Haft,34
+42,31_Daily Market,27
+42,32_Daily Market,23
+42,33_Daily Market,17
+42,34_HyperMe,32
+42,35_Val Market,42
+42,36_Etka,59
+42,37_Etka,53
+42,38_Etka,46
+42,39_Refah,44
+42,40_Refah,28
+42,41_Sorena,54
+42,42_Sorena,46
+42,43_Sorena,35
+42,44_Win Market,57
+42,45_Win Market,44
+42,46_Win Market,6
+42,47_Win Market,22
+42,48_Farhangian Consumer Cooperative,28
+42,49_Amiran,56
+42,50_Gandom,65
+42,51_Minou Mart,57
+42,52_Haft,14
+42,53_Hyperstar,38
+44,01_Win Market,63
+44,02_Ofoq Kourosh,49
+44,03_Ofoq Kourosh,59
+44,04_Ofoq Kourosh,55
+44,05_Win Market,51
+44,06_Ofoq Kourosh,52
+44,07_Daily Market,47
+44,08_Sorena,46
+44,09_Daily Market,47
+44,10_Refah,43
+44,11_Ofoq Kourosh,40
+44,12_Ofoq Kourosh,63
+44,13_Ofoq Kourosh,52
+44,14_Ofoq Kourosh,49
+44,15_Ofoq Kourosh,39
+44,16_Ofoq Kourosh,10
+44,17_Ofoq Kourosh,44
+44,18_Yas Chain Store,53
+44,19_Yas Chain Store,30
+44,20_Hayat Market,57
+44,21_Janbo,64
+44,22_Janbo,62
+44,23_Janbo,27
+44,24_Janbo,40
+44,25_Hyper Keeper,57
+44,26_Haft,47
+44,27_Haft,60
+44,28_Haft,52
+44,29_Haft,31
+44,30_Haft,43
+44,31_Daily Market,29
+44,32_Daily Market,22
+44,33_Daily Market,29
+44,34_HyperMe,37
+44,35_Val Market,47
+44,36_Etka,64
+44,37_Etka,51
+44,38_Etka,55
+44,39_Refah,47
+44,40_Refah,37
+44,41_Sorena,50
+44,42_Sorena,44
+44,43_Sorena,46
+44,44_Win Market,63
+44,45_Win Market,42
+44,46_Win Market,18
+44,47_Win Market,35
+44,48_Farhangian Consumer Cooperative,35
+44,49_Amiran,61
+44,50_Gandom,63
+44,51_Minou Mart,62
+44,52_Haft,26
+44,53_Hyperstar,49
+45,01_Win Market,61
+45,02_Ofoq Kourosh,42
+45,03_Ofoq Kourosh,50
+45,04_Ofoq Kourosh,50
+45,05_Win Market,32
+45,06_Ofoq Kourosh,33
+45,07_Daily Market,28
+45,08_Sorena,28
+45,09_Daily Market,27
+45,10_Refah,44
+45,11_Ofoq Kourosh,3
+45,12_Ofoq Kourosh,44
+45,13_Ofoq Kourosh,33
+45,14_Ofoq Kourosh,30
+45,15_Ofoq Kourosh,29
+45,16_Ofoq Kourosh,36
+45,17_Ofoq Kourosh,21
+45,18_Yas Chain Store,44
+45,19_Yas Chain Store,35
+45,20_Hayat Market,37
+45,21_Janbo,55
+45,22_Janbo,39
+45,23_Janbo,24
+45,24_Janbo,8
+45,25_Hyper Keeper,26
+45,26_Haft,47
+45,27_Haft,38
+45,28_Haft,32
+45,29_Haft,36
+45,30_Haft,16
+45,31_Daily Market,33
+45,32_Daily Market,31
+45,33_Daily Market,16
+45,34_HyperMe,33
+45,35_Val Market,27
+45,36_Etka,45
+45,37_Etka,42
+45,38_Etka,23
+45,39_Refah,30
+45,40_Refah,9
+45,41_Sorena,42
+45,42_Sorena,38
+45,43_Sorena,17
+45,44_Win Market,41
+45,45_Win Market,33
+45,46_Win Market,22
+45,47_Win Market,22
+45,48_Farhangian Consumer Cooperative,31
+45,49_Amiran,42
+45,50_Gandom,54
+45,51_Minou Mart,41
+45,52_Haft,19
+45,53_Hyperstar,15
+46,01_Win Market,65
+46,02_Ofoq Kourosh,46
+46,03_Ofoq Kourosh,54
+46,04_Ofoq Kourosh,54
+46,05_Win Market,35
+46,06_Ofoq Kourosh,36
+46,07_Daily Market,31
+46,08_Sorena,31
+46,09_Daily Market,31
+46,10_Refah,48
+46,11_Ofoq Kourosh,11
+46,12_Ofoq Kourosh,47
+46,13_Ofoq Kourosh,36
+46,14_Ofoq Kourosh,33
+46,15_Ofoq Kourosh,32
+46,16_Ofoq Kourosh,47
+46,17_Ofoq Kourosh,31
+46,18_Yas Chain Store,48
+46,19_Yas Chain Store,44
+46,20_Hayat Market,40
+46,21_Janbo,59
+46,22_Janbo,42
+46,23_Janbo,37
+46,24_Janbo,15
+46,25_Hyper Keeper,29
+46,26_Haft,51
+46,27_Haft,41
+46,28_Haft,35
+46,29_Haft,44
+46,30_Haft,23
+46,31_Daily Market,44
+46,32_Daily Market,43
+46,33_Daily Market,23
+46,34_HyperMe,37
+46,35_Val Market,30
+46,36_Etka,48
+46,37_Etka,46
+46,38_Etka,26
+46,39_Refah,33
+46,40_Refah,21
+46,41_Sorena,46
+46,42_Sorena,41
+46,43_Sorena,24
+46,44_Win Market,44
+46,45_Win Market,37
+46,46_Win Market,33
+46,47_Win Market,33
+46,48_Farhangian Consumer Cooperative,42
+46,49_Amiran,45
+46,50_Gandom,57
+46,51_Minou Mart,44
+46,52_Haft,26
+46,53_Hyperstar,17
+47,01_Win Market,68
+47,02_Ofoq Kourosh,52
+47,03_Ofoq Kourosh,61
+47,04_Ofoq Kourosh,60
+47,05_Win Market,44
+47,06_Ofoq Kourosh,44
+47,07_Daily Market,40
+47,08_Sorena,40
+47,09_Daily Market,34
+47,10_Refah,50
+47,11_Ofoq Kourosh,15
+47,12_Ofoq Kourosh,56
+47,13_Ofoq Kourosh,45
+47,14_Ofoq Kourosh,42
+47,15_Ofoq Kourosh,39
+47,16_Ofoq Kourosh,31
+47,17_Ofoq Kourosh,22
+47,18_Yas Chain Store,55
+47,19_Yas Chain Store,31
+47,20_Hayat Market,49
+47,21_Janbo,66
+47,22_Janbo,51
+47,23_Janbo,16
+47,24_Janbo,18
+47,25_Hyper Keeper,37
+47,26_Haft,53
+47,27_Haft,50
+47,28_Haft,44
+47,29_Haft,32
+47,30_Haft,24
+47,31_Daily Market,26
+47,32_Daily Market,28
+47,33_Daily Market,16
+47,34_HyperMe,30
+47,35_Val Market,39
+47,36_Etka,57
+47,37_Etka,53
+47,38_Etka,35
+47,39_Refah,42
+47,40_Refah,12
+47,41_Sorena,53
+47,42_Sorena,48
+47,43_Sorena,27
+47,44_Win Market,53
+47,45_Win Market,44
+47,46_Win Market,21
+47,47_Win Market,27
+47,48_Farhangian Consumer Cooperative,26
+47,49_Amiran,54
+47,50_Gandom,65
+47,51_Minou Mart,53
+47,52_Haft,17
+47,53_Hyperstar,28
+48,01_Win Market,62
+48,02_Ofoq Kourosh,46
+48,03_Ofoq Kourosh,54
+48,04_Ofoq Kourosh,54
+48,05_Win Market,34
+48,06_Ofoq Kourosh,35
+48,07_Daily Market,30
+48,08_Sorena,30
+48,09_Daily Market,33
+48,10_Refah,42
+48,11_Ofoq Kourosh,24
+48,12_Ofoq Kourosh,46
+48,13_Ofoq Kourosh,35
+48,14_Ofoq Kourosh,32
+48,15_Ofoq Kourosh,32
+48,16_Ofoq Kourosh,28
+48,17_Ofoq Kourosh,23
+48,18_Yas Chain Store,49
+48,19_Yas Chain Store,20
+48,20_Hayat Market,40
+48,21_Janbo,60
+48,22_Janbo,44
+48,23_Janbo,5
+48,24_Janbo,18
+48,25_Hyper Keeper,35
+48,26_Haft,47
+48,27_Haft,43
+48,28_Haft,35
+48,29_Haft,20
+48,30_Haft,21
+48,31_Daily Market,15
+48,32_Daily Market,17
+48,33_Daily Market,24
+48,34_HyperMe,20
+48,35_Val Market,30
+48,36_Etka,47
+48,37_Etka,47
+48,38_Etka,37
+48,39_Refah,32
+48,40_Refah,15
+48,41_Sorena,48
+48,42_Sorena,40
+48,43_Sorena,24
+48,44_Win Market,46
+48,45_Win Market,37
+48,46_Win Market,17
+48,47_Win Market,23
+48,48_Farhangian Consumer Cooperative,16
+48,49_Amiran,44
+48,50_Gandom,57
+48,51_Minou Mart,45
+48,52_Haft,21
+48,53_Hyperstar,28
+49,01_Win Market,57
+49,02_Ofoq Kourosh,41
+49,03_Ofoq Kourosh,51
+49,04_Ofoq Kourosh,50
+49,05_Win Market,40
+49,06_Ofoq Kourosh,41
+49,07_Daily Market,36
+49,08_Sorena,36
+49,09_Daily Market,36
+49,10_Refah,37
+49,11_Ofoq Kourosh,32
+49,12_Ofoq Kourosh,52
+49,13_Ofoq Kourosh,41
+49,14_Ofoq Kourosh,38
+49,15_Ofoq Kourosh,31
+49,16_Ofoq Kourosh,23
+49,17_Ofoq Kourosh,32
+49,18_Yas Chain Store,45
+49,19_Yas Chain Store,20
+49,20_Hayat Market,46
+49,21_Janbo,56
+49,22_Janbo,51
+49,23_Janbo,12
+49,24_Janbo,27
+49,25_Hyper Keeper,44
+49,26_Haft,42
+49,27_Haft,49
+49,28_Haft,41
+49,29_Haft,21
+49,30_Haft,30
+49,31_Daily Market,20
+49,32_Daily Market,12
+49,33_Daily Market,26
+49,34_HyperMe,26
+49,35_Val Market,36
+49,36_Etka,53
+49,37_Etka,44
+49,38_Etka,45
+49,39_Refah,37
+49,40_Refah,24
+49,41_Sorena,44
+49,42_Sorena,37
+49,43_Sorena,33
+49,44_Win Market,52
+49,45_Win Market,34
+49,46_Win Market,17
+49,47_Win Market,25
+49,48_Farhangian Consumer Cooperative,22
+49,49_Amiran,50
+49,50_Gandom,55
+49,51_Minou Mart,51
+49,52_Haft,23
+49,53_Hyperstar,37
+50,01_Win Market,64
+50,02_Ofoq Kourosh,48
+50,03_Ofoq Kourosh,57
+50,04_Ofoq Kourosh,56
+50,05_Win Market,39
+50,06_Ofoq Kourosh,39
+50,07_Daily Market,37
+50,08_Sorena,37
+50,09_Daily Market,24
+50,10_Refah,47
+50,11_Ofoq Kourosh,17
+50,12_Ofoq Kourosh,53
+50,13_Ofoq Kourosh,42
+50,14_Ofoq Kourosh,39
+50,15_Ofoq Kourosh,37
+50,16_Ofoq Kourosh,35
+50,17_Ofoq Kourosh,12
+50,18_Yas Chain Store,51
+50,19_Yas Chain Store,30
+50,20_Hayat Market,46
+50,21_Janbo,62
+50,22_Janbo,48
+50,23_Janbo,16
+50,24_Janbo,12
+50,25_Hyper Keeper,32
+50,26_Haft,49
+50,27_Haft,47
+50,28_Haft,41
+50,29_Haft,31
+50,30_Haft,15
+50,31_Daily Market,25
+50,32_Daily Market,26
+50,33_Daily Market,22
+50,34_HyperMe,28
+50,35_Val Market,36
+50,36_Etka,54
+50,37_Etka,49
+50,38_Etka,32
+50,39_Refah,39
+50,40_Refah,6
+50,41_Sorena,49
+50,42_Sorena,44
+50,43_Sorena,20
+50,44_Win Market,50
+50,45_Win Market,40
+50,46_Win Market,24
+50,47_Win Market,27
+50,48_Farhangian Consumer Cooperative,23
+50,49_Amiran,51
+50,50_Gandom,61
+50,51_Minou Mart,50
+50,52_Haft,25
+50,53_Hyperstar,22
+51,01_Win Market,63
+51,02_Ofoq Kourosh,48
+51,03_Ofoq Kourosh,56
+51,04_Ofoq Kourosh,55
+51,05_Win Market,34
+51,06_Ofoq Kourosh,35
+51,07_Daily Market,30
+51,08_Sorena,30
+51,09_Daily Market,25
+51,10_Refah,44
+51,11_Ofoq Kourosh,22
+51,12_Ofoq Kourosh,46
+51,13_Ofoq Kourosh,35
+51,14_Ofoq Kourosh,32
+51,15_Ofoq Kourosh,33
+51,16_Ofoq Kourosh,27
+51,17_Ofoq Kourosh,16
+51,18_Yas Chain Store,52
+51,19_Yas Chain Store,22
+51,20_Hayat Market,40
+51,21_Janbo,63
+51,22_Janbo,44
+51,23_Janbo,6
+51,24_Janbo,18
+51,25_Hyper Keeper,35
+51,26_Haft,48
+51,27_Haft,43
+51,28_Haft,35
+51,29_Haft,22
+51,30_Haft,20
+51,31_Daily Market,17
+51,32_Daily Market,20
+51,33_Daily Market,23
+51,34_HyperMe,20
+51,35_Val Market,30
+51,36_Etka,47
+51,37_Etka,50
+51,38_Etka,36
+51,39_Refah,32
+51,40_Refah,12
+51,41_Sorena,49
+51,42_Sorena,41
+51,43_Sorena,24
+51,44_Win Market,46
+51,45_Win Market,38
+51,46_Win Market,19
+51,47_Win Market,25
+51,48_Farhangian Consumer Cooperative,15
+51,49_Amiran,44
+51,50_Gandom,59
+51,51_Minou Mart,45
+51,52_Haft,23
+51,53_Hyperstar,28
+52,01_Win Market,54
+52,02_Ofoq Kourosh,39
+52,03_Ofoq Kourosh,49
+52,04_Ofoq Kourosh,46
+52,05_Win Market,49
+52,06_Ofoq Kourosh,50
+52,07_Daily Market,45
+52,08_Sorena,41
+52,09_Daily Market,42
+52,10_Refah,35
+52,11_Ofoq Kourosh,41
+52,12_Ofoq Kourosh,61
+52,13_Ofoq Kourosh,50
+52,14_Ofoq Kourosh,45
+52,15_Ofoq Kourosh,29
+52,16_Ofoq Kourosh,21
+52,17_Ofoq Kourosh,40
+52,18_Yas Chain Store,43
+52,19_Yas Chain Store,21
+52,20_Hayat Market,55
+52,21_Janbo,54
+52,22_Janbo,59
+52,23_Janbo,21
+52,24_Janbo,35
+52,25_Hyper Keeper,50
+52,26_Haft,39
+52,27_Haft,57
+52,28_Haft,50
+52,29_Haft,22
+52,30_Haft,38
+52,31_Daily Market,21
+52,32_Daily Market,13
+52,33_Daily Market,35
+52,34_HyperMe,32
+52,35_Val Market,45
+52,36_Etka,62
+52,37_Etka,41
+52,38_Etka,48
+52,39_Refah,41
+52,40_Refah,31
+52,41_Sorena,40
+52,42_Sorena,34
+52,43_Sorena,41
+52,44_Win Market,60
+52,45_Win Market,32
+52,46_Win Market,26
+52,47_Win Market,36
+52,48_Farhangian Consumer Cooperative,28
+52,49_Amiran,59
+52,50_Gandom,53
+52,51_Minou Mart,59
+52,52_Haft,32
+52,53_Hyperstar,44
+53,01_Win Market,60
+53,02_Ofoq Kourosh,47
+53,03_Ofoq Kourosh,57
+53,04_Ofoq Kourosh,53
+53,05_Win Market,55
+53,06_Ofoq Kourosh,56
+53,07_Daily Market,51
+53,08_Sorena,47
+53,09_Daily Market,55
+53,10_Refah,40
+53,11_Ofoq Kourosh,44
+53,12_Ofoq Kourosh,67
+53,13_Ofoq Kourosh,56
+53,14_Ofoq Kourosh,51
+53,15_Ofoq Kourosh,37
+53,16_Ofoq Kourosh,19
+53,17_Ofoq Kourosh,50
+53,18_Yas Chain Store,51
+53,19_Yas Chain Store,33
+53,20_Hayat Market,61
+53,21_Janbo,62
+53,22_Janbo,66
+53,23_Janbo,32
+53,24_Janbo,45
+53,25_Hyper Keeper,61
+53,26_Haft,44
+53,27_Haft,64
+53,28_Haft,56
+53,29_Haft,34
+53,30_Haft,51
+53,31_Daily Market,33
+53,32_Daily Market,32
+53,33_Daily Market,34
+53,34_HyperMe,41
+53,35_Val Market,51
+53,36_Etka,68
+53,37_Etka,49
+53,38_Etka,60
+53,39_Refah,48
+53,40_Refah,42
+53,41_Sorena,48
+53,42_Sorena,42
+53,43_Sorena,53
+53,44_Win Market,67
+53,45_Win Market,40
+53,46_Win Market,23
+53,47_Win Market,41
+53,48_Farhangian Consumer Cooperative,38
+53,49_Amiran,65
+53,50_Gandom,61
+53,51_Minou Mart,66
+53,52_Haft,31
+53,53_Hyperstar,53
+54,01_Win Market,56
+54,02_Ofoq Kourosh,37
+54,03_Ofoq Kourosh,45
+54,04_Ofoq Kourosh,46
+54,05_Win Market,28
+54,06_Ofoq Kourosh,29
+54,07_Daily Market,24
+54,08_Sorena,25
+54,09_Daily Market,22
+54,10_Refah,40
+54,11_Ofoq Kourosh,17
+54,12_Ofoq Kourosh,40
+54,13_Ofoq Kourosh,30
+54,14_Ofoq Kourosh,27
+54,15_Ofoq Kourosh,25
+54,16_Ofoq Kourosh,48
+54,17_Ofoq Kourosh,24
+54,18_Yas Chain Store,39
+54,19_Yas Chain Store,36
+54,20_Hayat Market,33
+54,21_Janbo,50
+54,22_Janbo,35
+54,23_Janbo,30
+54,24_Janbo,11
+54,25_Hyper Keeper,22
+54,26_Haft,42
+54,27_Haft,34
+54,28_Haft,28
+54,29_Haft,36
+54,30_Haft,16
+54,31_Daily Market,36
+54,32_Daily Market,35
+54,33_Daily Market,26
+54,34_HyperMe,29
+54,35_Val Market,23
+54,36_Etka,41
+54,37_Etka,37
+54,38_Etka,19
+54,39_Refah,27
+54,40_Refah,17
+54,41_Sorena,37
+54,42_Sorena,34
+54,43_Sorena,11
+54,44_Win Market,37
+54,45_Win Market,28
+54,46_Win Market,34
+54,47_Win Market,34
+54,48_Farhangian Consumer Cooperative,35
+54,49_Amiran,38
+54,50_Gandom,49
+54,51_Minou Mart,37
+54,52_Haft,29
+54,53_Hyperstar,11
+55,01_Win Market,66
+55,02_Ofoq Kourosh,48
+55,03_Ofoq Kourosh,56
+55,04_Ofoq Kourosh,58
+55,05_Win Market,36
+55,06_Ofoq Kourosh,36
+55,07_Daily Market,33
+55,08_Sorena,38
+55,09_Daily Market,17
+55,10_Refah,45
+55,11_Ofoq Kourosh,24
+55,12_Ofoq Kourosh,49
+55,13_Ofoq Kourosh,43
+55,14_Ofoq Kourosh,40
+55,15_Ofoq Kourosh,36
+55,16_Ofoq Kourosh,42
+55,17_Ofoq Kourosh,6
+55,18_Yas Chain Store,50
+55,19_Yas Chain Store,22
+55,20_Hayat Market,43
+55,21_Janbo,61
+55,22_Janbo,47
+55,23_Janbo,19
+55,24_Janbo,20
+55,25_Hyper Keeper,34
+55,26_Haft,51
+55,27_Haft,46
+55,28_Haft,38
+55,29_Haft,23
+55,30_Haft,12
+55,31_Daily Market,19
+55,32_Daily Market,22
+55,33_Daily Market,30
+55,34_HyperMe,21
+55,35_Val Market,33
+55,36_Etka,52
+55,37_Etka,48
+55,38_Etka,35
+55,39_Refah,40
+55,40_Refah,13
+55,41_Sorena,48
+55,42_Sorena,44
+55,43_Sorena,17
+55,44_Win Market,49
+55,45_Win Market,39
+55,46_Win Market,31
+55,47_Win Market,34
+55,48_Farhangian Consumer Cooperative,16
+55,49_Amiran,47
+55,50_Gandom,60
+55,51_Minou Mart,48
+55,52_Haft,32
+55,53_Hyperstar,30
+56,01_Win Market,64
+56,02_Ofoq Kourosh,48
+56,03_Ofoq Kourosh,57
+56,04_Ofoq Kourosh,56
+56,05_Win Market,34
+56,06_Ofoq Kourosh,35
+56,07_Daily Market,30
+56,08_Sorena,33
+56,09_Daily Market,21
+56,10_Refah,45
+56,11_Ofoq Kourosh,26
+56,12_Ofoq Kourosh,46
+56,13_Ofoq Kourosh,38
+56,14_Ofoq Kourosh,35
+56,15_Ofoq Kourosh,34
+56,16_Ofoq Kourosh,31
+56,17_Ofoq Kourosh,12
+56,18_Yas Chain Store,51
+56,19_Yas Chain Store,19
+56,20_Hayat Market,40
+56,21_Janbo,62
+56,22_Janbo,45
+56,23_Janbo,9
+56,24_Janbo,21
+56,25_Hyper Keeper,39
+56,26_Haft,49
+56,27_Haft,43
+56,28_Haft,35
+56,29_Haft,19
+56,30_Haft,18
+56,31_Daily Market,14
+56,32_Daily Market,21
+56,33_Daily Market,27
+56,34_HyperMe,18
+56,35_Val Market,30
+56,36_Etka,48
+56,37_Etka,49
+56,38_Etka,40
+56,39_Refah,35
+56,40_Refah,15
+56,41_Sorena,49
+56,42_Sorena,42
+56,43_Sorena,23
+56,44_Win Market,46
+56,45_Win Market,39
+56,46_Win Market,23
+56,47_Win Market,29
+56,48_Farhangian Consumer Cooperative,11
+56,49_Amiran,44
+56,50_Gandom,60
+56,51_Minou Mart,45
+56,52_Haft,27
+56,53_Hyperstar,32
+57,01_Win Market,67
+57,02_Ofoq Kourosh,50
+57,03_Ofoq Kourosh,58
+57,04_Ofoq Kourosh,58
+57,05_Win Market,36
+57,06_Ofoq Kourosh,36
+57,07_Daily Market,36
+57,08_Sorena,36
+57,09_Daily Market,20
+57,10_Refah,47
+57,11_Ofoq Kourosh,18
+57,12_Ofoq Kourosh,52
+57,13_Ofoq Kourosh,41
+57,14_Ofoq Kourosh,38
+57,15_Ofoq Kourosh,37
+57,16_Ofoq Kourosh,38
+57,17_Ofoq Kourosh,8
+57,18_Yas Chain Store,52
+57,19_Yas Chain Store,27
+57,20_Hayat Market,45
+57,21_Janbo,63
+57,22_Janbo,47
+57,23_Janbo,18
+57,24_Janbo,11
+57,25_Hyper Keeper,30
+57,26_Haft,51
+57,27_Haft,46
+57,28_Haft,40
+57,29_Haft,28
+57,30_Haft,8
+57,31_Daily Market,25
+57,32_Daily Market,25
+57,33_Daily Market,24
+57,34_HyperMe,25
+57,35_Val Market,35
+57,36_Etka,53
+57,37_Etka,50
+57,38_Etka,31
+57,39_Refah,38
+57,40_Refah,7
+57,41_Sorena,50
+57,42_Sorena,45
+57,43_Sorena,13
+57,44_Win Market,49
+57,45_Win Market,41
+57,46_Win Market,27
+57,47_Win Market,30
+57,48_Farhangian Consumer Cooperative,22
+57,49_Amiran,50
+57,50_Gandom,62
+57,51_Minou Mart,49
+57,52_Haft,27
+57,53_Hyperstar,21
+59,01_Win Market,57
+59,02_Ofoq Kourosh,41
+59,03_Ofoq Kourosh,50
+59,04_Ofoq Kourosh,50
+59,05_Win Market,33
+59,06_Ofoq Kourosh,34
+59,07_Daily Market,29
+59,08_Sorena,29
+59,09_Daily Market,31
+59,10_Refah,39
+59,11_Ofoq Kourosh,28
+59,12_Ofoq Kourosh,45
+59,13_Ofoq Kourosh,34
+59,14_Ofoq Kourosh,31
+59,15_Ofoq Kourosh,28
+59,16_Ofoq Kourosh,26
+59,17_Ofoq Kourosh,22
+59,18_Yas Chain Store,44
+59,19_Yas Chain Store,12
+59,20_Hayat Market,39
+59,21_Janbo,55
+59,22_Janbo,44
+59,23_Janbo,5
+59,24_Janbo,22
+59,25_Hyper Keeper,39
+59,26_Haft,43
+59,27_Haft,42
+59,28_Haft,34
+59,29_Haft,12
+59,30_Haft,25
+59,31_Daily Market,7
+59,32_Daily Market,11
+59,33_Daily Market,22
+59,34_HyperMe,18
+59,35_Val Market,29
+59,36_Etka,46
+59,37_Etka,42
+59,38_Etka,41
+59,39_Refah,31
+59,40_Refah,19
+59,41_Sorena,43
+59,42_Sorena,36
+59,43_Sorena,28
+59,44_Win Market,45
+59,45_Win Market,33
+59,46_Win Market,16
+59,47_Win Market,21
+59,48_Farhangian Consumer Cooperative,10
+59,49_Amiran,43
+59,50_Gandom,54
+59,51_Minou Mart,44
+59,52_Haft,19
+59,53_Hyperstar,32
+60,01_Win Market,64
+60,02_Ofoq Kourosh,48
+60,03_Ofoq Kourosh,56
+60,04_Ofoq Kourosh,57
+60,05_Win Market,35
+60,06_Ofoq Kourosh,36
+60,07_Daily Market,31
+60,08_Sorena,32
+60,09_Daily Market,26
+60,10_Refah,45
+60,11_Ofoq Kourosh,27
+60,12_Ofoq Kourosh,47
+60,13_Ofoq Kourosh,37
+60,14_Ofoq Kourosh,34
+60,15_Ofoq Kourosh,34
+60,16_Ofoq Kourosh,30
+60,17_Ofoq Kourosh,17
+60,18_Yas Chain Store,51
+60,19_Yas Chain Store,19
+60,20_Hayat Market,41
+60,21_Janbo,62
+60,22_Janbo,46
+60,23_Janbo,9
+60,24_Janbo,21
+60,25_Hyper Keeper,38
+60,26_Haft,50
+60,27_Haft,44
+60,28_Haft,36
+60,29_Haft,20
+60,30_Haft,23
+60,31_Daily Market,15
+60,32_Daily Market,21
+60,33_Daily Market,28
+60,34_HyperMe,19
+60,35_Val Market,31
+60,36_Etka,48
+60,37_Etka,49
+60,38_Etka,40
+60,39_Refah,34
+60,40_Refah,18
+60,41_Sorena,50
+60,42_Sorena,42
+60,43_Sorena,27
+60,44_Win Market,47
+60,45_Win Market,39
+60,46_Win Market,22
+60,47_Win Market,28
+60,48_Farhangian Consumer Cooperative,12
+60,49_Amiran,45
+60,50_Gandom,59
+60,51_Minou Mart,46
+60,52_Haft,26
+60,53_Hyperstar,31
+61,01_Win Market,53
+61,02_Ofoq Kourosh,37
+61,03_Ofoq Kourosh,45
+61,04_Ofoq Kourosh,45
+61,05_Win Market,36
+61,06_Ofoq Kourosh,37
+61,07_Daily Market,32
+61,08_Sorena,33
+61,09_Daily Market,32
+61,10_Refah,34
+61,11_Ofoq Kourosh,33
+61,12_Ofoq Kourosh,48
+61,13_Ofoq Kourosh,39
+61,14_Ofoq Kourosh,36
+61,15_Ofoq Kourosh,25
+61,16_Ofoq Kourosh,31
+61,17_Ofoq Kourosh,23
+61,18_Yas Chain Store,39
+61,19_Yas Chain Store,8
+61,20_Hayat Market,42
+61,21_Janbo,50
+61,22_Janbo,47
+61,23_Janbo,10
+61,24_Janbo,27
+61,25_Hyper Keeper,43
+61,26_Haft,38
+61,27_Haft,45
+61,28_Haft,37
+61,29_Haft,9
+61,30_Haft,29
+61,31_Daily Market,7
+61,32_Daily Market,5
+61,33_Daily Market,27
+61,34_HyperMe,19
+61,35_Val Market,32
+61,36_Etka,50
+61,37_Etka,37
+61,38_Etka,42
+61,39_Refah,34
+61,40_Refah,24
+61,41_Sorena,38
+61,42_Sorena,32
+61,43_Sorena,33
+61,44_Win Market,48
+61,45_Win Market,28
+61,46_Win Market,21
+61,47_Win Market,26
+61,48_Farhangian Consumer Cooperative,11
+61,49_Amiran,46
+61,50_Gandom,49
+61,51_Minou Mart,47
+61,52_Haft,24
+61,53_Hyperstar,37
+62,01_Win Market,50
+62,02_Ofoq Kourosh,34
+62,03_Ofoq Kourosh,43
+62,04_Ofoq Kourosh,42
+62,05_Win Market,44
+62,06_Ofoq Kourosh,45
+62,07_Daily Market,40
+62,08_Sorena,36
+62,09_Daily Market,37
+62,10_Refah,32
+62,11_Ofoq Kourosh,39
+62,12_Ofoq Kourosh,56
+62,13_Ofoq Kourosh,45
+62,14_Ofoq Kourosh,40
+62,15_Ofoq Kourosh,23
+62,16_Ofoq Kourosh,30
+62,17_Ofoq Kourosh,31
+62,18_Yas Chain Store,37
+62,19_Yas Chain Store,10
+62,20_Hayat Market,50
+62,21_Janbo,48
+62,22_Janbo,55
+62,23_Janbo,18
+62,24_Janbo,33
+62,25_Hyper Keeper,45
+62,26_Haft,35
+62,27_Haft,53
+62,28_Haft,45
+62,29_Haft,11
+62,30_Haft,35
+62,31_Daily Market,10
+62,32_Daily Market,5
+62,33_Daily Market,36
+62,34_HyperMe,24
+62,35_Val Market,40
+62,36_Etka,57
+62,37_Etka,35
+62,38_Etka,44
+62,39_Refah,36
+62,40_Refah,29
+62,41_Sorena,34
+62,42_Sorena,30
+62,43_Sorena,38
+62,44_Win Market,56
+62,45_Win Market,26
+62,46_Win Market,28
+62,47_Win Market,36
+62,48_Farhangian Consumer Cooperative,18
+62,49_Amiran,54
+62,50_Gandom,47
+62,51_Minou Mart,55
+62,52_Haft,33
+62,53_Hyperstar,43
+63,01_Win Market,47
+63,02_Ofoq Kourosh,31
+63,03_Ofoq Kourosh,39
+63,04_Ofoq Kourosh,39
+63,05_Win Market,41
+63,06_Ofoq Kourosh,42
+63,07_Daily Market,37
+63,08_Sorena,32
+63,09_Daily Market,41
+63,10_Refah,28
+63,11_Ofoq Kourosh,42
+63,12_Ofoq Kourosh,60
+63,13_Ofoq Kourosh,41
+63,14_Ofoq Kourosh,36
+63,15_Ofoq Kourosh,19
+63,16_Ofoq Kourosh,26
+63,17_Ofoq Kourosh,35
+63,18_Yas Chain Store,33
+63,19_Yas Chain Store,14
+63,20_Hayat Market,53
+63,21_Janbo,44
+63,22_Janbo,53
+63,23_Janbo,23
+63,24_Janbo,37
+63,25_Hyper Keeper,46
+63,26_Haft,32
+63,27_Haft,55
+63,28_Haft,43
+63,29_Haft,15
+63,30_Haft,40
+63,31_Daily Market,14
+63,32_Daily Market,13
+63,33_Daily Market,37
+63,34_HyperMe,28
+63,35_Val Market,38
+63,36_Etka,53
+63,37_Etka,31
+63,38_Etka,45
+63,39_Refah,32
+63,40_Refah,33
+63,41_Sorena,31
+63,42_Sorena,26
+63,43_Sorena,42
+63,44_Win Market,56
+63,45_Win Market,22
+63,46_Win Market,27
+63,47_Win Market,41
+63,48_Farhangian Consumer Cooperative,22
+63,49_Amiran,58
+63,50_Gandom,43
+63,51_Minou Mart,58
+63,52_Haft,34
+63,53_Hyperstar,46
+64,01_Win Market,66
+64,02_Ofoq Kourosh,49
+64,03_Ofoq Kourosh,57
+64,04_Ofoq Kourosh,56
+64,05_Win Market,30
+64,06_Ofoq Kourosh,31
+64,07_Daily Market,26
+64,08_Sorena,33
+64,09_Daily Market,13
+64,10_Refah,44
+64,11_Ofoq Kourosh,26
+64,12_Ofoq Kourosh,42
+64,13_Ofoq Kourosh,38
+64,14_Ofoq Kourosh,35
+64,15_Ofoq Kourosh,34
+64,16_Ofoq Kourosh,40
+64,17_Ofoq Kourosh,7
+64,18_Yas Chain Store,51
+64,19_Yas Chain Store,22
+64,20_Hayat Market,36
+64,21_Janbo,62
+64,22_Janbo,41
+64,23_Janbo,18
+64,24_Janbo,21
+64,25_Hyper Keeper,33
+64,26_Haft,50
+64,27_Haft,39
+64,28_Haft,31
+64,29_Haft,23
+64,30_Haft,13
+64,31_Daily Market,17
+64,32_Daily Market,23
+64,33_Daily Market,31
+64,34_HyperMe,15
+64,35_Val Market,26
+64,36_Etka,46
+64,37_Etka,49
+64,38_Etka,35
+64,39_Refah,35
+64,40_Refah,14
+64,41_Sorena,49
+64,42_Sorena,42
+64,43_Sorena,18
+64,44_Win Market,42
+64,45_Win Market,39
+64,46_Win Market,31
+64,47_Win Market,35
+64,48_Farhangian Consumer Cooperative,11
+64,49_Amiran,40
+64,50_Gandom,60
+64,51_Minou Mart,41
+64,52_Haft,33
+64,53_Hyperstar,31
+65,01_Win Market,60
+65,02_Ofoq Kourosh,42
+65,03_Ofoq Kourosh,50
+65,04_Ofoq Kourosh,51
+65,05_Win Market,33
+65,06_Ofoq Kourosh,33
+65,07_Daily Market,29
+65,08_Sorena,30
+65,09_Daily Market,18
+65,10_Refah,43
+65,11_Ofoq Kourosh,21
+65,12_Ofoq Kourosh,45
+65,13_Ofoq Kourosh,35
+65,14_Ofoq Kourosh,32
+65,15_Ofoq Kourosh,30
+65,16_Ofoq Kourosh,52
+65,17_Ofoq Kourosh,13
+65,18_Yas Chain Store,44
+65,19_Yas Chain Store,34
+65,20_Hayat Market,38
+65,21_Janbo,55
+65,22_Janbo,40
+65,23_Janbo,32
+65,24_Janbo,19
+65,25_Hyper Keeper,26
+65,26_Haft,45
+65,27_Haft,39
+65,28_Haft,33
+65,29_Haft,34
+65,30_Haft,14
+65,31_Daily Market,34
+65,32_Daily Market,35
+65,33_Daily Market,29
+65,34_HyperMe,28
+65,35_Val Market,28
+65,36_Etka,46
+65,37_Etka,42
+65,38_Etka,18
+65,39_Refah,32
+65,40_Refah,23
+65,41_Sorena,42
+65,42_Sorena,39
+65,43_Sorena,10
+65,44_Win Market,42
+65,45_Win Market,33
+65,46_Win Market,38
+65,47_Win Market,38
+65,48_Farhangian Consumer Cooperative,31
+65,49_Amiran,43
+65,50_Gandom,54
+65,51_Minou Mart,42
+65,52_Haft,32
+65,53_Hyperstar,26
+66,01_Win Market,64
+66,02_Ofoq Kourosh,48
+66,03_Ofoq Kourosh,55
+66,04_Ofoq Kourosh,54
+66,05_Win Market,28
+66,06_Ofoq Kourosh,29
+66,07_Daily Market,24
+66,08_Sorena,29
+66,09_Daily Market,15
+66,10_Refah,42
+66,11_Ofoq Kourosh,30
+66,12_Ofoq Kourosh,40
+66,13_Ofoq Kourosh,34
+66,14_Ofoq Kourosh,31
+66,15_Ofoq Kourosh,32
+66,16_Ofoq Kourosh,39
+66,17_Ofoq Kourosh,12
+66,18_Yas Chain Store,51
+66,19_Yas Chain Store,18
+66,20_Hayat Market,34
+66,21_Janbo,62
+66,22_Janbo,39
+66,23_Janbo,16
+66,24_Janbo,26
+66,25_Hyper Keeper,36
+66,26_Haft,48
+66,27_Haft,37
+66,28_Haft,29
+66,29_Haft,19
+66,30_Haft,18
+66,31_Daily Market,16
+66,32_Daily Market,23
+66,33_Daily Market,33
+66,34_HyperMe,12
+66,35_Val Market,24
+66,36_Etka,43
+66,37_Etka,49
+66,38_Etka,37
+66,39_Refah,31
+66,40_Refah,19
+66,41_Sorena,48
+66,42_Sorena,40
+66,43_Sorena,23
+66,44_Win Market,40
+66,45_Win Market,37
+66,46_Win Market,31
+66,47_Win Market,37
+66,48_Farhangian Consumer Cooperative,7
+66,49_Amiran,38
+66,50_Gandom,58
+66,51_Minou Mart,39
+66,52_Haft,35
+66,53_Hyperstar,36
+67,01_Win Market,62
+67,02_Ofoq Kourosh,44
+67,03_Ofoq Kourosh,52
+67,04_Ofoq Kourosh,54
+67,05_Win Market,33
+67,06_Ofoq Kourosh,32
+67,07_Daily Market,33
+67,08_Sorena,34
+67,09_Daily Market,16
+67,10_Refah,45
+67,11_Ofoq Kourosh,24
+67,12_Ofoq Kourosh,49
+67,13_Ofoq Kourosh,39
+67,14_Ofoq Kourosh,36
+67,15_Ofoq Kourosh,32
+67,16_Ofoq Kourosh,51
+67,17_Ofoq Kourosh,7
+67,18_Yas Chain Store,46
+67,19_Yas Chain Store,31
+67,20_Hayat Market,42
+67,21_Janbo,57
+67,22_Janbo,44
+67,23_Janbo,29
+67,24_Janbo,21
+67,25_Hyper Keeper,24
+67,26_Haft,47
+67,27_Haft,43
+67,28_Haft,37
+67,29_Haft,32
+67,30_Haft,12
+67,31_Daily Market,29
+67,32_Daily Market,31
+67,33_Daily Market,33
+67,34_HyperMe,27
+67,35_Val Market,32
+67,36_Etka,50
+67,37_Etka,44
+67,38_Etka,22
+67,39_Refah,36
+67,40_Refah,20
+67,41_Sorena,44
+67,42_Sorena,41
+67,43_Sorena,10
+67,44_Win Market,46
+67,45_Win Market,35
+67,46_Win Market,39
+67,47_Win Market,42
+67,48_Farhangian Consumer Cooperative,25
+67,49_Amiran,47
+67,50_Gandom,56
+67,51_Minou Mart,46
+67,52_Haft,36
+67,53_Hyperstar,28
+68,01_Win Market,59
+68,02_Ofoq Kourosh,43
+68,03_Ofoq Kourosh,50
+68,04_Ofoq Kourosh,52
+68,05_Win Market,27
+68,06_Ofoq Kourosh,28
+68,07_Daily Market,23
+68,08_Sorena,25
+68,09_Daily Market,20
+68,10_Refah,40
+68,11_Ofoq Kourosh,35
+68,12_Ofoq Kourosh,39
+68,13_Ofoq Kourosh,30
+68,14_Ofoq Kourosh,27
+68,15_Ofoq Kourosh,29
+68,16_Ofoq Kourosh,37
+68,17_Ofoq Kourosh,16
+68,18_Yas Chain Store,46
+68,19_Yas Chain Store,13
+68,20_Hayat Market,33
+68,21_Janbo,57
+68,22_Janbo,38
+68,23_Janbo,13
+68,24_Janbo,30
+68,25_Hyper Keeper,40
+68,26_Haft,45
+68,27_Haft,36
+68,28_Haft,28
+68,29_Haft,14
+68,30_Haft,22
+68,31_Daily Market,11
+68,32_Daily Market,19
+68,33_Daily Market,33
+68,34_HyperMe,9
+68,35_Val Market,23
+68,36_Etka,41
+68,37_Etka,45
+68,38_Etka,41
+68,39_Refah,27
+68,40_Refah,24
+68,41_Sorena,47
+68,42_Sorena,37
+68,43_Sorena,28
+68,44_Win Market,39
+68,45_Win Market,33
+68,46_Win Market,27
+68,47_Win Market,32
+68,48_Farhangian Consumer Cooperative,3
+68,49_Amiran,37
+68,50_Gandom,53
+68,51_Minou Mart,38
+68,52_Haft,30
+68,53_Hyperstar,40
+69,01_Win Market,53
+69,02_Ofoq Kourosh,37
+69,03_Ofoq Kourosh,46
+69,04_Ofoq Kourosh,46
+69,05_Win Market,30
+69,06_Ofoq Kourosh,31
+69,07_Daily Market,26
+69,08_Sorena,28
+69,09_Daily Market,26
+69,10_Refah,36
+69,11_Ofoq Kourosh,38
+69,12_Ofoq Kourosh,42
+69,13_Ofoq Kourosh,33
+69,14_Ofoq Kourosh,30
+69,15_Ofoq Kourosh,26
+69,16_Ofoq Kourosh,38
+69,17_Ofoq Kourosh,23
+69,18_Yas Chain Store,40
+69,19_Yas Chain Store,4
+69,20_Hayat Market,36
+69,21_Janbo,51
+69,22_Janbo,41
+69,23_Janbo,15
+69,24_Janbo,33
+69,25_Hyper Keeper,43
+69,26_Haft,40
+69,27_Haft,39
+69,28_Haft,31
+69,29_Haft,5
+69,30_Haft,29
+69,31_Daily Market,7
+69,32_Daily Market,13
+69,33_Daily Market,35
+69,34_HyperMe,10
+69,35_Val Market,26
+69,36_Etka,44
+69,37_Etka,39
+69,38_Etka,42
+69,39_Refah,30
+69,40_Refah,28
+69,41_Sorena,40
+69,42_Sorena,33
+69,43_Sorena,35
+69,44_Win Market,42
+69,45_Win Market,29
+69,46_Win Market,29
+69,47_Win Market,34
+69,48_Farhangian Consumer Cooperative,8
+69,49_Amiran,40
+69,50_Gandom,50
+69,51_Minou Mart,41
+69,52_Haft,32
+69,53_Hyperstar,42
+70,01_Win Market,62
+70,02_Ofoq Kourosh,45
+70,03_Ofoq Kourosh,53
+70,04_Ofoq Kourosh,54
+70,05_Win Market,32
+70,06_Ofoq Kourosh,32
+70,07_Daily Market,29
+70,08_Sorena,34
+70,09_Daily Market,8
+70,10_Refah,44
+70,11_Ofoq Kourosh,26
+70,12_Ofoq Kourosh,45
+70,13_Ofoq Kourosh,39
+70,14_Ofoq Kourosh,36
+70,15_Ofoq Kourosh,33
+70,16_Ofoq Kourosh,50
+70,17_Ofoq Kourosh,7
+70,18_Yas Chain Store,47
+70,19_Yas Chain Store,28
+70,20_Hayat Market,38
+70,21_Janbo,58
+70,22_Janbo,40
+70,23_Janbo,28
+70,24_Janbo,22
+70,25_Hyper Keeper,23
+70,26_Haft,47
+70,27_Haft,39
+70,28_Haft,33
+70,29_Haft,29
+70,30_Haft,13
+70,31_Daily Market,27
+70,32_Daily Market,31
+70,33_Daily Market,34
+70,34_HyperMe,18
+70,35_Val Market,28
+70,36_Etka,48
+70,37_Etka,45
+70,38_Etka,25
+70,39_Refah,36
+70,40_Refah,19
+70,41_Sorena,45
+70,42_Sorena,41
+70,43_Sorena,18
+70,44_Win Market,42
+70,45_Win Market,36
+70,46_Win Market,39
+70,47_Win Market,42
+70,48_Farhangian Consumer Cooperative,18
+70,49_Amiran,43
+70,50_Gandom,57
+70,51_Minou Mart,42
+70,52_Haft,37
+70,53_Hyperstar,32
+71,01_Win Market,60
+71,02_Ofoq Kourosh,44
+71,03_Ofoq Kourosh,53
+71,04_Ofoq Kourosh,52
+71,05_Win Market,26
+71,06_Ofoq Kourosh,27
+71,07_Daily Market,22
+71,08_Sorena,32
+71,09_Daily Market,5
+71,10_Refah,41
+71,11_Ofoq Kourosh,27
+71,12_Ofoq Kourosh,38
+71,13_Ofoq Kourosh,38
+71,14_Ofoq Kourosh,35
+71,15_Ofoq Kourosh,32
+71,16_Ofoq Kourosh,49
+71,17_Ofoq Kourosh,15
+71,18_Yas Chain Store,47
+71,19_Yas Chain Store,25
+71,20_Hayat Market,32
+71,21_Janbo,58
+71,22_Janbo,37
+71,23_Janbo,24
+71,24_Janbo,27
+71,25_Hyper Keeper,25
+71,26_Haft,45
+71,27_Haft,35
+71,28_Haft,27
+71,29_Haft,26
+71,30_Haft,21
+71,31_Daily Market,26
+71,32_Daily Market,30
+71,33_Daily Market,37
+71,34_HyperMe,14
+71,35_Val Market,22
+71,36_Etka,44
+71,37_Etka,45
+71,38_Etka,30
+71,39_Refah,35
+71,40_Refah,24
+71,41_Sorena,45
+71,42_Sorena,40
+71,43_Sorena,26
+71,44_Win Market,38
+71,45_Win Market,36
+71,46_Win Market,40
+71,47_Win Market,44
+71,48_Farhangian Consumer Cooperative,17
+71,49_Amiran,36
+71,50_Gandom,57
+71,51_Minou Mart,37
+71,52_Haft,40
+71,53_Hyperstar,33
+72,01_Win Market,58
+72,02_Ofoq Kourosh,42
+72,03_Ofoq Kourosh,50
+72,04_Ofoq Kourosh,50
+72,05_Win Market,23
+72,06_Ofoq Kourosh,24
+72,07_Daily Market,19
+72,08_Sorena,29
+72,09_Daily Market,9
+72,10_Refah,39
+72,11_Ofoq Kourosh,30
+72,12_Ofoq Kourosh,35
+72,13_Ofoq Kourosh,35
+72,14_Ofoq Kourosh,32
+72,15_Ofoq Kourosh,29
+72,16_Ofoq Kourosh,44
+72,17_Ofoq Kourosh,17
+72,18_Yas Chain Store,44
+72,19_Yas Chain Store,21
+72,20_Hayat Market,29
+72,21_Janbo,55
+72,22_Janbo,34
+72,23_Janbo,20
+72,24_Janbo,29
+72,25_Hyper Keeper,30
+72,26_Haft,43
+72,27_Haft,32
+72,28_Haft,24
+72,29_Haft,21
+72,30_Haft,23
+72,31_Daily Market,21
+72,32_Daily Market,28
+72,33_Daily Market,37
+72,34_HyperMe,11
+72,35_Val Market,19
+72,36_Etka,41
+72,37_Etka,42
+72,38_Etka,31
+72,39_Refah,32
+72,40_Refah,24
+72,41_Sorena,42
+72,42_Sorena,37
+72,43_Sorena,28
+72,44_Win Market,35
+72,45_Win Market,33
+72,46_Win Market,36
+72,47_Win Market,42
+72,48_Farhangian Consumer Cooperative,13
+72,49_Amiran,33
+72,50_Gandom,54
+72,51_Minou Mart,34
+72,52_Haft,38
+72,53_Hyperstar,36
+73,01_Win Market,46
+73,02_Ofoq Kourosh,32
+73,03_Ofoq Kourosh,42
+73,04_Ofoq Kourosh,40
+73,05_Win Market,38
+73,06_Ofoq Kourosh,39
+73,07_Daily Market,34
+73,08_Sorena,33
+73,09_Daily Market,31
+73,10_Refah,27
+73,11_Ofoq Kourosh,41
+73,12_Ofoq Kourosh,50
+73,13_Ofoq Kourosh,41
+73,14_Ofoq Kourosh,37
+73,15_Ofoq Kourosh,22
+73,16_Ofoq Kourosh,38
+73,17_Ofoq Kourosh,31
+73,18_Yas Chain Store,36
+73,19_Yas Chain Store,5
+73,20_Hayat Market,44
+73,21_Janbo,47
+73,22_Janbo,49
+73,23_Janbo,22
+73,24_Janbo,37
+73,25_Hyper Keeper,44
+73,26_Haft,31
+73,27_Haft,47
+73,28_Haft,39
+73,29_Haft,4
+73,30_Haft,37
+73,31_Daily Market,10
+73,32_Daily Market,12
+73,33_Daily Market,39
+73,34_HyperMe,17
+73,35_Val Market,34
+73,36_Etka,52
+73,37_Etka,34
+73,38_Etka,43
+73,39_Refah,34
+73,40_Refah,35
+73,41_Sorena,35
+73,42_Sorena,27
+73,43_Sorena,41
+73,44_Win Market,50
+73,45_Win Market,25
+73,46_Win Market,33
+73,47_Win Market,38
+73,48_Farhangian Consumer Cooperative,17
+73,49_Amiran,48
+73,50_Gandom,46
+73,51_Minou Mart,49
+73,52_Haft,36
+73,53_Hyperstar,46
+74,01_Win Market,49
+74,02_Ofoq Kourosh,30
+74,03_Ofoq Kourosh,38
+74,04_Ofoq Kourosh,40
+74,05_Win Market,40
+74,06_Ofoq Kourosh,42
+74,07_Daily Market,37
+74,08_Sorena,31
+74,09_Daily Market,45
+74,10_Refah,31
+74,11_Ofoq Kourosh,47
+74,12_Ofoq Kourosh,64
+74,13_Ofoq Kourosh,40
+74,14_Ofoq Kourosh,35
+74,15_Ofoq Kourosh,18
+74,16_Ofoq Kourosh,33
+74,17_Ofoq Kourosh,41
+74,18_Yas Chain Store,32
+74,19_Yas Chain Store,20
+74,20_Hayat Market,57
+74,21_Janbo,43
+74,22_Janbo,54
+74,23_Janbo,32
+74,24_Janbo,45
+74,25_Hyper Keeper,45
+74,26_Haft,35
+74,27_Haft,58
+74,28_Haft,43
+74,29_Haft,21
+74,30_Haft,47
+74,31_Daily Market,20
+74,32_Daily Market,19
+74,33_Daily Market,44
+74,34_HyperMe,34
+74,35_Val Market,39
+74,36_Etka,52
+74,37_Etka,30
+74,38_Etka,44
+74,39_Refah,31
+74,40_Refah,43
+74,41_Sorena,30
+74,42_Sorena,27
+74,43_Sorena,46
+74,44_Win Market,57
+74,45_Win Market,21
+74,46_Win Market,34
+74,47_Win Market,49
+74,48_Farhangian Consumer Cooperative,28
+74,49_Amiran,62
+74,50_Gandom,42
+74,51_Minou Mart,61
+74,52_Haft,41
+74,53_Hyperstar,52
+75,01_Win Market,53
+75,02_Ofoq Kourosh,34
+75,03_Ofoq Kourosh,42
+75,04_Ofoq Kourosh,43
+75,05_Win Market,25
+75,06_Ofoq Kourosh,25
+75,07_Daily Market,21
+75,08_Sorena,22
+75,09_Daily Market,15
+75,10_Refah,37
+75,11_Ofoq Kourosh,15
+75,12_Ofoq Kourosh,37
+75,13_Ofoq Kourosh,27
+75,14_Ofoq Kourosh,24
+75,15_Ofoq Kourosh,22
+75,16_Ofoq Kourosh,48
+75,17_Ofoq Kourosh,18
+75,18_Yas Chain Store,36
+75,19_Yas Chain Store,30
+75,20_Hayat Market,30
+75,21_Janbo,47
+75,22_Janbo,32
+75,23_Janbo,29
+75,24_Janbo,15
+75,25_Hyper Keeper,18
+75,26_Haft,39
+75,27_Haft,31
+75,28_Haft,25
+75,29_Haft,31
+75,30_Haft,20
+75,31_Daily Market,30
+75,32_Daily Market,30
+75,33_Daily Market,25
+75,34_HyperMe,26
+75,35_Val Market,20
+75,36_Etka,38
+75,37_Etka,34
+75,38_Etka,10
+75,39_Refah,24
+75,40_Refah,21
+75,41_Sorena,34
+75,42_Sorena,31
+75,43_Sorena,16
+75,44_Win Market,34
+75,45_Win Market,25
+75,46_Win Market,35
+75,47_Win Market,35
+75,48_Farhangian Consumer Cooperative,30
+75,49_Amiran,35
+75,50_Gandom,46
+75,51_Minou Mart,34
+75,52_Haft,28
+75,53_Hyperstar,21
+76,01_Win Market,49
+76,02_Ofoq Kourosh,32
+76,03_Ofoq Kourosh,40
+76,04_Ofoq Kourosh,41
+76,05_Win Market,42
+76,06_Ofoq Kourosh,44
+76,07_Daily Market,39
+76,08_Sorena,33
+76,09_Daily Market,38
+76,10_Refah,28
+76,11_Ofoq Kourosh,45
+76,12_Ofoq Kourosh,64
+76,13_Ofoq Kourosh,42
+76,14_Ofoq Kourosh,37
+76,15_Ofoq Kourosh,20
+76,16_Ofoq Kourosh,39
+76,17_Ofoq Kourosh,45
+76,18_Yas Chain Store,34
+76,19_Yas Chain Store,23
+76,20_Hayat Market,57
+76,21_Janbo,45
+76,22_Janbo,56
+76,23_Janbo,35
+76,24_Janbo,44
+76,25_Hyper Keeper,47
+76,26_Haft,34
+76,27_Haft,58
+76,28_Haft,45
+76,29_Haft,22
+76,30_Haft,48
+76,31_Daily Market,24
+76,32_Daily Market,24
+76,33_Daily Market,48
+76,34_HyperMe,30
+76,35_Val Market,41
+76,36_Etka,54
+76,37_Etka,32
+76,38_Etka,46
+76,39_Refah,33
+76,40_Refah,47
+76,41_Sorena,32
+76,42_Sorena,28
+76,43_Sorena,45
+76,44_Win Market,58
+76,45_Win Market,23
+76,46_Win Market,38
+76,47_Win Market,50
+76,48_Farhangian Consumer Cooperative,32
+76,49_Amiran,62
+76,50_Gandom,44
+76,51_Minou Mart,61
+76,52_Haft,45
+76,53_Hyperstar,50
+77,01_Win Market,56
+77,02_Ofoq Kourosh,40
+77,03_Ofoq Kourosh,48
+77,04_Ofoq Kourosh,48
+77,05_Win Market,24
+77,06_Ofoq Kourosh,25
+77,07_Daily Market,20
+77,08_Sorena,25
+77,09_Daily Market,13
+77,10_Refah,38
+77,11_Ofoq Kourosh,30
+77,12_Ofoq Kourosh,36
+77,13_Ofoq Kourosh,30
+77,14_Ofoq Kourosh,27
+77,15_Ofoq Kourosh,25
+77,16_Ofoq Kourosh,44
+77,17_Ofoq Kourosh,22
+77,18_Yas Chain Store,42
+77,19_Yas Chain Store,19
+77,20_Hayat Market,30
+77,21_Janbo,53
+77,22_Janbo,35
+77,23_Janbo,18
+77,24_Janbo,30
+77,25_Hyper Keeper,32
+77,26_Haft,42
+77,27_Haft,33
+77,28_Haft,25
+77,29_Haft,19
+77,30_Haft,29
+77,31_Daily Market,21
+77,32_Daily Market,27
+77,33_Daily Market,38
+77,34_HyperMe,5
+77,35_Val Market,20
+77,36_Etka,39
+77,37_Etka,40
+77,38_Etka,31
+77,39_Refah,27
+77,40_Refah,30
+77,41_Sorena,41
+77,42_Sorena,34
+77,43_Sorena,31
+77,44_Win Market,36
+77,45_Win Market,31
+77,46_Win Market,36
+77,47_Win Market,42
+77,48_Farhangian Consumer Cooperative,14
+77,49_Amiran,34
+77,50_Gandom,51
+77,51_Minou Mart,35
+77,52_Haft,38
+77,53_Hyperstar,36
+78,01_Win Market,49
+78,02_Ofoq Kourosh,33
+78,03_Ofoq Kourosh,42
+78,04_Ofoq Kourosh,43
+78,05_Win Market,30
+78,06_Ofoq Kourosh,32
+78,07_Daily Market,27
+78,08_Sorena,26
+78,09_Daily Market,22
+78,10_Refah,31
+78,11_Ofoq Kourosh,33
+78,12_Ofoq Kourosh,44
+78,13_Ofoq Kourosh,31
+78,14_Ofoq Kourosh,28
+78,15_Ofoq Kourosh,25
+78,16_Ofoq Kourosh,42
+78,17_Ofoq Kourosh,27
+78,18_Yas Chain Store,36
+78,19_Yas Chain Store,14
+78,20_Hayat Market,38
+78,21_Janbo,47
+78,22_Janbo,41
+78,23_Janbo,18
+78,24_Janbo,32
+78,25_Hyper Keeper,36
+78,26_Haft,36
+78,27_Haft,40
+78,28_Haft,32
+78,29_Haft,13
+78,30_Haft,33
+78,31_Daily Market,16
+78,32_Daily Market,22
+78,33_Daily Market,39
+78,34_HyperMe,6
+78,35_Val Market,27
+78,36_Etka,43
+78,37_Etka,37
+78,38_Etka,35
+78,39_Refah,28
+78,40_Refah,32
+78,41_Sorena,40
+78,42_Sorena,29
+78,43_Sorena,34
+78,44_Win Market,43
+78,45_Win Market,28
+78,46_Win Market,35
+78,47_Win Market,41
+78,48_Farhangian Consumer Cooperative,13
+78,49_Amiran,42
+78,50_Gandom,46
+78,51_Minou Mart,43
+78,52_Haft,39
+78,53_Hyperstar,39
+79,01_Win Market,44
+79,02_Ofoq Kourosh,30
+79,03_Ofoq Kourosh,40
+79,04_Ofoq Kourosh,37
+79,05_Win Market,36
+79,06_Ofoq Kourosh,37
+79,07_Daily Market,33
+79,08_Sorena,30
+79,09_Daily Market,26
+79,10_Refah,24
+79,11_Ofoq Kourosh,35
+79,12_Ofoq Kourosh,51
+79,13_Ofoq Kourosh,36
+79,14_Ofoq Kourosh,33
+79,15_Ofoq Kourosh,22
+79,16_Ofoq Kourosh,44
+79,17_Ofoq Kourosh,34
+79,18_Yas Chain Store,34
+79,19_Yas Chain Store,14
+79,20_Hayat Market,44
+79,21_Janbo,45
+79,22_Janbo,46
+79,23_Janbo,25
+79,24_Janbo,34
+79,25_Hyper Keeper,37
+79,26_Haft,28
+79,27_Haft,46
+79,28_Haft,38
+79,29_Haft,13
+79,30_Haft,40
+79,31_Daily Market,19
+79,32_Daily Market,22
+79,33_Daily Market,44
+79,34_HyperMe,14
+79,35_Val Market,32
+79,36_Etka,48
+79,37_Etka,32
+79,38_Etka,36
+79,39_Refah,31
+79,40_Refah,39
+79,41_Sorena,32
+79,42_Sorena,25
+79,43_Sorena,35
+79,44_Win Market,48
+79,45_Win Market,25
+79,46_Win Market,40
+79,47_Win Market,47
+79,48_Farhangian Consumer Cooperative,20
+79,49_Amiran,49
+79,50_Gandom,44
+79,51_Minou Mart,48
+79,52_Haft,43
+79,53_Hyperstar,40
+80,01_Win Market,46
+80,02_Ofoq Kourosh,32
+80,03_Ofoq Kourosh,42
+80,04_Ofoq Kourosh,38
+80,05_Win Market,43
+80,06_Ofoq Kourosh,44
+80,07_Daily Market,39
+80,08_Sorena,35
+80,09_Daily Market,34
+80,10_Refah,26
+80,11_Ofoq Kourosh,43
+80,12_Ofoq Kourosh,57
+80,13_Ofoq Kourosh,44
+80,14_Ofoq Kourosh,39
+80,15_Ofoq Kourosh,22
+80,16_Ofoq Kourosh,42
+80,17_Ofoq Kourosh,39
+80,18_Yas Chain Store,36
+80,19_Yas Chain Store,14
+80,20_Hayat Market,51
+80,21_Janbo,47
+80,22_Janbo,54
+80,23_Janbo,29
+80,24_Janbo,43
+80,25_Hyper Keeper,47
+80,26_Haft,30
+80,27_Haft,54
+80,28_Haft,44
+80,29_Haft,12
+80,30_Haft,45
+80,31_Daily Market,19
+80,32_Daily Market,20
+80,33_Daily Market,47
+80,34_HyperMe,23
+80,35_Val Market,39
+80,36_Etka,56
+80,37_Etka,34
+80,38_Etka,46
+80,39_Refah,35
+80,40_Refah,43
+80,41_Sorena,33
+80,42_Sorena,26
+80,43_Sorena,43
+80,44_Win Market,56
+80,45_Win Market,25
+80,46_Win Market,40
+80,47_Win Market,47
+80,48_Farhangian Consumer Cooperative,26
+80,49_Amiran,55
+80,50_Gandom,46
+80,51_Minou Mart,56
+80,52_Haft,44
+80,53_Hyperstar,49
+81,01_Win Market,56
+81,02_Ofoq Kourosh,37
+81,03_Ofoq Kourosh,45
+81,04_Ofoq Kourosh,47
+81,05_Win Market,26
+81,06_Ofoq Kourosh,26
+81,07_Daily Market,25
+81,08_Sorena,26
+81,09_Daily Market,18
+81,10_Refah,40
+81,11_Ofoq Kourosh,22
+81,12_Ofoq Kourosh,41
+81,13_Ofoq Kourosh,31
+81,14_Ofoq Kourosh,28
+81,15_Ofoq Kourosh,25
+81,16_Ofoq Kourosh,53
+81,17_Ofoq Kourosh,22
+81,18_Yas Chain Store,39
+81,19_Yas Chain Store,32
+81,20_Hayat Market,34
+81,21_Janbo,50
+81,22_Janbo,36
+81,23_Janbo,33
+81,24_Janbo,22
+81,25_Hyper Keeper,15
+81,26_Haft,42
+81,27_Haft,35
+81,28_Haft,29
+81,29_Haft,33
+81,30_Haft,26
+81,31_Daily Market,32
+81,32_Daily Market,32
+81,33_Daily Market,31
+81,34_HyperMe,30
+81,35_Val Market,24
+81,36_Etka,42
+81,37_Etka,37
+81,38_Etka,18
+81,39_Refah,28
+81,40_Refah,27
+81,41_Sorena,37
+81,42_Sorena,34
+81,43_Sorena,22
+81,44_Win Market,38
+81,45_Win Market,28
+81,46_Win Market,41
+81,47_Win Market,41
+81,48_Farhangian Consumer Cooperative,32
+81,49_Amiran,39
+81,50_Gandom,49
+81,51_Minou Mart,38
+81,52_Haft,34
+81,53_Hyperstar,28
+82,01_Win Market,53
+82,02_Ofoq Kourosh,34
+82,03_Ofoq Kourosh,42
+82,04_Ofoq Kourosh,44
+82,05_Win Market,21
+82,06_Ofoq Kourosh,22
+82,07_Daily Market,19
+82,08_Sorena,24
+82,09_Daily Market,9
+82,10_Refah,37
+82,11_Ofoq Kourosh,25
+82,12_Ofoq Kourosh,35
+82,13_Ofoq Kourosh,29
+82,14_Ofoq Kourosh,26
+82,15_Ofoq Kourosh,22
+82,16_Ofoq Kourosh,49
+82,17_Ofoq Kourosh,24
+82,18_Yas Chain Store,36
+82,19_Yas Chain Store,28
+82,20_Hayat Market,28
+82,21_Janbo,47
+82,22_Janbo,31
+82,23_Janbo,25
+82,24_Janbo,25
+82,25_Hyper Keeper,19
+82,26_Haft,39
+82,27_Haft,29
+82,28_Haft,23
+82,29_Haft,29
+82,30_Haft,30
+82,31_Daily Market,28
+82,32_Daily Market,32
+82,33_Daily Market,35
+82,34_HyperMe,16
+82,35_Val Market,15
+82,36_Etka,38
+82,37_Etka,34
+82,38_Etka,24
+82,39_Refah,26
+82,40_Refah,30
+82,41_Sorena,34
+82,42_Sorena,31
+82,43_Sorena,25
+82,44_Win Market,32
+82,45_Win Market,25
+82,46_Win Market,40
+82,47_Win Market,43
+82,48_Farhangian Consumer Cooperative,24
+82,49_Amiran,33
+82,50_Gandom,46
+82,51_Minou Mart,32
+82,52_Haft,38
+82,53_Hyperstar,31
+83,01_Win Market,51
+83,02_Ofoq Kourosh,32
+83,03_Ofoq Kourosh,40
+83,04_Ofoq Kourosh,42
+83,05_Win Market,20
+83,06_Ofoq Kourosh,21
+83,07_Daily Market,18
+83,08_Sorena,21
+83,09_Daily Market,17
+83,10_Refah,32
+83,11_Ofoq Kourosh,24
+83,12_Ofoq Kourosh,35
+83,13_Ofoq Kourosh,26
+83,14_Ofoq Kourosh,23
+83,15_Ofoq Kourosh,18
+83,16_Ofoq Kourosh,46
+83,17_Ofoq Kourosh,30
+83,18_Yas Chain Store,34
+83,19_Yas Chain Store,26
+83,20_Hayat Market,28
+83,21_Janbo,45
+83,22_Janbo,30
+83,23_Janbo,21
+83,24_Janbo,24
+83,25_Hyper Keeper,24
+83,26_Haft,37
+83,27_Haft,29
+83,28_Haft,23
+83,29_Haft,26
+83,30_Haft,30
+83,31_Daily Market,25
+83,32_Daily Market,30
+83,33_Daily Market,33
+83,34_HyperMe,13
+83,35_Val Market,14
+83,36_Etka,37
+83,37_Etka,32
+83,38_Etka,23
+83,39_Refah,23
+83,40_Refah,30
+83,41_Sorena,33
+83,42_Sorena,27
+83,43_Sorena,25
+83,44_Win Market,32
+83,45_Win Market,23
+83,46_Win Market,37
+83,47_Win Market,41
+83,48_Farhangian Consumer Cooperative,20
+83,49_Amiran,33
+83,50_Gandom,44
+83,51_Minou Mart,32
+83,52_Haft,36
+83,53_Hyperstar,30
+84,01_Win Market,57
+84,02_Ofoq Kourosh,38
+84,03_Ofoq Kourosh,46
+84,04_Ofoq Kourosh,47
+84,05_Win Market,16
+84,06_Ofoq Kourosh,15
+84,07_Daily Market,21
+84,08_Sorena,26
+84,09_Daily Market,19
+84,10_Refah,41
+84,11_Ofoq Kourosh,26
+84,12_Ofoq Kourosh,41
+84,13_Ofoq Kourosh,31
+84,14_Ofoq Kourosh,28
+84,15_Ofoq Kourosh,26
+84,16_Ofoq Kourosh,55
+84,17_Ofoq Kourosh,29
+84,18_Yas Chain Store,40
+84,19_Yas Chain Store,37
+84,20_Hayat Market,34
+84,21_Janbo,51
+84,22_Janbo,36
+84,23_Janbo,36
+84,24_Janbo,26
+84,25_Hyper Keeper,8
+84,26_Haft,43
+84,27_Haft,35
+84,28_Haft,28
+84,29_Haft,38
+84,30_Haft,31
+84,31_Daily Market,37
+84,32_Daily Market,37
+84,33_Daily Market,35
+84,34_HyperMe,33
+84,35_Val Market,20
+84,36_Etka,42
+84,37_Etka,38
+84,38_Etka,19
+84,39_Refah,28
+84,40_Refah,31
+84,41_Sorena,38
+84,42_Sorena,35
+84,43_Sorena,26
+84,44_Win Market,38
+84,45_Win Market,29
+84,46_Win Market,45
+84,47_Win Market,45
+84,48_Farhangian Consumer Cooperative,36
+84,49_Amiran,39
+84,50_Gandom,50
+84,51_Minou Mart,37
+84,52_Haft,38
+84,53_Hyperstar,32
+85,01_Win Market,45
+85,02_Ofoq Kourosh,28
+85,03_Ofoq Kourosh,36
+85,04_Ofoq Kourosh,39
+85,05_Win Market,25
+85,06_Ofoq Kourosh,27
+85,07_Daily Market,24
+85,08_Sorena,20
+85,09_Daily Market,24
+85,10_Refah,26
+85,11_Ofoq Kourosh,26
+85,12_Ofoq Kourosh,44
+85,13_Ofoq Kourosh,26
+85,14_Ofoq Kourosh,23
+85,15_Ofoq Kourosh,14
+85,16_Ofoq Kourosh,46
+85,17_Ofoq Kourosh,32
+85,18_Yas Chain Store,30
+85,19_Yas Chain Store,24
+85,20_Hayat Market,37
+85,21_Janbo,41
+85,22_Janbo,36
+85,23_Janbo,25
+85,24_Janbo,26
+85,25_Hyper Keeper,25
+85,26_Haft,34
+85,27_Haft,38
+85,28_Haft,30
+85,29_Haft,23
+85,30_Haft,31
+85,31_Daily Market,27
+85,32_Daily Market,30
+85,33_Daily Market,35
+85,34_HyperMe,15
+85,35_Val Market,19
+85,36_Etka,38
+85,37_Etka,31
+85,38_Etka,24
+85,39_Refah,23
+85,40_Refah,31
+85,41_Sorena,34
+85,42_Sorena,20
+85,43_Sorena,26
+85,44_Win Market,39
+85,45_Win Market,20
+85,46_Win Market,39
+85,47_Win Market,44
+85,48_Farhangian Consumer Cooperative,23
+85,49_Amiran,42
+85,50_Gandom,40
+85,51_Minou Mart,41
+85,52_Haft,38
+85,53_Hyperstar,32
+86,01_Win Market,49
+86,02_Ofoq Kourosh,30
+86,03_Ofoq Kourosh,38
+86,04_Ofoq Kourosh,39
+86,05_Win Market,19
+86,06_Ofoq Kourosh,20
+86,07_Daily Market,17
+86,08_Sorena,15
+86,09_Daily Market,26
+86,10_Refah,32
+86,11_Ofoq Kourosh,26
+86,12_Ofoq Kourosh,38
+86,13_Ofoq Kourosh,22
+86,14_Ofoq Kourosh,19
+86,15_Ofoq Kourosh,14
+86,16_Ofoq Kourosh,46
+86,17_Ofoq Kourosh,35
+86,18_Yas Chain Store,32
+86,19_Yas Chain Store,27
+86,20_Hayat Market,31
+86,21_Janbo,43
+86,22_Janbo,31
+86,23_Janbo,26
+86,24_Janbo,26
+86,25_Hyper Keeper,26
+86,26_Haft,35
+86,27_Haft,32
+86,28_Haft,25
+86,29_Haft,28
+86,30_Haft,32
+86,31_Daily Market,27
+86,32_Daily Market,29
+86,33_Daily Market,35
+86,34_HyperMe,21
+86,35_Val Market,13
+86,36_Etka,34
+86,37_Etka,30
+86,38_Etka,25
+86,39_Refah,19
+86,40_Refah,32
+86,41_Sorena,30
+86,42_Sorena,26
+86,43_Sorena,27
+86,44_Win Market,34
+86,45_Win Market,21
+86,46_Win Market,39
+86,47_Win Market,43
+86,48_Farhangian Consumer Cooperative,26
+86,49_Amiran,36
+86,50_Gandom,42
+86,51_Minou Mart,35
+86,52_Haft,38
+86,53_Hyperstar,32
+87,01_Win Market,54
+87,02_Ofoq Kourosh,35
+87,03_Ofoq Kourosh,43
+87,04_Ofoq Kourosh,43
+87,05_Win Market,7
+87,06_Ofoq Kourosh,8
+87,07_Daily Market,3
+87,08_Sorena,12
+87,09_Daily Market,28
+87,10_Refah,34
+87,11_Ofoq Kourosh,24
+87,12_Ofoq Kourosh,28
+87,13_Ofoq Kourosh,26
+87,14_Ofoq Kourosh,22
+87,15_Ofoq Kourosh,17
+87,16_Ofoq Kourosh,50
+87,17_Ofoq Kourosh,30
+87,18_Yas Chain Store,37
+87,19_Yas Chain Store,29
+87,20_Hayat Market,21
+87,21_Janbo,48
+87,22_Janbo,23
+87,23_Janbo,26
+87,24_Janbo,25
+87,25_Hyper Keeper,24
+87,26_Haft,40
+87,27_Haft,22
+87,28_Haft,14
+87,29_Haft,30
+87,30_Haft,31
+87,31_Daily Market,29
+87,32_Daily Market,33
+87,33_Daily Market,33
+87,34_HyperMe,24
+87,35_Val Market,5
+87,36_Etka,32
+87,37_Etka,35
+87,38_Etka,23
+87,39_Refah,16
+87,40_Refah,27
+87,41_Sorena,35
+87,42_Sorena,26
+87,43_Sorena,26
+87,44_Win Market,25
+87,45_Win Market,25
+87,46_Win Market,38
+87,47_Win Market,39
+87,48_Farhangian Consumer Cooperative,25
+87,49_Amiran,26
+87,50_Gandom,47
+87,51_Minou Mart,25
+87,52_Haft,36
+87,53_Hyperstar,31
+88,01_Win Market,52
+88,02_Ofoq Kourosh,33
+88,03_Ofoq Kourosh,41
+88,04_Ofoq Kourosh,43
+88,05_Win Market,6
+88,06_Ofoq Kourosh,7
+88,07_Daily Market,8
+88,08_Sorena,21
+88,09_Daily Market,24
+88,10_Refah,36
+88,11_Ofoq Kourosh,25
+88,12_Ofoq Kourosh,32
+88,13_Ofoq Kourosh,28
+88,14_Ofoq Kourosh,25
+88,15_Ofoq Kourosh,21
+88,16_Ofoq Kourosh,50
+88,17_Ofoq Kourosh,25
+88,18_Yas Chain Store,35
+88,19_Yas Chain Store,29
+88,20_Hayat Market,25
+88,21_Janbo,46
+88,22_Janbo,27
+88,23_Janbo,28
+88,24_Janbo,25
+88,25_Hyper Keeper,22
+88,26_Haft,38
+88,27_Haft,26
+88,28_Haft,19
+88,29_Haft,30
+88,30_Haft,29
+88,31_Daily Market,29
+88,32_Daily Market,32
+88,33_Daily Market,33
+88,34_HyperMe,26
+88,35_Val Market,5
+88,36_Etka,35
+88,37_Etka,33
+88,38_Etka,24
+88,39_Refah,25
+88,40_Refah,30
+88,41_Sorena,33
+88,42_Sorena,30
+88,43_Sorena,26
+88,44_Win Market,29
+88,45_Win Market,24
+88,46_Win Market,40
+88,47_Win Market,42
+88,48_Farhangian Consumer Cooperative,27
+88,49_Amiran,30
+88,50_Gandom,45
+88,51_Minou Mart,29
+88,52_Haft,36
+88,53_Hyperstar,31
+89,01_Win Market,40
+89,02_Ofoq Kourosh,21
+89,03_Ofoq Kourosh,29
+89,04_Ofoq Kourosh,31
+89,05_Win Market,20
+89,06_Ofoq Kourosh,21
+89,07_Daily Market,16
+89,08_Sorena,10
+89,09_Daily Market,30
+89,10_Refah,24
+89,11_Ofoq Kourosh,25
+89,12_Ofoq Kourosh,43
+89,13_Ofoq Kourosh,23
+89,14_Ofoq Kourosh,20
+89,15_Ofoq Kourosh,3
+89,16_Ofoq Kourosh,49
+89,17_Ofoq Kourosh,34
+89,18_Yas Chain Store,23
+89,19_Yas Chain Store,30
+89,20_Hayat Market,36
+89,21_Janbo,34
+89,22_Janbo,34
+89,23_Janbo,27
+89,24_Janbo,25
+89,25_Hyper Keeper,25
+89,26_Haft,26
+89,27_Haft,37
+89,28_Haft,23
+89,29_Haft,30
+89,30_Haft,31
+89,31_Daily Market,30
+89,32_Daily Market,34
+89,33_Daily Market,34
+89,34_HyperMe,21
+89,35_Val Market,19
+89,36_Etka,35
+89,37_Etka,22
+89,38_Etka,24
+89,39_Refah,14
+89,40_Refah,31
+89,41_Sorena,24
+89,42_Sorena,16
+89,43_Sorena,26
+89,44_Win Market,37
+89,45_Win Market,12
+89,46_Win Market,39
+89,47_Win Market,42
+89,48_Farhangian Consumer Cooperative,27
+89,49_Amiran,41
+89,50_Gandom,33
+89,51_Minou Mart,40
+89,52_Haft,37
+89,53_Hyperstar,31
+90,01_Win Market,46
+90,02_Ofoq Kourosh,33
+90,03_Ofoq Kourosh,43
+90,04_Ofoq Kourosh,39
+90,05_Win Market,43
+90,06_Ofoq Kourosh,45
+90,07_Daily Market,40
+90,08_Sorena,33
+90,09_Daily Market,27
+90,10_Refah,16
+90,11_Ofoq Kourosh,37
+90,12_Ofoq Kourosh,64
+90,13_Ofoq Kourosh,39
+90,14_Ofoq Kourosh,36
+90,15_Ofoq Kourosh,29
+90,16_Ofoq Kourosh,49
+90,17_Ofoq Kourosh,39
+90,18_Yas Chain Store,37
+90,19_Yas Chain Store,25
+90,20_Hayat Market,57
+90,21_Janbo,48
+90,22_Janbo,52
+90,23_Janbo,36
+90,24_Janbo,37
+90,25_Hyper Keeper,42
+90,26_Haft,28
+90,27_Haft,58
+90,28_Haft,45
+90,29_Haft,25
+90,30_Haft,42
+90,31_Daily Market,25
+90,32_Daily Market,26
+90,33_Daily Market,45
+90,34_HyperMe,27
+90,35_Val Market,39
+90,36_Etka,51
+90,37_Etka,35
+90,38_Etka,41
+90,39_Refah,34
+90,40_Refah,41
+90,41_Sorena,32
+90,42_Sorena,20
+90,43_Sorena,37
+90,44_Win Market,56
+90,45_Win Market,26
+90,46_Win Market,47
+90,47_Win Market,51
+90,48_Farhangian Consumer Cooperative,32
+90,49_Amiran,62
+90,50_Gandom,47
+90,51_Minou Mart,61
+90,52_Haft,47
+90,53_Hyperstar,43
+91,01_Win Market,38
+91,02_Ofoq Kourosh,25
+91,03_Ofoq Kourosh,35
+91,04_Ofoq Kourosh,31
+91,05_Win Market,35
+91,06_Ofoq Kourosh,36
+91,07_Daily Market,33
+91,08_Sorena,29
+91,09_Daily Market,34
+91,10_Refah,16
+91,11_Ofoq Kourosh,34
+91,12_Ofoq Kourosh,54
+91,13_Ofoq Kourosh,36
+91,14_Ofoq Kourosh,33
+91,15_Ofoq Kourosh,20
+91,16_Ofoq Kourosh,51
+91,17_Ofoq Kourosh,40
+91,18_Yas Chain Store,29
+91,19_Yas Chain Store,25
+91,20_Hayat Market,47
+91,21_Janbo,40
+91,22_Janbo,46
+91,23_Janbo,36
+91,24_Janbo,34
+91,25_Hyper Keeper,33
+91,26_Haft,22
+91,27_Haft,48
+91,28_Haft,39
+91,29_Haft,25
+91,30_Haft,39
+91,31_Daily Market,26
+91,32_Daily Market,28
+91,33_Daily Market,43
+91,34_HyperMe,25
+91,35_Val Market,29
+91,36_Etka,48
+91,37_Etka,27
+91,38_Etka,32
+91,39_Refah,30
+91,40_Refah,39
+91,41_Sorena,26
+91,42_Sorena,15
+91,43_Sorena,34
+91,44_Win Market,49
+91,45_Win Market,21
+91,46_Win Market,49
+91,47_Win Market,54
+91,48_Farhangian Consumer Cooperative,33
+91,49_Amiran,52
+91,50_Gandom,39
+91,51_Minou Mart,51
+91,52_Haft,46
+91,53_Hyperstar,40
+92,01_Win Market,71
+92,02_Ofoq Kourosh,52
+92,03_Ofoq Kourosh,58
+92,04_Ofoq Kourosh,58
+92,05_Win Market,18
+92,06_Ofoq Kourosh,17
+92,07_Daily Market,21
+92,08_Sorena,27
+92,09_Daily Market,30
+92,10_Refah,53
+92,11_Ofoq Kourosh,31
+92,12_Ofoq Kourosh,33
+92,13_Ofoq Kourosh,38
+92,14_Ofoq Kourosh,29
+92,15_Ofoq Kourosh,36
+92,16_Ofoq Kourosh,63
+92,17_Ofoq Kourosh,27
+92,18_Yas Chain Store,54
+92,19_Yas Chain Store,41
+92,20_Hayat Market,24
+92,21_Janbo,65
+92,22_Janbo,28
+92,23_Janbo,38
+92,24_Janbo,32
+92,25_Hyper Keeper,28
+92,26_Haft,57
+92,27_Haft,27
+92,28_Haft,13
+92,29_Haft,42
+92,30_Haft,34
+92,31_Daily Market,40
+92,32_Daily Market,41
+92,33_Daily Market,40
+92,34_HyperMe,36
+92,35_Val Market,23
+92,36_Etka,38
+92,37_Etka,52
+92,38_Etka,31
+92,39_Refah,30
+92,40_Refah,37
+92,41_Sorena,52
+92,42_Sorena,45
+92,43_Sorena,33
+92,44_Win Market,30
+92,45_Win Market,43
+92,46_Win Market,49
+92,47_Win Market,49
+92,48_Farhangian Consumer Cooperative,37
+92,49_Amiran,31
+92,50_Gandom,61
+92,51_Minou Mart,23
+92,52_Haft,43
+92,53_Hyperstar,38
+93,01_Win Market,65
+93,02_Ofoq Kourosh,47
+93,03_Ofoq Kourosh,53
+93,04_Ofoq Kourosh,52
+93,05_Win Market,18
+93,06_Ofoq Kourosh,16
+93,07_Daily Market,16
+93,08_Sorena,21
+93,09_Daily Market,29
+93,10_Refah,47
+93,11_Ofoq Kourosh,28
+93,12_Ofoq Kourosh,26
+93,13_Ofoq Kourosh,32
+93,14_Ofoq Kourosh,22
+93,15_Ofoq Kourosh,32
+93,16_Ofoq Kourosh,58
+93,17_Ofoq Kourosh,28
+93,18_Yas Chain Store,49
+93,19_Yas Chain Store,37
+93,20_Hayat Market,19
+93,21_Janbo,60
+93,22_Janbo,21
+93,23_Janbo,33
+93,24_Janbo,29
+93,25_Hyper Keeper,26
+93,26_Haft,50
+93,27_Haft,20
+93,28_Haft,6
+93,29_Haft,37
+93,30_Haft,33
+93,31_Daily Market,36
+93,32_Daily Market,40
+93,33_Daily Market,37
+93,34_HyperMe,31
+93,35_Val Market,18
+93,36_Etka,31
+93,37_Etka,47
+93,38_Etka,28
+93,39_Refah,22
+93,40_Refah,34
+93,41_Sorena,47
+93,42_Sorena,40
+93,43_Sorena,30
+93,44_Win Market,23
+93,45_Win Market,36
+93,46_Win Market,45
+93,47_Win Market,46
+93,48_Farhangian Consumer Cooperative,32
+93,49_Amiran,24
+93,50_Gandom,55
+93,51_Minou Mart,23
+93,52_Haft,40
+93,53_Hyperstar,35
+94,01_Win Market,39
+94,02_Ofoq Kourosh,21
+94,03_Ofoq Kourosh,29
+94,04_Ofoq Kourosh,32
+94,05_Win Market,26
+94,06_Ofoq Kourosh,27
+94,07_Daily Market,22
+94,08_Sorena,16
+94,09_Daily Market,35
+94,10_Refah,13
+94,11_Ofoq Kourosh,29
+94,12_Ofoq Kourosh,49
+94,13_Ofoq Kourosh,29
+94,14_Ofoq Kourosh,21
+94,15_Ofoq Kourosh,7
+94,16_Ofoq Kourosh,53
+94,17_Ofoq Kourosh,35
+94,18_Yas Chain Store,23
+94,19_Yas Chain Store,29
+94,20_Hayat Market,42
+94,21_Janbo,34
+94,22_Janbo,40
+94,23_Janbo,35
+94,24_Janbo,29
+94,25_Hyper Keeper,29
+94,26_Haft,26
+94,27_Haft,43
+94,28_Haft,29
+94,29_Haft,30
+94,30_Haft,35
+94,31_Daily Market,30
+94,32_Daily Market,33
+94,33_Daily Market,38
+94,34_HyperMe,29
+94,35_Val Market,25
+94,36_Etka,41
+94,37_Etka,22
+94,38_Etka,28
+94,39_Refah,17
+94,40_Refah,35
+94,41_Sorena,25
+94,42_Sorena,5
+94,43_Sorena,30
+94,44_Win Market,43
+94,45_Win Market,8
+94,46_Win Market,47
+94,47_Win Market,50
+94,48_Farhangian Consumer Cooperative,35
+94,49_Amiran,47
+94,50_Gandom,33
+94,51_Minou Mart,46
+94,52_Haft,41
+94,53_Hyperstar,35
+95,01_Win Market,40
+95,02_Ofoq Kourosh,22
+95,03_Ofoq Kourosh,30
+95,04_Ofoq Kourosh,32
+95,05_Win Market,27
+95,06_Ofoq Kourosh,29
+95,07_Daily Market,24
+95,08_Sorena,13
+95,09_Daily Market,37
+95,10_Refah,23
+95,11_Ofoq Kourosh,31
+95,12_Ofoq Kourosh,46
+95,13_Ofoq Kourosh,21
+95,14_Ofoq Kourosh,12
+95,15_Ofoq Kourosh,17
+95,16_Ofoq Kourosh,56
+95,17_Ofoq Kourosh,40
+95,18_Yas Chain Store,24
+95,19_Yas Chain Store,36
+95,20_Hayat Market,39
+95,21_Janbo,35
+95,22_Janbo,35
+95,23_Janbo,34
+95,24_Janbo,31
+95,25_Hyper Keeper,30
+95,26_Haft,26
+95,27_Haft,40
+95,28_Haft,24
+95,29_Haft,36
+95,30_Haft,36
+95,31_Daily Market,37
+95,32_Daily Market,41
+95,33_Daily Market,40
+95,34_HyperMe,28
+95,35_Val Market,26
+95,36_Etka,33
+95,37_Etka,23
+95,38_Etka,29
+95,39_Refah,9
+95,40_Refah,36
+95,41_Sorena,25
+95,42_Sorena,17
+95,43_Sorena,31
+95,44_Win Market,39
+95,45_Win Market,6
+95,46_Win Market,45
+95,47_Win Market,48
+95,48_Farhangian Consumer Cooperative,34
+95,49_Amiran,44
+95,50_Gandom,34
+95,51_Minou Mart,43
+95,52_Haft,43
+95,53_Hyperstar,37
+96,01_Win Market,57
+96,02_Ofoq Kourosh,39
+96,03_Ofoq Kourosh,45
+96,04_Ofoq Kourosh,46
+96,05_Win Market,23
+96,06_Ofoq Kourosh,22
+96,07_Daily Market,19
+96,08_Sorena,14
+96,09_Daily Market,36
+96,10_Refah,37
+96,11_Ofoq Kourosh,31
+96,12_Ofoq Kourosh,29
+96,13_Ofoq Kourosh,24
+96,14_Ofoq Kourosh,12
+96,15_Ofoq Kourosh,27
+96,16_Ofoq Kourosh,58
+96,17_Ofoq Kourosh,38
+96,18_Yas Chain Store,41
+96,19_Yas Chain Store,39
+96,20_Hayat Market,22
+96,21_Janbo,52
+96,22_Janbo,24
+96,23_Janbo,33
+96,24_Janbo,32
+96,25_Hyper Keeper,32
+96,26_Haft,44
+96,27_Haft,23
+96,28_Haft,10
+96,29_Haft,39
+96,30_Haft,38
+96,31_Daily Market,38
+96,32_Daily Market,45
+96,33_Daily Market,40
+96,34_HyperMe,31
+96,35_Val Market,21
+96,36_Etka,32
+96,37_Etka,40
+96,38_Etka,31
+96,39_Refah,12
+96,40_Refah,37
+96,41_Sorena,43
+96,42_Sorena,30
+96,43_Sorena,33
+96,44_Win Market,26
+96,45_Win Market,26
+96,46_Win Market,46
+96,47_Win Market,49
+96,48_Farhangian Consumer Cooperative,32
+96,49_Amiran,27
+96,50_Gandom,48
+96,51_Minou Mart,26
+96,52_Haft,43
+96,53_Hyperstar,38
+97,01_Win Market,47
+97,02_Ofoq Kourosh,34
+97,03_Ofoq Kourosh,44
+97,04_Ofoq Kourosh,39
+97,05_Win Market,44
+97,06_Ofoq Kourosh,45
+97,07_Daily Market,42
+97,08_Sorena,38
+97,09_Daily Market,42
+97,10_Refah,11
+97,11_Ofoq Kourosh,43
+97,12_Ofoq Kourosh,62
+97,13_Ofoq Kourosh,46
+97,14_Ofoq Kourosh,39
+97,15_Ofoq Kourosh,30
+97,16_Ofoq Kourosh,59
+97,17_Ofoq Kourosh,46
+97,18_Yas Chain Store,38
+97,19_Yas Chain Store,35
+97,20_Hayat Market,55
+97,21_Janbo,48
+97,22_Janbo,57
+97,23_Janbo,46
+97,24_Janbo,42
+97,25_Hyper Keeper,41
+97,26_Haft,23
+97,27_Haft,56
+97,28_Haft,49
+97,29_Haft,36
+97,30_Haft,47
+97,31_Daily Market,35
+97,32_Daily Market,36
+97,33_Daily Market,52
+97,34_HyperMe,41
+97,35_Val Market,39
+97,36_Etka,58
+97,37_Etka,35
+97,38_Etka,40
+97,39_Refah,35
+97,40_Refah,48
+97,41_Sorena,27
+97,42_Sorena,16
+97,43_Sorena,42
+97,44_Win Market,59
+97,45_Win Market,26
+97,46_Win Market,57
+97,47_Win Market,63
+97,48_Farhangian Consumer Cooperative,44
+97,49_Amiran,60
+97,50_Gandom,48
+97,51_Minou Mart,59
+97,52_Haft,54
+97,53_Hyperstar,48
+99,01_Win Market,54
+99,02_Ofoq Kourosh,35
+99,03_Ofoq Kourosh,45
+99,04_Ofoq Kourosh,44
+99,05_Win Market,29
+99,06_Ofoq Kourosh,30
+99,07_Daily Market,25
+99,08_Sorena,29
+99,09_Daily Market,41
+99,10_Refah,39
+99,11_Ofoq Kourosh,37
+99,12_Ofoq Kourosh,30
+99,13_Ofoq Kourosh,18
+99,14_Ofoq Kourosh,18
+99,15_Ofoq Kourosh,33
+99,16_Ofoq Kourosh,66
+99,17_Ofoq Kourosh,42
+99,18_Yas Chain Store,37
+99,19_Yas Chain Store,47
+99,20_Hayat Market,17
+99,21_Janbo,52
+99,22_Janbo,16
+99,23_Janbo,41
+99,24_Janbo,38
+99,25_Hyper Keeper,37
+99,26_Haft,40
+99,27_Haft,24
+99,28_Haft,21
+99,29_Haft,47
+99,30_Haft,43
+99,31_Daily Market,46
+99,32_Daily Market,51
+99,33_Daily Market,46
+99,34_HyperMe,39
+99,35_Val Market,27
+99,36_Etka,26
+99,37_Etka,39
+99,38_Etka,37
+99,39_Refah,24
+99,40_Refah,43
+99,41_Sorena,40
+99,42_Sorena,41
+99,43_Sorena,39
+99,44_Win Market,21
+99,45_Win Market,31
+99,46_Win Market,53
+99,47_Win Market,55
+99,48_Farhangian Consumer Cooperative,40
+99,49_Amiran,27
+99,50_Gandom,47
+99,51_Minou Mart,22
+99,52_Haft,49
+99,53_Hyperstar,44
+100,01_Win Market,36
+100,02_Ofoq Kourosh,28
+100,03_Ofoq Kourosh,39
+100,04_Ofoq Kourosh,28
+100,05_Win Market,47
+100,06_Ofoq Kourosh,48
+100,07_Daily Market,45
+100,08_Sorena,42
+100,09_Daily Market,48
+100,10_Refah,23
+100,11_Ofoq Kourosh,45
+100,12_Ofoq Kourosh,63
+100,13_Ofoq Kourosh,41
+100,14_Ofoq Kourosh,39
+100,15_Ofoq Kourosh,33
+100,16_Ofoq Kourosh,62
+100,17_Ofoq Kourosh,48
+100,18_Yas Chain Store,34
+100,19_Yas Chain Store,38
+100,20_Hayat Market,57
+100,21_Janbo,40
+100,22_Janbo,55
+100,23_Janbo,49
+100,24_Janbo,44
+100,25_Hyper Keeper,43
+100,26_Haft,11
+100,27_Haft,57
+100,28_Haft,52
+100,29_Haft,39
+100,30_Haft,49
+100,31_Daily Market,38
+100,32_Daily Market,39
+100,33_Daily Market,54
+100,34_HyperMe,47
+100,35_Val Market,41
+100,36_Etka,53
+100,37_Etka,24
+100,38_Etka,42
+100,39_Refah,40
+100,40_Refah,50
+100,41_Sorena,15
+100,42_Sorena,26
+100,43_Sorena,44
+100,44_Win Market,59
+100,45_Win Market,29
+100,46_Win Market,60
+100,47_Win Market,66
+100,48_Farhangian Consumer Cooperative,47
+100,49_Amiran,61
+100,50_Gandom,43
+100,51_Minou Mart,61
+100,52_Haft,57
+100,53_Hyperstar,50
+98,01_Win Market,37
+98,02_Ofoq Kourosh,18
+98,03_Ofoq Kourosh,31
+98,04_Ofoq Kourosh,30
+98,05_Win Market,40
+98,06_Ofoq Kourosh,41
+98,07_Daily Market,38
+98,08_Sorena,35
+98,09_Daily Market,43
+98,10_Refah,18
+98,11_Ofoq Kourosh,38
+98,12_Ofoq Kourosh,54
+98,13_Ofoq Kourosh,28
+98,14_Ofoq Kourosh,30
+98,15_Ofoq Kourosh,26
+98,16_Ofoq Kourosh,57
+98,17_Ofoq Kourosh,41
+98,18_Yas Chain Store,21
+98,19_Yas Chain Store,33
+98,20_Hayat Market,46
+98,21_Janbo,36
+98,22_Janbo,43
+98,23_Janbo,44
+98,24_Janbo,37
+98,25_Hyper Keeper,36
+98,26_Haft,16
+98,27_Haft,48
+98,28_Haft,45
+98,29_Haft,34
+98,30_Haft,42
+98,31_Daily Market,33
+98,32_Daily Market,34
+98,33_Daily Market,47
+98,34_HyperMe,42
+98,35_Val Market,34
+98,36_Etka,43
+98,37_Etka,22
+98,38_Etka,35
+98,39_Refah,32
+98,40_Refah,43
+98,41_Sorena,20
+98,42_Sorena,21
+98,43_Sorena,37
+98,44_Win Market,47
+98,45_Win Market,23
+98,46_Win Market,55
+98,47_Win Market,61
+98,48_Farhangian Consumer Cooperative,42
+98,49_Amiran,52
+98,50_Gandom,35
+98,51_Minou Mart,51
+98,52_Haft,50
+98,53_Hyperstar,43
+101,01_Win Market,68
+101,02_Ofoq Kourosh,51
+101,03_Ofoq Kourosh,56
+101,04_Ofoq Kourosh,53
+101,05_Win Market,29
+101,06_Ofoq Kourosh,30
+101,07_Daily Market,27
+101,08_Sorena,36
+101,09_Daily Market,41
+101,10_Refah,55
+101,11_Ofoq Kourosh,39
+101,12_Ofoq Kourosh,21
+101,13_Ofoq Kourosh,33
+101,14_Ofoq Kourosh,36
+101,15_Ofoq Kourosh,45
+101,16_Ofoq Kourosh,69
+101,17_Ofoq Kourosh,40
+101,18_Yas Chain Store,52
+101,19_Yas Chain Store,48
+101,20_Hayat Market,7
+101,21_Janbo,63
+101,22_Janbo,20
+101,23_Janbo,44
+101,24_Janbo,40
+101,25_Hyper Keeper,37
+101,26_Haft,57
+101,27_Haft,18
+101,28_Haft,24
+101,29_Haft,49
+101,30_Haft,44
+101,31_Daily Market,47
+101,32_Daily Market,51
+101,33_Daily Market,48
+101,34_HyperMe,42
+101,35_Val Market,29
+101,36_Etka,30
+101,37_Etka,53
+101,38_Etka,38
+101,39_Refah,39
+101,40_Refah,44
+101,41_Sorena,57
+101,42_Sorena,54
+101,43_Sorena,41
+101,44_Win Market,21
+101,45_Win Market,49
+101,46_Win Market,55
+101,47_Win Market,56
+101,48_Farhangian Consumer Cooperative,43
+101,49_Amiran,18
+101,50_Gandom,58
+101,51_Minou Mart,5
+101,52_Haft,51
+101,53_Hyperstar,46
+102,01_Win Market,69
+102,02_Ofoq Kourosh,50
+102,03_Ofoq Kourosh,56
+102,04_Ofoq Kourosh,53
+102,05_Win Market,30
+102,06_Ofoq Kourosh,30
+102,07_Daily Market,26
+102,08_Sorena,34
+102,09_Daily Market,43
+102,10_Refah,52
+102,11_Ofoq Kourosh,44
+102,12_Ofoq Kourosh,5
+102,13_Ofoq Kourosh,30
+102,14_Ofoq Kourosh,38
+102,15_Ofoq Kourosh,43
+102,16_Ofoq Kourosh,67
+102,17_Ofoq Kourosh,45
+102,18_Yas Chain Store,52
+102,19_Yas Chain Store,47
+102,20_Hayat Market,14
+102,21_Janbo,63
+102,22_Janbo,15
+102,23_Janbo,41
+102,24_Janbo,44
+102,25_Hyper Keeper,42
+102,26_Haft,58
+102,27_Haft,11
+102,28_Haft,22
+102,29_Haft,47
+102,30_Haft,48
+102,31_Daily Market,46
+102,32_Daily Market,53
+102,33_Daily Market,52
+102,34_HyperMe,39
+102,35_Val Market,28
+102,36_Etka,25
+102,37_Etka,52
+102,38_Etka,43
+102,39_Refah,36
+102,40_Refah,47
+102,41_Sorena,55
+102,42_Sorena,52
+102,43_Sorena,45
+102,44_Win Market,14
+102,45_Win Market,46
+102,46_Win Market,56
+102,47_Win Market,59
+102,48_Farhangian Consumer Cooperative,40
+102,49_Amiran,2
+102,50_Gandom,58
+102,51_Minou Mart,20
+102,52_Haft,55
+102,53_Hyperstar,50
+103,01_Win Market,66
+103,02_Ofoq Kourosh,49
+103,03_Ofoq Kourosh,53
+103,04_Ofoq Kourosh,50
+103,05_Win Market,30
+103,06_Ofoq Kourosh,31
+103,07_Daily Market,26
+103,08_Sorena,34
+103,09_Daily Market,45
+103,10_Refah,53
+103,11_Ofoq Kourosh,43
+103,12_Ofoq Kourosh,5
+103,13_Ofoq Kourosh,28
+103,14_Ofoq Kourosh,38
+103,15_Ofoq Kourosh,43
+103,16_Ofoq Kourosh,68
+103,17_Ofoq Kourosh,47
+103,18_Yas Chain Store,49
+103,19_Yas Chain Store,49
+103,20_Hayat Market,15
+103,21_Janbo,60
+103,22_Janbo,13
+103,23_Janbo,43
+103,24_Janbo,43
+103,25_Hyper Keeper,41
+103,26_Haft,58
+103,27_Haft,8
+103,28_Haft,23
+103,29_Haft,49
+103,30_Haft,48
+103,31_Daily Market,48
+103,32_Daily Market,55
+103,33_Daily Market,51
+103,34_HyperMe,41
+103,35_Val Market,28
+103,36_Etka,23
+103,37_Etka,51
+103,38_Etka,41
+103,39_Refah,37
+103,40_Refah,45
+103,41_Sorena,55
+103,42_Sorena,52
+103,43_Sorena,44
+103,44_Win Market,11
+103,45_Win Market,47
+103,46_Win Market,55
+103,47_Win Market,57
+103,48_Farhangian Consumer Cooperative,42
+103,49_Amiran,6
+103,50_Gandom,55
+103,51_Minou Mart,21
+103,52_Haft,54
+103,53_Hyperstar,49
+104,01_Win Market,77
+104,02_Ofoq Kourosh,59
+104,03_Ofoq Kourosh,64
+104,04_Ofoq Kourosh,61
+104,05_Win Market,39
+104,06_Ofoq Kourosh,40
+104,07_Daily Market,35
+104,08_Sorena,44
+104,09_Daily Market,53
+104,10_Refah,62
+104,11_Ofoq Kourosh,53
+104,12_Ofoq Kourosh,9
+104,13_Ofoq Kourosh,36
+104,14_Ofoq Kourosh,44
+104,15_Ofoq Kourosh,51
+104,16_Ofoq Kourosh,76
+104,17_Ofoq Kourosh,55
+104,18_Yas Chain Store,60
+104,19_Yas Chain Store,57
+104,20_Hayat Market,24
+104,21_Janbo,71
+104,22_Janbo,23
+104,23_Janbo,51
+104,24_Janbo,54
+104,25_Hyper Keeper,51
+104,26_Haft,65
+104,27_Haft,20
+104,28_Haft,32
+104,29_Haft,57
+104,30_Haft,58
+104,31_Daily Market,56
+104,32_Daily Market,63
+104,33_Daily Market,62
+104,34_HyperMe,49
+104,35_Val Market,37
+104,36_Etka,25
+104,37_Etka,61
+104,38_Etka,52
+104,39_Refah,43
+104,40_Refah,56
+104,41_Sorena,64
+104,42_Sorena,61
+104,43_Sorena,55
+104,44_Win Market,23
+104,45_Win Market,54
+104,46_Win Market,65
+104,47_Win Market,68
+104,48_Farhangian Consumer Cooperative,50
+104,49_Amiran,11
+104,50_Gandom,66
+104,51_Minou Mart,29
+104,52_Haft,65
+104,53_Hyperstar,60
+105,01_Win Market,62
+105,02_Ofoq Kourosh,45
+105,03_Ofoq Kourosh,49
+105,04_Ofoq Kourosh,46
+105,05_Win Market,36
+105,06_Ofoq Kourosh,37
+105,07_Daily Market,32
+105,08_Sorena,37
+105,09_Daily Market,51
+105,10_Refah,53
+105,11_Ofoq Kourosh,44
+105,12_Ofoq Kourosh,22
+105,13_Ofoq Kourosh,26
+105,14_Ofoq Kourosh,37
+105,15_Ofoq Kourosh,44
+105,16_Ofoq Kourosh,74
+105,17_Ofoq Kourosh,53
+105,18_Yas Chain Store,45
+105,19_Yas Chain Store,55
+105,20_Hayat Market,22
+105,21_Janbo,56
+105,22_Janbo,13
+105,23_Janbo,49
+105,24_Janbo,45
+105,25_Hyper Keeper,44
+105,26_Haft,56
+105,27_Haft,11
+105,28_Haft,29
+105,29_Haft,55
+105,30_Haft,51
+105,31_Daily Market,54
+105,32_Daily Market,61
+105,33_Daily Market,53
+105,34_HyperMe,47
+105,35_Val Market,34
+105,36_Etka,13
+105,37_Etka,49
+105,38_Etka,43
+105,39_Refah,36
+105,40_Refah,48
+105,41_Sorena,55
+105,42_Sorena,54
+105,43_Sorena,46
+105,44_Win Market,14
+105,45_Win Market,48
+105,46_Win Market,60
+105,47_Win Market,60
+105,48_Farhangian Consumer Cooperative,48
+105,49_Amiran,19
+105,50_Gandom,51
+105,51_Minou Mart,27
+105,52_Haft,56
+105,53_Hyperstar,51
+107,01_Win Market,33
+107,02_Ofoq Kourosh,26
+107,03_Ofoq Kourosh,35
+107,04_Ofoq Kourosh,25
+107,05_Win Market,46
+107,06_Ofoq Kourosh,47
+107,07_Daily Market,44
+107,08_Sorena,41
+107,09_Daily Market,48
+107,10_Refah,23
+107,11_Ofoq Kourosh,44
+107,12_Ofoq Kourosh,62
+107,13_Ofoq Kourosh,40
+107,14_Ofoq Kourosh,42
+107,15_Ofoq Kourosh,32
+107,16_Ofoq Kourosh,62
+107,17_Ofoq Kourosh,47
+107,18_Yas Chain Store,33
+107,19_Yas Chain Store,38
+107,20_Hayat Market,56
+107,21_Janbo,35
+107,22_Janbo,54
+107,23_Janbo,49
+107,24_Janbo,43
+107,25_Hyper Keeper,42
+107,26_Haft,16
+107,27_Haft,56
+107,28_Haft,51
+107,29_Haft,39
+107,30_Haft,48
+107,31_Daily Market,38
+107,32_Daily Market,39
+107,33_Daily Market,53
+107,34_HyperMe,47
+107,35_Val Market,40
+107,36_Etka,52
+107,37_Etka,22
+107,38_Etka,41
+107,39_Refah,39
+107,40_Refah,49
+107,41_Sorena,18
+107,42_Sorena,26
+107,43_Sorena,43
+107,44_Win Market,58
+107,45_Win Market,29
+107,46_Win Market,60
+107,47_Win Market,66
+107,48_Farhangian Consumer Cooperative,47
+107,49_Amiran,60
+107,50_Gandom,39
+107,51_Minou Mart,60
+107,52_Haft,56
+107,53_Hyperstar,49
+108,01_Win Market,28
+108,02_Ofoq Kourosh,27
+108,03_Ofoq Kourosh,26
+108,04_Ofoq Kourosh,19
+108,05_Win Market,54
+108,06_Ofoq Kourosh,55
+108,07_Daily Market,52
+108,08_Sorena,49
+108,09_Daily Market,56
+108,10_Refah,31
+108,11_Ofoq Kourosh,52
+108,12_Ofoq Kourosh,64
+108,13_Ofoq Kourosh,44
+108,14_Ofoq Kourosh,48
+108,15_Ofoq Kourosh,40
+108,16_Ofoq Kourosh,70
+108,17_Ofoq Kourosh,55
+108,18_Yas Chain Store,28
+108,19_Yas Chain Store,46
+108,20_Hayat Market,60
+108,21_Janbo,28
+108,22_Janbo,55
+108,23_Janbo,57
+108,24_Janbo,51
+108,25_Hyper Keeper,50
+108,26_Haft,19
+108,27_Haft,57
+108,28_Haft,59
+108,29_Haft,47
+108,30_Haft,56
+108,31_Daily Market,46
+108,32_Daily Market,47
+108,33_Daily Market,61
+108,34_HyperMe,55
+108,35_Val Market,48
+108,36_Etka,48
+108,37_Etka,23
+108,38_Etka,49
+108,39_Refah,46
+108,40_Refah,57
+108,41_Sorena,20
+108,42_Sorena,34
+108,43_Sorena,51
+108,44_Win Market,58
+108,45_Win Market,37
+108,46_Win Market,68
+108,47_Win Market,74
+108,48_Farhangian Consumer Cooperative,55
+108,49_Amiran,61
+108,50_Gandom,29
+108,51_Minou Mart,64
+108,52_Haft,64
+108,53_Hyperstar,57
+109,01_Win Market,22
+109,02_Ofoq Kourosh,26
+109,03_Ofoq Kourosh,28
+109,04_Ofoq Kourosh,21
+109,05_Win Market,48
+109,06_Ofoq Kourosh,49
+109,07_Daily Market,46
+109,08_Sorena,43
+109,09_Daily Market,51
+109,10_Refah,26
+109,11_Ofoq Kourosh,46
+109,12_Ofoq Kourosh,65
+109,13_Ofoq Kourosh,43
+109,14_Ofoq Kourosh,45
+109,15_Ofoq Kourosh,34
+109,16_Ofoq Kourosh,65
+109,17_Ofoq Kourosh,49
+109,18_Yas Chain Store,34
+109,19_Yas Chain Store,41
+109,20_Hayat Market,58
+109,21_Janbo,28
+109,22_Janbo,57
+109,23_Janbo,52
+109,24_Janbo,45
+109,25_Hyper Keeper,44
+109,26_Haft,18
+109,27_Haft,59
+109,28_Haft,53
+109,29_Haft,42
+109,30_Haft,50
+109,31_Daily Market,41
+109,32_Daily Market,42
+109,33_Daily Market,55
+109,34_HyperMe,50
+109,35_Val Market,42
+109,36_Etka,54
+109,37_Etka,22
+109,38_Etka,43
+109,39_Refah,41
+109,40_Refah,51
+109,41_Sorena,19
+109,42_Sorena,29
+109,43_Sorena,45
+109,44_Win Market,61
+109,45_Win Market,32
+109,46_Win Market,63
+109,47_Win Market,69
+109,48_Farhangian Consumer Cooperative,50
+109,49_Amiran,63
+109,50_Gandom,33
+109,51_Minou Mart,62
+109,52_Haft,58
+109,53_Hyperstar,51
+110,01_Win Market,31
+110,02_Ofoq Kourosh,3
+110,03_Ofoq Kourosh,25
+110,04_Ofoq Kourosh,23
+110,05_Win Market,45
+110,06_Ofoq Kourosh,46
+110,07_Daily Market,42
+110,08_Sorena,38
+110,09_Daily Market,48
+110,10_Refah,21
+110,11_Ofoq Kourosh,45
+110,12_Ofoq Kourosh,57
+110,13_Ofoq Kourosh,31
+110,14_Ofoq Kourosh,34
+110,15_Ofoq Kourosh,29
+110,16_Ofoq Kourosh,62
+110,17_Ofoq Kourosh,48
+110,18_Yas Chain Store,11
+110,19_Yas Chain Store,38
+110,20_Hayat Market,49
+110,21_Janbo,29
+110,22_Janbo,45
+110,23_Janbo,49
+110,24_Janbo,44
+110,25_Hyper Keeper,43
+110,26_Haft,16
+110,27_Haft,51
+110,28_Haft,48
+110,29_Haft,38
+110,30_Haft,49
+110,31_Daily Market,38
+110,32_Daily Market,39
+110,33_Daily Market,54
+110,34_HyperMe,45
+110,35_Val Market,39
+110,36_Etka,42
+110,37_Etka,4
+110,38_Etka,42
+110,39_Refah,35
+110,40_Refah,50
+110,41_Sorena,11
+110,42_Sorena,24
+110,43_Sorena,44
+110,44_Win Market,50
+110,45_Win Market,27
+110,46_Win Market,60
+110,47_Win Market,66
+110,48_Farhangian Consumer Cooperative,47
+110,49_Amiran,55
+110,50_Gandom,30
+110,51_Minou Mart,55
+110,52_Haft,56
+110,53_Hyperstar,50
+111,01_Win Market,43
+111,02_Ofoq Kourosh,24
+111,03_Ofoq Kourosh,36
+111,04_Ofoq Kourosh,35
+111,05_Win Market,37
+111,06_Ofoq Kourosh,38
+111,07_Daily Market,33
+111,08_Sorena,25
+111,09_Daily Market,43
+111,10_Refah,29
+111,11_Ofoq Kourosh,35
+111,12_Ofoq Kourosh,43
+111,13_Ofoq Kourosh,12
+111,14_Ofoq Kourosh,17
+111,15_Ofoq Kourosh,29
+111,16_Ofoq Kourosh,62
+111,17_Ofoq Kourosh,46
+111,18_Yas Chain Store,26
+111,19_Yas Chain Store,43
+111,20_Hayat Market,33
+111,21_Janbo,41
+111,22_Janbo,29
+111,23_Janbo,42
+111,24_Janbo,36
+111,25_Hyper Keeper,36
+111,26_Haft,29
+111,27_Haft,36
+111,28_Haft,35
+111,29_Haft,44
+111,30_Haft,42
+111,31_Daily Market,42
+111,32_Daily Market,45
+111,33_Daily Market,44
+111,34_HyperMe,36
+111,35_Val Market,35
+111,36_Etka,30
+111,37_Etka,28
+111,38_Etka,35
+111,39_Refah,21
+111,40_Refah,41
+111,41_Sorena,29
+111,42_Sorena,32
+111,43_Sorena,37
+111,44_Win Market,33
+111,45_Win Market,29
+111,46_Win Market,51
+111,47_Win Market,53
+111,48_Farhangian Consumer Cooperative,42
+111,49_Amiran,41
+111,50_Gandom,39
+111,51_Minou Mart,38
+111,52_Haft,47
+111,53_Hyperstar,42
+112,01_Win Market,49
+112,02_Ofoq Kourosh,32
+112,03_Ofoq Kourosh,36
+112,04_Ofoq Kourosh,33
+112,05_Win Market,34
+112,06_Ofoq Kourosh,35
+112,07_Daily Market,30
+112,08_Sorena,27
+112,09_Daily Market,46
+112,10_Refah,41
+112,11_Ofoq Kourosh,38
+112,12_Ofoq Kourosh,25
+112,13_Ofoq Kourosh,17
+112,14_Ofoq Kourosh,24
+112,15_Ofoq Kourosh,32
+112,16_Ofoq Kourosh,65
+112,17_Ofoq Kourosh,49
+112,18_Yas Chain Store,32
+112,19_Yas Chain Store,48
+112,20_Hayat Market,25
+112,21_Janbo,43
+112,22_Janbo,15
+112,23_Janbo,42
+112,24_Janbo,39
+112,25_Hyper Keeper,39
+112,26_Haft,45
+112,27_Haft,18
+112,28_Haft,28
+112,29_Haft,49
+112,30_Haft,45
+112,31_Daily Market,47
+112,32_Daily Market,53
+112,33_Daily Market,47
+112,34_HyperMe,38
+112,35_Val Market,32
+112,36_Etka,3
+112,37_Etka,36
+112,38_Etka,38
+112,39_Refah,23
+112,40_Refah,44
+112,41_Sorena,43
+112,42_Sorena,42
+112,43_Sorena,40
+112,44_Win Market,19
+112,45_Win Market,36
+112,46_Win Market,53
+112,47_Win Market,56
+112,48_Farhangian Consumer Cooperative,42
+112,49_Amiran,22
+112,50_Gandom,38
+112,51_Minou Mart,29
+112,52_Haft,50
+112,53_Hyperstar,45
+113,01_Win Market,72
+113,02_Ofoq Kourosh,55
+113,03_Ofoq Kourosh,59
+113,04_Ofoq Kourosh,56
+113,05_Win Market,43
+113,06_Ofoq Kourosh,44
+113,07_Daily Market,39
+113,08_Sorena,47
+113,09_Daily Market,58
+113,10_Refah,65
+113,11_Ofoq Kourosh,53
+113,12_Ofoq Kourosh,14
+113,13_Ofoq Kourosh,36
+113,14_Ofoq Kourosh,44
+113,15_Ofoq Kourosh,52
+113,16_Ofoq Kourosh,81
+113,17_Ofoq Kourosh,60
+113,18_Yas Chain Store,55
+113,19_Yas Chain Store,62
+113,20_Hayat Market,29
+113,21_Janbo,66
+113,22_Janbo,24
+113,23_Janbo,56
+113,24_Janbo,53
+113,25_Hyper Keeper,52
+113,26_Haft,65
+113,27_Haft,23
+113,28_Haft,36
+113,29_Haft,62
+113,30_Haft,59
+113,31_Daily Market,61
+113,32_Daily Market,68
+113,33_Daily Market,61
+113,34_HyperMe,54
+113,35_Val Market,41
+113,36_Etka,22
+113,37_Etka,59
+113,38_Etka,51
+113,39_Refah,43
+113,40_Refah,55
+113,41_Sorena,65
+113,42_Sorena,62
+113,43_Sorena,54
+113,44_Win Market,26
+113,45_Win Market,56
+113,46_Win Market,67
+113,47_Win Market,67
+113,48_Farhangian Consumer Cooperative,55
+113,49_Amiran,17
+113,50_Gandom,61
+113,51_Minou Mart,35
+113,52_Haft,64
+113,53_Hyperstar,59
+114,01_Win Market,50
+114,02_Ofoq Kourosh,33
+114,03_Ofoq Kourosh,37
+114,04_Ofoq Kourosh,34
+114,05_Win Market,34
+114,06_Ofoq Kourosh,35
+114,07_Daily Market,30
+114,08_Sorena,32
+114,09_Daily Market,49
+114,10_Refah,43
+114,11_Ofoq Kourosh,40
+114,12_Ofoq Kourosh,24
+114,13_Ofoq Kourosh,22
+114,14_Ofoq Kourosh,29
+114,15_Ofoq Kourosh,36
+114,16_Ofoq Kourosh,70
+114,17_Ofoq Kourosh,51
+114,18_Yas Chain Store,33
+114,19_Yas Chain Store,51
+114,20_Hayat Market,24
+114,21_Janbo,44
+114,22_Janbo,15
+114,23_Janbo,45
+114,24_Janbo,41
+114,25_Hyper Keeper,41
+114,26_Haft,49
+114,27_Haft,17
+114,28_Haft,27
+114,29_Haft,51
+114,30_Haft,47
+114,31_Daily Market,50
+114,32_Daily Market,57
+114,33_Daily Market,49
+114,34_HyperMe,43
+114,35_Val Market,32
+114,36_Etka,13
+114,37_Etka,37
+114,38_Etka,40
+114,39_Refah,28
+114,40_Refah,46
+114,41_Sorena,45
+114,42_Sorena,46
+114,43_Sorena,42
+114,44_Win Market,18
+114,45_Win Market,41
+114,46_Win Market,57
+114,47_Win Market,58
+114,48_Farhangian Consumer Cooperative,44
+114,49_Amiran,22
+114,50_Gandom,39
+114,51_Minou Mart,28
+114,52_Haft,52
+114,53_Hyperstar,47
+115,01_Win Market,10
+115,02_Ofoq Kourosh,30
+115,03_Ofoq Kourosh,15
+115,04_Ofoq Kourosh,12
+115,05_Win Market,52
+115,06_Ofoq Kourosh,53
+115,07_Daily Market,50
+115,08_Sorena,47
+115,09_Daily Market,54
+115,10_Refah,29
+115,11_Ofoq Kourosh,50
+115,12_Ofoq Kourosh,67
+115,13_Ofoq Kourosh,44
+115,14_Ofoq Kourosh,47
+115,15_Ofoq Kourosh,38
+115,16_Ofoq Kourosh,68
+115,17_Ofoq Kourosh,53
+115,18_Yas Chain Store,32
+115,19_Yas Chain Store,44
+115,20_Hayat Market,62
+115,21_Janbo,12
+115,22_Janbo,59
+115,23_Janbo,55
+115,24_Janbo,49
+115,25_Hyper Keeper,48
+115,26_Haft,25
+115,27_Haft,61
+115,28_Haft,57
+115,29_Haft,45
+115,30_Haft,54
+115,31_Daily Market,44
+115,32_Daily Market,45
+115,33_Daily Market,59
+115,34_HyperMe,53
+115,35_Val Market,46
+115,36_Etka,52
+115,37_Etka,32
+115,38_Etka,47
+115,39_Refah,45
+115,40_Refah,55
+115,41_Sorena,29
+115,42_Sorena,32
+115,43_Sorena,49
+115,44_Win Market,63
+115,45_Win Market,35
+115,46_Win Market,66
+115,47_Win Market,72
+115,48_Farhangian Consumer Cooperative,53
+115,49_Amiran,65
+115,50_Gandom,20
+115,51_Minou Mart,66
+115,52_Haft,62
+115,53_Hyperstar,55
+116,01_Win Market,20
+116,02_Ofoq Kourosh,26
+116,03_Ofoq Kourosh,12
+116,04_Ofoq Kourosh,7
+116,05_Win Market,56
+116,06_Ofoq Kourosh,57
+116,07_Daily Market,53
+116,08_Sorena,48
+116,09_Daily Market,60
+116,10_Refah,31
+116,11_Ofoq Kourosh,58
+116,12_Ofoq Kourosh,65
+116,13_Ofoq Kourosh,44
+116,14_Ofoq Kourosh,47
+116,15_Ofoq Kourosh,39
+116,16_Ofoq Kourosh,73
+116,17_Ofoq Kourosh,61
+116,18_Yas Chain Store,27
+116,19_Yas Chain Store,48
+116,20_Hayat Market,64
+116,21_Janbo,14
+116,22_Janbo,54
+116,23_Janbo,60
+116,24_Janbo,57
+116,25_Hyper Keeper,56
+116,26_Haft,32
+116,27_Haft,57
+116,28_Haft,59
+116,29_Haft,48
+116,30_Haft,62
+116,31_Daily Market,49
+116,32_Daily Market,50
+116,33_Daily Market,67
+116,34_HyperMe,56
+116,35_Val Market,50
+116,36_Etka,48
+116,37_Etka,30
+116,38_Etka,55
+116,39_Refah,46
+116,40_Refah,62
+116,41_Sorena,32
+116,42_Sorena,34
+116,43_Sorena,57
+116,44_Win Market,58
+116,45_Win Market,37
+116,46_Win Market,71
+116,47_Win Market,77
+116,48_Farhangian Consumer Cooperative,58
+116,49_Amiran,62
+116,50_Gandom,15
+116,51_Minou Mart,68
+116,52_Haft,68
+116,53_Hyperstar,63
+117,01_Win Market,39
+117,02_Ofoq Kourosh,30
+117,03_Ofoq Kourosh,30
+117,04_Ofoq Kourosh,28
+117,05_Win Market,42
+117,06_Ofoq Kourosh,43
+117,07_Daily Market,38
+117,08_Sorena,30
+117,09_Daily Market,48
+117,10_Refah,37
+117,11_Ofoq Kourosh,40
+117,12_Ofoq Kourosh,40
+117,13_Ofoq Kourosh,20
+117,14_Ofoq Kourosh,27
+117,15_Ofoq Kourosh,34
+117,16_Ofoq Kourosh,68
+117,17_Ofoq Kourosh,51
+117,18_Yas Chain Store,31
+117,19_Yas Chain Store,52
+117,20_Hayat Market,38
+117,21_Janbo,35
+117,22_Janbo,29
+117,23_Janbo,47
+117,24_Janbo,41
+117,25_Hyper Keeper,41
+117,26_Haft,45
+117,27_Haft,31
+117,28_Haft,41
+117,29_Haft,53
+117,30_Haft,47
+117,31_Daily Market,51
+117,32_Daily Market,54
+117,33_Daily Market,49
+117,34_HyperMe,41
+117,35_Val Market,39
+117,36_Etka,25
+117,37_Etka,34
+117,38_Etka,40
+117,39_Refah,26
+117,40_Refah,46
+117,41_Sorena,39
+117,42_Sorena,40
+117,43_Sorena,42
+117,44_Win Market,32
+117,45_Win Market,38
+117,46_Win Market,56
+117,47_Win Market,58
+117,48_Farhangian Consumer Cooperative,47
+117,49_Amiran,37
+117,50_Gandom,33
+117,51_Minou Mart,42
+117,52_Haft,52
+117,53_Hyperstar,47
+106,01_Win Market,35
+106,02_Ofoq Kourosh,22
+106,03_Ofoq Kourosh,23
+106,04_Ofoq Kourosh,25
+106,05_Win Market,47
+106,06_Ofoq Kourosh,48
+106,07_Daily Market,43
+106,08_Sorena,36
+106,09_Daily Market,54
+106,10_Refah,30
+106,11_Ofoq Kourosh,46
+106,12_Ofoq Kourosh,43
+106,13_Ofoq Kourosh,27
+106,14_Ofoq Kourosh,33
+106,15_Ofoq Kourosh,36
+106,16_Ofoq Kourosh,72
+106,17_Ofoq Kourosh,57
+106,18_Yas Chain Store,19
+106,19_Yas Chain Store,49
+106,20_Hayat Market,43
+106,21_Janbo,30
+106,22_Janbo,34
+106,23_Janbo,53
+106,24_Janbo,47
+106,25_Hyper Keeper,47
+106,26_Haft,36
+106,27_Haft,36
+106,28_Haft,46
+106,29_Haft,49
+106,30_Haft,53
+106,31_Daily Market,49
+106,32_Daily Market,51
+106,33_Daily Market,55
+106,34_HyperMe,48
+106,35_Val Market,45
+106,36_Etka,27
+106,37_Etka,26
+106,38_Etka,46
+106,39_Refah,32
+106,40_Refah,52
+106,41_Sorena,31
+106,42_Sorena,33
+106,43_Sorena,48
+106,44_Win Market,37
+106,45_Win Market,36
+106,46_Win Market,62
+106,47_Win Market,64
+106,48_Farhangian Consumer Cooperative,53
+106,49_Amiran,40
+106,50_Gandom,26
+106,51_Minou Mart,47
+106,52_Haft,58
+106,53_Hyperstar,53
+118,01_Win Market,18
+118,02_Ofoq Kourosh,20
+118,03_Ofoq Kourosh,4
+118,04_Ofoq Kourosh,15
+118,05_Win Market,53
+118,06_Ofoq Kourosh,54
+118,07_Daily Market,49
+118,08_Sorena,42
+118,09_Daily Market,57
+118,10_Refah,25
+118,11_Ofoq Kourosh,56
+118,12_Ofoq Kourosh,59
+118,13_Ofoq Kourosh,38
+118,14_Ofoq Kourosh,41
+118,15_Ofoq Kourosh,34
+118,16_Ofoq Kourosh,69
+118,17_Ofoq Kourosh,61
+118,18_Yas Chain Store,21
+118,19_Yas Chain Store,44
+118,20_Hayat Market,58
+118,21_Janbo,12
+118,22_Janbo,48
+118,23_Janbo,56
+118,24_Janbo,56
+118,25_Hyper Keeper,55
+118,26_Haft,30
+118,27_Haft,51
+118,28_Haft,54
+118,29_Haft,44
+118,30_Haft,61
+118,31_Daily Market,45
+118,32_Daily Market,46
+118,33_Daily Market,65
+118,34_HyperMe,52
+118,35_Val Market,47
+118,36_Etka,42
+118,37_Etka,24
+118,38_Etka,54
+118,39_Refah,40
+118,40_Refah,61
+118,41_Sorena,27
+118,42_Sorena,28
+118,43_Sorena,56
+118,44_Win Market,52
+118,45_Win Market,31
+118,46_Win Market,68
+118,47_Win Market,73
+118,48_Farhangian Consumer Cooperative,53
+118,49_Amiran,56
+118,50_Gandom,7
+118,51_Minou Mart,62
+118,52_Haft,66
+118,53_Hyperstar,62
+119,01_Win Market,5
+119,02_Ofoq Kourosh,32
+119,03_Ofoq Kourosh,16
+119,04_Ofoq Kourosh,23
+119,05_Win Market,50
+119,06_Ofoq Kourosh,51
+119,07_Daily Market,48
+119,08_Sorena,45
+119,09_Daily Market,53
+119,10_Refah,28
+119,11_Ofoq Kourosh,48
+119,12_Ofoq Kourosh,67
+119,13_Ofoq Kourosh,45
+119,14_Ofoq Kourosh,47
+119,15_Ofoq Kourosh,36
+119,16_Ofoq Kourosh,67
+119,17_Ofoq Kourosh,51
+119,18_Yas Chain Store,35
+119,19_Yas Chain Store,43
+119,20_Hayat Market,60
+119,21_Janbo,8
+119,22_Janbo,59
+119,23_Janbo,54
+119,24_Janbo,47
+119,25_Hyper Keeper,46
+119,26_Haft,24
+119,27_Haft,61
+119,28_Haft,55
+119,29_Haft,44
+119,30_Haft,52
+119,31_Daily Market,43
+119,32_Daily Market,44
+119,33_Daily Market,57
+119,34_HyperMe,52
+119,35_Val Market,44
+119,36_Etka,56
+119,37_Etka,33
+119,38_Etka,45
+119,39_Refah,43
+119,40_Refah,53
+119,41_Sorena,28
+119,42_Sorena,31
+119,43_Sorena,47
+119,44_Win Market,63
+119,45_Win Market,34
+119,46_Win Market,65
+119,47_Win Market,71
+119,48_Farhangian Consumer Cooperative,52
+119,49_Amiran,65
+119,50_Gandom,21
+119,51_Minou Mart,64
+119,52_Haft,60
+119,53_Hyperstar,53
+120,01_Win Market,62
+120,02_Ofoq Kourosh,43
+120,03_Ofoq Kourosh,51
+120,04_Ofoq Kourosh,52
+120,05_Win Market,34
+120,06_Ofoq Kourosh,35
+120,07_Daily Market,30
+120,08_Sorena,31
+120,09_Daily Market,23
+120,10_Refah,46
+120,11_Ofoq Kourosh,18
+120,12_Ofoq Kourosh,46
+120,13_Ofoq Kourosh,36
+120,14_Ofoq Kourosh,33
+120,15_Ofoq Kourosh,31
+120,16_Ofoq Kourosh,49
+120,17_Ofoq Kourosh,15
+120,18_Yas Chain Store,45
+120,19_Yas Chain Store,36
+120,20_Hayat Market,39
+120,21_Janbo,56
+120,22_Janbo,41
+120,23_Janbo,30
+120,24_Janbo,14
+120,25_Hyper Keeper,28
+120,26_Haft,48
+120,27_Haft,40
+120,28_Haft,34
+120,29_Haft,36
+120,30_Haft,7
+120,31_Daily Market,34
+120,32_Daily Market,34
+120,33_Daily Market,26
+120,34_HyperMe,33
+120,35_Val Market,29
+120,36_Etka,47
+120,37_Etka,43
+120,38_Etka,22
+120,39_Refah,33
+120,40_Refah,17
+120,41_Sorena,43
+120,42_Sorena,40
+120,43_Sorena,2
+120,44_Win Market,43
+120,45_Win Market,34
+120,46_Win Market,35
+120,47_Win Market,35
+120,48_Farhangian Consumer Cooperative,32
+120,49_Amiran,44
+120,50_Gandom,55
+120,51_Minou Mart,43
+120,52_Haft,29
+120,53_Hyperstar,21
+121,01_Win Market,60
+121,02_Ofoq Kourosh,41
+121,03_Ofoq Kourosh,49
+121,04_Ofoq Kourosh,50
+121,05_Win Market,32
+121,06_Ofoq Kourosh,32
+121,07_Daily Market,29
+121,08_Sorena,29
+121,09_Daily Market,25
+121,10_Refah,44
+121,11_Ofoq Kourosh,16
+121,12_Ofoq Kourosh,45
+121,13_Ofoq Kourosh,34
+121,14_Ofoq Kourosh,31
+121,15_Ofoq Kourosh,29
+121,16_Ofoq Kourosh,44
+121,17_Ofoq Kourosh,11
+121,18_Yas Chain Store,43
+121,19_Yas Chain Store,32
+121,20_Hayat Market,38
+121,21_Janbo,54
+121,22_Janbo,40
+121,23_Janbo,26
+121,24_Janbo,8
+121,25_Hyper Keeper,25
+121,26_Haft,46
+121,27_Haft,39
+121,28_Haft,33
+121,29_Haft,33
+121,30_Haft,3
+121,31_Daily Market,30
+121,32_Daily Market,29
+121,33_Daily Market,23
+121,34_HyperMe,31
+121,35_Val Market,28
+121,36_Etka,46
+121,37_Etka,41
+121,38_Etka,24
+121,39_Refah,31
+121,40_Refah,11
+121,41_Sorena,41
+121,42_Sorena,38
+121,43_Sorena,3
+121,44_Win Market,42
+121,45_Win Market,32
+121,46_Win Market,30
+121,47_Win Market,30
+121,48_Farhangian Consumer Cooperative,27
+121,49_Amiran,43
+121,50_Gandom,53
+121,51_Minou Mart,42
+121,52_Haft,26
+121,53_Hyperstar,18
+122,01_Win Market,43
+122,02_Ofoq Kourosh,27
+122,03_Ofoq Kourosh,36
+122,04_Ofoq Kourosh,37
+122,05_Win Market,31
+122,06_Ofoq Kourosh,32
+122,07_Daily Market,29
+122,08_Sorena,25
+122,09_Daily Market,28
+122,10_Refah,23
+122,11_Ofoq Kourosh,30
+122,12_Ofoq Kourosh,50
+122,13_Ofoq Kourosh,31
+122,14_Ofoq Kourosh,28
+122,15_Ofoq Kourosh,18
+122,16_Ofoq Kourosh,48
+122,17_Ofoq Kourosh,36
+122,18_Yas Chain Store,30
+122,19_Yas Chain Store,23
+122,20_Hayat Market,43
+122,21_Janbo,41
+122,22_Janbo,41
+122,23_Janbo,30
+122,24_Janbo,30
+122,25_Hyper Keeper,29
+122,26_Haft,30
+122,27_Haft,44
+122,28_Haft,35
+122,29_Haft,22
+122,30_Haft,35
+122,31_Daily Market,25
+122,32_Daily Market,28
+122,33_Daily Market,39
+122,34_HyperMe,19
+122,35_Val Market,25
+122,36_Etka,43
+122,37_Etka,31
+122,38_Etka,28
+122,39_Refah,27
+122,40_Refah,35
+122,41_Sorena,34
+122,42_Sorena,18
+122,43_Sorena,30
+122,44_Win Market,44
+122,45_Win Market,22
+122,46_Win Market,44
+122,47_Win Market,50
+122,48_Farhangian Consumer Cooperative,27
+122,49_Amiran,48
+122,50_Gandom,40
+122,51_Minou Mart,47
+122,52_Haft,42
+122,53_Hyperstar,36
+123,01_Win Market,44
+123,02_Ofoq Kourosh,30
+123,03_Ofoq Kourosh,40
+123,04_Ofoq Kourosh,35
+123,05_Win Market,42
+123,06_Ofoq Kourosh,43
+123,07_Daily Market,39
+123,08_Sorena,35
+123,09_Daily Market,42
+123,10_Refah,10
+123,11_Ofoq Kourosh,41
+123,12_Ofoq Kourosh,60
+123,13_Ofoq Kourosh,37
+123,14_Ofoq Kourosh,27
+123,15_Ofoq Kourosh,26
+123,16_Ofoq Kourosh,54
+123,17_Ofoq Kourosh,43
+123,18_Yas Chain Store,34
+123,19_Yas Chain Store,30
+123,20_Hayat Market,53
+123,21_Janbo,44
+123,22_Janbo,49
+123,23_Janbo,42
+123,24_Janbo,40
+123,25_Hyper Keeper,39
+123,26_Haft,19
+123,27_Haft,54
+123,28_Haft,46
+123,29_Haft,31
+123,30_Haft,45
+123,31_Daily Market,30
+123,32_Daily Market,31
+123,33_Daily Market,50
+123,34_HyperMe,40
+123,35_Val Market,37
+123,36_Etka,49
+123,37_Etka,32
+123,38_Etka,38
+123,39_Refah,31
+123,40_Refah,45
+123,41_Sorena,23
+123,42_Sorena,15
+123,43_Sorena,40
+123,44_Win Market,53
+123,45_Win Market,17
+123,46_Win Market,53
+123,47_Win Market,58
+123,48_Farhangian Consumer Cooperative,39
+123,49_Amiran,58
+123,50_Gandom,44
+123,51_Minou Mart,57
+123,52_Haft,50
+123,53_Hyperstar,46
+124,01_Win Market,44
+124,02_Ofoq Kourosh,25
+124,03_Ofoq Kourosh,33
+124,04_Ofoq Kourosh,36
+124,05_Win Market,22
+124,06_Ofoq Kourosh,23
+124,07_Daily Market,18
+124,08_Sorena,8
+124,09_Daily Market,35
+124,10_Refah,22
+124,11_Ofoq Kourosh,29
+124,12_Ofoq Kourosh,42
+124,13_Ofoq Kourosh,21
+124,14_Ofoq Kourosh,13
+124,15_Ofoq Kourosh,10
+124,16_Ofoq Kourosh,54
+124,17_Ofoq Kourosh,39
+124,18_Yas Chain Store,27
+124,19_Yas Chain Store,34
+124,20_Hayat Market,35
+124,21_Janbo,38
+124,22_Janbo,33
+124,23_Janbo,32
+124,24_Janbo,29
+124,25_Hyper Keeper,29
+124,26_Haft,31
+124,27_Haft,36
+124,28_Haft,22
+124,29_Haft,34
+124,30_Haft,35
+124,31_Daily Market,35
+124,32_Daily Market,39
+124,33_Daily Market,38
+124,34_HyperMe,26
+124,35_Val Market,21
+124,36_Etka,33
+124,37_Etka,26
+124,38_Etka,28
+124,39_Refah,9
+124,40_Refah,35
+124,41_Sorena,29
+124,42_Sorena,16
+124,43_Sorena,30
+124,44_Win Market,35
+124,45_Win Market,12
+124,46_Win Market,43
+124,47_Win Market,46
+124,48_Farhangian Consumer Cooperative,32
+124,49_Amiran,40
+124,50_Gandom,37
+124,51_Minou Mart,39
+124,52_Haft,41
+124,53_Hyperstar,35
+125,01_Win Market,55
+125,02_Ofoq Kourosh,36
+125,03_Ofoq Kourosh,42
+125,04_Ofoq Kourosh,43
+125,05_Win Market,16
+125,06_Ofoq Kourosh,16
+125,07_Daily Market,13
+125,08_Sorena,5
+125,09_Daily Market,35
+125,10_Refah,34
+125,11_Ofoq Kourosh,30
+125,12_Ofoq Kourosh,30
+125,13_Ofoq Kourosh,21
+125,14_Ofoq Kourosh,14
+125,15_Ofoq Kourosh,18
+125,16_Ofoq Kourosh,55
+125,17_Ofoq Kourosh,38
+125,18_Yas Chain Store,38
+125,19_Yas Chain Store,36
+125,20_Hayat Market,23
+125,21_Janbo,49
+125,22_Janbo,25
+125,23_Janbo,30
+125,24_Janbo,31
+125,25_Hyper Keeper,31
+125,26_Haft,41
+125,27_Haft,24
+125,28_Haft,10
+125,29_Haft,36
+125,30_Haft,37
+125,31_Daily Market,35
+125,32_Daily Market,41
+125,33_Daily Market,39
+125,34_HyperMe,27
+125,35_Val Market,18
+125,36_Etka,31
+125,37_Etka,37
+125,38_Etka,30
+125,39_Refah,10
+125,40_Refah,36
+125,41_Sorena,39
+125,42_Sorena,26
+125,43_Sorena,32
+125,44_Win Market,27
+125,45_Win Market,24
+125,46_Win Market,44
+125,47_Win Market,47
+125,48_Farhangian Consumer Cooperative,29
+125,49_Amiran,28
+125,50_Gandom,45
+125,51_Minou Mart,27
+125,52_Haft,42
+125,53_Hyperstar,37
+126,01_Win Market,67
+126,02_Ofoq Kourosh,49
+126,03_Ofoq Kourosh,55
+126,04_Ofoq Kourosh,52
+126,05_Win Market,24
+126,06_Ofoq Kourosh,24
+126,07_Daily Market,23
+126,08_Sorena,32
+126,09_Daily Market,34
+126,10_Refah,53
+126,11_Ofoq Kourosh,35
+126,12_Ofoq Kourosh,24
+126,13_Ofoq Kourosh,33
+126,14_Ofoq Kourosh,28
+126,15_Ofoq Kourosh,41
+126,16_Ofoq Kourosh,65
+126,17_Ofoq Kourosh,31
+126,18_Yas Chain Store,51
+126,19_Yas Chain Store,43
+126,20_Hayat Market,12
+126,21_Janbo,62
+126,22_Janbo,19
+126,23_Janbo,40
+126,24_Janbo,36
+126,25_Hyper Keeper,32
+126,26_Haft,55
+126,27_Haft,18
+126,28_Haft,19
+126,29_Haft,44
+126,30_Haft,38
+126,31_Daily Market,42
+126,32_Daily Market,45
+126,33_Daily Market,44
+126,34_HyperMe,38
+126,35_Val Market,25
+126,36_Etka,29
+126,37_Etka,51
+126,38_Etka,35
+126,39_Refah,33
+126,40_Refah,41
+126,41_Sorena,54
+126,42_Sorena,50
+126,43_Sorena,37
+126,44_Win Market,21
+126,45_Win Market,42
+126,46_Win Market,52
+126,47_Win Market,53
+126,48_Farhangian Consumer Cooperative,39
+126,49_Amiran,22
+126,50_Gandom,57
+126,51_Minou Mart,11
+126,52_Haft,47
+126,53_Hyperstar,42
+127,01_Win Market,59
+127,02_Ofoq Kourosh,42
+127,03_Ofoq Kourosh,49
+127,04_Ofoq Kourosh,46
+127,05_Win Market,32
+127,06_Ofoq Kourosh,33
+127,07_Daily Market,28
+127,08_Sorena,35
+127,09_Daily Market,47
+127,10_Refah,47
+127,11_Ofoq Kourosh,42
+127,12_Ofoq Kourosh,21
+127,13_Ofoq Kourosh,22
+127,14_Ofoq Kourosh,28
+127,15_Ofoq Kourosh,42
+127,16_Ofoq Kourosh,70
+127,17_Ofoq Kourosh,49
+127,18_Yas Chain Store,44
+127,19_Yas Chain Store,51
+127,20_Hayat Market,10
+127,21_Janbo,56
+127,22_Janbo,5
+127,23_Janbo,45
+127,24_Janbo,42
+127,25_Hyper Keeper,41
+127,26_Haft,47
+127,27_Haft,9
+127,28_Haft,25
+127,29_Haft,51
+127,30_Haft,48
+127,31_Daily Market,50
+127,32_Daily Market,57
+127,33_Daily Market,50
+127,34_HyperMe,43
+127,35_Val Market,30
+127,36_Etka,18
+127,37_Etka,45
+127,38_Etka,40
+127,39_Refah,34
+127,40_Refah,44
+127,41_Sorena,47
+127,42_Sorena,49
+127,43_Sorena,43
+127,44_Win Market,7
+127,45_Win Market,41
+127,46_Win Market,56
+127,47_Win Market,56
+127,48_Farhangian Consumer Cooperative,44
+127,49_Amiran,19
+127,50_Gandom,51
+127,51_Minou Mart,15
+127,52_Haft,53
+127,53_Hyperstar,48
+128,01_Win Market,49
+128,02_Ofoq Kourosh,32
+128,03_Ofoq Kourosh,39
+128,04_Ofoq Kourosh,36
+128,05_Win Market,35
+128,06_Ofoq Kourosh,36
+128,07_Daily Market,31
+128,08_Sorena,24
+128,09_Daily Market,43
+128,10_Refah,36
+128,11_Ofoq Kourosh,35
+128,12_Ofoq Kourosh,29
+128,13_Ofoq Kourosh,6
+128,14_Ofoq Kourosh,18
+128,15_Ofoq Kourosh,29
+128,16_Ofoq Kourosh,62
+128,17_Ofoq Kourosh,46
+128,18_Yas Chain Store,34
+128,19_Yas Chain Store,47
+128,20_Hayat Market,24
+128,21_Janbo,46
+128,22_Janbo,14
+128,23_Janbo,41
+128,24_Janbo,36
+128,25_Hyper Keeper,36
+128,26_Haft,37
+128,27_Haft,21
+128,28_Haft,32
+128,29_Haft,48
+128,30_Haft,42
+128,31_Daily Market,46
+128,32_Daily Market,49
+128,33_Daily Market,44
+128,34_HyperMe,35
+128,35_Val Market,32
+128,36_Etka,15
+128,37_Etka,35
+128,38_Etka,35
+128,39_Refah,20
+128,40_Refah,41
+128,41_Sorena,37
+128,42_Sorena,38
+128,43_Sorena,37
+128,44_Win Market,18
+128,45_Win Market,31
+128,46_Win Market,50
+128,47_Win Market,53
+128,48_Farhangian Consumer Cooperative,41
+128,49_Amiran,26
+128,50_Gandom,41
+128,51_Minou Mart,30
+128,52_Haft,47
+128,53_Hyperstar,42
+129,01_Win Market,71
+129,02_Ofoq Kourosh,54
+129,03_Ofoq Kourosh,58
+129,04_Ofoq Kourosh,55
+129,05_Win Market,39
+129,06_Ofoq Kourosh,40
+129,07_Daily Market,35
+129,08_Sorena,44
+129,09_Daily Market,54
+129,10_Refah,63
+129,11_Ofoq Kourosh,53
+129,12_Ofoq Kourosh,10
+129,13_Ofoq Kourosh,35
+129,14_Ofoq Kourosh,43
+129,15_Ofoq Kourosh,50
+129,16_Ofoq Kourosh,77
+129,17_Ofoq Kourosh,56
+129,18_Yas Chain Store,54
+129,19_Yas Chain Store,58
+129,20_Hayat Market,26
+129,21_Janbo,65
+129,22_Janbo,22
+129,23_Janbo,52
+129,24_Janbo,53
+129,25_Hyper Keeper,51
+129,26_Haft,64
+129,27_Haft,20
+129,28_Haft,32
+129,29_Haft,58
+129,30_Haft,57
+129,31_Daily Market,57
+129,32_Daily Market,64
+129,33_Daily Market,61
+129,34_HyperMe,50
+129,35_Val Market,37
+129,36_Etka,22
+129,37_Etka,58
+129,38_Etka,51
+129,39_Refah,43
+129,40_Refah,55
+129,41_Sorena,63
+129,42_Sorena,60
+129,43_Sorena,54
+129,44_Win Market,22
+129,45_Win Market,53
+129,46_Win Market,65
+129,47_Win Market,67
+129,48_Farhangian Consumer Cooperative,51
+129,49_Amiran,13
+129,50_Gandom,60
+129,51_Minou Mart,31
+129,52_Haft,64
+129,53_Hyperstar,59
+130,01_Win Market,60
+130,02_Ofoq Kourosh,43
+130,03_Ofoq Kourosh,47
+130,04_Ofoq Kourosh,44
+130,05_Win Market,40
+130,06_Ofoq Kourosh,41
+130,07_Daily Market,36
+130,08_Sorena,40
+130,09_Daily Market,55
+130,10_Refah,53
+130,11_Ofoq Kourosh,47
+130,12_Ofoq Kourosh,21
+130,13_Ofoq Kourosh,30
+130,14_Ofoq Kourosh,37
+130,15_Ofoq Kourosh,45
+130,16_Ofoq Kourosh,78
+130,17_Ofoq Kourosh,57
+130,18_Yas Chain Store,43
+130,19_Yas Chain Store,59
+130,20_Hayat Market,25
+130,21_Janbo,54
+130,22_Janbo,21
+130,23_Janbo,53
+130,24_Janbo,47
+130,25_Hyper Keeper,47
+130,26_Haft,58
+130,27_Haft,18
+130,28_Haft,33
+130,29_Haft,59
+130,30_Haft,53
+130,31_Daily Market,58
+130,32_Daily Market,65
+130,33_Daily Market,55
+130,34_HyperMe,51
+130,35_Val Market,38
+130,36_Etka,16
+130,37_Etka,47
+130,38_Etka,46
+130,39_Refah,36
+130,40_Refah,52
+130,41_Sorena,55
+130,42_Sorena,55
+130,43_Sorena,48
+130,44_Win Market,21
+130,45_Win Market,49
+130,46_Win Market,64
+130,47_Win Market,64
+130,48_Farhangian Consumer Cooperative,52
+130,49_Amiran,22
+130,50_Gandom,49
+130,51_Minou Mart,31
+130,52_Haft,58
+130,53_Hyperstar,53
+131,01_Win Market,60
+131,02_Ofoq Kourosh,43
+131,03_Ofoq Kourosh,47
+131,04_Ofoq Kourosh,44
+131,05_Win Market,39
+131,06_Ofoq Kourosh,40
+131,07_Daily Market,35
+131,08_Sorena,39
+131,09_Daily Market,54
+131,10_Refah,53
+131,11_Ofoq Kourosh,46
+131,12_Ofoq Kourosh,22
+131,13_Ofoq Kourosh,29
+131,14_Ofoq Kourosh,36
+131,15_Ofoq Kourosh,44
+131,16_Ofoq Kourosh,77
+131,17_Ofoq Kourosh,56
+131,18_Yas Chain Store,43
+131,19_Yas Chain Store,58
+131,20_Hayat Market,28
+131,21_Janbo,54
+131,22_Janbo,20
+131,23_Janbo,52
+131,24_Janbo,46
+131,25_Hyper Keeper,46
+131,26_Haft,57
+131,27_Haft,20
+131,28_Haft,32
+131,29_Haft,58
+131,30_Haft,52
+131,31_Daily Market,57
+131,32_Daily Market,64
+131,33_Daily Market,54
+131,34_HyperMe,50
+131,35_Val Market,37
+131,36_Etka,18
+131,37_Etka,47
+131,38_Etka,45
+131,39_Refah,35
+131,40_Refah,51
+131,41_Sorena,55
+131,42_Sorena,54
+131,43_Sorena,47
+131,44_Win Market,23
+131,45_Win Market,48
+131,46_Win Market,63
+131,47_Win Market,63
+131,48_Farhangian Consumer Cooperative,51
+131,49_Amiran,22
+131,50_Gandom,49
+131,51_Minou Mart,33
+131,52_Haft,57
+131,53_Hyperstar,52
+132,01_Win Market,35
+132,02_Ofoq Kourosh,13
+132,03_Ofoq Kourosh,24
+132,04_Ofoq Kourosh,29
+132,05_Win Market,50
+132,06_Ofoq Kourosh,51
+132,07_Daily Market,47
+132,08_Sorena,42
+132,09_Daily Market,54
+132,10_Refah,26
+132,11_Ofoq Kourosh,48
+132,12_Ofoq Kourosh,50
+132,13_Ofoq Kourosh,33
+132,14_Ofoq Kourosh,38
+132,15_Ofoq Kourosh,34
+132,16_Ofoq Kourosh,68
+132,17_Ofoq Kourosh,54
+132,18_Yas Chain Store,8
+132,19_Yas Chain Store,43
+132,20_Hayat Market,49
+132,21_Janbo,29
+132,22_Janbo,40
+132,23_Janbo,54
+132,24_Janbo,48
+132,25_Hyper Keeper,48
+132,26_Haft,26
+132,27_Haft,42
+132,28_Haft,51
+132,29_Haft,43
+132,30_Haft,54
+132,31_Daily Market,43
+132,32_Daily Market,44
+132,33_Daily Market,57
+132,34_HyperMe,49
+132,35_Val Market,45
+132,36_Etka,34
+132,37_Etka,17
+132,38_Etka,47
+132,39_Refah,39
+132,40_Refah,54
+132,41_Sorena,24
+132,42_Sorena,29
+132,43_Sorena,49
+132,44_Win Market,43
+132,45_Win Market,32
+132,46_Win Market,65
+132,47_Win Market,69
+132,48_Farhangian Consumer Cooperative,52
+132,49_Amiran,47
+132,50_Gandom,28
+132,51_Minou Mart,53
+132,52_Haft,60
+132,53_Hyperstar,54
+133,01_Win Market,31
+133,02_Ofoq Kourosh,15
+133,03_Ofoq Kourosh,21
+133,04_Ofoq Kourosh,18
+133,05_Win Market,49
+133,06_Ofoq Kourosh,50
+133,07_Daily Market,46
+133,08_Sorena,40
+133,09_Daily Market,53
+133,10_Refah,23
+133,11_Ofoq Kourosh,50
+133,12_Ofoq Kourosh,53
+133,13_Ofoq Kourosh,33
+133,14_Ofoq Kourosh,38
+133,15_Ofoq Kourosh,32
+133,16_Ofoq Kourosh,66
+133,17_Ofoq Kourosh,56
+133,18_Yas Chain Store,15
+133,19_Yas Chain Store,41
+133,20_Hayat Market,53
+133,21_Janbo,27
+133,22_Janbo,44
+133,23_Janbo,53
+133,24_Janbo,50
+133,25_Hyper Keeper,49
+133,26_Haft,26
+133,27_Haft,46
+133,28_Haft,51
+133,29_Haft,42
+133,30_Haft,55
+133,31_Daily Market,42
+133,32_Daily Market,43
+133,33_Daily Market,59
+133,34_HyperMe,50
+133,35_Val Market,44
+133,36_Etka,37
+133,37_Etka,17
+133,38_Etka,48
+133,39_Refah,36
+133,40_Refah,55
+133,41_Sorena,20
+133,42_Sorena,26
+133,43_Sorena,50
+133,44_Win Market,47
+133,45_Win Market,29
+133,46_Win Market,65
+133,47_Win Market,69
+133,48_Farhangian Consumer Cooperative,51
+133,49_Amiran,50
+133,50_Gandom,24
+133,51_Minou Mart,57
+133,52_Haft,61
+133,53_Hyperstar,56
+134,01_Win Market,28
+134,02_Ofoq Kourosh,13
+134,03_Ofoq Kourosh,26
+134,04_Ofoq Kourosh,19
+134,05_Win Market,46
+134,06_Ofoq Kourosh,47
+134,07_Daily Market,44
+134,08_Sorena,41
+134,09_Daily Market,47
+134,10_Refah,22
+134,11_Ofoq Kourosh,44
+134,12_Ofoq Kourosh,61
+134,13_Ofoq Kourosh,36
+134,14_Ofoq Kourosh,39
+134,15_Ofoq Kourosh,32
+134,16_Ofoq Kourosh,61
+134,17_Ofoq Kourosh,47
+134,18_Yas Chain Store,21
+134,19_Yas Chain Store,37
+134,20_Hayat Market,54
+134,21_Janbo,28
+134,22_Janbo,51
+134,23_Janbo,48
+134,24_Janbo,43
+134,25_Hyper Keeper,42
+134,26_Haft,6
+134,27_Haft,55
+134,28_Haft,51
+134,29_Haft,38
+134,30_Haft,48
+134,31_Daily Market,37
+134,32_Daily Market,38
+134,33_Daily Market,53
+134,34_HyperMe,46
+134,35_Val Market,40
+134,36_Etka,48
+134,37_Etka,9
+134,38_Etka,41
+134,39_Refah,38
+134,40_Refah,49
+134,41_Sorena,1
+134,42_Sorena,25
+134,43_Sorena,43
+134,44_Win Market,55
+134,45_Win Market,28
+134,46_Win Market,59
+134,47_Win Market,65
+134,48_Farhangian Consumer Cooperative,46
+134,49_Amiran,59
+134,50_Gandom,31
+134,51_Minou Mart,60
+134,52_Haft,56
+134,53_Hyperstar,49
+135,01_Win Market,14
+135,02_Ofoq Kourosh,32
+135,03_Ofoq Kourosh,25
+135,04_Ofoq Kourosh,18
+135,05_Win Market,47
+135,06_Ofoq Kourosh,48
+135,07_Daily Market,45
+135,08_Sorena,42
+135,09_Daily Market,50
+135,10_Refah,25
+135,11_Ofoq Kourosh,45
+135,12_Ofoq Kourosh,64
+135,13_Ofoq Kourosh,42
+135,14_Ofoq Kourosh,44
+135,15_Ofoq Kourosh,33
+135,16_Ofoq Kourosh,64
+135,17_Ofoq Kourosh,48
+135,18_Yas Chain Store,35
+135,19_Yas Chain Store,40
+135,20_Hayat Market,57
+135,21_Janbo,20
+135,22_Janbo,56
+135,23_Janbo,51
+135,24_Janbo,44
+135,25_Hyper Keeper,43
+135,26_Haft,21
+135,27_Haft,58
+135,28_Haft,52
+135,29_Haft,41
+135,30_Haft,49
+135,31_Daily Market,40
+135,32_Daily Market,41
+135,33_Daily Market,54
+135,34_HyperMe,49
+135,35_Val Market,41
+135,36_Etka,54
+135,37_Etka,30
+135,38_Etka,42
+135,39_Refah,40
+135,40_Refah,50
+135,41_Sorena,25
+135,42_Sorena,28
+135,43_Sorena,44
+135,44_Win Market,60
+135,45_Win Market,31
+135,46_Win Market,62
+135,47_Win Market,68
+135,48_Farhangian Consumer Cooperative,49
+135,49_Amiran,62
+135,50_Gandom,29
+135,51_Minou Mart,61
+135,52_Haft,57
+135,53_Hyperstar,50
+157,01_Win Market,60
+157,02_Ofoq Kourosh,41
+157,03_Ofoq Kourosh,49
+157,04_Ofoq Kourosh,51
+157,05_Win Market,5
+157,06_Ofoq Kourosh,4
+157,07_Daily Market,9
+157,08_Sorena,20
+157,09_Daily Market,30
+157,10_Refah,44
+157,11_Ofoq Kourosh,30
+157,12_Ofoq Kourosh,31
+157,13_Ofoq Kourosh,35
+157,14_Ofoq Kourosh,29
+157,15_Ofoq Kourosh,27
+157,16_Ofoq Kourosh,56
+157,17_Ofoq Kourosh,30
+157,18_Yas Chain Store,43
+157,19_Yas Chain Store,36
+157,20_Hayat Market,24
+157,21_Janbo,54
+157,22_Janbo,26
+157,23_Janbo,33
+157,24_Janbo,30
+157,25_Hyper Keeper,21
+157,26_Haft,46
+157,27_Haft,25
+157,28_Haft,12
+157,29_Haft,36
+157,30_Haft,34
+157,31_Daily Market,35
+157,32_Daily Market,39
+157,33_Daily Market,38
+157,34_HyperMe,31
+157,35_Val Market,13
+157,36_Etka,36
+157,37_Etka,41
+157,38_Etka,29
+157,39_Refah,25
+157,40_Refah,35
+157,41_Sorena,41
+157,42_Sorena,36
+157,43_Sorena,31
+157,44_Win Market,28
+157,45_Win Market,32
+157,46_Win Market,45
+157,47_Win Market,47
+157,48_Farhangian Consumer Cooperative,32
+157,49_Amiran,29
+157,50_Gandom,53
+157,51_Minou Mart,28
+157,52_Haft,41
+157,53_Hyperstar,36
+158,01_Win Market,47
+158,02_Ofoq Kourosh,30
+158,03_Ofoq Kourosh,34
+158,04_Ofoq Kourosh,31
+158,05_Win Market,34
+158,06_Ofoq Kourosh,35
+158,07_Daily Market,30
+158,08_Sorena,21
+158,09_Daily Market,40
+158,10_Refah,35
+158,11_Ofoq Kourosh,32
+158,12_Ofoq Kourosh,32
+158,13_Ofoq Kourosh,11
+158,14_Ofoq Kourosh,18
+158,15_Ofoq Kourosh,26
+158,16_Ofoq Kourosh,59
+158,17_Ofoq Kourosh,43
+158,18_Yas Chain Store,30
+158,19_Yas Chain Store,44
+158,20_Hayat Market,31
+158,21_Janbo,41
+158,22_Janbo,17
+158,23_Janbo,38
+158,24_Janbo,33
+158,25_Hyper Keeper,33
+158,26_Haft,39
+158,27_Haft,24
+158,28_Haft,33
+158,29_Haft,45
+158,30_Haft,39
+158,31_Daily Market,43
+158,32_Daily Market,47
+158,33_Daily Market,41
+158,34_HyperMe,32
+158,35_Val Market,32
+158,36_Etka,14
+158,37_Etka,32
+158,38_Etka,32
+158,39_Refah,17
+158,40_Refah,38
+158,41_Sorena,37
+158,42_Sorena,36
+158,43_Sorena,34
+158,44_Win Market,21
+158,45_Win Market,30
+158,46_Win Market,47
+158,47_Win Market,50
+158,48_Farhangian Consumer Cooperative,38
+158,49_Amiran,29
+158,50_Gandom,36
+158,51_Minou Mart,36
+158,52_Haft,44
+158,53_Hyperstar,39
+160,01_Win Market,46
+160,02_Ofoq Kourosh,28
+160,03_Ofoq Kourosh,39
+160,04_Ofoq Kourosh,39
+160,05_Win Market,34
+160,06_Ofoq Kourosh,35
+160,07_Daily Market,30
+160,08_Sorena,20
+160,09_Daily Market,40
+160,10_Refah,32
+160,11_Ofoq Kourosh,34
+160,12_Ofoq Kourosh,44
+160,13_Ofoq Kourosh,16
+160,14_Ofoq Kourosh,10
+160,15_Ofoq Kourosh,26
+160,16_Ofoq Kourosh,58
+160,17_Ofoq Kourosh,44
+160,18_Yas Chain Store,30
+160,19_Yas Chain Store,42
+160,20_Hayat Market,35
+160,21_Janbo,45
+160,22_Janbo,32
+160,23_Janbo,36
+160,24_Janbo,35
+160,25_Hyper Keeper,35
+160,26_Haft,32
+160,27_Haft,38
+160,28_Haft,29
+160,29_Haft,43
+160,30_Haft,41
+160,31_Daily Market,41
+160,32_Daily Market,44
+160,33_Daily Market,43
+160,34_HyperMe,30
+160,35_Val Market,32
+160,36_Etka,32
+160,37_Etka,32
+160,38_Etka,34
+160,39_Refah,15
+160,40_Refah,40
+160,41_Sorena,33
+160,42_Sorena,32
+160,43_Sorena,36
+160,44_Win Market,36
+160,45_Win Market,22
+160,46_Win Market,47
+160,47_Win Market,50
+160,48_Farhangian Consumer Cooperative,36
+160,49_Amiran,42
+160,50_Gandom,42
+160,51_Minou Mart,40
+160,52_Haft,46
+160,53_Hyperstar,41

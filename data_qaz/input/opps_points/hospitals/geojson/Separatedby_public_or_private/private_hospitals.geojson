@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 361433491.0, "name": "بیمارستان پاستور", "name:en": "Pasteur Hospital", "operator": "private", "lat": "36.26685493300012", "lon": "50.02486872052602", "id": "Pasteur Hospital" }, "geometry": { "type": "Point", "coordinates": [ 50.024868720526023, 36.266854933000118 ] } },
+{ "type": "Feature", "properties": { "element_type": "way", "osmid": 453412007.0, "name": "بیمارستان مهرگان", "name:en": "Mehregan Hospital", "operator": "private", "lat": "36.27504439526528", "lon": "50.00691069863723", "id": "Mehregan Hospital" }, "geometry": { "type": "Point", "coordinates": [ 50.006910698637228, 36.275044395265283 ] } },
+{ "type": "Feature", "properties": { "element_type": null, "osmid": null, "name": "بیمارستان دهخدا", "name:en": "Dehkhoda Hospital", "operator": "private", "lat": "36.280390735676036", "lon": "50.00756336058157", "id": "Dehkhoda Hospital" }, "geometry": { "type": "Point", "coordinates": [ 50.007563360581571, 36.280390735676036 ] } }
+]
+}

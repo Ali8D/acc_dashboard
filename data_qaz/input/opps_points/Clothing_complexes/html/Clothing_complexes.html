@@ -1,0 +1,447 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_9ac1016d0ce1495a5cd81cc49113e9f7 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_9ac1016d0ce1495a5cd81cc49113e9f7" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_9ac1016d0ce1495a5cd81cc49113e9f7 = L.map(
+                "map_9ac1016d0ce1495a5cd81cc49113e9f7",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_ab638c334c8c56d4b1ad0754e9609b69 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var marker_6a53966318c5de70511d62654503f389 = L.marker(
+                [36.272798343921174, 50.00901236691125],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_651540d2281cdf69a8fc7dbc783b8970 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_6a53966318c5de70511d62654503f389.setIcon(icon_651540d2281cdf69a8fc7dbc783b8970);
+        
+    
+        var popup_67944db46282636e4367280e6b61d446 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_315784c8f8aa15c7ee6e500352e02f40 = $(`<div id="html_315784c8f8aa15c7ee6e500352e02f40" style="width: 100.0%; height: 100.0%;">ستاره شهر<br>City Star Shopping Center</div>`)[0];
+                popup_67944db46282636e4367280e6b61d446.setContent(html_315784c8f8aa15c7ee6e500352e02f40);
+            
+        
+
+        marker_6a53966318c5de70511d62654503f389.bindPopup(popup_67944db46282636e4367280e6b61d446)
+        ;
+
+        
+    
+    
+            var marker_5a36f3090415ae7572eecf71c486781a = L.marker(
+                [36.2807874989621, 50.00542625797568],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_e55f669fe63711347a4e0274324c5fec = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_5a36f3090415ae7572eecf71c486781a.setIcon(icon_e55f669fe63711347a4e0274324c5fec);
+        
+    
+        var popup_48d60105b333dd8de58d7dcab2eeeea3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bb62ebf76ace710bd1a0b5b403736162 = $(`<div id="html_bb62ebf76ace710bd1a0b5b403736162" style="width: 100.0%; height: 100.0%;">برج تجارت قزوین<br>Tejarat Tower of Qazvin</div>`)[0];
+                popup_48d60105b333dd8de58d7dcab2eeeea3.setContent(html_bb62ebf76ace710bd1a0b5b403736162);
+            
+        
+
+        marker_5a36f3090415ae7572eecf71c486781a.bindPopup(popup_48d60105b333dd8de58d7dcab2eeeea3)
+        ;
+
+        
+    
+    
+            var marker_cd724171d21211f0f0ecd76ee2ca7ea3 = L.marker(
+                [36.28555859658717, 50.01075861679613],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_08883c90e45bdf9b8aff07877f775a30 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_cd724171d21211f0f0ecd76ee2ca7ea3.setIcon(icon_08883c90e45bdf9b8aff07877f775a30);
+        
+    
+        var popup_bf8d3d4e257b0246565f0063eac331f1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_87641eaffdb0dd7d0e3d5ae493622121 = $(`<div id="html_87641eaffdb0dd7d0e3d5ae493622121" style="width: 100.0%; height: 100.0%;">مرکز خرید نارون<br>Narvan Shopping Center</div>`)[0];
+                popup_bf8d3d4e257b0246565f0063eac331f1.setContent(html_87641eaffdb0dd7d0e3d5ae493622121);
+            
+        
+
+        marker_cd724171d21211f0f0ecd76ee2ca7ea3.bindPopup(popup_bf8d3d4e257b0246565f0063eac331f1)
+        ;
+
+        
+    
+    
+            var marker_8f08d25922c4b9f31137e9ff4299b900 = L.marker(
+                [36.274294000548025, 50.00813821071502],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_33afc4959a700e77a5a3854e8e2f023d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_8f08d25922c4b9f31137e9ff4299b900.setIcon(icon_33afc4959a700e77a5a3854e8e2f023d);
+        
+    
+        var popup_34b6716204e75c4ac5d9ca49b3ff288d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_acfee55b7cf2e8acc226bdba6abf8c58 = $(`<div id="html_acfee55b7cf2e8acc226bdba6abf8c58" style="width: 100.0%; height: 100.0%;">مجتمع تجاری مهر و ماه<br>Mehr o Mah</div>`)[0];
+                popup_34b6716204e75c4ac5d9ca49b3ff288d.setContent(html_acfee55b7cf2e8acc226bdba6abf8c58);
+            
+        
+
+        marker_8f08d25922c4b9f31137e9ff4299b900.bindPopup(popup_34b6716204e75c4ac5d9ca49b3ff288d)
+        ;
+
+        
+    
+    
+            var marker_e3a2130eee800da44fd5bcdeaf9ba3c7 = L.marker(
+                [36.270567884991685, 50.005851323384334],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_c959a821205376c1ec31ba5428e9d2a0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_e3a2130eee800da44fd5bcdeaf9ba3c7.setIcon(icon_c959a821205376c1ec31ba5428e9d2a0);
+        
+    
+        var popup_433c9ee2b61bd849cacaa6637f8e6461 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5ec9e10813b00cfa4a7cdfa2fbec3d49 = $(`<div id="html_5ec9e10813b00cfa4a7cdfa2fbec3d49" style="width: 100.0%; height: 100.0%;">مجتمع تجاری و اداری آبادگران<br>Abadgaran Shopping Center</div>`)[0];
+                popup_433c9ee2b61bd849cacaa6637f8e6461.setContent(html_5ec9e10813b00cfa4a7cdfa2fbec3d49);
+            
+        
+
+        marker_e3a2130eee800da44fd5bcdeaf9ba3c7.bindPopup(popup_433c9ee2b61bd849cacaa6637f8e6461)
+        ;
+
+        
+    
+    
+            var marker_0dcf4462a363d00156a316e6d0e87572 = L.marker(
+                [36.26791058446284, 50.01352198096851],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_2ecbad50c6d57e5205bf401f3cee1904 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_0dcf4462a363d00156a316e6d0e87572.setIcon(icon_2ecbad50c6d57e5205bf401f3cee1904);
+        
+    
+        var popup_d9ace0ba762c21b97de21793b1015101 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_362c0087684050bdf87b5444e8c9b23a = $(`<div id="html_362c0087684050bdf87b5444e8c9b23a" style="width: 100.0%; height: 100.0%;">برج خلیج فارس<br>Persian Gulf Tower</div>`)[0];
+                popup_d9ace0ba762c21b97de21793b1015101.setContent(html_362c0087684050bdf87b5444e8c9b23a);
+            
+        
+
+        marker_0dcf4462a363d00156a316e6d0e87572.bindPopup(popup_d9ace0ba762c21b97de21793b1015101)
+        ;
+
+        
+    
+    
+            var marker_79f22a966afa69eebd1ea616544507fb = L.marker(
+                [36.26885113260481, 50.00881590200706],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_01063b03bc9f51b807ec20b08d15218b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_79f22a966afa69eebd1ea616544507fb.setIcon(icon_01063b03bc9f51b807ec20b08d15218b);
+        
+    
+        var popup_d22df8789a974cdbbf69090a607ad232 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_acfece21af01893a470970d98b673f39 = $(`<div id="html_acfece21af01893a470970d98b673f39" style="width: 100.0%; height: 100.0%;">مجتمع تجاری البرز<br>Alborz Commerical</div>`)[0];
+                popup_d22df8789a974cdbbf69090a607ad232.setContent(html_acfece21af01893a470970d98b673f39);
+            
+        
+
+        marker_79f22a966afa69eebd1ea616544507fb.bindPopup(popup_d22df8789a974cdbbf69090a607ad232)
+        ;
+
+        
+    
+    
+            var marker_f316347b6ba47d1bb8bae75eab99a27a = L.marker(
+                [36.29809205634514, 50.00132206013199],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_d0c480c4de015d49a76013f22b713d8a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_f316347b6ba47d1bb8bae75eab99a27a.setIcon(icon_d0c480c4de015d49a76013f22b713d8a);
+        
+    
+        var popup_7a3f753a38160fc98a3d7b41ce9cbd28 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_38004c0bc6b226b4bec9708e6aa7e71a = $(`<div id="html_38004c0bc6b226b4bec9708e6aa7e71a" style="width: 100.0%; height: 100.0%;">مرکز خرید مهستان<br>Mahestan Shopping Center</div>`)[0];
+                popup_7a3f753a38160fc98a3d7b41ce9cbd28.setContent(html_38004c0bc6b226b4bec9708e6aa7e71a);
+            
+        
+
+        marker_f316347b6ba47d1bb8bae75eab99a27a.bindPopup(popup_7a3f753a38160fc98a3d7b41ce9cbd28)
+        ;
+
+        
+    
+    
+            var marker_7a709eb7658aa657fded6f3f58178b21 = L.marker(
+                [36.306771652075575, 49.991074824246276],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_618144f42de72ddc30c345d4c67e0cf1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_7a709eb7658aa657fded6f3f58178b21.setIcon(icon_618144f42de72ddc30c345d4c67e0cf1);
+        
+    
+        var popup_1f4c0d8d04f42bd9aac7930be0552941 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_129eb0c060f20fba0c54d3cdab272980 = $(`<div id="html_129eb0c060f20fba0c54d3cdab272980" style="width: 100.0%; height: 100.0%;">مجتمع تجاری پارس<br>None</div>`)[0];
+                popup_1f4c0d8d04f42bd9aac7930be0552941.setContent(html_129eb0c060f20fba0c54d3cdab272980);
+            
+        
+
+        marker_7a709eb7658aa657fded6f3f58178b21.bindPopup(popup_1f4c0d8d04f42bd9aac7930be0552941)
+        ;
+
+        
+    
+    
+            var marker_e2c202e23c37f3bf1f8939168eeaf664 = L.marker(
+                [36.26978419959285, 49.99833041078807],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_01947a94d57ba97a7fbdba35fbc7372f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_e2c202e23c37f3bf1f8939168eeaf664.setIcon(icon_01947a94d57ba97a7fbdba35fbc7372f);
+        
+    
+        var popup_369873572019b230d13c500431076153 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bdbdf45ae75226db3cfaa49393496905 = $(`<div id="html_bdbdf45ae75226db3cfaa49393496905" style="width: 100.0%; height: 100.0%;">پوشاک و منسوجات بازار قزوین<br>Clothing and textiles section of Qazvin Bazaar</div>`)[0];
+                popup_369873572019b230d13c500431076153.setContent(html_bdbdf45ae75226db3cfaa49393496905);
+            
+        
+
+        marker_e2c202e23c37f3bf1f8939168eeaf664.bindPopup(popup_369873572019b230d13c500431076153)
+        ;
+
+        
+    
+    
+            var marker_7de6c9ec837fb1de6538d38f740661b5 = L.marker(
+                [36.28269402954053, 50.00714635225626],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_ce6786641911ef031164050f792c97ed = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_7de6c9ec837fb1de6538d38f740661b5.setIcon(icon_ce6786641911ef031164050f792c97ed);
+        
+    
+        var popup_d6963745eb7be145ed1c9e274509efaf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_69fa0100451e65d5a97d641fb36312ff = $(`<div id="html_69fa0100451e65d5a97d641fb36312ff" style="width: 100.0%; height: 100.0%;">مجتمع نور<br>Noor Complex</div>`)[0];
+                popup_d6963745eb7be145ed1c9e274509efaf.setContent(html_69fa0100451e65d5a97d641fb36312ff);
+            
+        
+
+        marker_7de6c9ec837fb1de6538d38f740661b5.bindPopup(popup_d6963745eb7be145ed1c9e274509efaf)
+        ;
+
+        
+    
+    
+            var marker_a447d4c9fe6e30b9258471250b1722af = L.marker(
+                [36.283288917144475, 50.006736873259825],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_39a34913b7facce522ce25eb2c31a1eb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_a447d4c9fe6e30b9258471250b1722af.setIcon(icon_39a34913b7facce522ce25eb2c31a1eb);
+        
+    
+        var popup_4dd25eacc7b9f7a48186949564fc0cbf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e0ef1465595d6358b2b0b6b2f97c1f6e = $(`<div id="html_e0ef1465595d6358b2b0b6b2f97c1f6e" style="width: 100.0%; height: 100.0%;">مرکز خرید داریوش<br>Dariush Shopping Center</div>`)[0];
+                popup_4dd25eacc7b9f7a48186949564fc0cbf.setContent(html_e0ef1465595d6358b2b0b6b2f97c1f6e);
+            
+        
+
+        marker_a447d4c9fe6e30b9258471250b1722af.bindPopup(popup_4dd25eacc7b9f7a48186949564fc0cbf)
+        ;
+
+        
+    
+    
+            var marker_118100eed8f682d342d5c4db841f0893 = L.marker(
+                [36.26900948026448, 50.00761886808158],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_e5c18c269b33e81873872debdca64d3a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_118100eed8f682d342d5c4db841f0893.setIcon(icon_e5c18c269b33e81873872debdca64d3a);
+        
+    
+        var popup_f30946a487fe7182a790bc0cc29cca2a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_dd85fd0e0e1faba034ef9c4e07460ffb = $(`<div id="html_dd85fd0e0e1faba034ef9c4e07460ffb" style="width: 100.0%; height: 100.0%;">مجتمع تجاری الغدیر<br>Alghadir Commercial Complex</div>`)[0];
+                popup_f30946a487fe7182a790bc0cc29cca2a.setContent(html_dd85fd0e0e1faba034ef9c4e07460ffb);
+            
+        
+
+        marker_118100eed8f682d342d5c4db841f0893.bindPopup(popup_f30946a487fe7182a790bc0cc29cca2a)
+        ;
+
+        
+    
+    
+            var marker_d9fd7e23068b520987efa19f2653c192 = L.marker(
+                [36.27872711416155, 50.006275917542816],
+                {}
+            ).addTo(map_9ac1016d0ce1495a5cd81cc49113e9f7);
+        
+    
+            var icon_c076bf31af9bb980bc9509fbc6014a4c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "shirt", "iconColor": "white", "markerColor": "purple", "prefix": "fa"}
+            );
+            marker_d9fd7e23068b520987efa19f2653c192.setIcon(icon_c076bf31af9bb980bc9509fbc6014a4c);
+        
+    
+        var popup_1e4c268d393d163c029209747637455f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f025f15dc4ac849e9ca6f469b7c039fc = $(`<div id="html_f025f15dc4ac849e9ca6f469b7c039fc" style="width: 100.0%; height: 100.0%;">مرکز خرید ایرانیان<br>Iranian Shopping Center</div>`)[0];
+                popup_1e4c268d393d163c029209747637455f.setContent(html_f025f15dc4ac849e9ca6f469b7c039fc);
+            
+        
+
+        marker_d9fd7e23068b520987efa19f2653c192.bindPopup(popup_1e4c268d393d163c029209747637455f)
+        ;
+
+        
+    
+</script>
+</html>

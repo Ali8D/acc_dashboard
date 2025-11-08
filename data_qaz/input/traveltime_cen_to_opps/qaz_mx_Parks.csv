@@ -1,0 +1,526 @@
+from_id,to_id,travel_time
+22,Mellat Park,35
+22,Molla Khalila Park,64
+22,AlQadir Park,33
+22,Pamchal Park,49
+22,Mother and Child Park,60
+31,Mellat Park,39
+31,Molla Khalila Park,40
+31,AlQadir Park,56
+31,Pamchal Park,69
+31,Mother and Child Park,16
+32,Mellat Park,39
+32,Molla Khalila Park,33
+32,AlQadir Park,56
+32,Pamchal Park,69
+32,Mother and Child Park,18
+33,Mellat Park,45
+33,Molla Khalila Park,20
+33,AlQadir Park,61
+33,Pamchal Park,72
+33,Mother and Child Park,25
+36,Mellat Park,34
+36,Molla Khalila Park,37
+36,AlQadir Park,46
+36,Pamchal Park,63
+36,Mother and Child Park,26
+37,Mellat Park,35
+37,Molla Khalila Park,28
+37,AlQadir Park,51
+37,Pamchal Park,62
+37,Mother and Child Park,23
+38,Mellat Park,37
+38,Molla Khalila Park,19
+38,AlQadir Park,51
+38,Pamchal Park,62
+38,Mother and Child Park,34
+39,Mellat Park,42
+39,Molla Khalila Park,13
+39,AlQadir Park,52
+39,Pamchal Park,58
+39,Mother and Child Park,39
+40,Mellat Park,50
+40,Molla Khalila Park,11
+40,AlQadir Park,60
+40,Pamchal Park,62
+40,Mother and Child Park,50
+41,Mellat Park,25
+41,Molla Khalila Park,40
+41,AlQadir Park,44
+41,Pamchal Park,62
+41,Mother and Child Park,35
+42,Mellat Park,35
+42,Molla Khalila Park,27
+42,AlQadir Park,51
+42,Pamchal Park,63
+42,Mother and Child Park,36
+44,Mellat Park,43
+44,Molla Khalila Park,20
+44,AlQadir Park,56
+44,Pamchal Park,59
+44,Mother and Child Park,47
+45,Mellat Park,18
+45,Molla Khalila Park,45
+45,AlQadir Park,36
+45,Pamchal Park,53
+45,Mother and Child Park,36
+46,Mellat Park,28
+46,Molla Khalila Park,56
+46,AlQadir Park,39
+46,Pamchal Park,56
+46,Mother and Child Park,46
+47,Mellat Park,20
+47,Molla Khalila Park,39
+47,AlQadir Park,48
+47,Pamchal Park,63
+47,Mother and Child Park,41
+48,Mellat Park,21
+48,Molla Khalila Park,36
+48,AlQadir Park,39
+48,Pamchal Park,57
+48,Mother and Child Park,37
+49,Mellat Park,30
+49,Molla Khalila Park,36
+49,AlQadir Park,45
+49,Pamchal Park,53
+49,Mother and Child Park,39
+50,Mellat Park,10
+50,Molla Khalila Park,44
+50,AlQadir Park,45
+50,Pamchal Park,59
+50,Mother and Child Park,41
+51,Mellat Park,15
+51,Molla Khalila Park,35
+51,AlQadir Park,39
+51,Pamchal Park,57
+51,Mother and Child Park,39
+52,Mellat Park,38
+52,Molla Khalila Park,29
+52,AlQadir Park,54
+52,Pamchal Park,49
+52,Mother and Child Park,50
+53,Mellat Park,50
+53,Molla Khalila Park,23
+53,AlQadir Park,60
+53,Pamchal Park,57
+53,Mother and Child Park,53
+54,Mellat Park,21
+54,Molla Khalila Park,57
+54,AlQadir Park,32
+54,Pamchal Park,48
+54,Mother and Child Park,48
+55,Mellat Park,7
+55,Molla Khalila Park,50
+55,AlQadir Park,42
+55,Pamchal Park,59
+55,Mother and Child Park,48
+56,Mellat Park,13
+56,Molla Khalila Park,39
+56,AlQadir Park,39
+56,Pamchal Park,59
+56,Mother and Child Park,43
+57,Mellat Park,2
+57,Molla Khalila Park,47
+57,AlQadir Park,44
+57,Pamchal Park,61
+57,Mother and Child Park,44
+59,Mellat Park,23
+59,Molla Khalila Park,35
+59,AlQadir Park,38
+59,Pamchal Park,53
+59,Mother and Child Park,35
+60,Mellat Park,18
+60,Molla Khalila Park,38
+60,AlQadir Park,40
+60,Pamchal Park,59
+60,Mother and Child Park,42
+61,Mellat Park,24
+61,Molla Khalila Park,39
+61,AlQadir Park,41
+61,Pamchal Park,48
+61,Mother and Child Park,40
+62,Mellat Park,32
+62,Molla Khalila Park,36
+62,AlQadir Park,49
+62,Pamchal Park,44
+62,Mother and Child Park,50
+63,Mellat Park,36
+63,Molla Khalila Park,32
+63,AlQadir Park,47
+63,Pamchal Park,41
+63,Mother and Child Park,53
+64,Mellat Park,8
+64,Molla Khalila Park,48
+64,AlQadir Park,35
+64,Pamchal Park,59
+64,Mother and Child Park,49
+65,Mellat Park,13
+65,Molla Khalila Park,61
+65,AlQadir Park,37
+65,Pamchal Park,53
+65,Mother and Child Park,52
+66,Mellat Park,13
+66,Molla Khalila Park,47
+66,AlQadir Park,33
+66,Pamchal Park,57
+66,Mother and Child Park,51
+67,Mellat Park,11
+67,Molla Khalila Park,60
+67,AlQadir Park,41
+67,Pamchal Park,55
+67,Mother and Child Park,56
+68,Mellat Park,17
+68,Molla Khalila Park,46
+68,AlQadir Park,32
+68,Pamchal Park,55
+68,Mother and Child Park,46
+69,Mellat Park,24
+69,Molla Khalila Park,45
+69,AlQadir Park,35
+69,Pamchal Park,49
+69,Mother and Child Park,48
+70,Mellat Park,12
+70,Molla Khalila Park,58
+70,AlQadir Park,37
+70,Pamchal Park,56
+70,Mother and Child Park,56
+71,Mellat Park,17
+71,Molla Khalila Park,57
+71,AlQadir Park,31
+71,Pamchal Park,55
+71,Mother and Child Park,58
+72,Mellat Park,18
+72,Molla Khalila Park,52
+72,AlQadir Park,28
+72,Pamchal Park,52
+72,Mother and Child Park,56
+73,Mellat Park,32
+73,Molla Khalila Park,46
+73,AlQadir Park,43
+73,Pamchal Park,44
+73,Mother and Child Park,52
+74,Mellat Park,42
+74,Molla Khalila Park,39
+74,AlQadir Park,47
+74,Pamchal Park,41
+74,Mother and Child Park,61
+75,Mellat Park,19
+75,Molla Khalila Park,56
+75,AlQadir Park,29
+75,Pamchal Park,45
+75,Mother and Child Park,49
+76,Mellat Park,46
+76,Molla Khalila Park,45
+76,AlQadir Park,49
+76,Pamchal Park,43
+76,Mother and Child Park,63
+77,Mellat Park,24
+77,Molla Khalila Park,52
+77,AlQadir Park,29
+77,Pamchal Park,51
+77,Mother and Child Park,56
+78,Mellat Park,28
+78,Molla Khalila Park,50
+78,AlQadir Park,35
+78,Pamchal Park,47
+78,Mother and Child Park,55
+79,Mellat Park,36
+79,Molla Khalila Park,52
+79,AlQadir Park,41
+79,Pamchal Park,41
+79,Mother and Child Park,61
+80,Mellat Park,40
+80,Molla Khalila Park,48
+80,AlQadir Park,48
+80,Pamchal Park,42
+80,Mother and Child Park,61
+81,Mellat Park,26
+81,Molla Khalila Park,60
+81,AlQadir Park,33
+81,Pamchal Park,48
+81,Mother and Child Park,55
+82,Mellat Park,26
+82,Molla Khalila Park,56
+82,AlQadir Park,27
+82,Pamchal Park,45
+82,Mother and Child Park,57
+83,Mellat Park,32
+83,Molla Khalila Park,53
+83,AlQadir Park,27
+83,Pamchal Park,44
+83,Mother and Child Park,55
+84,Mellat Park,34
+84,Molla Khalila Park,63
+84,AlQadir Park,32
+84,Pamchal Park,49
+84,Mother and Child Park,59
+85,Mellat Park,35
+85,Molla Khalila Park,54
+85,AlQadir Park,32
+85,Pamchal Park,42
+85,Mother and Child Park,58
+86,Mellat Park,36
+86,Molla Khalila Park,53
+86,AlQadir Park,27
+86,Pamchal Park,41
+86,Mother and Child Park,57
+87,Mellat Park,34
+87,Molla Khalila Park,57
+87,AlQadir Park,20
+87,Pamchal Park,46
+87,Mother and Child Park,53
+88,Mellat Park,30
+88,Molla Khalila Park,57
+88,AlQadir Park,24
+88,Pamchal Park,44
+88,Mother and Child Park,56
+89,Mellat Park,35
+89,Molla Khalila Park,57
+89,AlQadir Park,29
+89,Pamchal Park,34
+89,Mother and Child Park,56
+90,Mellat Park,41
+90,Molla Khalila Park,55
+90,AlQadir Park,49
+90,Pamchal Park,43
+90,Mother and Child Park,65
+91,Mellat Park,43
+91,Molla Khalila Park,58
+91,AlQadir Park,42
+91,Pamchal Park,35
+91,Mother and Child Park,66
+92,Mellat Park,32
+92,Molla Khalila Park,72
+92,AlQadir Park,13
+92,Pamchal Park,60
+92,Mother and Child Park,63
+93,Mellat Park,33
+93,Molla Khalila Park,67
+93,AlQadir Park,7
+93,Pamchal Park,54
+93,Mother and Child Park,60
+94,Mellat Park,39
+94,Molla Khalila Park,61
+94,AlQadir Park,33
+94,Pamchal Park,34
+94,Mother and Child Park,62
+95,Mellat Park,41
+95,Molla Khalila Park,64
+95,AlQadir Park,25
+95,Pamchal Park,35
+95,Mother and Child Park,62
+96,Mellat Park,41
+96,Molla Khalila Park,67
+96,AlQadir Park,5
+96,Pamchal Park,50
+96,Mother and Child Park,63
+97,Mellat Park,50
+97,Molla Khalila Park,65
+97,AlQadir Park,51
+97,Pamchal Park,43
+97,Mother and Child Park,74
+99,Mellat Park,45
+99,Molla Khalila Park,75
+99,AlQadir Park,17
+99,Pamchal Park,48
+99,Mother and Child Park,69
+100,Mellat Park,53
+100,Molla Khalila Park,68
+100,AlQadir Park,54
+100,Pamchal Park,32
+100,Mother and Child Park,77
+98,Mellat Park,46
+98,Molla Khalila Park,63
+98,AlQadir Park,44
+98,Pamchal Park,33
+98,Mother and Child Park,72
+101,Mellat Park,45
+101,Molla Khalila Park,78
+101,AlQadir Park,24
+101,Pamchal Park,57
+101,Mother and Child Park,70
+102,Mellat Park,50
+102,Molla Khalila Park,75
+102,AlQadir Park,24
+102,Pamchal Park,57
+102,Mother and Child Park,73
+103,Mellat Park,51
+103,Molla Khalila Park,77
+103,AlQadir Park,25
+103,Pamchal Park,54
+103,Mother and Child Park,71
+104,Mellat Park,59
+104,Molla Khalila Park,86
+104,AlQadir Park,34
+104,Pamchal Park,65
+104,Mother and Child Park,82
+105,Mellat Park,56
+105,Molla Khalila Park,83
+105,AlQadir Park,31
+105,Pamchal Park,50
+105,Mother and Child Park,74
+107,Mellat Park,52
+107,Molla Khalila Park,68
+107,AlQadir Park,55
+107,Pamchal Park,27
+107,Mother and Child Park,77
+108,Mellat Park,60
+108,Molla Khalila Park,76
+108,AlQadir Park,63
+108,Pamchal Park,8
+108,Mother and Child Park,85
+109,Mellat Park,54
+109,Molla Khalila Park,71
+109,AlQadir Park,57
+109,Pamchal Park,19
+109,Mother and Child Park,80
+110,Mellat Park,53
+110,Molla Khalila Park,68
+110,AlQadir Park,48
+110,Pamchal Park,26
+110,Mother and Child Park,77
+111,Mellat Park,47
+111,Molla Khalila Park,69
+111,AlQadir Park,31
+111,Pamchal Park,38
+111,Mother and Child Park,67
+112,Mellat Park,50
+112,Molla Khalila Park,74
+112,AlQadir Park,30
+112,Pamchal Park,37
+112,Mother and Child Park,70
+113,Mellat Park,64
+113,Molla Khalila Park,90
+113,AlQadir Park,38
+113,Pamchal Park,60
+113,Mother and Child Park,81
+114,Mellat Park,52
+114,Molla Khalila Park,79
+114,AlQadir Park,29
+114,Pamchal Park,38
+114,Mother and Child Park,72
+115,Mellat Park,58
+115,Molla Khalila Park,74
+115,AlQadir Park,61
+115,Pamchal Park,22
+115,Mother and Child Park,83
+116,Mellat Park,64
+116,Molla Khalila Park,79
+116,AlQadir Park,62
+116,Pamchal Park,21
+116,Mother and Child Park,88
+117,Mellat Park,52
+117,Molla Khalila Park,76
+117,AlQadir Park,41
+117,Pamchal Park,32
+117,Mother and Child Park,72
+106,Mellat Park,58
+106,Molla Khalila Park,79
+106,AlQadir Park,47
+106,Pamchal Park,28
+106,Mother and Child Park,78
+118,Mellat Park,63
+118,Molla Khalila Park,76
+118,AlQadir Park,56
+118,Pamchal Park,21
+118,Mother and Child Park,86
+119,Mellat Park,56
+119,Molla Khalila Park,73
+119,AlQadir Park,59
+119,Pamchal Park,33
+119,Mother and Child Park,82
+120,Mellat Park,13
+120,Molla Khalila Park,58
+120,AlQadir Park,38
+120,Pamchal Park,54
+120,Mother and Child Park,49
+121,Mellat Park,9
+121,Molla Khalila Park,53
+121,AlQadir Park,37
+121,Pamchal Park,52
+121,Mother and Child Park,44
+122,Mellat Park,39
+122,Molla Khalila Park,56
+122,AlQadir Park,38
+122,Pamchal Park,41
+122,Mother and Child Park,62
+123,Mellat Park,46
+123,Molla Khalila Park,61
+123,AlQadir Park,42
+123,Pamchal Park,39
+123,Mother and Child Park,70
+124,Mellat Park,40
+124,Molla Khalila Park,62
+124,AlQadir Park,25
+124,Pamchal Park,38
+124,Mother and Child Park,60
+125,Mellat Park,39
+125,Molla Khalila Park,63
+125,AlQadir Park,14
+125,Pamchal Park,46
+125,Mother and Child Park,61
+126,Mellat Park,36
+126,Molla Khalila Park,74
+126,AlQadir Park,16
+126,Pamchal Park,56
+126,Mother and Child Park,67
+127,Mellat Park,53
+127,Molla Khalila Park,79
+127,AlQadir Park,27
+127,Pamchal Park,50
+127,Mother and Child Park,70
+128,Mellat Park,47
+128,Molla Khalila Park,71
+128,AlQadir Park,31
+128,Pamchal Park,40
+128,Mother and Child Park,67
+129,Mellat Park,60
+129,Molla Khalila Park,86
+129,AlQadir Park,34
+129,Pamchal Park,59
+129,Mother and Child Park,81
+130,Mellat Park,58
+130,Molla Khalila Park,87
+130,AlQadir Park,35
+130,Pamchal Park,48
+130,Mother and Child Park,78
+131,Mellat Park,57
+131,Molla Khalila Park,86
+131,AlQadir Park,34
+131,Pamchal Park,48
+131,Mother and Child Park,77
+132,Mellat Park,58
+132,Molla Khalila Park,74
+132,AlQadir Park,52
+132,Pamchal Park,26
+132,Mother and Child Park,81
+133,Mellat Park,58
+133,Molla Khalila Park,73
+133,AlQadir Park,53
+133,Pamchal Park,17
+133,Mother and Child Park,81
+134,Mellat Park,52
+134,Molla Khalila Park,67
+134,AlQadir Park,53
+134,Pamchal Park,21
+134,Mother and Child Park,76
+135,Mellat Park,53
+135,Molla Khalila Park,70
+135,AlQadir Park,56
+135,Pamchal Park,22
+135,Mother and Child Park,79
+157,Mellat Park,35
+157,Molla Khalila Park,64
+157,AlQadir Park,19
+157,Pamchal Park,52
+157,Mother and Child Park,61
+158,Mellat Park,44
+158,Molla Khalila Park,68
+158,AlQadir Park,33
+158,Pamchal Park,35
+158,Mother and Child Park,64
+160,Mellat Park,45
+160,Molla Khalila Park,66
+160,AlQadir Park,25
+160,Pamchal Park,41
+160,Mother and Child Park,64

@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "سوپر شهروند", "brand": "شهروند" }, "geometry": { "type": "Point", "coordinates": [ 50.0142903, 36.3130377 ] } },
+{ "type": "Feature", "properties": { "name": "افق کوروش", "brand": "افق کوروش" }, "geometry": { "type": "Point", "coordinates": [ 50.0265956, 36.3179638 ] } },
+{ "type": "Feature", "properties": { "name": "وین مارکت طلائیه", "brand": "وین مارکت" }, "geometry": { "type": "Point", "coordinates": [ 49.9897715, 36.3231819 ] } },
+{ "type": "Feature", "properties": { "name": "افق کوروش", "brand": "افق کوروش" }, "geometry": { "type": "Point", "coordinates": [ 50.0009271, 36.3092932 ] } },
+{ "type": "Feature", "properties": { "name": "افق کوروش", "brand": "افق کوروش" }, "geometry": { "type": "Point", "coordinates": [ 49.9978285, 36.3248614 ] } },
+{ "type": "Feature", "properties": { "name": "افق کوروش", "brand": "افق کوروش" }, "geometry": { "type": "Point", "coordinates": [ 49.9940724, 36.319524 ] } },
+{ "type": "Feature", "properties": { "name": "فروشگاه وین مارکت", "brand": "وین مارکت" }, "geometry": { "type": "Point", "coordinates": [ 50.0166162, 36.2904083 ] } },
+{ "type": "Feature", "properties": { "name": "افق کوروش", "brand": "افق کوروش" }, "geometry": { "type": "Point", "coordinates": [ 50.0173027, 36.2907414 ] } },
+{ "type": "Feature", "properties": { "name": "دیلی مارکت", "brand": "دیلی مارکت" }, "geometry": { "type": "Point", "coordinates": [ 50.0142234, 36.2916516 ] } },
+{ "type": "Feature", "properties": { "name": "فروشگاه مواد غذایی سورنا", "brand": "سورنا" }, "geometry": { "type": "Point", "coordinates": [ 50.0100285, 36.2953948 ] } },
+{ "type": "Feature", "properties": { "name": "دیلی مارکت بلوار", "brand": "دیلی مارکت" }, "geometry": { "type": "Point", "coordinates": [ 50.0135276, 36.2799937 ] } },
+{ "type": "Feature", "properties": { "name": "رفاه", "brand": "رفاه" }, "geometry": { "type": "Point", "coordinates": [ 49.996790563326641, 36.296596464279446 ] } },
+{ "type": "Feature", "properties": { "name": "افق کوروش", "brand": "افق کوروش" }, "geometry": { "type": "Point", "coordinates": [ 50.015680748473365, 36.26319546725329 ] } }
+]
+}

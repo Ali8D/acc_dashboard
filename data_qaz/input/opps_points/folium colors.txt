@@ -1,0 +1,29 @@
+folium.Icon(color=...)
+
+'red'
+'blue'
+'green'
+'purple'
+'orange'
+'darkred'
+'lightred'
+'beige'
+'darkblue'
+'darkgreen'
+'cadetblue'
+'darkpurple'
+'white'
+'pink'
+'lightblue'
+'lightgreen'
+'gray'
+'black'
+'lightgray'
+
+for example:
+
+folium.Marker(
+    location=[36.3, 49.99],
+    popup="Sample",
+    icon=folium.Icon(color="cadetblue", icon="info-sign")
+).add_to(m)

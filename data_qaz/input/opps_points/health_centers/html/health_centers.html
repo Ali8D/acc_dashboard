@@ -1,0 +1,1149 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_ac2ee6da700054f501266ecb9f24ab46 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_ac2ee6da700054f501266ecb9f24ab46" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_ac2ee6da700054f501266ecb9f24ab46 = L.map(
+                "map_ac2ee6da700054f501266ecb9f24ab46",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_5e89f092e7f6e3a65ab0ef2bcd0f4532 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var marker_720d5e838b8f9d2da20e00712f31e3ad = L.marker(
+                [36.2742393, 50.0028658],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_6e6c2fccc79d672792ae80e839b2cc22 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_720d5e838b8f9d2da20e00712f31e3ad.setIcon(icon_6e6c2fccc79d672792ae80e839b2cc22);
+        
+    
+        var popup_cd7f10888321a7698e781cfc5bd3c407 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5403ad5951b0051487a8e58202855704 = $(`<div id="html_5403ad5951b0051487a8e58202855704" style="width: 100.0%; height: 100.0%;">کلینیک فرهنگیان<br>Farhangian Clinic<br>POINT (50.0028658 36.2742393)</div>`)[0];
+                popup_cd7f10888321a7698e781cfc5bd3c407.setContent(html_5403ad5951b0051487a8e58202855704);
+            
+        
+
+        marker_720d5e838b8f9d2da20e00712f31e3ad.bindPopup(popup_cd7f10888321a7698e781cfc5bd3c407)
+        ;
+
+        
+    
+    
+            var marker_9aef41482ebe9ae60465d475f41bc01f = L.marker(
+                [36.269786, 50.0045325],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_f27ca51142b9e13bd234b510778fcefc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_9aef41482ebe9ae60465d475f41bc01f.setIcon(icon_f27ca51142b9e13bd234b510778fcefc);
+        
+    
+        var popup_37ef5757c136fdae4f6d1f7805fc55a0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_51d89375035bd6ec2f019586f1661e44 = $(`<div id="html_51d89375035bd6ec2f019586f1661e44" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی قائم<br>Ghaem Clinic<br>POINT (50.0045325 36.269786)</div>`)[0];
+                popup_37ef5757c136fdae4f6d1f7805fc55a0.setContent(html_51d89375035bd6ec2f019586f1661e44);
+            
+        
+
+        marker_9aef41482ebe9ae60465d475f41bc01f.bindPopup(popup_37ef5757c136fdae4f6d1f7805fc55a0)
+        ;
+
+        
+    
+    
+            var marker_c2cbd003e1901bdee58b7bb26cf5822a = L.marker(
+                [36.270055, 50.0054781],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_eff09bca934b72f8183a0a96155a529d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_c2cbd003e1901bdee58b7bb26cf5822a.setIcon(icon_eff09bca934b72f8183a0a96155a529d);
+        
+    
+        var popup_39ba19f032b9904e15598b6e7c073a06 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_31c39076bc2cd4f4732fcc0426a771ab = $(`<div id="html_31c39076bc2cd4f4732fcc0426a771ab" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی بوعلی<br>Boo Alii Sina Clinic<br>POINT (50.0054781 36.270055)</div>`)[0];
+                popup_39ba19f032b9904e15598b6e7c073a06.setContent(html_31c39076bc2cd4f4732fcc0426a771ab);
+            
+        
+
+        marker_c2cbd003e1901bdee58b7bb26cf5822a.bindPopup(popup_39ba19f032b9904e15598b6e7c073a06)
+        ;
+
+        
+    
+    
+            var marker_ed3c89b87c21d999c4d2ccd78d9f634f = L.marker(
+                [36.2619818, 50.0038705],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_18413738c145a9ef1990f79a9869ccb7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_ed3c89b87c21d999c4d2ccd78d9f634f.setIcon(icon_18413738c145a9ef1990f79a9869ccb7);
+        
+    
+        var popup_ce51f10250fd1aadb2945c1c13c1fafa = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_589b630c5a771fef34586bd5403954cd = $(`<div id="html_589b630c5a771fef34586bd5403954cd" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی امام علی<br>Emam Ali Clinic 24hours<br>POINT (50.0038705 36.2619818)</div>`)[0];
+                popup_ce51f10250fd1aadb2945c1c13c1fafa.setContent(html_589b630c5a771fef34586bd5403954cd);
+            
+        
+
+        marker_ed3c89b87c21d999c4d2ccd78d9f634f.bindPopup(popup_ce51f10250fd1aadb2945c1c13c1fafa)
+        ;
+
+        
+    
+    
+            var marker_2a8c6fe8d835a9cc591911696ff95c59 = L.marker(
+                [36.2959118, 50.0128485],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_7a3632ad29814af5c7262739c2275448 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_2a8c6fe8d835a9cc591911696ff95c59.setIcon(icon_7a3632ad29814af5c7262739c2275448);
+        
+    
+        var popup_0a3e2b87924a608473348bbfcf0be5d0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1ee4885ccca5457f4a63a9dc38cde796 = $(`<div id="html_1ee4885ccca5457f4a63a9dc38cde796" style="width: 100.0%; height: 100.0%;">درمانگاه سینا<br>Sina Clinic<br>POINT (50.0128485 36.2959118)</div>`)[0];
+                popup_0a3e2b87924a608473348bbfcf0be5d0.setContent(html_1ee4885ccca5457f4a63a9dc38cde796);
+            
+        
+
+        marker_2a8c6fe8d835a9cc591911696ff95c59.bindPopup(popup_0a3e2b87924a608473348bbfcf0be5d0)
+        ;
+
+        
+    
+    
+            var marker_1c1c2762e1ddbe078771a9b13a59fc3d = L.marker(
+                [36.2662683, 50.0053826],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_a9158b5198920882bfbbe74761ec46e4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_1c1c2762e1ddbe078771a9b13a59fc3d.setIcon(icon_a9158b5198920882bfbbe74761ec46e4);
+        
+    
+        var popup_21f074a9b534e5a162315dfc5fd4aaaf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_12aadd2f81d06b3fdcaa249b56216861 = $(`<div id="html_12aadd2f81d06b3fdcaa249b56216861" style="width: 100.0%; height: 100.0%;">درمانگاه عمومی و تخصصی هلال احمر<br>Red Crescent General and Specialized Clinic<br>POINT (50.0053826 36.2662683)</div>`)[0];
+                popup_21f074a9b534e5a162315dfc5fd4aaaf.setContent(html_12aadd2f81d06b3fdcaa249b56216861);
+            
+        
+
+        marker_1c1c2762e1ddbe078771a9b13a59fc3d.bindPopup(popup_21f074a9b534e5a162315dfc5fd4aaaf)
+        ;
+
+        
+    
+    
+            var marker_356aa4418651539867942b89d5593850 = L.marker(
+                [36.3103122, 49.9937511],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_46009b678ee649fa4c0d00cb33a7c29a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_356aa4418651539867942b89d5593850.setIcon(icon_46009b678ee649fa4c0d00cb33a7c29a);
+        
+    
+        var popup_85b345099c9541aa89a0540d38517410 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_60ad93c27b0ec3b9fa103e992e829930 = $(`<div id="html_60ad93c27b0ec3b9fa103e992e829930" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی مینودر<br>24h Clinic of Minoudar<br>POINT (49.9937511 36.3103122)</div>`)[0];
+                popup_85b345099c9541aa89a0540d38517410.setContent(html_60ad93c27b0ec3b9fa103e992e829930);
+            
+        
+
+        marker_356aa4418651539867942b89d5593850.bindPopup(popup_85b345099c9541aa89a0540d38517410)
+        ;
+
+        
+    
+    
+            var marker_13b2c3275fb692feeaf30b949e385d15 = L.marker(
+                [36.3218079, 49.9865971],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_6d660eb221fc82062f9249a1cfa11d50 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_13b2c3275fb692feeaf30b949e385d15.setIcon(icon_6d660eb221fc82062f9249a1cfa11d50);
+        
+    
+        var popup_888bddbef40deef8ef2fd2ad64fa6864 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_05bb320c79da6620b06dfb1bafa6b82e = $(`<div id="html_05bb320c79da6620b06dfb1bafa6b82e" style="width: 100.0%; height: 100.0%;">درمانگاه گوهرشاد<br>Goharshad Clinic<br>POINT (49.9865971 36.3218079)</div>`)[0];
+                popup_888bddbef40deef8ef2fd2ad64fa6864.setContent(html_05bb320c79da6620b06dfb1bafa6b82e);
+            
+        
+
+        marker_13b2c3275fb692feeaf30b949e385d15.bindPopup(popup_888bddbef40deef8ef2fd2ad64fa6864)
+        ;
+
+        
+    
+    
+            var marker_a62f30317a06a20eed027ab21da8cb8b = L.marker(
+                [36.2972397, 50.0194321],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_8fefc188a9928d207e260ff047f32370 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_a62f30317a06a20eed027ab21da8cb8b.setIcon(icon_8fefc188a9928d207e260ff047f32370);
+        
+    
+        var popup_60099fd4d39f56d46120d10ba0ee9b4e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_493868628ae5f68c32b671438eb732c6 = $(`<div id="html_493868628ae5f68c32b671438eb732c6" style="width: 100.0%; height: 100.0%;">پارسیان<br>Parsian<br>POINT (50.0194321 36.2972397)</div>`)[0];
+                popup_60099fd4d39f56d46120d10ba0ee9b4e.setContent(html_493868628ae5f68c32b671438eb732c6);
+            
+        
+
+        marker_a62f30317a06a20eed027ab21da8cb8b.bindPopup(popup_60099fd4d39f56d46120d10ba0ee9b4e)
+        ;
+
+        
+    
+    
+            var marker_8ae33a179166403335812a6217353535 = L.marker(
+                [36.3227314, 49.9967713],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_5e1612d01900b512b6ad43bf059db3eb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_8ae33a179166403335812a6217353535.setIcon(icon_5e1612d01900b512b6ad43bf059db3eb);
+        
+    
+        var popup_d54632c2f6c16325c71260727c8be3af = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ce1f8c8b1e0e2bea6ed631184336fcf1 = $(`<div id="html_ce1f8c8b1e0e2bea6ed631184336fcf1" style="width: 100.0%; height: 100.0%;">درمانگاههای تخصصی بیمارستان ولایت<br>Specialized Clinics of Velayat Hospital<br>POINT (49.9967713 36.3227314)</div>`)[0];
+                popup_d54632c2f6c16325c71260727c8be3af.setContent(html_ce1f8c8b1e0e2bea6ed631184336fcf1);
+            
+        
+
+        marker_8ae33a179166403335812a6217353535.bindPopup(popup_d54632c2f6c16325c71260727c8be3af)
+        ;
+
+        
+    
+    
+            var marker_3b95d00daf5df6b3b8b5fd6545003786 = L.marker(
+                [36.30973404582389, 50.0005269922016],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_7d04f4dd3c2a9253f04060e595a3fb01 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_3b95d00daf5df6b3b8b5fd6545003786.setIcon(icon_7d04f4dd3c2a9253f04060e595a3fb01);
+        
+    
+        var popup_5ea75657968ab524c6d2d6fa626dfbbf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_54b8cd80048cf31fc9be19421167f0ad = $(`<div id="html_54b8cd80048cf31fc9be19421167f0ad" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی امام خمینی(ره)<br>Imam Khomeini Clinic<br>POINT (50.0005269922016 36.30973404582389)</div>`)[0];
+                popup_5ea75657968ab524c6d2d6fa626dfbbf.setContent(html_54b8cd80048cf31fc9be19421167f0ad);
+            
+        
+
+        marker_3b95d00daf5df6b3b8b5fd6545003786.bindPopup(popup_5ea75657968ab524c6d2d6fa626dfbbf)
+        ;
+
+        
+    
+    
+            var marker_f30bfeb6072101c11bfce40a074a3b76 = L.marker(
+                [36.289345475371626, 50.001940773920296],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_1155b6a1d2c0e1ac4942e90a0327ace3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_f30bfeb6072101c11bfce40a074a3b76.setIcon(icon_1155b6a1d2c0e1ac4942e90a0327ace3);
+        
+    
+        var popup_f6899dbc937e4e312d78e9043a3057f5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_04403212b4a5d92233382196c2e9924d = $(`<div id="html_04403212b4a5d92233382196c2e9924d" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی شهید پاکروان<br>Shahid Pakravan Clinic<br>POINT (50.001940773920296 36.289345475371626)</div>`)[0];
+                popup_f6899dbc937e4e312d78e9043a3057f5.setContent(html_04403212b4a5d92233382196c2e9924d);
+            
+        
+
+        marker_f30bfeb6072101c11bfce40a074a3b76.bindPopup(popup_f6899dbc937e4e312d78e9043a3057f5)
+        ;
+
+        
+    
+    
+            var marker_03ccc2abcd470f0cb42e1ae2580aaf37 = L.marker(
+                [36.286534576709265, 50.00181561337765],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_de2cb83bf7ce5671aa6fc143e9518cbe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_03ccc2abcd470f0cb42e1ae2580aaf37.setIcon(icon_de2cb83bf7ce5671aa6fc143e9518cbe);
+        
+    
+        var popup_ab4c80d0fa16dbe85142e28dacc16925 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e64b0ab0fc9294adb476a376508be103 = $(`<div id="html_e64b0ab0fc9294adb476a376508be103" style="width: 100.0%; height: 100.0%;">درمانگاه امام سجاد(ع)<br>Imam Sajjad Clinic<br>POINT (50.00181561337765 36.286534576709265)</div>`)[0];
+                popup_ab4c80d0fa16dbe85142e28dacc16925.setContent(html_e64b0ab0fc9294adb476a376508be103);
+            
+        
+
+        marker_03ccc2abcd470f0cb42e1ae2580aaf37.bindPopup(popup_ab4c80d0fa16dbe85142e28dacc16925)
+        ;
+
+        
+    
+    
+            var marker_8eb493f15e997816be2f6fd1eb3d0900 = L.marker(
+                [36.25133017901638, 50.00592895789983],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_3404098b34f98e04b445f202ea93f3b8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_8eb493f15e997816be2f6fd1eb3d0900.setIcon(icon_3404098b34f98e04b445f202ea93f3b8);
+        
+    
+        var popup_5589adc93400260cb1acfd7c60645906 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_156af5e29f0134eac4b5d3ca964dcb5c = $(`<div id="html_156af5e29f0134eac4b5d3ca964dcb5c" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره2 (جامعه نگر)<br>Community health centre No. 2<br>POINT (50.00592895789983 36.25133017901638)</div>`)[0];
+                popup_5589adc93400260cb1acfd7c60645906.setContent(html_156af5e29f0134eac4b5d3ca964dcb5c);
+            
+        
+
+        marker_8eb493f15e997816be2f6fd1eb3d0900.bindPopup(popup_5589adc93400260cb1acfd7c60645906)
+        ;
+
+        
+    
+    
+            var marker_24cee5a443aecd67994677a4387b9d14 = L.marker(
+                [36.25971334875639, 50.00381355566561],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_2fd1fb41baaf58b98d3fe930e5c7fbdf = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_24cee5a443aecd67994677a4387b9d14.setIcon(icon_2fd1fb41baaf58b98d3fe930e5c7fbdf);
+        
+    
+        var popup_1ae1f85310b044036b1c3e08b26ebede = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f11f8658fcde0529a3acd6ce4357c1c = $(`<div id="html_4f11f8658fcde0529a3acd6ce4357c1c" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شهری شماره3 (شهدا)<br>Community health centre No. 3<br>POINT (50.00381355566561 36.25971334875639)</div>`)[0];
+                popup_1ae1f85310b044036b1c3e08b26ebede.setContent(html_4f11f8658fcde0529a3acd6ce4357c1c);
+            
+        
+
+        marker_24cee5a443aecd67994677a4387b9d14.bindPopup(popup_1ae1f85310b044036b1c3e08b26ebede)
+        ;
+
+        
+    
+    
+            var marker_5a26b5af83c05c19bc5f2d0ab84390d4 = L.marker(
+                [36.26881975245689, 50.006057618769184],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_626ea1b9e01004683a3e0ce7c9a8267d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_5a26b5af83c05c19bc5f2d0ab84390d4.setIcon(icon_626ea1b9e01004683a3e0ce7c9a8267d);
+        
+    
+        var popup_8adda05e6c05f725f10e7e8162e48d0d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_eae0d7438edc9fdd2b873bd8fa5cf432 = $(`<div id="html_eae0d7438edc9fdd2b873bd8fa5cf432" style="width: 100.0%; height: 100.0%;">درمانگاه و ساختمان پزشکان امام حسین<br>Imam Hussein Clinic and Doctors Building<br>POINT (50.006057618769184 36.26881975245689)</div>`)[0];
+                popup_8adda05e6c05f725f10e7e8162e48d0d.setContent(html_eae0d7438edc9fdd2b873bd8fa5cf432);
+            
+        
+
+        marker_5a26b5af83c05c19bc5f2d0ab84390d4.bindPopup(popup_8adda05e6c05f725f10e7e8162e48d0d)
+        ;
+
+        
+    
+    
+            var marker_48d985e3352fa7e342603dd97cea2610 = L.marker(
+                [36.27485397824909, 50.00628385629551],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_4d225a4237e75e8096b4ab982dc0badb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_48d985e3352fa7e342603dd97cea2610.setIcon(icon_4d225a4237e75e8096b4ab982dc0badb);
+        
+    
+        var popup_fe8169d54d221df30d455526b5d90fc1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5f54b1d7413fcfc21175107151b8cfc1 = $(`<div id="html_5f54b1d7413fcfc21175107151b8cfc1" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره7 فردوسی<br>Community health centre No. 7 (Ferdosi)<br>POINT (50.00628385629551 36.27485397824909)</div>`)[0];
+                popup_fe8169d54d221df30d455526b5d90fc1.setContent(html_5f54b1d7413fcfc21175107151b8cfc1);
+            
+        
+
+        marker_48d985e3352fa7e342603dd97cea2610.bindPopup(popup_fe8169d54d221df30d455526b5d90fc1)
+        ;
+
+        
+    
+    
+            var marker_142cec47882994792c59ef1f5d3e354e = L.marker(
+                [36.26962284471234, 50.01946643041136],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_832623b1e05ad249389026aaecb58e6b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_142cec47882994792c59ef1f5d3e354e.setIcon(icon_832623b1e05ad249389026aaecb58e6b);
+        
+    
+        var popup_de97e50f59647c27fb55fce937799164 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6546052acecd5664a5d4e8e7ad8b7ab6 = $(`<div id="html_6546052acecd5664a5d4e8e7ad8b7ab6" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره6 ولیعصر<br>Community health centre No. 6 (Valiasr)<br>POINT (50.01946643041136 36.26962284471234)</div>`)[0];
+                popup_de97e50f59647c27fb55fce937799164.setContent(html_6546052acecd5664a5d4e8e7ad8b7ab6);
+            
+        
+
+        marker_142cec47882994792c59ef1f5d3e354e.bindPopup(popup_de97e50f59647c27fb55fce937799164)
+        ;
+
+        
+    
+    
+            var marker_caed1edceb8dcf31394797ed13625539 = L.marker(
+                [36.2745171148392, 50.01367823986144],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_011f459a4ee489afbcb84c4d50d1f86b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_caed1edceb8dcf31394797ed13625539.setIcon(icon_011f459a4ee489afbcb84c4d50d1f86b);
+        
+    
+        var popup_1a9fb3d9cdac8c666de38a89b7fcd459 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_85a6417b2feb63aaca193924a404ba6f = $(`<div id="html_85a6417b2feb63aaca193924a404ba6f" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی عارف<br>Aref Clinic<br>POINT (50.01367823986144 36.2745171148392)</div>`)[0];
+                popup_1a9fb3d9cdac8c666de38a89b7fcd459.setContent(html_85a6417b2feb63aaca193924a404ba6f);
+            
+        
+
+        marker_caed1edceb8dcf31394797ed13625539.bindPopup(popup_1a9fb3d9cdac8c666de38a89b7fcd459)
+        ;
+
+        
+    
+    
+            var marker_b763bedd9e445aee92052248f2e00a7d = L.marker(
+                [36.294386303500076, 50.01471454821892],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_90218ba63f434a75daffc7aa23608514 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_b763bedd9e445aee92052248f2e00a7d.setIcon(icon_90218ba63f434a75daffc7aa23608514);
+        
+    
+        var popup_863d9fc8f9b9f852e1a1e2b681aac372 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_07fd8a4f570b8ed2d627d46406f4b3de = $(`<div id="html_07fd8a4f570b8ed2d627d46406f4b3de" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت مدنی<br>Community health centre (Madani)<br>POINT (50.01471454821892 36.294386303500076)</div>`)[0];
+                popup_863d9fc8f9b9f852e1a1e2b681aac372.setContent(html_07fd8a4f570b8ed2d627d46406f4b3de);
+            
+        
+
+        marker_b763bedd9e445aee92052248f2e00a7d.bindPopup(popup_863d9fc8f9b9f852e1a1e2b681aac372)
+        ;
+
+        
+    
+    
+            var marker_b6b08a0b879f5c4dfafef00bd7e553ed = L.marker(
+                [36.29802532963272, 50.01703699212709],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_3dbd9b4e731c64f13502c24c50a4b02b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_b6b08a0b879f5c4dfafef00bd7e553ed.setIcon(icon_3dbd9b4e731c64f13502c24c50a4b02b);
+        
+    
+        var popup_9dfd0fbb1239a8f106b2cb4e512de567 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_814135d83af75712cfc02c680ac7cb77 = $(`<div id="html_814135d83af75712cfc02c680ac7cb77" style="width: 100.0%; height: 100.0%;">درمانگاه تخصصی رادمهر<br>Radmehr Specialized Clinic<br>POINT (50.01703699212709 36.29802532963272)</div>`)[0];
+                popup_9dfd0fbb1239a8f106b2cb4e512de567.setContent(html_814135d83af75712cfc02c680ac7cb77);
+            
+        
+
+        marker_b6b08a0b879f5c4dfafef00bd7e553ed.bindPopup(popup_9dfd0fbb1239a8f106b2cb4e512de567)
+        ;
+
+        
+    
+    
+            var marker_52b2c782533215421be4bdac16d54f4a = L.marker(
+                [36.29715902281396, 50.0184385783305],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_141a753e551a5f33979b8154c56c8169 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_52b2c782533215421be4bdac16d54f4a.setIcon(icon_141a753e551a5f33979b8154c56c8169);
+        
+    
+        var popup_103bbc23d7ccec630767c5f242c42d77 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_952d9c24f5f154186b3554d2a150784b = $(`<div id="html_952d9c24f5f154186b3554d2a150784b" style="width: 100.0%; height: 100.0%;">درمانگاه رازی<br>Razi Medical Clinic<br>POINT (50.0184385783305 36.29715902281396)</div>`)[0];
+                popup_103bbc23d7ccec630767c5f242c42d77.setContent(html_952d9c24f5f154186b3554d2a150784b);
+            
+        
+
+        marker_52b2c782533215421be4bdac16d54f4a.bindPopup(popup_103bbc23d7ccec630767c5f242c42d77)
+        ;
+
+        
+    
+    
+            var marker_97a5470bdf391c481dcde473a54d2bad = L.marker(
+                [36.30269612930395, 50.02106838467555],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_31bd9c222d6bc6fadf5edcf5b14b616e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_97a5470bdf391c481dcde473a54d2bad.setIcon(icon_31bd9c222d6bc6fadf5edcf5b14b616e);
+        
+    
+        var popup_d4452e70408b85554cbc198f20bee2a0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ade7650decd0f7ee209d564a6c4e3c48 = $(`<div id="html_ade7650decd0f7ee209d564a6c4e3c48" style="width: 100.0%; height: 100.0%;"> (مرکز بهداشت شماره 14 پونک) مرکز بهداشت شهید بلندیان<br>Shahid Bolandian Health Center<br>POINT (50.02106838467555 36.30269612930395)</div>`)[0];
+                popup_d4452e70408b85554cbc198f20bee2a0.setContent(html_ade7650decd0f7ee209d564a6c4e3c48);
+            
+        
+
+        marker_97a5470bdf391c481dcde473a54d2bad.bindPopup(popup_d4452e70408b85554cbc198f20bee2a0)
+        ;
+
+        
+    
+    
+            var marker_04368cb361b16016c02a3dcf5db5cd8a = L.marker(
+                [36.31234883051143, 50.033811704194164],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_002d743b300ccb6b688b3deff9e45f93 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_04368cb361b16016c02a3dcf5db5cd8a.setIcon(icon_002d743b300ccb6b688b3deff9e45f93);
+        
+    
+        var popup_456e9381d6c7eec5ec97424e41bc8302 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0f8dcb7ed365ca44071b82654608522c = $(`<div id="html_0f8dcb7ed365ca44071b82654608522c" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره11 پونک<br>Community health centre (Poonak number11)<br>POINT (50.033811704194164 36.31234883051143)</div>`)[0];
+                popup_456e9381d6c7eec5ec97424e41bc8302.setContent(html_0f8dcb7ed365ca44071b82654608522c);
+            
+        
+
+        marker_04368cb361b16016c02a3dcf5db5cd8a.bindPopup(popup_456e9381d6c7eec5ec97424e41bc8302)
+        ;
+
+        
+    
+    
+            var marker_60841c9311957aa1e3a22c8fbdee625e = L.marker(
+                [36.324935710422025, 49.99705028634133],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_829bd330c4831700e79812ca0d0b5781 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_60841c9311957aa1e3a22c8fbdee625e.setIcon(icon_829bd330c4831700e79812ca0d0b5781);
+        
+    
+        var popup_1a54bdde3d6386a3ff65b68cbdbe3001 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8ffb8b40e0ec3a9fe5cd1b78af0032b = $(`<div id="html_a8ffb8b40e0ec3a9fe5cd1b78af0032b" style="width: 100.0%; height: 100.0%;">درمانگاه امیرالمومنین<br>Amir Ol-Mo'menin Clinic<br>POINT (49.99705028634133 36.324935710422025)</div>`)[0];
+                popup_1a54bdde3d6386a3ff65b68cbdbe3001.setContent(html_a8ffb8b40e0ec3a9fe5cd1b78af0032b);
+            
+        
+
+        marker_60841c9311957aa1e3a22c8fbdee625e.bindPopup(popup_1a54bdde3d6386a3ff65b68cbdbe3001)
+        ;
+
+        
+    
+    
+            var marker_ffb648931d9d6619ae78eafeb81cee4d = L.marker(
+                [36.312421506231445, 49.989719609509486],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_7890aedb00a5ebf486d1d4acd24a5576 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_ffb648931d9d6619ae78eafeb81cee4d.setIcon(icon_7890aedb00a5ebf486d1d4acd24a5576);
+        
+    
+        var popup_6aa65bd4306cd87ff03a4678f4c5bc28 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8642bcb25070eeb8848c121911152b01 = $(`<div id="html_8642bcb25070eeb8848c121911152b01" style="width: 100.0%; height: 100.0%;">درمانگاه خیریه حاج ابوطالب تقوی و مرکز خدمات جامع سلامت شماره12<br>Abotaleb Taghavi Clinic<br>POINT (49.989719609509486 36.312421506231445)</div>`)[0];
+                popup_6aa65bd4306cd87ff03a4678f4c5bc28.setContent(html_8642bcb25070eeb8848c121911152b01);
+            
+        
+
+        marker_ffb648931d9d6619ae78eafeb81cee4d.bindPopup(popup_6aa65bd4306cd87ff03a4678f4c5bc28)
+        ;
+
+        
+    
+    
+            var marker_85eb7cda2bfb42188e35a760d0206db9 = L.marker(
+                [36.30820943869798, 50.01226285450064],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_65b0c373558a4fbaad0e00bdb05ac02c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_85eb7cda2bfb42188e35a760d0206db9.setIcon(icon_65b0c373558a4fbaad0e00bdb05ac02c);
+        
+    
+        var popup_74e52a52e72fb431ce8830e87afa08a0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f78b6071e525dd53cb425d62f379d9ec = $(`<div id="html_f78b6071e525dd53cb425d62f379d9ec" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی یاسین<br>Yasin clinic<br>POINT (50.01226285450064 36.30820943869798)</div>`)[0];
+                popup_74e52a52e72fb431ce8830e87afa08a0.setContent(html_f78b6071e525dd53cb425d62f379d9ec);
+            
+        
+
+        marker_85eb7cda2bfb42188e35a760d0206db9.bindPopup(popup_74e52a52e72fb431ce8830e87afa08a0)
+        ;
+
+        
+    
+    
+            var marker_44e9852a3f929791bb9a9d1569566254 = L.marker(
+                [36.30105592161002, 49.99750014054197],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_280a1dd286f636a0fb9a56d768efc071 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_44e9852a3f929791bb9a9d1569566254.setIcon(icon_280a1dd286f636a0fb9a56d768efc071);
+        
+    
+        var popup_f4bef90d6ff7e8f474b3c45c50276260 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_159c6d930ff01dda8a66df60eb44c1b3 = $(`<div id="html_159c6d930ff01dda8a66df60eb44c1b3" style="width: 100.0%; height: 100.0%;">مرکز بهداشتی درمانی شماره8 امام حسین (موقوفه علیجانی)<br>Community health centre (Alijani No. 8)<br>POINT (49.99750014054197 36.30105592161002)</div>`)[0];
+                popup_f4bef90d6ff7e8f474b3c45c50276260.setContent(html_159c6d930ff01dda8a66df60eb44c1b3);
+            
+        
+
+        marker_44e9852a3f929791bb9a9d1569566254.bindPopup(popup_f4bef90d6ff7e8f474b3c45c50276260)
+        ;
+
+        
+    
+    
+            var marker_a41da02c87c1f69e9eb0a0c92e57b828 = L.marker(
+                [36.295296198875235, 49.996352725075724],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_389b522f1fff7399f90d9d312015635e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_a41da02c87c1f69e9eb0a0c92e57b828.setIcon(icon_389b522f1fff7399f90d9d312015635e);
+        
+    
+        var popup_f26e2059cf614c09190fe193c792b10a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f2066e9ec51a2a0e9535db7fc2e42ad7 = $(`<div id="html_f2066e9ec51a2a0e9535db7fc2e42ad7" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره9 هادی آباد<br>Community health centre (HadiAbad number9)<br>POINT (49.996352725075724 36.295296198875235)</div>`)[0];
+                popup_f26e2059cf614c09190fe193c792b10a.setContent(html_f2066e9ec51a2a0e9535db7fc2e42ad7);
+            
+        
+
+        marker_a41da02c87c1f69e9eb0a0c92e57b828.bindPopup(popup_f26e2059cf614c09190fe193c792b10a)
+        ;
+
+        
+    
+    
+            var marker_531d9d2126257a40163963a152a141b3 = L.marker(
+                [36.28093654774278, 49.99332288047079],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_51408881106d39584358e7ce4da2ca8d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_531d9d2126257a40163963a152a141b3.setIcon(icon_51408881106d39584358e7ce4da2ca8d);
+        
+    
+        var popup_09ca0cfe3e733bc93c16adc4c6e4bd97 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3c8d8bdd23a753267c87ada90add8f30 = $(`<div id="html_3c8d8bdd23a753267c87ada90add8f30" style="width: 100.0%; height: 100.0%;">درمانگاه شهدای ناجا<br>Shohadaye Naja Clinic<br>POINT (49.99332288047079 36.28093654774278)</div>`)[0];
+                popup_09ca0cfe3e733bc93c16adc4c6e4bd97.setContent(html_3c8d8bdd23a753267c87ada90add8f30);
+            
+        
+
+        marker_531d9d2126257a40163963a152a141b3.bindPopup(popup_09ca0cfe3e733bc93c16adc4c6e4bd97)
+        ;
+
+        
+    
+    
+            var marker_d6ddf13a7d7a4635c19e19b66c1c961e = L.marker(
+                [36.275500452051986, 49.99370430221846],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_7a376a1b58cd0e961e333542c117f52f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_d6ddf13a7d7a4635c19e19b66c1c961e.setIcon(icon_7a376a1b58cd0e961e333542c117f52f);
+        
+    
+        var popup_c7d0067fa587cbc097372f3a502b9bb7 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e9aa0820335a3de6111919e45e6ba0f4 = $(`<div id="html_e9aa0820335a3de6111919e45e6ba0f4" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره8 نواب<br>Community health centre (Navab No. 8)<br>POINT (49.99370430221846 36.275500452051986)</div>`)[0];
+                popup_c7d0067fa587cbc097372f3a502b9bb7.setContent(html_e9aa0820335a3de6111919e45e6ba0f4);
+            
+        
+
+        marker_d6ddf13a7d7a4635c19e19b66c1c961e.bindPopup(popup_c7d0067fa587cbc097372f3a502b9bb7)
+        ;
+
+        
+    
+    
+            var marker_a160507be4667131f61fb06a4f8364e6 = L.marker(
+                [36.27647084367787, 49.999294063470934],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_886fd7f3c90de7ce3aa45bbc7c96697c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_a160507be4667131f61fb06a4f8364e6.setIcon(icon_886fd7f3c90de7ce3aa45bbc7c96697c);
+        
+    
+        var popup_ee4941f5201fdb69306fbe4145dbda78 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1f7ebe58cb37349af3ebd457e5b80b2e = $(`<div id="html_1f7ebe58cb37349af3ebd457e5b80b2e" style="width: 100.0%; height: 100.0%;">درمانگاه خیریه محمدزاده و مرکز جامع خدمات سلامت زعفرانیه<br>Mohamadzadeh Clinic & Community health centre (Zaferanieh) <br>POINT (49.999294063470934 36.27647084367787)</div>`)[0];
+                popup_ee4941f5201fdb69306fbe4145dbda78.setContent(html_1f7ebe58cb37349af3ebd457e5b80b2e);
+            
+        
+
+        marker_a160507be4667131f61fb06a4f8364e6.bindPopup(popup_ee4941f5201fdb69306fbe4145dbda78)
+        ;
+
+        
+    
+    
+            var marker_74ce071d2eadb0fe81587fc84a99fe2a = L.marker(
+                [36.27170541954835, 49.99690594725085],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_227ee5a161ded0d9c4d05b05c489864e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_74ce071d2eadb0fe81587fc84a99fe2a.setIcon(icon_227ee5a161ded0d9c4d05b05c489864e);
+        
+    
+        var popup_4f5420816a1be2debe1e7b60f87863de = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fed6896c8f71185423c24eb60fe7dd87 = $(`<div id="html_fed6896c8f71185423c24eb60fe7dd87" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت سعدی<br>Community health centre (Sadi)<br>POINT (49.99690594725085 36.27170541954835)</div>`)[0];
+                popup_4f5420816a1be2debe1e7b60f87863de.setContent(html_fed6896c8f71185423c24eb60fe7dd87);
+            
+        
+
+        marker_74ce071d2eadb0fe81587fc84a99fe2a.bindPopup(popup_4f5420816a1be2debe1e7b60f87863de)
+        ;
+
+        
+    
+    
+            var marker_25c8a607eb464ae739f73b4b44c9ec62 = L.marker(
+                [36.26479310976461, 49.98941160217969],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_f891899d3c638ffe60ec18adb06052a3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_25c8a607eb464ae739f73b4b44c9ec62.setIcon(icon_f891899d3c638ffe60ec18adb06052a3);
+        
+    
+        var popup_0cd94255d5587987bad3cce83c119071 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5bd31581cb1040ec22e64f0c2d456b2f = $(`<div id="html_5bd31581cb1040ec22e64f0c2d456b2f" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره5 محله تبریز<br>Community health centre (Tabriz)<br>POINT (49.98941160217969 36.26479310976461)</div>`)[0];
+                popup_0cd94255d5587987bad3cce83c119071.setContent(html_5bd31581cb1040ec22e64f0c2d456b2f);
+            
+        
+
+        marker_25c8a607eb464ae739f73b4b44c9ec62.bindPopup(popup_0cd94255d5587987bad3cce83c119071)
+        ;
+
+        
+    
+    
+            var marker_c313ae49995de8bcaaa8c15dc7eaaad8 = L.marker(
+                [36.27634573001504, 50.00888397132118],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_efdbed051f376587b342a3f68400f6e8 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_c313ae49995de8bcaaa8c15dc7eaaad8.setIcon(icon_efdbed051f376587b342a3f68400f6e8);
+        
+    
+        var popup_2fc038cfcbf5e3eb5de602a4535cd686 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_123b1c81865ce4ca1ef822d9c194f06a = $(`<div id="html_123b1c81865ce4ca1ef822d9c194f06a" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی میلاد<br>Milad Clinic<br>POINT (50.00888397132118 36.27634573001504)</div>`)[0];
+                popup_2fc038cfcbf5e3eb5de602a4535cd686.setContent(html_123b1c81865ce4ca1ef822d9c194f06a);
+            
+        
+
+        marker_c313ae49995de8bcaaa8c15dc7eaaad8.bindPopup(popup_2fc038cfcbf5e3eb5de602a4535cd686)
+        ;
+
+        
+    
+    
+            var marker_7dc096e19ff91c3f6d8d2e316f1e67c5 = L.marker(
+                [36.29362159980404, 50.01659675300677],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_05d84df3badd4992b6f79aa46e666ed4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_7dc096e19ff91c3f6d8d2e316f1e67c5.setIcon(icon_05d84df3badd4992b6f79aa46e666ed4);
+        
+    
+        var popup_f6d2cf525b31f36a2f4f76e88a49f4d6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_72d4e857a5de43e98d134c588054dfec = $(`<div id="html_72d4e857a5de43e98d134c588054dfec" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی مهرگان<br>Mehregan Clinic<br>POINT (50.01659675300677 36.29362159980404)</div>`)[0];
+                popup_f6d2cf525b31f36a2f4f76e88a49f4d6.setContent(html_72d4e857a5de43e98d134c588054dfec);
+            
+        
+
+        marker_7dc096e19ff91c3f6d8d2e316f1e67c5.bindPopup(popup_f6d2cf525b31f36a2f4f76e88a49f4d6)
+        ;
+
+        
+    
+    
+            var marker_7adee16b6e0df3fc6f92e20697e93fd0 = L.marker(
+                [36.311927467862745, 50.03273374841751],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_9986b0cabe7f654afbad85a225a0f92e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_7adee16b6e0df3fc6f92e20697e93fd0.setIcon(icon_9986b0cabe7f654afbad85a225a0f92e);
+        
+    
+        var popup_b4cc41d94686b38e51ec419f8e178c13 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6de9e6a953fde652d119c4457e676db8 = $(`<div id="html_6de9e6a953fde652d119c4457e676db8" style="width: 100.0%; height: 100.0%;">درمانگاه شبانه روزی پونک<br>Poonak Clinic<br>POINT (50.03273374841751 36.311927467862745)</div>`)[0];
+                popup_b4cc41d94686b38e51ec419f8e178c13.setContent(html_6de9e6a953fde652d119c4457e676db8);
+            
+        
+
+        marker_7adee16b6e0df3fc6f92e20697e93fd0.bindPopup(popup_b4cc41d94686b38e51ec419f8e178c13)
+        ;
+
+        
+    
+    
+            var marker_f7f82096e5d21e8da5cca537c9f9f776 = L.marker(
+                [36.30974903535599, 50.021532642325965],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_992b433251fc82844066d84b8d1d69f7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_f7f82096e5d21e8da5cca537c9f9f776.setIcon(icon_992b433251fc82844066d84b8d1d69f7);
+        
+    
+        var popup_9adb8331d4c6e4b60a091d2ac8b1a836 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4c7513f8eda752a39edeb46c77530566 = $(`<div id="html_4c7513f8eda752a39edeb46c77530566" style="width: 100.0%; height: 100.0%;">درمانگاه پزشکی و ترک اعتیاد آریا<br>Aria Clinic<br>POINT (50.021532642325965 36.30974903535599)</div>`)[0];
+                popup_9adb8331d4c6e4b60a091d2ac8b1a836.setContent(html_4c7513f8eda752a39edeb46c77530566);
+            
+        
+
+        marker_f7f82096e5d21e8da5cca537c9f9f776.bindPopup(popup_9adb8331d4c6e4b60a091d2ac8b1a836)
+        ;
+
+        
+    
+    
+            var marker_b580b5b72b492e316ab95cddb8bf66e4 = L.marker(
+                [36.311840143788835, 50.03061646313544],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_1cd92d08f778b4d1675bb546495d3807 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_b580b5b72b492e316ab95cddb8bf66e4.setIcon(icon_1cd92d08f778b4d1675bb546495d3807);
+        
+    
+        var popup_69a63a439becf4f0f93f7356b7ac8c0b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6faf4bbae961dd254be303c6f717e63c = $(`<div id="html_6faf4bbae961dd254be303c6f717e63c" style="width: 100.0%; height: 100.0%;">کلینیک تخصصی محمدزاده<br>Mohammadzadeh Specialized Clinic<br>POINT (50.03061646313544 36.311840143788835)</div>`)[0];
+                popup_69a63a439becf4f0f93f7356b7ac8c0b.setContent(html_6faf4bbae961dd254be303c6f717e63c);
+            
+        
+
+        marker_b580b5b72b492e316ab95cddb8bf66e4.bindPopup(popup_69a63a439becf4f0f93f7356b7ac8c0b)
+        ;
+
+        
+    
+    
+            var marker_814863504251a8a9d3c82ae328c3857f = L.marker(
+                [36.2677492362152, 50.00544204532496],
+                {}
+            ).addTo(map_ac2ee6da700054f501266ecb9f24ab46);
+        
+    
+            var icon_c8f8c70aa8725a84d68982182c27ae1f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-house-medical", "iconColor": "white", "markerColor": "red", "prefix": "fa"}
+            );
+            marker_814863504251a8a9d3c82ae328c3857f.setIcon(icon_c8f8c70aa8725a84d68982182c27ae1f);
+        
+    
+        var popup_1e852bd7f88d3a762a746e4cbb89ad4d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a686398d4a0612c715448aa4b8526634 = $(`<div id="html_a686398d4a0612c715448aa4b8526634" style="width: 100.0%; height: 100.0%;">مرکز خدمات جامع سلامت شماره13 (بانو محتشم)<br>Comprehensive Health Services Center No. 13 (Bano Mohtasham)<br>POINT (50.00544204532496 36.2677492362152)</div>`)[0];
+                popup_1e852bd7f88d3a762a746e4cbb89ad4d.setContent(html_a686398d4a0612c715448aa4b8526634);
+            
+        
+
+        marker_814863504251a8a9d3c82ae328c3857f.bindPopup(popup_1e852bd7f88d3a762a746e4cbb89ad4d)
+        ;
+
+        
+    
+</script>
+</html>

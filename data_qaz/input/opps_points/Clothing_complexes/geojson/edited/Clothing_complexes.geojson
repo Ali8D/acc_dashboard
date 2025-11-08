@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "ستاره شهر", "name:fa": null, "name:en": "City Star Shopping Center", "lat": 36.272798343921174, "lon": 50.00901236691125 }, "geometry": { "type": "Point", "coordinates": [ 50.00901236691125, 36.272798343921174 ] } },
+{ "type": "Feature", "properties": { "name": "برج تجارت قزوین", "name:fa": null, "name:en": "Tejarat Tower of Qazvin", "lat": 36.280787498962098, "lon": 50.005426257975678 }, "geometry": { "type": "Point", "coordinates": [ 50.005426257975678, 36.280787498962098 ] } },
+{ "type": "Feature", "properties": { "name": "مرکز خرید نارون", "name:fa": null, "name:en": "Narvan Shopping Center", "lat": 36.285558596587173, "lon": 50.010758616796132 }, "geometry": { "type": "Point", "coordinates": [ 50.010758616796132, 36.285558596587173 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع تجاری مهر و ماه", "name:fa": null, "name:en": "Mehr o Mah", "lat": 36.274294000548025, "lon": 50.008138210715018 }, "geometry": { "type": "Point", "coordinates": [ 50.008138210715018, 36.274294000548025 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع تجاری و اداری آبادگران", "name:fa": null, "name:en": "Abadgaran Shopping Center", "lat": 36.270567884991685, "lon": 50.005851323384334 }, "geometry": { "type": "Point", "coordinates": [ 50.005851323384334, 36.270567884991685 ] } },
+{ "type": "Feature", "properties": { "name": "برج خلیج فارس", "name:fa": null, "name:en": "Persian Gulf Tower", "lat": 36.26791058446284, "lon": 50.013521980968513 }, "geometry": { "type": "Point", "coordinates": [ 50.013521980968513, 36.26791058446284 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع تجاری البرز", "name:fa": null, "name:en": "Alborz Commerical", "lat": 36.268851132604809, "lon": 50.008815902007058 }, "geometry": { "type": "Point", "coordinates": [ 50.008815902007058, 36.268851132604809 ] } },
+{ "type": "Feature", "properties": { "name": "مرکز خرید مهستان", "name:fa": null, "name:en": "Pars Commercial Complex", "lat": 36.298092056345141, "lon": 50.00132206013199 }, "geometry": { "type": "Point", "coordinates": [ 50.00132206013199, 36.298092056345141 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع تجاری پارس", "name:fa": null, "name:en": null, "lat": 36.306771652075575, "lon": 49.991074824246276 }, "geometry": { "type": "Point", "coordinates": [ 49.991074824246276, 36.306771652075575 ] } },
+{ "type": "Feature", "properties": { "name": "پوشاک و منسوجات بازار قزوین", "name:fa": null, "name:en": "Clothing and textiles section of Qazvin Bazaar", "lat": 36.269784199592848, "lon": 49.998330410788071 }, "geometry": { "type": "Point", "coordinates": [ 49.998330410788071, 36.269784199592848 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع نور", "name:fa": null, "name:en": "Noor Complex", "lat": 36.282694029540529, "lon": 50.007146352256257 }, "geometry": { "type": "Point", "coordinates": [ 50.007146352256257, 36.282694029540529 ] } },
+{ "type": "Feature", "properties": { "name": "مرکز خرید داریوش", "name:fa": null, "name:en": "Dariush Shopping Center", "lat": 36.283288917144475, "lon": 50.006736873259825 }, "geometry": { "type": "Point", "coordinates": [ 50.006736873259825, 36.283288917144475 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع تجاری الغدیر", "name:fa": null, "name:en": "Alghadir Commercial Complex", "lat": 36.269009480264479, "lon": 50.007618868081579 }, "geometry": { "type": "Point", "coordinates": [ 50.007618868081579, 36.269009480264479 ] } },
+{ "type": "Feature", "properties": { "name": "مرکز خرید ایرانیان", "name:fa": null, "name:en": "Iranian Shopping Center", "lat": 36.278727114161548, "lon": 50.006275917542816 }, "geometry": { "type": "Point", "coordinates": [ 50.006275917542816, 36.278727114161548 ] } }
+]
+}

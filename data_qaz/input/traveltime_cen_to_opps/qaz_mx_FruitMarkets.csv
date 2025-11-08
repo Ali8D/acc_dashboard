@@ -1,0 +1,736 @@
+from_id,to_id,travel_time
+22,Sepah Market,44
+22,Mahdiye Market,37
+22,Qazvin Central Fruit and Vegetable Market,64
+22,Minoudar Fruit and Vegetable Market,33
+22,Qazvin Bazar fruits part,39
+22,SayyadShirazi Barekat market,52
+22,Caspian (Elahieh) Barekat market,47
+31,Sepah Market,21
+31,Mahdiye Market,60
+31,Qazvin Central Fruit and Vegetable Market,42
+31,Minoudar Fruit and Vegetable Market,53
+31,Qazvin Bazar fruits part,37
+31,SayyadShirazi Barekat market,72
+31,Caspian (Elahieh) Barekat market,67
+32,Sepah Market,21
+32,Mahdiye Market,60
+32,Qazvin Central Fruit and Vegetable Market,35
+32,Minoudar Fruit and Vegetable Market,53
+32,Qazvin Bazar fruits part,37
+32,SayyadShirazi Barekat market,70
+32,Caspian (Elahieh) Barekat market,67
+33,Sepah Market,20
+33,Mahdiye Market,65
+33,Qazvin Central Fruit and Vegetable Market,25
+33,Minoudar Fruit and Vegetable Market,57
+33,Qazvin Bazar fruits part,38
+33,SayyadShirazi Barekat market,70
+33,Caspian (Elahieh) Barekat market,69
+36,Sepah Market,13
+36,Mahdiye Market,50
+36,Qazvin Central Fruit and Vegetable Market,37
+36,Minoudar Fruit and Vegetable Market,48
+36,Qazvin Bazar fruits part,35
+36,SayyadShirazi Barekat market,64
+36,Caspian (Elahieh) Barekat market,62
+37,Sepah Market,9
+37,Mahdiye Market,55
+37,Qazvin Central Fruit and Vegetable Market,28
+37,Minoudar Fruit and Vegetable Market,47
+37,Qazvin Bazar fruits part,30
+37,SayyadShirazi Barekat market,61
+37,Caspian (Elahieh) Barekat market,59
+38,Sepah Market,12
+38,Mahdiye Market,57
+38,Qazvin Central Fruit and Vegetable Market,18
+38,Minoudar Fruit and Vegetable Market,47
+38,Qazvin Bazar fruits part,25
+38,SayyadShirazi Barekat market,58
+38,Caspian (Elahieh) Barekat market,59
+39,Sepah Market,20
+39,Mahdiye Market,59
+39,Qazvin Central Fruit and Vegetable Market,7
+39,Minoudar Fruit and Vegetable Market,43
+39,Qazvin Bazar fruits part,27
+39,SayyadShirazi Barekat market,54
+39,Caspian (Elahieh) Barekat market,55
+40,Sepah Market,28
+40,Mahdiye Market,67
+40,Qazvin Central Fruit and Vegetable Market,11
+40,Minoudar Fruit and Vegetable Market,47
+40,Qazvin Bazar fruits part,34
+40,SayyadShirazi Barekat market,58
+40,Caspian (Elahieh) Barekat market,59
+41,Sepah Market,10
+41,Mahdiye Market,48
+41,Qazvin Central Fruit and Vegetable Market,39
+41,Minoudar Fruit and Vegetable Market,46
+41,Qazvin Bazar fruits part,31
+41,SayyadShirazi Barekat market,64
+41,Caspian (Elahieh) Barekat market,61
+42,Sepah Market,12
+42,Mahdiye Market,57
+42,Qazvin Central Fruit and Vegetable Market,25
+42,Minoudar Fruit and Vegetable Market,46
+42,Qazvin Bazar fruits part,16
+42,SayyadShirazi Barekat market,59
+42,Caspian (Elahieh) Barekat market,60
+44,Sepah Market,24
+44,Mahdiye Market,63
+44,Qazvin Central Fruit and Vegetable Market,18
+44,Minoudar Fruit and Vegetable Market,44
+44,Qazvin Bazar fruits part,17
+44,SayyadShirazi Barekat market,56
+44,Caspian (Elahieh) Barekat market,56
+45,Sepah Market,20
+45,Mahdiye Market,40
+45,Qazvin Central Fruit and Vegetable Market,45
+45,Minoudar Fruit and Vegetable Market,37
+45,Qazvin Bazar fruits part,28
+45,SayyadShirazi Barekat market,56
+45,Caspian (Elahieh) Barekat market,51
+46,Sepah Market,30
+46,Mahdiye Market,43
+46,Qazvin Central Fruit and Vegetable Market,56
+46,Minoudar Fruit and Vegetable Market,41
+46,Qazvin Bazar fruits part,41
+46,SayyadShirazi Barekat market,60
+46,Caspian (Elahieh) Barekat market,55
+47,Sepah Market,15
+47,Mahdiye Market,52
+47,Qazvin Central Fruit and Vegetable Market,39
+47,Minoudar Fruit and Vegetable Market,47
+47,Qazvin Bazar fruits part,24
+47,SayyadShirazi Barekat market,62
+47,Caspian (Elahieh) Barekat market,60
+48,Sepah Market,18
+48,Mahdiye Market,45
+48,Qazvin Central Fruit and Vegetable Market,36
+48,Minoudar Fruit and Vegetable Market,40
+48,Qazvin Bazar fruits part,13
+48,SayyadShirazi Barekat market,55
+48,Caspian (Elahieh) Barekat market,55
+49,Sepah Market,18
+49,Mahdiye Market,52
+49,Qazvin Central Fruit and Vegetable Market,34
+49,Minoudar Fruit and Vegetable Market,36
+49,Qazvin Bazar fruits part,6
+49,SayyadShirazi Barekat market,50
+49,Caspian (Elahieh) Barekat market,50
+50,Sepah Market,24
+50,Mahdiye Market,49
+50,Qazvin Central Fruit and Vegetable Market,44
+50,Minoudar Fruit and Vegetable Market,43
+50,Qazvin Bazar fruits part,23
+50,SayyadShirazi Barekat market,58
+50,Caspian (Elahieh) Barekat market,56
+51,Sepah Market,20
+51,Mahdiye Market,45
+51,Qazvin Central Fruit and Vegetable Market,35
+51,Minoudar Fruit and Vegetable Market,42
+51,Qazvin Bazar fruits part,17
+51,SayyadShirazi Barekat market,56
+51,Caspian (Elahieh) Barekat market,55
+52,Sepah Market,29
+52,Mahdiye Market,60
+52,Qazvin Central Fruit and Vegetable Market,28
+52,Minoudar Fruit and Vegetable Market,34
+52,Qazvin Bazar fruits part,9
+52,SayyadShirazi Barekat market,48
+52,Caspian (Elahieh) Barekat market,46
+53,Sepah Market,28
+53,Mahdiye Market,67
+53,Qazvin Central Fruit and Vegetable Market,23
+53,Minoudar Fruit and Vegetable Market,42
+53,Qazvin Bazar fruits part,28
+53,SayyadShirazi Barekat market,53
+53,Caspian (Elahieh) Barekat market,54
+54,Sepah Market,32
+54,Mahdiye Market,36
+54,Qazvin Central Fruit and Vegetable Market,57
+54,Minoudar Fruit and Vegetable Market,32
+54,Qazvin Bazar fruits part,33
+54,SayyadShirazi Barekat market,51
+54,Caspian (Elahieh) Barekat market,46
+55,Sepah Market,31
+55,Mahdiye Market,48
+55,Qazvin Central Fruit and Vegetable Market,50
+55,Minoudar Fruit and Vegetable Market,43
+55,Qazvin Bazar fruits part,24
+55,SayyadShirazi Barekat market,59
+55,Caspian (Elahieh) Barekat market,57
+56,Sepah Market,24
+56,Mahdiye Market,46
+56,Qazvin Central Fruit and Vegetable Market,39
+56,Minoudar Fruit and Vegetable Market,43
+56,Qazvin Bazar fruits part,21
+56,SayyadShirazi Barekat market,57
+56,Caspian (Elahieh) Barekat market,57
+57,Sepah Market,26
+57,Mahdiye Market,48
+57,Qazvin Central Fruit and Vegetable Market,47
+57,Minoudar Fruit and Vegetable Market,45
+57,Qazvin Bazar fruits part,24
+57,SayyadShirazi Barekat market,59
+57,Caspian (Elahieh) Barekat market,59
+59,Sepah Market,16
+59,Mahdiye Market,45
+59,Qazvin Central Fruit and Vegetable Market,35
+59,Minoudar Fruit and Vegetable Market,36
+59,Qazvin Bazar fruits part,12
+59,SayyadShirazi Barekat market,51
+59,Caspian (Elahieh) Barekat market,50
+60,Sepah Market,23
+60,Mahdiye Market,47
+60,Qazvin Central Fruit and Vegetable Market,38
+60,Minoudar Fruit and Vegetable Market,43
+60,Qazvin Bazar fruits part,20
+60,SayyadShirazi Barekat market,58
+60,Caspian (Elahieh) Barekat market,57
+61,Sepah Market,21
+61,Mahdiye Market,48
+61,Qazvin Central Fruit and Vegetable Market,39
+61,Minoudar Fruit and Vegetable Market,32
+61,Qazvin Bazar fruits part,9
+61,SayyadShirazi Barekat market,47
+61,Caspian (Elahieh) Barekat market,46
+62,Sepah Market,30
+62,Mahdiye Market,56
+62,Qazvin Central Fruit and Vegetable Market,36
+62,Minoudar Fruit and Vegetable Market,29
+62,Qazvin Bazar fruits part,8
+62,SayyadShirazi Barekat market,43
+62,Caspian (Elahieh) Barekat market,42
+63,Sepah Market,31
+63,Mahdiye Market,54
+63,Qazvin Central Fruit and Vegetable Market,32
+63,Minoudar Fruit and Vegetable Market,26
+63,Qazvin Bazar fruits part,14
+63,SayyadShirazi Barekat market,40
+63,Caspian (Elahieh) Barekat market,39
+64,Sepah Market,30
+64,Mahdiye Market,42
+64,Qazvin Central Fruit and Vegetable Market,48
+64,Minoudar Fruit and Vegetable Market,43
+64,Qazvin Bazar fruits part,25
+64,SayyadShirazi Barekat market,58
+64,Caspian (Elahieh) Barekat market,58
+65,Sepah Market,36
+65,Mahdiye Market,41
+65,Qazvin Central Fruit and Vegetable Market,61
+65,Minoudar Fruit and Vegetable Market,37
+65,Qazvin Bazar fruits part,35
+65,SayyadShirazi Barekat market,54
+65,Caspian (Elahieh) Barekat market,51
+66,Sepah Market,32
+66,Mahdiye Market,40
+66,Qazvin Central Fruit and Vegetable Market,47
+66,Minoudar Fruit and Vegetable Market,41
+66,Qazvin Bazar fruits part,26
+66,SayyadShirazi Barekat market,56
+66,Caspian (Elahieh) Barekat market,56
+67,Sepah Market,39
+67,Mahdiye Market,45
+67,Qazvin Central Fruit and Vegetable Market,60
+67,Minoudar Fruit and Vegetable Market,39
+67,Qazvin Bazar fruits part,33
+67,SayyadShirazi Barekat market,56
+67,Caspian (Elahieh) Barekat market,53
+68,Sepah Market,27
+68,Mahdiye Market,39
+68,Qazvin Central Fruit and Vegetable Market,46
+68,Minoudar Fruit and Vegetable Market,37
+68,Qazvin Bazar fruits part,21
+68,SayyadShirazi Barekat market,54
+68,Caspian (Elahieh) Barekat market,53
+69,Sepah Market,29
+69,Mahdiye Market,42
+69,Qazvin Central Fruit and Vegetable Market,45
+69,Minoudar Fruit and Vegetable Market,32
+69,Qazvin Bazar fruits part,18
+69,SayyadShirazi Barekat market,49
+69,Caspian (Elahieh) Barekat market,47
+70,Sepah Market,38
+70,Mahdiye Market,41
+70,Qazvin Central Fruit and Vegetable Market,58
+70,Minoudar Fruit and Vegetable Market,40
+70,Qazvin Bazar fruits part,33
+70,SayyadShirazi Barekat market,56
+70,Caspian (Elahieh) Barekat market,54
+71,Sepah Market,38
+71,Mahdiye Market,38
+71,Qazvin Central Fruit and Vegetable Market,57
+71,Minoudar Fruit and Vegetable Market,39
+71,Qazvin Bazar fruits part,29
+71,SayyadShirazi Barekat market,54
+71,Caspian (Elahieh) Barekat market,52
+72,Sepah Market,35
+72,Mahdiye Market,35
+72,Qazvin Central Fruit and Vegetable Market,52
+72,Minoudar Fruit and Vegetable Market,37
+72,Qazvin Bazar fruits part,27
+72,SayyadShirazi Barekat market,52
+72,Caspian (Elahieh) Barekat market,50
+73,Sepah Market,33
+73,Mahdiye Market,50
+73,Qazvin Central Fruit and Vegetable Market,46
+73,Minoudar Fruit and Vegetable Market,27
+73,Qazvin Bazar fruits part,17
+73,SayyadShirazi Barekat market,40
+73,Caspian (Elahieh) Barekat market,41
+74,Sepah Market,38
+74,Mahdiye Market,54
+74,Qazvin Central Fruit and Vegetable Market,39
+74,Minoudar Fruit and Vegetable Market,25
+74,Qazvin Bazar fruits part,24
+74,SayyadShirazi Barekat market,43
+74,Caspian (Elahieh) Barekat market,39
+75,Sepah Market,33
+75,Mahdiye Market,33
+75,Qazvin Central Fruit and Vegetable Market,56
+75,Minoudar Fruit and Vegetable Market,29
+75,Qazvin Bazar fruits part,31
+75,SayyadShirazi Barekat market,48
+75,Caspian (Elahieh) Barekat market,43
+76,Sepah Market,42
+76,Mahdiye Market,56
+76,Qazvin Central Fruit and Vegetable Market,45
+76,Minoudar Fruit and Vegetable Market,27
+76,Qazvin Bazar fruits part,26
+76,SayyadShirazi Barekat market,42
+76,Caspian (Elahieh) Barekat market,41
+77,Sepah Market,35
+77,Mahdiye Market,36
+77,Qazvin Central Fruit and Vegetable Market,52
+77,Minoudar Fruit and Vegetable Market,35
+77,Qazvin Bazar fruits part,27
+77,SayyadShirazi Barekat market,51
+77,Caspian (Elahieh) Barekat market,49
+78,Sepah Market,34
+78,Mahdiye Market,42
+78,Qazvin Central Fruit and Vegetable Market,50
+78,Minoudar Fruit and Vegetable Market,29
+78,Qazvin Bazar fruits part,25
+78,SayyadShirazi Barekat market,45
+78,Caspian (Elahieh) Barekat market,45
+79,Sepah Market,40
+79,Mahdiye Market,46
+79,Qazvin Central Fruit and Vegetable Market,52
+79,Minoudar Fruit and Vegetable Market,25
+79,Qazvin Bazar fruits part,22
+79,SayyadShirazi Barekat market,37
+79,Caspian (Elahieh) Barekat market,38
+80,Sepah Market,41
+80,Mahdiye Market,55
+80,Qazvin Central Fruit and Vegetable Market,48
+80,Minoudar Fruit and Vegetable Market,27
+80,Qazvin Bazar fruits part,22
+80,SayyadShirazi Barekat market,38
+80,Caspian (Elahieh) Barekat market,39
+81,Sepah Market,39
+81,Mahdiye Market,37
+81,Qazvin Central Fruit and Vegetable Market,60
+81,Minoudar Fruit and Vegetable Market,32
+81,Qazvin Bazar fruits part,34
+81,SayyadShirazi Barekat market,51
+81,Caspian (Elahieh) Barekat market,46
+82,Sepah Market,39
+82,Mahdiye Market,32
+82,Qazvin Central Fruit and Vegetable Market,56
+82,Minoudar Fruit and Vegetable Market,29
+82,Qazvin Bazar fruits part,31
+82,SayyadShirazi Barekat market,48
+82,Caspian (Elahieh) Barekat market,43
+83,Sepah Market,36
+83,Mahdiye Market,31
+83,Qazvin Central Fruit and Vegetable Market,53
+83,Minoudar Fruit and Vegetable Market,27
+83,Qazvin Bazar fruits part,29
+83,SayyadShirazi Barekat market,46
+83,Caspian (Elahieh) Barekat market,42
+84,Sepah Market,43
+84,Mahdiye Market,37
+84,Qazvin Central Fruit and Vegetable Market,63
+84,Minoudar Fruit and Vegetable Market,33
+84,Qazvin Bazar fruits part,38
+84,SayyadShirazi Barekat market,52
+84,Caspian (Elahieh) Barekat market,47
+85,Sepah Market,39
+85,Mahdiye Market,37
+85,Qazvin Central Fruit and Vegetable Market,54
+85,Minoudar Fruit and Vegetable Market,24
+85,Qazvin Bazar fruits part,30
+85,SayyadShirazi Barekat market,43
+85,Caspian (Elahieh) Barekat market,40
+86,Sepah Market,39
+86,Mahdiye Market,31
+86,Qazvin Central Fruit and Vegetable Market,53
+86,Minoudar Fruit and Vegetable Market,25
+86,Qazvin Bazar fruits part,31
+86,SayyadShirazi Barekat market,44
+86,Caspian (Elahieh) Barekat market,39
+87,Sepah Market,36
+87,Mahdiye Market,24
+87,Qazvin Central Fruit and Vegetable Market,57
+87,Minoudar Fruit and Vegetable Market,30
+87,Qazvin Bazar fruits part,32
+87,SayyadShirazi Barekat market,49
+87,Caspian (Elahieh) Barekat market,44
+88,Sepah Market,39
+88,Mahdiye Market,28
+88,Qazvin Central Fruit and Vegetable Market,57
+88,Minoudar Fruit and Vegetable Market,28
+88,Qazvin Bazar fruits part,32
+88,SayyadShirazi Barekat market,47
+88,Caspian (Elahieh) Barekat market,42
+89,Sepah Market,38
+89,Mahdiye Market,34
+89,Qazvin Central Fruit and Vegetable Market,57
+89,Minoudar Fruit and Vegetable Market,16
+89,Qazvin Bazar fruits part,34
+89,SayyadShirazi Barekat market,35
+89,Caspian (Elahieh) Barekat market,32
+90,Sepah Market,48
+90,Mahdiye Market,53
+90,Qazvin Central Fruit and Vegetable Market,55
+90,Minoudar Fruit and Vegetable Market,28
+90,Qazvin Bazar fruits part,27
+90,SayyadShirazi Barekat market,35
+90,Caspian (Elahieh) Barekat market,40
+91,Sepah Market,49
+91,Mahdiye Market,46
+91,Qazvin Central Fruit and Vegetable Market,58
+91,Minoudar Fruit and Vegetable Market,20
+91,Qazvin Bazar fruits part,29
+91,SayyadShirazi Barekat market,31
+91,Caspian (Elahieh) Barekat market,32
+92,Sepah Market,47
+92,Mahdiye Market,29
+92,Qazvin Central Fruit and Vegetable Market,72
+92,Minoudar Fruit and Vegetable Market,47
+92,Qazvin Bazar fruits part,43
+92,SayyadShirazi Barekat market,66
+92,Caspian (Elahieh) Barekat market,61
+93,Sepah Market,43
+93,Mahdiye Market,22
+93,Qazvin Central Fruit and Vegetable Market,67
+93,Minoudar Fruit and Vegetable Market,40
+93,Qazvin Bazar fruits part,39
+93,SayyadShirazi Barekat market,59
+93,Caspian (Elahieh) Barekat market,56
+94,Sepah Market,46
+94,Mahdiye Market,40
+94,Qazvin Central Fruit and Vegetable Market,61
+94,Minoudar Fruit and Vegetable Market,16
+94,Qazvin Bazar fruits part,33
+94,SayyadShirazi Barekat market,35
+94,Caspian (Elahieh) Barekat market,33
+95,Sepah Market,45
+95,Mahdiye Market,35
+95,Qazvin Central Fruit and Vegetable Market,64
+95,Minoudar Fruit and Vegetable Market,17
+95,Qazvin Bazar fruits part,40
+95,SayyadShirazi Barekat market,35
+95,Caspian (Elahieh) Barekat market,33
+96,Sepah Market,46
+96,Mahdiye Market,25
+96,Qazvin Central Fruit and Vegetable Market,67
+96,Minoudar Fruit and Vegetable Market,32
+96,Qazvin Bazar fruits part,42
+96,SayyadShirazi Barekat market,53
+96,Caspian (Elahieh) Barekat market,50
+97,Sepah Market,58
+97,Mahdiye Market,57
+97,Qazvin Central Fruit and Vegetable Market,65
+97,Minoudar Fruit and Vegetable Market,29
+97,Qazvin Bazar fruits part,37
+97,SayyadShirazi Barekat market,28
+97,Caspian (Elahieh) Barekat market,40
+99,Sepah Market,52
+99,Mahdiye Market,17
+99,Qazvin Central Fruit and Vegetable Market,75
+99,Minoudar Fruit and Vegetable Market,26
+99,Qazvin Bazar fruits part,50
+99,SayyadShirazi Barekat market,49
+99,Caspian (Elahieh) Barekat market,47
+100,Sepah Market,61
+100,Mahdiye Market,55
+100,Qazvin Central Fruit and Vegetable Market,68
+100,Minoudar Fruit and Vegetable Market,24
+100,Qazvin Bazar fruits part,40
+100,SayyadShirazi Barekat market,14
+100,Caspian (Elahieh) Barekat market,29
+98,Sepah Market,56
+98,Mahdiye Market,43
+98,Qazvin Central Fruit and Vegetable Market,63
+98,Minoudar Fruit and Vegetable Market,10
+98,Qazvin Bazar fruits part,35
+98,SayyadShirazi Barekat market,23
+98,Caspian (Elahieh) Barekat market,30
+101,Sepah Market,54
+101,Mahdiye Market,21
+101,Qazvin Central Fruit and Vegetable Market,78
+101,Minoudar Fruit and Vegetable Market,44
+101,Qazvin Bazar fruits part,51
+101,SayyadShirazi Barekat market,66
+101,Caspian (Elahieh) Barekat market,60
+102,Sepah Market,54
+102,Mahdiye Market,16
+102,Qazvin Central Fruit and Vegetable Market,75
+102,Minoudar Fruit and Vegetable Market,44
+102,Qazvin Bazar fruits part,50
+102,SayyadShirazi Barekat market,67
+102,Caspian (Elahieh) Barekat market,59
+103,Sepah Market,54
+103,Mahdiye Market,14
+103,Qazvin Central Fruit and Vegetable Market,77
+103,Minoudar Fruit and Vegetable Market,43
+103,Qazvin Bazar fruits part,52
+103,SayyadShirazi Barekat market,67
+103,Caspian (Elahieh) Barekat market,58
+104,Sepah Market,64
+104,Mahdiye Market,24
+104,Qazvin Central Fruit and Vegetable Market,86
+104,Minoudar Fruit and Vegetable Market,51
+104,Qazvin Bazar fruits part,60
+104,SayyadShirazi Barekat market,74
+104,Caspian (Elahieh) Barekat market,68
+105,Sepah Market,58
+105,Mahdiye Market,14
+105,Qazvin Central Fruit and Vegetable Market,83
+105,Minoudar Fruit and Vegetable Market,43
+105,Qazvin Bazar fruits part,58
+105,SayyadShirazi Barekat market,64
+105,Caspian (Elahieh) Barekat market,54
+107,Sepah Market,61
+107,Mahdiye Market,54
+107,Qazvin Central Fruit and Vegetable Market,68
+107,Minoudar Fruit and Vegetable Market,23
+107,Qazvin Bazar fruits part,40
+107,SayyadShirazi Barekat market,10
+107,Caspian (Elahieh) Barekat market,25
+108,Sepah Market,69
+108,Mahdiye Market,55
+108,Qazvin Central Fruit and Vegetable Market,76
+108,Minoudar Fruit and Vegetable Market,27
+108,Qazvin Bazar fruits part,48
+108,SayyadShirazi Barekat market,25
+108,Caspian (Elahieh) Barekat market,17
+109,Sepah Market,64
+109,Mahdiye Market,57
+109,Qazvin Central Fruit and Vegetable Market,71
+109,Minoudar Fruit and Vegetable Market,26
+109,Qazvin Bazar fruits part,43
+109,SayyadShirazi Barekat market,18
+109,Caspian (Elahieh) Barekat market,11
+110,Sepah Market,61
+110,Mahdiye Market,46
+110,Qazvin Central Fruit and Vegetable Market,68
+110,Minoudar Fruit and Vegetable Market,12
+110,Qazvin Bazar fruits part,40
+110,SayyadShirazi Barekat market,25
+110,Caspian (Elahieh) Barekat market,23
+111,Sepah Market,50
+111,Mahdiye Market,30
+111,Qazvin Central Fruit and Vegetable Market,69
+111,Minoudar Fruit and Vegetable Market,15
+111,Qazvin Bazar fruits part,45
+111,SayyadShirazi Barekat market,38
+111,Caspian (Elahieh) Barekat market,36
+112,Sepah Market,53
+112,Mahdiye Market,16
+112,Qazvin Central Fruit and Vegetable Market,74
+112,Minoudar Fruit and Vegetable Market,31
+112,Qazvin Bazar fruits part,50
+112,SayyadShirazi Barekat market,54
+112,Caspian (Elahieh) Barekat market,41
+113,Sepah Market,65
+113,Mahdiye Market,25
+113,Qazvin Central Fruit and Vegetable Market,90
+113,Minoudar Fruit and Vegetable Market,51
+113,Qazvin Bazar fruits part,65
+113,SayyadShirazi Barekat market,74
+113,Caspian (Elahieh) Barekat market,64
+114,Sepah Market,56
+114,Mahdiye Market,16
+114,Qazvin Central Fruit and Vegetable Market,79
+114,Minoudar Fruit and Vegetable Market,34
+114,Qazvin Bazar fruits part,54
+114,SayyadShirazi Barekat market,57
+114,Caspian (Elahieh) Barekat market,42
+115,Sepah Market,67
+115,Mahdiye Market,59
+115,Qazvin Central Fruit and Vegetable Market,74
+115,Minoudar Fruit and Vegetable Market,26
+115,Qazvin Bazar fruits part,46
+115,SayyadShirazi Barekat market,30
+115,Caspian (Elahieh) Barekat market,6
+116,Sepah Market,72
+116,Mahdiye Market,55
+116,Qazvin Central Fruit and Vegetable Market,79
+116,Minoudar Fruit and Vegetable Market,25
+116,Qazvin Bazar fruits part,51
+116,SayyadShirazi Barekat market,39
+116,Caspian (Elahieh) Barekat market,15
+117,Sepah Market,55
+117,Mahdiye Market,30
+117,Qazvin Central Fruit and Vegetable Market,76
+117,Minoudar Fruit and Vegetable Market,30
+117,Qazvin Bazar fruits part,52
+117,SayyadShirazi Barekat market,53
+117,Caspian (Elahieh) Barekat market,35
+106,Sepah Market,61
+106,Mahdiye Market,35
+106,Qazvin Central Fruit and Vegetable Market,79
+106,Minoudar Fruit and Vegetable Market,22
+106,Qazvin Bazar fruits part,52
+106,SayyadShirazi Barekat market,44
+106,Caspian (Elahieh) Barekat market,30
+118,Sepah Market,69
+118,Mahdiye Market,49
+118,Qazvin Central Fruit and Vegetable Market,76
+118,Minoudar Fruit and Vegetable Market,19
+118,Qazvin Bazar fruits part,47
+118,SayyadShirazi Barekat market,38
+118,Caspian (Elahieh) Barekat market,21
+119,Sepah Market,66
+119,Mahdiye Market,59
+119,Qazvin Central Fruit and Vegetable Market,73
+119,Minoudar Fruit and Vegetable Market,28
+119,Qazvin Bazar fruits part,45
+119,SayyadShirazi Barekat market,29
+119,Caspian (Elahieh) Barekat market,17
+120,Sepah Market,33
+120,Mahdiye Market,42
+120,Qazvin Central Fruit and Vegetable Market,58
+120,Minoudar Fruit and Vegetable Market,38
+120,Qazvin Bazar fruits part,33
+120,SayyadShirazi Barekat market,57
+120,Caspian (Elahieh) Barekat market,52
+121,Sepah Market,28
+121,Mahdiye Market,41
+121,Qazvin Central Fruit and Vegetable Market,53
+121,Minoudar Fruit and Vegetable Market,36
+121,Qazvin Bazar fruits part,29
+121,SayyadShirazi Barekat market,55
+121,Caspian (Elahieh) Barekat market,50
+122,Sepah Market,45
+122,Mahdiye Market,42
+122,Qazvin Central Fruit and Vegetable Market,56
+122,Minoudar Fruit and Vegetable Market,23
+122,Qazvin Bazar fruits part,28
+122,SayyadShirazi Barekat market,39
+122,Caspian (Elahieh) Barekat market,39
+123,Sepah Market,54
+123,Mahdiye Market,50
+123,Qazvin Central Fruit and Vegetable Market,61
+123,Minoudar Fruit and Vegetable Market,23
+123,Qazvin Bazar fruits part,33
+123,SayyadShirazi Barekat market,25
+123,Caspian (Elahieh) Barekat market,36
+124,Sepah Market,43
+124,Mahdiye Market,33
+124,Qazvin Central Fruit and Vegetable Market,62
+124,Minoudar Fruit and Vegetable Market,20
+124,Qazvin Bazar fruits part,38
+124,SayyadShirazi Barekat market,40
+124,Caspian (Elahieh) Barekat market,37
+125,Sepah Market,43
+125,Mahdiye Market,26
+125,Qazvin Central Fruit and Vegetable Market,63
+125,Minoudar Fruit and Vegetable Market,28
+125,Qazvin Bazar fruits part,39
+125,SayyadShirazi Barekat market,50
+125,Caspian (Elahieh) Barekat market,47
+126,Sepah Market,50
+126,Mahdiye Market,20
+126,Qazvin Central Fruit and Vegetable Market,74
+126,Minoudar Fruit and Vegetable Market,43
+126,Qazvin Bazar fruits part,45
+126,SayyadShirazi Barekat market,64
+126,Caspian (Elahieh) Barekat market,58
+127,Sepah Market,54
+127,Mahdiye Market,6
+127,Qazvin Central Fruit and Vegetable Market,79
+127,Minoudar Fruit and Vegetable Market,33
+127,Qazvin Bazar fruits part,54
+127,SayyadShirazi Barekat market,56
+127,Caspian (Elahieh) Barekat market,51
+128,Sepah Market,50
+128,Mahdiye Market,15
+128,Qazvin Central Fruit and Vegetable Market,71
+128,Minoudar Fruit and Vegetable Market,23
+128,Qazvin Bazar fruits part,47
+128,SayyadShirazi Barekat market,46
+128,Caspian (Elahieh) Barekat market,41
+129,Sepah Market,63
+129,Mahdiye Market,23
+129,Qazvin Central Fruit and Vegetable Market,86
+129,Minoudar Fruit and Vegetable Market,50
+129,Qazvin Bazar fruits part,61
+129,SayyadShirazi Barekat market,73
+129,Caspian (Elahieh) Barekat market,63
+130,Sepah Market,62
+130,Mahdiye Market,22
+130,Qazvin Central Fruit and Vegetable Market,87
+130,Minoudar Fruit and Vegetable Market,43
+130,Qazvin Bazar fruits part,62
+130,SayyadShirazi Barekat market,66
+130,Caspian (Elahieh) Barekat market,52
+131,Sepah Market,61
+131,Mahdiye Market,21
+131,Qazvin Central Fruit and Vegetable Market,86
+131,Minoudar Fruit and Vegetable Market,43
+131,Qazvin Bazar fruits part,61
+131,SayyadShirazi Barekat market,66
+131,Caspian (Elahieh) Barekat market,52
+132,Sepah Market,65
+132,Mahdiye Market,41
+132,Qazvin Central Fruit and Vegetable Market,74
+132,Minoudar Fruit and Vegetable Market,16
+132,Qazvin Bazar fruits part,46
+132,SayyadShirazi Barekat market,35
+132,Caspian (Elahieh) Barekat market,30
+133,Sepah Market,65
+133,Mahdiye Market,45
+133,Qazvin Central Fruit and Vegetable Market,73
+133,Minoudar Fruit and Vegetable Market,16
+133,Qazvin Bazar fruits part,44
+133,SayyadShirazi Barekat market,32
+133,Caspian (Elahieh) Barekat market,25
+134,Sepah Market,60
+134,Mahdiye Market,51
+134,Qazvin Central Fruit and Vegetable Market,67
+134,Minoudar Fruit and Vegetable Market,18
+134,Qazvin Bazar fruits part,39
+134,SayyadShirazi Barekat market,16
+134,Caspian (Elahieh) Barekat market,19
+135,Sepah Market,63
+135,Mahdiye Market,56
+135,Qazvin Central Fruit and Vegetable Market,70
+135,Minoudar Fruit and Vegetable Market,25
+135,Qazvin Bazar fruits part,42
+135,SayyadShirazi Barekat market,26
+135,Caspian (Elahieh) Barekat market,8
+157,Sepah Market,44
+157,Mahdiye Market,27
+157,Qazvin Central Fruit and Vegetable Market,64
+157,Minoudar Fruit and Vegetable Market,36
+157,Qazvin Bazar fruits part,39
+157,SayyadShirazi Barekat market,55
+157,Caspian (Elahieh) Barekat market,50
+158,Sepah Market,47
+158,Mahdiye Market,18
+158,Qazvin Central Fruit and Vegetable Market,68
+158,Minoudar Fruit and Vegetable Market,25
+158,Qazvin Bazar fruits part,44
+158,SayyadShirazi Barekat market,48
+158,Caspian (Elahieh) Barekat market,39
+160,Sepah Market,47
+160,Mahdiye Market,32
+160,Qazvin Central Fruit and Vegetable Market,66
+160,Minoudar Fruit and Vegetable Market,19
+160,Qazvin Bazar fruits part,44
+160,SayyadShirazi Barekat market,41
+160,Caspian (Elahieh) Barekat market,39

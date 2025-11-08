@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_71f8b2b3909cf3f0a5d122d1d3a57b40 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_71f8b2b3909cf3f0a5d122d1d3a57b40" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_71f8b2b3909cf3f0a5d122d1d3a57b40 = L.map(
+                "map_71f8b2b3909cf3f0a5d122d1d3a57b40",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_82f177c17b08efe58d352d53cf76c375 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var marker_09f075a2b61af326aa24c9502cce3369 = L.marker(
+                [36.26712303761602, 50.02201261762233],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_942114704471b9e0592020588b127570 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_09f075a2b61af326aa24c9502cce3369.setIcon(icon_942114704471b9e0592020588b127570);
+        
+    
+        var popup_c6f4e9d3226833e4c59bcd248fd012ff = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7a1be1bf435dcf5212d31db85499a4c8 = $(`<div id="html_7a1be1bf435dcf5212d31db85499a4c8" style="width: 100.0%; height: 100.0%;">ورزشگاه شهید رجایی<br>Shahid Rajaei Stadium</div>`)[0];
+                popup_c6f4e9d3226833e4c59bcd248fd012ff.setContent(html_7a1be1bf435dcf5212d31db85499a4c8);
+            
+        
+
+        marker_09f075a2b61af326aa24c9502cce3369.bindPopup(popup_c6f4e9d3226833e4c59bcd248fd012ff)
+        ;
+
+        
+    
+    
+            var marker_56465c31083b0d6591969282138b6561 = L.marker(
+                [36.32518886670536, 49.99405029600933],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_402d9179dd3072ffdc23ee072eb2df01 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_56465c31083b0d6591969282138b6561.setIcon(icon_402d9179dd3072ffdc23ee072eb2df01);
+        
+    
+        var popup_c76174043722d2541225b89e3fd67caf = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_35f4942d489aaa579383c2110097bacf = $(`<div id="html_35f4942d489aaa579383c2110097bacf" style="width: 100.0%; height: 100.0%;">مجموعه ورزشی کانون رشد<br>Kanoon Roshd Sport Complex</div>`)[0];
+                popup_c76174043722d2541225b89e3fd67caf.setContent(html_35f4942d489aaa579383c2110097bacf);
+            
+        
+
+        marker_56465c31083b0d6591969282138b6561.bindPopup(popup_c76174043722d2541225b89e3fd67caf)
+        ;
+
+        
+    
+    
+            var marker_00f60bdff1d5aa68513024ce5b49dae5 = L.marker(
+                [36.25849730331092, 49.99527479600852],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_bf04c777d1e2372657090b266f63b953 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_00f60bdff1d5aa68513024ce5b49dae5.setIcon(icon_bf04c777d1e2372657090b266f63b953);
+        
+    
+        var popup_c1cb4d44db0a84cfc2f7db6c47a9c1ef = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d6c690373dab23655c7af3ee75986d71 = $(`<div id="html_d6c690373dab23655c7af3ee75986d71" style="width: 100.0%; height: 100.0%;">مجموعه ورزشی معلم<br>Moallem Sport Cpmplex</div>`)[0];
+                popup_c1cb4d44db0a84cfc2f7db6c47a9c1ef.setContent(html_d6c690373dab23655c7af3ee75986d71);
+            
+        
+
+        marker_00f60bdff1d5aa68513024ce5b49dae5.bindPopup(popup_c1cb4d44db0a84cfc2f7db6c47a9c1ef)
+        ;
+
+        
+    
+    
+            var marker_947afd4f49a3d217aeb3594abd07167e = L.marker(
+                [36.29111737846304, 50.003311216945406],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_c85f4f5166081c051b09a8926fdebaff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_947afd4f49a3d217aeb3594abd07167e.setIcon(icon_c85f4f5166081c051b09a8926fdebaff);
+        
+    
+        var popup_e5c0e3b700e5914f293b9ac240077124 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_23edf35dd77257cf4cb2350ce9ce4bc6 = $(`<div id="html_23edf35dd77257cf4cb2350ce9ce4bc6" style="width: 100.0%; height: 100.0%;">مجتمع ورزشی الغدیر<br>Ghadir Sport complex</div>`)[0];
+                popup_e5c0e3b700e5914f293b9ac240077124.setContent(html_23edf35dd77257cf4cb2350ce9ce4bc6);
+            
+        
+
+        marker_947afd4f49a3d217aeb3594abd07167e.bindPopup(popup_e5c0e3b700e5914f293b9ac240077124)
+        ;
+
+        
+    
+    
+            var marker_a07dd4b44f39ab8718795428ee26bbbe = L.marker(
+                [36.30835570364009, 50.00505014443737],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_6fee675ea988a62b2612e2e0db8af3b9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_a07dd4b44f39ab8718795428ee26bbbe.setIcon(icon_6fee675ea988a62b2612e2e0db8af3b9);
+        
+    
+        var popup_577d0dc5fd6f4b5aeb3e484266a218fb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d9774c607a86845262f71a9e0afba3a2 = $(`<div id="html_d9774c607a86845262f71a9e0afba3a2" style="width: 100.0%; height: 100.0%;">مجموعه فرهنگی ورزشی چمران<br>Chamran Sport Complex</div>`)[0];
+                popup_577d0dc5fd6f4b5aeb3e484266a218fb.setContent(html_d9774c607a86845262f71a9e0afba3a2);
+            
+        
+
+        marker_a07dd4b44f39ab8718795428ee26bbbe.bindPopup(popup_577d0dc5fd6f4b5aeb3e484266a218fb)
+        ;
+
+        
+    
+    
+            var marker_4df9f580b074857e576406f771dd1341 = L.marker(
+                [36.31347224323686, 50.02312734915704],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_91a5fa2c224ef975b82f51c98010a912 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_4df9f580b074857e576406f771dd1341.setIcon(icon_91a5fa2c224ef975b82f51c98010a912);
+        
+    
+        var popup_a0a2c9bb70f8ef36dfd562bded22c556 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c42b5f27f1b7d33beaba9ea897f17504 = $(`<div id="html_c42b5f27f1b7d33beaba9ea897f17504" style="width: 100.0%; height: 100.0%;">مجموعه ورزشی ریحانه حضرت رسول<br>Reyhane Hazrat Rasoul Sport complex</div>`)[0];
+                popup_a0a2c9bb70f8ef36dfd562bded22c556.setContent(html_c42b5f27f1b7d33beaba9ea897f17504);
+            
+        
+
+        marker_4df9f580b074857e576406f771dd1341.bindPopup(popup_a0a2c9bb70f8ef36dfd562bded22c556)
+        ;
+
+        
+    
+    
+            var marker_05f378ecb06599bf1bd319092e42f15e = L.marker(
+                [36.31566083710565, 49.98672002573247],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_91f6322679f9c349027ea361d3d5972f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_05f378ecb06599bf1bd319092e42f15e.setIcon(icon_91f6322679f9c349027ea361d3d5972f);
+        
+    
+        var popup_082a205e4bd08894bac7d94ecb58f509 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6b16524b5830d088f943ecdf6d192fc2 = $(`<div id="html_6b16524b5830d088f943ecdf6d192fc2" style="width: 100.0%; height: 100.0%;">مجموعه ورزشی خلیج فارس<br>Persian Gulf sport complex</div>`)[0];
+                popup_082a205e4bd08894bac7d94ecb58f509.setContent(html_6b16524b5830d088f943ecdf6d192fc2);
+            
+        
+
+        marker_05f378ecb06599bf1bd319092e42f15e.bindPopup(popup_082a205e4bd08894bac7d94ecb58f509)
+        ;
+
+        
+    
+    
+            var marker_cf274316f313cbb4e9237d7cdbf49c12 = L.marker(
+                [36.30200471773358, 50.00312915807467],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_1fc08ee6acdb774123667e67e47ccba3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_cf274316f313cbb4e9237d7cdbf49c12.setIcon(icon_1fc08ee6acdb774123667e67e47ccba3);
+        
+    
+        var popup_dacdad24fc5e78ee74969b9bde46c133 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_aeb06dcac8e60fd6a8d0c7b51fe088dc = $(`<div id="html_aeb06dcac8e60fd6a8d0c7b51fe088dc" style="width: 100.0%; height: 100.0%;">مجموعه ورزشی شهدای مدافع حرم<br>Shohadaye Modafe e Haram sport complex</div>`)[0];
+                popup_dacdad24fc5e78ee74969b9bde46c133.setContent(html_aeb06dcac8e60fd6a8d0c7b51fe088dc);
+            
+        
+
+        marker_cf274316f313cbb4e9237d7cdbf49c12.bindPopup(popup_dacdad24fc5e78ee74969b9bde46c133)
+        ;
+
+        
+    
+    
+            var marker_c900c118eca0032d2fe6092fe7a131f6 = L.marker(
+                [36.270681588239675, 50.014470072445036],
+                {}
+            ).addTo(map_71f8b2b3909cf3f0a5d122d1d3a57b40);
+        
+    
+            var icon_f022c28038b32cfcf7427a79673ab758 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-dumbbell", "iconColor": "white", "markerColor": "orange", "prefix": "fa"}
+            );
+            marker_c900c118eca0032d2fe6092fe7a131f6.setIcon(icon_f022c28038b32cfcf7427a79673ab758);
+        
+    
+        var popup_918d4535f44424957784ba986f4fc069 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b26e8686bb454e57126187606a739863 = $(`<div id="html_b26e8686bb454e57126187606a739863" style="width: 100.0%; height: 100.0%;">مجموعه ورزشی کوثر<br>Kowsar Sport Complex</div>`)[0];
+                popup_918d4535f44424957784ba986f4fc069.setContent(html_b26e8686bb454e57126187606a739863);
+            
+        
+
+        marker_c900c118eca0032d2fe6092fe7a131f6.bindPopup(popup_918d4535f44424957784ba986f4fc069)
+        ;
+
+        
+    
+</script>
+</html>

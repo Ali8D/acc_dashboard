@@ -1,0 +1,1156 @@
+from_id,to_id,travel_time
+22,Kowsar Hospital,33
+22,Velayat Hospital,50
+22,Shahid Rajayi Hospital,21
+22,Bouali Sina(Avecina) Hospital,40
+22,Pasteur Hospital,36
+22,Hospital 553 of Army (Shahid Behboudi),19
+22,Qods Hospital,23
+22,Mehregan Hospital,38
+22,Zakariyaye Razi Hospital,48
+22, 22 Bahman Psychiatric Hospital,53
+22,Dehkhoda Hospital,35
+31,Kowsar Hospital,35
+31,Velayat Hospital,70
+31,Shahid Rajayi Hospital,50
+31,Bouali Sina(Avecina) Hospital,39
+31,Pasteur Hospital,38
+31,Hospital 553 of Army (Shahid Behboudi),48
+31,Qods Hospital,44
+31,Mehregan Hospital,38
+31,Zakariyaye Razi Hospital,71
+31, 22 Bahman Psychiatric Hospital,11
+31,Dehkhoda Hospital,45
+32,Kowsar Hospital,35
+32,Velayat Hospital,70
+32,Shahid Rajayi Hospital,50
+32,Bouali Sina(Avecina) Hospital,39
+32,Pasteur Hospital,38
+32,Hospital 553 of Army (Shahid Behboudi),48
+32,Qods Hospital,44
+32,Mehregan Hospital,38
+32,Zakariyaye Razi Hospital,71
+32, 22 Bahman Psychiatric Hospital,15
+32,Dehkhoda Hospital,45
+33,Kowsar Hospital,40
+33,Velayat Hospital,76
+33,Shahid Rajayi Hospital,56
+33,Bouali Sina(Avecina) Hospital,42
+33,Pasteur Hospital,44
+33,Hospital 553 of Army (Shahid Behboudi),54
+33,Qods Hospital,50
+33,Mehregan Hospital,41
+33,Zakariyaye Razi Hospital,76
+33, 22 Bahman Psychiatric Hospital,21
+33,Dehkhoda Hospital,48
+36,Kowsar Hospital,29
+36,Velayat Hospital,65
+36,Shahid Rajayi Hospital,37
+36,Bouali Sina(Avecina) Hospital,37
+36,Pasteur Hospital,31
+36,Hospital 553 of Army (Shahid Behboudi),38
+36,Qods Hospital,33
+36,Mehregan Hospital,36
+36,Zakariyaye Razi Hospital,61
+36, 22 Bahman Psychiatric Hospital,25
+36,Dehkhoda Hospital,43
+37,Kowsar Hospital,30
+37,Velayat Hospital,66
+37,Shahid Rajayi Hospital,46
+37,Bouali Sina(Avecina) Hospital,32
+37,Pasteur Hospital,34
+37,Hospital 553 of Army (Shahid Behboudi),44
+37,Qods Hospital,40
+37,Mehregan Hospital,31
+37,Zakariyaye Razi Hospital,66
+37, 22 Bahman Psychiatric Hospital,19
+37,Dehkhoda Hospital,38
+38,Kowsar Hospital,33
+38,Velayat Hospital,66
+38,Shahid Rajayi Hospital,49
+38,Bouali Sina(Avecina) Hospital,33
+38,Pasteur Hospital,41
+38,Hospital 553 of Army (Shahid Behboudi),50
+38,Qods Hospital,46
+38,Mehregan Hospital,32
+38,Zakariyaye Razi Hospital,67
+38, 22 Bahman Psychiatric Hospital,29
+38,Dehkhoda Hospital,37
+39,Kowsar Hospital,37
+39,Velayat Hospital,62
+39,Shahid Rajayi Hospital,55
+39,Bouali Sina(Avecina) Hospital,36
+39,Pasteur Hospital,48
+39,Hospital 553 of Army (Shahid Behboudi),58
+39,Qods Hospital,54
+39,Mehregan Hospital,35
+39,Zakariyaye Razi Hospital,68
+39, 22 Bahman Psychiatric Hospital,38
+39,Dehkhoda Hospital,38
+40,Kowsar Hospital,45
+40,Velayat Hospital,66
+40,Shahid Rajayi Hospital,63
+40,Bouali Sina(Avecina) Hospital,42
+40,Pasteur Hospital,56
+40,Hospital 553 of Army (Shahid Behboudi),65
+40,Qods Hospital,62
+40,Mehregan Hospital,42
+40,Zakariyaye Razi Hospital,76
+40, 22 Bahman Psychiatric Hospital,47
+40,Dehkhoda Hospital,46
+41,Kowsar Hospital,21
+41,Velayat Hospital,63
+41,Shahid Rajayi Hospital,35
+41,Bouali Sina(Avecina) Hospital,34
+41,Pasteur Hospital,30
+41,Hospital 553 of Army (Shahid Behboudi),36
+41,Qods Hospital,31
+41,Mehregan Hospital,32
+41,Zakariyaye Razi Hospital,59
+41, 22 Bahman Psychiatric Hospital,27
+41,Dehkhoda Hospital,40
+42,Kowsar Hospital,31
+42,Velayat Hospital,65
+42,Shahid Rajayi Hospital,47
+42,Bouali Sina(Avecina) Hospital,30
+42,Pasteur Hospital,41
+42,Hospital 553 of Army (Shahid Behboudi),47
+42,Qods Hospital,46
+42,Mehregan Hospital,29
+42,Zakariyaye Razi Hospital,67
+42, 22 Bahman Psychiatric Hospital,28
+42,Dehkhoda Hospital,37
+44,Kowsar Hospital,40
+44,Velayat Hospital,63
+44,Shahid Rajayi Hospital,53
+44,Bouali Sina(Avecina) Hospital,38
+44,Pasteur Hospital,52
+44,Hospital 553 of Army (Shahid Behboudi),58
+44,Qods Hospital,56
+44,Mehregan Hospital,38
+44,Zakariyaye Razi Hospital,72
+44, 22 Bahman Psychiatric Hospital,41
+44,Dehkhoda Hospital,42
+45,Kowsar Hospital,13
+45,Velayat Hospital,54
+45,Shahid Rajayi Hospital,27
+45,Bouali Sina(Avecina) Hospital,34
+45,Pasteur Hospital,18
+45,Hospital 553 of Army (Shahid Behboudi),28
+45,Qods Hospital,23
+45,Mehregan Hospital,28
+45,Zakariyaye Razi Hospital,51
+45, 22 Bahman Psychiatric Hospital,28
+45,Dehkhoda Hospital,34
+46,Kowsar Hospital,22
+46,Velayat Hospital,58
+46,Shahid Rajayi Hospital,31
+46,Bouali Sina(Avecina) Hospital,45
+46,Pasteur Hospital,20
+46,Hospital 553 of Army (Shahid Behboudi),31
+46,Qods Hospital,26
+46,Mehregan Hospital,40
+46,Zakariyaye Razi Hospital,54
+46, 22 Bahman Psychiatric Hospital,39
+46,Dehkhoda Hospital,38
+47,Kowsar Hospital,18
+47,Velayat Hospital,65
+47,Shahid Rajayi Hospital,38
+47,Bouali Sina(Avecina) Hospital,28
+47,Pasteur Hospital,31
+47,Hospital 553 of Army (Shahid Behboudi),37
+47,Qods Hospital,35
+47,Mehregan Hospital,23
+47,Zakariyaye Razi Hospital,63
+47, 22 Bahman Psychiatric Hospital,33
+47,Dehkhoda Hospital,33
+48,Kowsar Hospital,18
+48,Velayat Hospital,58
+48,Shahid Rajayi Hospital,33
+48,Bouali Sina(Avecina) Hospital,17
+48,Pasteur Hospital,31
+48,Hospital 553 of Army (Shahid Behboudi),35
+48,Qods Hospital,37
+48,Mehregan Hospital,16
+48,Zakariyaye Razi Hospital,55
+48, 22 Bahman Psychiatric Hospital,29
+48,Dehkhoda Hospital,25
+49,Kowsar Hospital,27
+49,Velayat Hospital,55
+49,Shahid Rajayi Hospital,41
+49,Bouali Sina(Avecina) Hospital,24
+49,Pasteur Hospital,40
+49,Hospital 553 of Army (Shahid Behboudi),44
+49,Qods Hospital,46
+49,Mehregan Hospital,25
+49,Zakariyaye Razi Hospital,61
+49, 22 Bahman Psychiatric Hospital,31
+49,Dehkhoda Hospital,31
+50,Kowsar Hospital,12
+50,Velayat Hospital,61
+50,Shahid Rajayi Hospital,30
+50,Bouali Sina(Avecina) Hospital,25
+50,Pasteur Hospital,25
+50,Hospital 553 of Army (Shahid Behboudi),33
+50,Qods Hospital,32
+50,Mehregan Hospital,17
+50,Zakariyaye Razi Hospital,60
+50, 22 Bahman Psychiatric Hospital,33
+50,Dehkhoda Hospital,27
+51,Kowsar Hospital,17
+51,Velayat Hospital,59
+51,Shahid Rajayi Hospital,33
+51,Bouali Sina(Avecina) Hospital,16
+51,Pasteur Hospital,31
+51,Hospital 553 of Army (Shahid Behboudi),35
+51,Qods Hospital,36
+51,Mehregan Hospital,12
+51,Zakariyaye Razi Hospital,55
+51, 22 Bahman Psychiatric Hospital,31
+51,Dehkhoda Hospital,22
+52,Kowsar Hospital,34
+52,Velayat Hospital,53
+52,Shahid Rajayi Hospital,48
+52,Bouali Sina(Avecina) Hospital,30
+52,Pasteur Hospital,47
+52,Hospital 553 of Army (Shahid Behboudi),51
+52,Qods Hospital,50
+52,Mehregan Hospital,32
+52,Zakariyaye Razi Hospital,69
+52, 22 Bahman Psychiatric Hospital,42
+52,Dehkhoda Hospital,38
+53,Kowsar Hospital,45
+53,Velayat Hospital,61
+53,Shahid Rajayi Hospital,62
+53,Bouali Sina(Avecina) Hospital,40
+53,Pasteur Hospital,56
+53,Hospital 553 of Army (Shahid Behboudi),63
+53,Qods Hospital,62
+53,Mehregan Hospital,42
+53,Zakariyaye Razi Hospital,76
+53, 22 Bahman Psychiatric Hospital,47
+53,Dehkhoda Hospital,46
+54,Kowsar Hospital,18
+54,Velayat Hospital,49
+54,Shahid Rajayi Hospital,22
+54,Bouali Sina(Avecina) Hospital,38
+54,Pasteur Hospital,10
+54,Hospital 553 of Army (Shahid Behboudi),24
+54,Qods Hospital,18
+54,Mehregan Hospital,34
+54,Zakariyaye Razi Hospital,47
+54, 22 Bahman Psychiatric Hospital,40
+54,Dehkhoda Hospital,29
+55,Kowsar Hospital,16
+55,Velayat Hospital,60
+55,Shahid Rajayi Hospital,24
+55,Bouali Sina(Avecina) Hospital,18
+55,Pasteur Hospital,33
+55,Hospital 553 of Army (Shahid Behboudi),34
+55,Qods Hospital,31
+55,Mehregan Hospital,10
+55,Zakariyaye Razi Hospital,58
+55, 22 Bahman Psychiatric Hospital,40
+55,Dehkhoda Hospital,20
+56,Kowsar Hospital,19
+56,Velayat Hospital,60
+56,Shahid Rajayi Hospital,30
+56,Bouali Sina(Avecina) Hospital,13
+56,Pasteur Hospital,35
+56,Hospital 553 of Army (Shahid Behboudi),39
+56,Qods Hospital,37
+56,Mehregan Hospital,7
+56,Zakariyaye Razi Hospital,55
+56, 22 Bahman Psychiatric Hospital,35
+56,Dehkhoda Hospital,18
+57,Kowsar Hospital,6
+57,Velayat Hospital,62
+57,Shahid Rajayi Hospital,24
+57,Bouali Sina(Avecina) Hospital,24
+57,Pasteur Hospital,24
+57,Hospital 553 of Army (Shahid Behboudi),30
+57,Qods Hospital,27
+57,Mehregan Hospital,16
+57,Zakariyaye Razi Hospital,59
+57, 22 Bahman Psychiatric Hospital,36
+57,Dehkhoda Hospital,24
+59,Kowsar Hospital,22
+59,Velayat Hospital,54
+59,Shahid Rajayi Hospital,35
+59,Bouali Sina(Avecina) Hospital,12
+59,Pasteur Hospital,35
+59,Hospital 553 of Army (Shahid Behboudi),39
+59,Qods Hospital,41
+59,Mehregan Hospital,14
+59,Zakariyaye Razi Hospital,54
+59, 22 Bahman Psychiatric Hospital,27
+59,Dehkhoda Hospital,24
+60,Kowsar Hospital,21
+60,Velayat Hospital,60
+60,Shahid Rajayi Hospital,34
+60,Bouali Sina(Avecina) Hospital,14
+60,Pasteur Hospital,34
+60,Hospital 553 of Army (Shahid Behboudi),38
+60,Qods Hospital,40
+60,Mehregan Hospital,8
+60,Zakariyaye Razi Hospital,56
+60, 22 Bahman Psychiatric Hospital,34
+60,Dehkhoda Hospital,18
+61,Kowsar Hospital,27
+61,Velayat Hospital,49
+61,Shahid Rajayi Hospital,38
+61,Bouali Sina(Avecina) Hospital,13
+61,Pasteur Hospital,40
+61,Hospital 553 of Army (Shahid Behboudi),43
+61,Qods Hospital,43
+61,Mehregan Hospital,15
+61,Zakariyaye Razi Hospital,57
+61, 22 Bahman Psychiatric Hospital,32
+61,Dehkhoda Hospital,25
+62,Kowsar Hospital,32
+62,Velayat Hospital,47
+62,Shahid Rajayi Hospital,43
+62,Bouali Sina(Avecina) Hospital,20
+62,Pasteur Hospital,46
+62,Hospital 553 of Army (Shahid Behboudi),47
+62,Qods Hospital,46
+62,Mehregan Hospital,22
+62,Zakariyaye Razi Hospital,65
+62, 22 Bahman Psychiatric Hospital,42
+62,Dehkhoda Hospital,32
+63,Kowsar Hospital,36
+63,Velayat Hospital,43
+63,Shahid Rajayi Hospital,44
+63,Bouali Sina(Avecina) Hospital,24
+63,Pasteur Hospital,49
+63,Hospital 553 of Army (Shahid Behboudi),48
+63,Qods Hospital,46
+63,Mehregan Hospital,26
+63,Zakariyaye Razi Hospital,63
+63, 22 Bahman Psychiatric Hospital,47
+63,Dehkhoda Hospital,35
+64,Kowsar Hospital,17
+64,Velayat Hospital,60
+64,Shahid Rajayi Hospital,22
+64,Bouali Sina(Avecina) Hospital,16
+64,Pasteur Hospital,34
+64,Hospital 553 of Army (Shahid Behboudi),34
+64,Qods Hospital,31
+64,Mehregan Hospital,9
+64,Zakariyaye Razi Hospital,51
+64, 22 Bahman Psychiatric Hospital,41
+64,Dehkhoda Hospital,14
+65,Kowsar Hospital,19
+65,Velayat Hospital,54
+65,Shahid Rajayi Hospital,18
+65,Bouali Sina(Avecina) Hospital,33
+65,Pasteur Hospital,25
+65,Hospital 553 of Army (Shahid Behboudi),26
+65,Qods Hospital,11
+65,Mehregan Hospital,26
+65,Zakariyaye Razi Hospital,52
+65, 22 Bahman Psychiatric Hospital,44
+65,Dehkhoda Hospital,26
+66,Kowsar Hospital,22
+66,Velayat Hospital,58
+66,Shahid Rajayi Hospital,24
+66,Bouali Sina(Avecina) Hospital,13
+66,Pasteur Hospital,39
+66,Hospital 553 of Army (Shahid Behboudi),36
+66,Qods Hospital,36
+66,Mehregan Hospital,7
+66,Zakariyaye Razi Hospital,49
+66, 22 Bahman Psychiatric Hospital,43
+66,Dehkhoda Hospital,11
+67,Kowsar Hospital,17
+67,Velayat Hospital,56
+67,Shahid Rajayi Hospital,14
+67,Bouali Sina(Avecina) Hospital,28
+67,Pasteur Hospital,29
+67,Hospital 553 of Army (Shahid Behboudi),25
+67,Qods Hospital,16
+67,Mehregan Hospital,20
+67,Zakariyaye Razi Hospital,56
+67, 22 Bahman Psychiatric Hospital,48
+67,Dehkhoda Hospital,26
+68,Kowsar Hospital,27
+68,Velayat Hospital,54
+68,Shahid Rajayi Hospital,29
+68,Bouali Sina(Avecina) Hospital,9
+68,Pasteur Hospital,43
+68,Hospital 553 of Army (Shahid Behboudi),40
+68,Qods Hospital,40
+68,Mehregan Hospital,8
+68,Zakariyaye Razi Hospital,48
+68, 22 Bahman Psychiatric Hospital,38
+68,Dehkhoda Hospital,12
+69,Kowsar Hospital,32
+69,Velayat Hospital,50
+69,Shahid Rajayi Hospital,35
+69,Bouali Sina(Avecina) Hospital,13
+69,Pasteur Hospital,45
+69,Hospital 553 of Army (Shahid Behboudi),43
+69,Qods Hospital,43
+69,Mehregan Hospital,15
+69,Zakariyaye Razi Hospital,51
+69, 22 Bahman Psychiatric Hospital,40
+69,Dehkhoda Hospital,17
+70,Kowsar Hospital,17
+70,Velayat Hospital,57
+70,Shahid Rajayi Hospital,13
+70,Bouali Sina(Avecina) Hospital,24
+70,Pasteur Hospital,35
+70,Hospital 553 of Army (Shahid Behboudi),25
+70,Qods Hospital,23
+70,Mehregan Hospital,18
+70,Zakariyaye Razi Hospital,52
+70, 22 Bahman Psychiatric Hospital,48
+70,Dehkhoda Hospital,15
+71,Kowsar Hospital,25
+71,Velayat Hospital,57
+71,Shahid Rajayi Hospital,14
+71,Bouali Sina(Avecina) Hospital,23
+71,Pasteur Hospital,36
+71,Hospital 553 of Army (Shahid Behboudi),27
+71,Qods Hospital,28
+71,Mehregan Hospital,17
+71,Zakariyaye Razi Hospital,47
+71, 22 Bahman Psychiatric Hospital,50
+71,Dehkhoda Hospital,6
+72,Kowsar Hospital,27
+72,Velayat Hospital,54
+72,Shahid Rajayi Hospital,19
+72,Bouali Sina(Avecina) Hospital,19
+72,Pasteur Hospital,39
+72,Hospital 553 of Army (Shahid Behboudi),31
+72,Qods Hospital,32
+72,Mehregan Hospital,13
+72,Zakariyaye Razi Hospital,44
+72, 22 Bahman Psychiatric Hospital,48
+72,Dehkhoda Hospital,3
+73,Kowsar Hospital,38
+73,Velayat Hospital,46
+73,Shahid Rajayi Hospital,38
+73,Bouali Sina(Avecina) Hospital,20
+73,Pasteur Hospital,49
+73,Hospital 553 of Army (Shahid Behboudi),45
+73,Qods Hospital,44
+73,Mehregan Hospital,22
+73,Zakariyaye Razi Hospital,59
+73, 22 Bahman Psychiatric Hospital,44
+73,Dehkhoda Hospital,25
+74,Kowsar Hospital,46
+74,Velayat Hospital,42
+74,Shahid Rajayi Hospital,46
+74,Bouali Sina(Avecina) Hospital,30
+74,Pasteur Hospital,55
+74,Hospital 553 of Army (Shahid Behboudi),47
+74,Qods Hospital,46
+74,Mehregan Hospital,32
+74,Zakariyaye Razi Hospital,63
+74, 22 Bahman Psychiatric Hospital,55
+74,Dehkhoda Hospital,40
+75,Kowsar Hospital,21
+75,Velayat Hospital,46
+75,Shahid Rajayi Hospital,12
+75,Bouali Sina(Avecina) Hospital,33
+75,Pasteur Hospital,24
+75,Hospital 553 of Army (Shahid Behboudi),18
+75,Qods Hospital,12
+75,Mehregan Hospital,29
+75,Zakariyaye Razi Hospital,44
+75, 22 Bahman Psychiatric Hospital,41
+75,Dehkhoda Hospital,25
+76,Kowsar Hospital,48
+76,Velayat Hospital,44
+76,Shahid Rajayi Hospital,42
+76,Bouali Sina(Avecina) Hospital,34
+76,Pasteur Hospital,53
+76,Hospital 553 of Army (Shahid Behboudi),49
+76,Qods Hospital,46
+76,Mehregan Hospital,36
+76,Zakariyaye Razi Hospital,65
+76, 22 Bahman Psychiatric Hospital,56
+76,Dehkhoda Hospital,38
+77,Kowsar Hospital,33
+77,Velayat Hospital,52
+77,Shahid Rajayi Hospital,22
+77,Bouali Sina(Avecina) Hospital,20
+77,Pasteur Hospital,39
+77,Hospital 553 of Army (Shahid Behboudi),33
+77,Qods Hospital,32
+77,Mehregan Hospital,16
+77,Zakariyaye Razi Hospital,45
+77, 22 Bahman Psychiatric Hospital,48
+77,Dehkhoda Hospital,3
+78,Kowsar Hospital,35
+78,Velayat Hospital,46
+78,Shahid Rajayi Hospital,29
+78,Bouali Sina(Avecina) Hospital,19
+78,Pasteur Hospital,42
+78,Hospital 553 of Army (Shahid Behboudi),38
+78,Qods Hospital,35
+78,Mehregan Hospital,20
+78,Zakariyaye Razi Hospital,51
+78, 22 Bahman Psychiatric Hospital,47
+78,Dehkhoda Hospital,14
+79,Kowsar Hospital,41
+79,Velayat Hospital,44
+79,Shahid Rajayi Hospital,32
+79,Bouali Sina(Avecina) Hospital,26
+79,Pasteur Hospital,43
+79,Hospital 553 of Army (Shahid Behboudi),39
+79,Qods Hospital,35
+79,Mehregan Hospital,28
+79,Zakariyaye Razi Hospital,56
+79, 22 Bahman Psychiatric Hospital,53
+79,Dehkhoda Hospital,20
+80,Kowsar Hospital,45
+80,Velayat Hospital,46
+80,Shahid Rajayi Hospital,40
+80,Bouali Sina(Avecina) Hospital,28
+80,Pasteur Hospital,52
+80,Hospital 553 of Army (Shahid Behboudi),49
+80,Qods Hospital,44
+80,Mehregan Hospital,30
+80,Zakariyaye Razi Hospital,64
+80, 22 Bahman Psychiatric Hospital,53
+80,Dehkhoda Hospital,31
+81,Kowsar Hospital,28
+81,Velayat Hospital,49
+81,Shahid Rajayi Hospital,10
+81,Bouali Sina(Avecina) Hospital,34
+81,Pasteur Hospital,31
+81,Hospital 553 of Army (Shahid Behboudi),17
+81,Qods Hospital,22
+81,Mehregan Hospital,30
+81,Zakariyaye Razi Hospital,48
+81, 22 Bahman Psychiatric Hospital,47
+81,Dehkhoda Hospital,28
+82,Kowsar Hospital,31
+82,Velayat Hospital,46
+82,Shahid Rajayi Hospital,13
+82,Bouali Sina(Avecina) Hospital,29
+82,Pasteur Hospital,34
+82,Hospital 553 of Army (Shahid Behboudi),21
+82,Qods Hospital,26
+82,Mehregan Hospital,27
+82,Zakariyaye Razi Hospital,42
+82, 22 Bahman Psychiatric Hospital,49
+82,Dehkhoda Hospital,13
+83,Kowsar Hospital,30
+83,Velayat Hospital,44
+83,Shahid Rajayi Hospital,23
+83,Bouali Sina(Avecina) Hospital,25
+83,Pasteur Hospital,33
+83,Hospital 553 of Army (Shahid Behboudi),26
+83,Qods Hospital,24
+83,Mehregan Hospital,25
+83,Zakariyaye Razi Hospital,42
+83, 22 Bahman Psychiatric Hospital,47
+83,Dehkhoda Hospital,11
+84,Kowsar Hospital,32
+84,Velayat Hospital,50
+84,Shahid Rajayi Hospital,19
+84,Bouali Sina(Avecina) Hospital,39
+84,Pasteur Hospital,35
+84,Hospital 553 of Army (Shahid Behboudi),3
+84,Qods Hospital,26
+84,Mehregan Hospital,37
+84,Zakariyaye Razi Hospital,47
+84, 22 Bahman Psychiatric Hospital,51
+84,Dehkhoda Hospital,29
+85,Kowsar Hospital,32
+85,Velayat Hospital,40
+85,Shahid Rajayi Hospital,25
+85,Bouali Sina(Avecina) Hospital,29
+85,Pasteur Hospital,35
+85,Hospital 553 of Army (Shahid Behboudi),27
+85,Qods Hospital,26
+85,Mehregan Hospital,30
+85,Zakariyaye Razi Hospital,46
+85, 22 Bahman Psychiatric Hospital,50
+85,Dehkhoda Hospital,18
+86,Kowsar Hospital,32
+86,Velayat Hospital,42
+86,Shahid Rajayi Hospital,26
+86,Bouali Sina(Avecina) Hospital,31
+86,Pasteur Hospital,35
+86,Hospital 553 of Army (Shahid Behboudi),27
+86,Qods Hospital,26
+86,Mehregan Hospital,31
+86,Zakariyaye Razi Hospital,41
+86, 22 Bahman Psychiatric Hospital,49
+86,Dehkhoda Hospital,22
+87,Kowsar Hospital,28
+87,Velayat Hospital,47
+87,Shahid Rajayi Hospital,24
+87,Bouali Sina(Avecina) Hospital,30
+87,Pasteur Hospital,34
+87,Hospital 553 of Army (Shahid Behboudi),20
+87,Qods Hospital,25
+87,Mehregan Hospital,28
+87,Zakariyaye Razi Hospital,35
+87, 22 Bahman Psychiatric Hospital,45
+87,Dehkhoda Hospital,19
+88,Kowsar Hospital,31
+88,Velayat Hospital,45
+88,Shahid Rajayi Hospital,21
+88,Bouali Sina(Avecina) Hospital,31
+88,Pasteur Hospital,34
+88,Hospital 553 of Army (Shahid Behboudi),16
+88,Qods Hospital,25
+88,Mehregan Hospital,28
+88,Zakariyaye Razi Hospital,39
+88, 22 Bahman Psychiatric Hospital,48
+88,Dehkhoda Hospital,21
+89,Kowsar Hospital,31
+89,Velayat Hospital,33
+89,Shahid Rajayi Hospital,25
+89,Bouali Sina(Avecina) Hospital,32
+89,Pasteur Hospital,34
+89,Hospital 553 of Army (Shahid Behboudi),27
+89,Qods Hospital,25
+89,Mehregan Hospital,34
+89,Zakariyaye Razi Hospital,44
+89, 22 Bahman Psychiatric Hospital,48
+89,Dehkhoda Hospital,26
+90,Kowsar Hospital,43
+90,Velayat Hospital,47
+90,Shahid Rajayi Hospital,33
+90,Bouali Sina(Avecina) Hospital,35
+90,Pasteur Hospital,46
+90,Hospital 553 of Army (Shahid Behboudi),44
+90,Qods Hospital,39
+90,Mehregan Hospital,36
+90,Zakariyaye Razi Hospital,62
+90, 22 Bahman Psychiatric Hospital,57
+90,Dehkhoda Hospital,28
+91,Kowsar Hospital,40
+91,Velayat Hospital,39
+91,Shahid Rajayi Hospital,34
+91,Bouali Sina(Avecina) Hospital,37
+91,Pasteur Hospital,43
+91,Hospital 553 of Army (Shahid Behboudi),35
+91,Qods Hospital,34
+91,Mehregan Hospital,39
+91,Zakariyaye Razi Hospital,56
+91, 22 Bahman Psychiatric Hospital,60
+91,Dehkhoda Hospital,28
+92,Kowsar Hospital,38
+92,Velayat Hospital,62
+92,Shahid Rajayi Hospital,25
+92,Bouali Sina(Avecina) Hospital,39
+92,Pasteur Hospital,41
+92,Hospital 553 of Army (Shahid Behboudi),24
+92,Qods Hospital,32
+92,Mehregan Hospital,35
+92,Zakariyaye Razi Hospital,33
+92, 22 Bahman Psychiatric Hospital,55
+92,Dehkhoda Hospital,32
+93,Kowsar Hospital,35
+93,Velayat Hospital,56
+93,Shahid Rajayi Hospital,25
+93,Bouali Sina(Avecina) Hospital,35
+93,Pasteur Hospital,38
+93,Hospital 553 of Army (Shahid Behboudi),26
+93,Qods Hospital,29
+93,Mehregan Hospital,32
+93,Zakariyaye Razi Hospital,28
+93, 22 Bahman Psychiatric Hospital,52
+93,Dehkhoda Hospital,26
+94,Kowsar Hospital,35
+94,Velayat Hospital,33
+94,Shahid Rajayi Hospital,29
+94,Bouali Sina(Avecina) Hospital,38
+94,Pasteur Hospital,38
+94,Hospital 553 of Army (Shahid Behboudi),31
+94,Qods Hospital,29
+94,Mehregan Hospital,40
+94,Zakariyaye Razi Hospital,50
+94, 22 Bahman Psychiatric Hospital,56
+94,Dehkhoda Hospital,33
+95,Kowsar Hospital,37
+95,Velayat Hospital,34
+95,Shahid Rajayi Hospital,31
+95,Bouali Sina(Avecina) Hospital,39
+95,Pasteur Hospital,40
+95,Hospital 553 of Army (Shahid Behboudi),32
+95,Qods Hospital,31
+95,Mehregan Hospital,41
+95,Zakariyaye Razi Hospital,39
+95, 22 Bahman Psychiatric Hospital,54
+95,Dehkhoda Hospital,32
+96,Kowsar Hospital,38
+96,Velayat Hospital,48
+96,Shahid Rajayi Hospital,30
+96,Bouali Sina(Avecina) Hospital,37
+96,Pasteur Hospital,41
+96,Hospital 553 of Army (Shahid Behboudi),32
+96,Qods Hospital,32
+96,Mehregan Hospital,37
+96,Zakariyaye Razi Hospital,30
+96, 22 Bahman Psychiatric Hospital,55
+96,Dehkhoda Hospital,29
+97,Kowsar Hospital,48
+97,Velayat Hospital,47
+97,Shahid Rajayi Hospital,42
+97,Bouali Sina(Avecina) Hospital,46
+97,Pasteur Hospital,51
+97,Hospital 553 of Army (Shahid Behboudi),43
+97,Qods Hospital,42
+97,Mehregan Hospital,48
+97,Zakariyaye Razi Hospital,67
+97, 22 Bahman Psychiatric Hospital,69
+97,Dehkhoda Hospital,41
+99,Kowsar Hospital,44
+99,Velayat Hospital,48
+99,Shahid Rajayi Hospital,35
+99,Bouali Sina(Avecina) Hospital,45
+99,Pasteur Hospital,47
+99,Hospital 553 of Army (Shahid Behboudi),37
+99,Qods Hospital,38
+99,Mehregan Hospital,43
+99,Zakariyaye Razi Hospital,17
+99, 22 Bahman Psychiatric Hospital,61
+99,Dehkhoda Hospital,35
+100,Kowsar Hospital,50
+100,Velayat Hospital,39
+100,Shahid Rajayi Hospital,44
+100,Bouali Sina(Avecina) Hospital,49
+100,Pasteur Hospital,53
+100,Hospital 553 of Army (Shahid Behboudi),45
+100,Qods Hospital,44
+100,Mehregan Hospital,51
+100,Zakariyaye Razi Hospital,62
+100, 22 Bahman Psychiatric Hospital,72
+100,Dehkhoda Hospital,47
+98,Kowsar Hospital,43
+98,Velayat Hospital,35
+98,Shahid Rajayi Hospital,37
+98,Bouali Sina(Avecina) Hospital,44
+98,Pasteur Hospital,46
+98,Hospital 553 of Army (Shahid Behboudi),38
+98,Qods Hospital,37
+98,Mehregan Hospital,46
+98,Zakariyaye Razi Hospital,47
+98, 22 Bahman Psychiatric Hospital,67
+98,Dehkhoda Hospital,40
+101,Kowsar Hospital,45
+101,Velayat Hospital,59
+101,Shahid Rajayi Hospital,36
+101,Bouali Sina(Avecina) Hospital,46
+101,Pasteur Hospital,49
+101,Hospital 553 of Army (Shahid Behboudi),38
+101,Qods Hospital,40
+101,Mehregan Hospital,43
+101,Zakariyaye Razi Hospital,22
+101, 22 Bahman Psychiatric Hospital,62
+101,Dehkhoda Hospital,37
+102,Kowsar Hospital,49
+102,Velayat Hospital,59
+102,Shahid Rajayi Hospital,40
+102,Bouali Sina(Avecina) Hospital,45
+102,Pasteur Hospital,53
+102,Hospital 553 of Army (Shahid Behboudi),41
+102,Qods Hospital,44
+102,Mehregan Hospital,43
+102,Zakariyaye Razi Hospital,27
+102, 22 Bahman Psychiatric Hospital,65
+102,Dehkhoda Hospital,34
+103,Kowsar Hospital,46
+103,Velayat Hospital,56
+103,Shahid Rajayi Hospital,40
+103,Bouali Sina(Avecina) Hospital,47
+103,Pasteur Hospital,52
+103,Hospital 553 of Army (Shahid Behboudi),41
+103,Qods Hospital,43
+103,Mehregan Hospital,45
+103,Zakariyaye Razi Hospital,27
+103, 22 Bahman Psychiatric Hospital,63
+103,Dehkhoda Hospital,36
+104,Kowsar Hospital,58
+104,Velayat Hospital,67
+104,Shahid Rajayi Hospital,50
+104,Bouali Sina(Avecina) Hospital,55
+104,Pasteur Hospital,63
+104,Hospital 553 of Army (Shahid Behboudi),50
+104,Qods Hospital,54
+104,Mehregan Hospital,53
+104,Zakariyaye Razi Hospital,37
+104, 22 Bahman Psychiatric Hospital,74
+104,Dehkhoda Hospital,44
+105,Kowsar Hospital,49
+105,Velayat Hospital,52
+105,Shahid Rajayi Hospital,44
+105,Bouali Sina(Avecina) Hospital,53
+105,Pasteur Hospital,54
+105,Hospital 553 of Army (Shahid Behboudi),46
+105,Qods Hospital,45
+105,Mehregan Hospital,51
+105,Zakariyaye Razi Hospital,33
+105, 22 Bahman Psychiatric Hospital,66
+105,Dehkhoda Hospital,42
+107,Kowsar Hospital,49
+107,Velayat Hospital,34
+107,Shahid Rajayi Hospital,43
+107,Bouali Sina(Avecina) Hospital,49
+107,Pasteur Hospital,52
+107,Hospital 553 of Army (Shahid Behboudi),44
+107,Qods Hospital,43
+107,Mehregan Hospital,51
+107,Zakariyaye Razi Hospital,66
+107, 22 Bahman Psychiatric Hospital,72
+107,Dehkhoda Hospital,46
+108,Kowsar Hospital,57
+108,Velayat Hospital,27
+108,Shahid Rajayi Hospital,51
+108,Bouali Sina(Avecina) Hospital,57
+108,Pasteur Hospital,60
+108,Hospital 553 of Army (Shahid Behboudi),52
+108,Qods Hospital,51
+108,Mehregan Hospital,59
+108,Zakariyaye Razi Hospital,69
+108, 22 Bahman Psychiatric Hospital,80
+108,Dehkhoda Hospital,54
+109,Kowsar Hospital,51
+109,Velayat Hospital,28
+109,Shahid Rajayi Hospital,45
+109,Bouali Sina(Avecina) Hospital,52
+109,Pasteur Hospital,54
+109,Hospital 553 of Army (Shahid Behboudi),46
+109,Qods Hospital,45
+109,Mehregan Hospital,54
+109,Zakariyaye Razi Hospital,69
+109, 22 Bahman Psychiatric Hospital,75
+109,Dehkhoda Hospital,48
+110,Kowsar Hospital,50
+110,Velayat Hospital,28
+110,Shahid Rajayi Hospital,44
+110,Bouali Sina(Avecina) Hospital,49
+110,Pasteur Hospital,53
+110,Hospital 553 of Army (Shahid Behboudi),45
+110,Qods Hospital,44
+110,Mehregan Hospital,51
+110,Zakariyaye Razi Hospital,50
+110, 22 Bahman Psychiatric Hospital,72
+110,Dehkhoda Hospital,46
+111,Kowsar Hospital,42
+111,Velayat Hospital,40
+111,Shahid Rajayi Hospital,36
+111,Bouali Sina(Avecina) Hospital,47
+111,Pasteur Hospital,45
+111,Hospital 553 of Army (Shahid Behboudi),38
+111,Qods Hospital,36
+111,Mehregan Hospital,49
+111,Zakariyaye Razi Hospital,34
+111, 22 Bahman Psychiatric Hospital,59
+111,Dehkhoda Hospital,38
+112,Kowsar Hospital,45
+112,Velayat Hospital,39
+112,Shahid Rajayi Hospital,39
+112,Bouali Sina(Avecina) Hospital,47
+112,Pasteur Hospital,48
+112,Hospital 553 of Army (Shahid Behboudi),41
+112,Qods Hospital,39
+112,Mehregan Hospital,47
+112,Zakariyaye Razi Hospital,37
+112, 22 Bahman Psychiatric Hospital,62
+112,Dehkhoda Hospital,38
+113,Kowsar Hospital,56
+113,Velayat Hospital,62
+113,Shahid Rajayi Hospital,52
+113,Bouali Sina(Avecina) Hospital,60
+113,Pasteur Hospital,62
+113,Hospital 553 of Army (Shahid Behboudi),54
+113,Qods Hospital,53
+113,Mehregan Hospital,58
+113,Zakariyaye Razi Hospital,42
+113, 22 Bahman Psychiatric Hospital,73
+113,Dehkhoda Hospital,49
+114,Kowsar Hospital,47
+114,Velayat Hospital,40
+114,Shahid Rajayi Hospital,41
+114,Bouali Sina(Avecina) Hospital,49
+114,Pasteur Hospital,50
+114,Hospital 553 of Army (Shahid Behboudi),43
+114,Qods Hospital,41
+114,Mehregan Hospital,49
+114,Zakariyaye Razi Hospital,37
+114, 22 Bahman Psychiatric Hospital,64
+114,Dehkhoda Hospital,40
+115,Kowsar Hospital,55
+115,Velayat Hospital,16
+115,Shahid Rajayi Hospital,49
+115,Bouali Sina(Avecina) Hospital,55
+115,Pasteur Hospital,58
+115,Hospital 553 of Army (Shahid Behboudi),50
+115,Qods Hospital,49
+115,Mehregan Hospital,57
+115,Zakariyaye Razi Hospital,72
+115, 22 Bahman Psychiatric Hospital,78
+115,Dehkhoda Hospital,52
+116,Kowsar Hospital,63
+116,Velayat Hospital,11
+116,Shahid Rajayi Hospital,57
+116,Bouali Sina(Avecina) Hospital,59
+116,Pasteur Hospital,66
+116,Hospital 553 of Army (Shahid Behboudi),58
+116,Qods Hospital,57
+116,Mehregan Hospital,62
+116,Zakariyaye Razi Hospital,70
+116, 22 Bahman Psychiatric Hospital,83
+116,Dehkhoda Hospital,57
+117,Kowsar Hospital,47
+117,Velayat Hospital,34
+117,Shahid Rajayi Hospital,41
+117,Bouali Sina(Avecina) Hospital,52
+117,Pasteur Hospital,50
+117,Hospital 553 of Army (Shahid Behboudi),43
+117,Qods Hospital,41
+117,Mehregan Hospital,54
+117,Zakariyaye Razi Hospital,46
+117, 22 Bahman Psychiatric Hospital,64
+117,Dehkhoda Hospital,43
+106,Kowsar Hospital,53
+106,Velayat Hospital,27
+106,Shahid Rajayi Hospital,47
+106,Bouali Sina(Avecina) Hospital,57
+106,Pasteur Hospital,56
+106,Hospital 553 of Army (Shahid Behboudi),49
+106,Qods Hospital,47
+106,Mehregan Hospital,59
+106,Zakariyaye Razi Hospital,53
+106, 22 Bahman Psychiatric Hospital,70
+106,Dehkhoda Hospital,50
+118,Kowsar Hospital,62
+118,Velayat Hospital,8
+118,Shahid Rajayi Hospital,56
+118,Bouali Sina(Avecina) Hospital,55
+118,Pasteur Hospital,65
+118,Hospital 553 of Army (Shahid Behboudi),57
+118,Qods Hospital,56
+118,Mehregan Hospital,57
+118,Zakariyaye Razi Hospital,64
+118, 22 Bahman Psychiatric Hospital,79
+118,Dehkhoda Hospital,54
+119,Kowsar Hospital,53
+119,Velayat Hospital,18
+119,Shahid Rajayi Hospital,47
+119,Bouali Sina(Avecina) Hospital,54
+119,Pasteur Hospital,56
+119,Hospital 553 of Army (Shahid Behboudi),48
+119,Qods Hospital,47
+119,Mehregan Hospital,56
+119,Zakariyaye Razi Hospital,71
+119, 22 Bahman Psychiatric Hospital,77
+119,Dehkhoda Hospital,50
+120,Kowsar Hospital,14
+120,Velayat Hospital,55
+120,Shahid Rajayi Hospital,24
+120,Bouali Sina(Avecina) Hospital,33
+120,Pasteur Hospital,22
+120,Hospital 553 of Army (Shahid Behboudi),30
+120,Qods Hospital,15
+120,Mehregan Hospital,25
+120,Zakariyaye Razi Hospital,53
+120, 22 Bahman Psychiatric Hospital,41
+120,Dehkhoda Hospital,31
+121,Kowsar Hospital,8
+121,Velayat Hospital,53
+121,Shahid Rajayi Hospital,25
+121,Bouali Sina(Avecina) Hospital,29
+121,Pasteur Hospital,21
+121,Hospital 553 of Army (Shahid Behboudi),26
+121,Qods Hospital,21
+121,Mehregan Hospital,21
+121,Zakariyaye Razi Hospital,52
+121, 22 Bahman Psychiatric Hospital,36
+121,Dehkhoda Hospital,30
+122,Kowsar Hospital,36
+122,Velayat Hospital,40
+122,Shahid Rajayi Hospital,30
+122,Bouali Sina(Avecina) Hospital,32
+122,Pasteur Hospital,39
+122,Hospital 553 of Army (Shahid Behboudi),31
+122,Qods Hospital,30
+122,Mehregan Hospital,34
+122,Zakariyaye Razi Hospital,52
+122, 22 Bahman Psychiatric Hospital,56
+122,Dehkhoda Hospital,22
+123,Kowsar Hospital,46
+123,Velayat Hospital,43
+123,Shahid Rajayi Hospital,40
+123,Bouali Sina(Avecina) Hospital,41
+123,Pasteur Hospital,49
+123,Hospital 553 of Army (Shahid Behboudi),41
+123,Qods Hospital,40
+123,Mehregan Hospital,43
+123,Zakariyaye Razi Hospital,55
+123, 22 Bahman Psychiatric Hospital,64
+123,Dehkhoda Hospital,40
+124,Kowsar Hospital,35
+124,Velayat Hospital,37
+124,Shahid Rajayi Hospital,29
+124,Bouali Sina(Avecina) Hospital,37
+124,Pasteur Hospital,38
+124,Hospital 553 of Army (Shahid Behboudi),31
+124,Qods Hospital,29
+124,Mehregan Hospital,39
+124,Zakariyaye Razi Hospital,43
+124, 22 Bahman Psychiatric Hospital,52
+124,Dehkhoda Hospital,31
+125,Kowsar Hospital,37
+125,Velayat Hospital,45
+125,Shahid Rajayi Hospital,30
+125,Bouali Sina(Avecina) Hospital,34
+125,Pasteur Hospital,40
+125,Hospital 553 of Army (Shahid Behboudi),27
+125,Qods Hospital,31
+125,Mehregan Hospital,34
+125,Zakariyaye Razi Hospital,37
+125, 22 Bahman Psychiatric Hospital,53
+125,Dehkhoda Hospital,27
+126,Kowsar Hospital,42
+126,Velayat Hospital,58
+126,Shahid Rajayi Hospital,29
+126,Bouali Sina(Avecina) Hospital,41
+126,Pasteur Hospital,45
+126,Hospital 553 of Army (Shahid Behboudi),31
+126,Qods Hospital,36
+126,Mehregan Hospital,37
+126,Zakariyaye Razi Hospital,26
+126, 22 Bahman Psychiatric Hospital,59
+126,Dehkhoda Hospital,33
+127,Kowsar Hospital,45
+127,Velayat Hospital,52
+127,Shahid Rajayi Hospital,41
+127,Bouali Sina(Avecina) Hospital,49
+127,Pasteur Hospital,51
+127,Hospital 553 of Army (Shahid Behboudi),43
+127,Qods Hospital,42
+127,Mehregan Hospital,47
+127,Zakariyaye Razi Hospital,21
+127, 22 Bahman Psychiatric Hospital,62
+127,Dehkhoda Hospital,38
+128,Kowsar Hospital,42
+128,Velayat Hospital,42
+128,Shahid Rajayi Hospital,36
+128,Bouali Sina(Avecina) Hospital,46
+128,Pasteur Hospital,45
+128,Hospital 553 of Army (Shahid Behboudi),38
+128,Qods Hospital,36
+128,Mehregan Hospital,48
+128,Zakariyaye Razi Hospital,25
+128, 22 Bahman Psychiatric Hospital,59
+128,Dehkhoda Hospital,38
+129,Kowsar Hospital,56
+129,Velayat Hospital,61
+129,Shahid Rajayi Hospital,49
+129,Bouali Sina(Avecina) Hospital,56
+129,Pasteur Hospital,62
+129,Hospital 553 of Army (Shahid Behboudi),50
+129,Qods Hospital,53
+129,Mehregan Hospital,54
+129,Zakariyaye Razi Hospital,38
+129, 22 Bahman Psychiatric Hospital,73
+129,Dehkhoda Hospital,45
+130,Kowsar Hospital,53
+130,Velayat Hospital,50
+130,Shahid Rajayi Hospital,47
+130,Bouali Sina(Avecina) Hospital,57
+130,Pasteur Hospital,56
+130,Hospital 553 of Army (Shahid Behboudi),49
+130,Qods Hospital,47
+130,Mehregan Hospital,55
+130,Zakariyaye Razi Hospital,37
+130, 22 Bahman Psychiatric Hospital,70
+130,Dehkhoda Hospital,46
+131,Kowsar Hospital,52
+131,Velayat Hospital,50
+131,Shahid Rajayi Hospital,46
+131,Bouali Sina(Avecina) Hospital,56
+131,Pasteur Hospital,55
+131,Hospital 553 of Army (Shahid Behboudi),48
+131,Qods Hospital,46
+131,Mehregan Hospital,54
+131,Zakariyaye Razi Hospital,39
+131, 22 Bahman Psychiatric Hospital,69
+131,Dehkhoda Hospital,45
+132,Kowsar Hospital,54
+132,Velayat Hospital,28
+132,Shahid Rajayi Hospital,48
+132,Bouali Sina(Avecina) Hospital,54
+132,Pasteur Hospital,57
+132,Hospital 553 of Army (Shahid Behboudi),50
+132,Qods Hospital,48
+132,Mehregan Hospital,56
+132,Zakariyaye Razi Hospital,54
+132, 22 Bahman Psychiatric Hospital,75
+132,Dehkhoda Hospital,51
+133,Kowsar Hospital,56
+133,Velayat Hospital,25
+133,Shahid Rajayi Hospital,50
+133,Bouali Sina(Avecina) Hospital,52
+133,Pasteur Hospital,59
+133,Hospital 553 of Army (Shahid Behboudi),51
+133,Qods Hospital,50
+133,Mehregan Hospital,55
+133,Zakariyaye Razi Hospital,57
+133, 22 Bahman Psychiatric Hospital,75
+133,Dehkhoda Hospital,50
+134,Kowsar Hospital,49
+134,Velayat Hospital,25
+134,Shahid Rajayi Hospital,43
+134,Bouali Sina(Avecina) Hospital,48
+134,Pasteur Hospital,52
+134,Hospital 553 of Army (Shahid Behboudi),44
+134,Qods Hospital,43
+134,Mehregan Hospital,50
+134,Zakariyaye Razi Hospital,55
+134, 22 Bahman Psychiatric Hospital,71
+134,Dehkhoda Hospital,45
+135,Kowsar Hospital,50
+135,Velayat Hospital,25
+135,Shahid Rajayi Hospital,44
+135,Bouali Sina(Avecina) Hospital,51
+135,Pasteur Hospital,53
+135,Hospital 553 of Army (Shahid Behboudi),45
+135,Qods Hospital,44
+135,Mehregan Hospital,53
+135,Zakariyaye Razi Hospital,68
+135, 22 Bahman Psychiatric Hospital,74
+135,Dehkhoda Hospital,47
+157,Kowsar Hospital,36
+157,Velayat Hospital,53
+157,Shahid Rajayi Hospital,26
+157,Bouali Sina(Avecina) Hospital,36
+157,Pasteur Hospital,39
+157,Hospital 553 of Army (Shahid Behboudi),15
+157,Qods Hospital,30
+157,Mehregan Hospital,33
+157,Zakariyaye Razi Hospital,38
+157, 22 Bahman Psychiatric Hospital,53
+157,Dehkhoda Hospital,26
+158,Kowsar Hospital,39
+158,Velayat Hospital,37
+158,Shahid Rajayi Hospital,33
+158,Bouali Sina(Avecina) Hospital,43
+158,Pasteur Hospital,42
+158,Hospital 553 of Army (Shahid Behboudi),35
+158,Qods Hospital,33
+158,Mehregan Hospital,45
+158,Zakariyaye Razi Hospital,38
+158, 22 Bahman Psychiatric Hospital,56
+158,Dehkhoda Hospital,35
+160,Kowsar Hospital,41
+160,Velayat Hospital,43
+160,Shahid Rajayi Hospital,35
+160,Bouali Sina(Avecina) Hospital,41
+160,Pasteur Hospital,44
+160,Hospital 553 of Army (Shahid Behboudi),37
+160,Qods Hospital,35
+160,Mehregan Hospital,43
+160,Zakariyaye Razi Hospital,35
+160, 22 Bahman Psychiatric Hospital,56
+160,Dehkhoda Hospital,35

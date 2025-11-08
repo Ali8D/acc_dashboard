@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "بازارچه سپه", "name:en": "Sepah Market" }, "geometry": { "type": "Point", "coordinates": [ 50.0042017, 36.2604674 ] } },
+{ "type": "Feature", "properties": { "name": "میوه فروشی", "name:en": "Fruit shop" }, "geometry": { "type": "Point", "coordinates": [ 50.0137013, 36.2742522 ] } },
+{ "type": "Feature", "properties": { "name": "سبزی فروشی", "name:en": "Fruit Shop" }, "geometry": { "type": "Point", "coordinates": [ 50.0194791, 36.2800311 ] } },
+{ "type": "Feature", "properties": { "name": "میوه فروشی", "name:en": "Fruit Shop" }, "geometry": { "type": "Point", "coordinates": [ 50.0175417, 36.2725761 ] } },
+{ "type": "Feature", "properties": { "name": "میوه فروشی", "name:en": "Fruit Shop" }, "geometry": { "type": "Point", "coordinates": [ 50.0173578, 36.2952908 ] } },
+{ "type": "Feature", "properties": { "name": "میوه فروشی", "name:en": "Fruit Shop" }, "geometry": { "type": "Point", "coordinates": [ 49.9982012, 36.2846412 ] } },
+{ "type": "Feature", "properties": { "name": "بازارچه مرکزی کابل البرز", "name:en": "بازارچه مرکزی کابل البرز" }, "geometry": { "type": "Point", "coordinates": [ 49.9975982, 36.3104924 ] } },
+{ "type": "Feature", "properties": { "name": "میوه فروشی", "name:en": "Fruit shop" }, "geometry": { "type": "Point", "coordinates": [ 50.0149445, 36.2748582 ] } },
+{ "type": "Feature", "properties": { "name": "سبزی فروشی", "name:en": "Fruit Shop" }, "geometry": { "type": "Point", "coordinates": [ 50.0195562, 36.2802607 ] } },
+{ "type": "Feature", "properties": { "name": "بازار روز", "name:en": "Bazar Rooz" }, "geometry": { "type": "Point", "coordinates": [ 50.013340709071798, 36.289355563498972 ] } },
+{ "type": "Feature", "properties": { "name": "میوه فروشی", "name:en": "Fruit Shop" }, "geometry": { "type": "Point", "coordinates": [ 50.012352454401274, 36.278986506247442 ] } },
+{ "type": "Feature", "properties": { "name": "بازارچه مهدیه", "name:en": "Mahdiye Market" }, "geometry": { "type": "Point", "coordinates": [ 50.020885845318851, 36.309124839610938 ] } },
+{ "type": "Feature", "properties": { "name": "جمعه بازار", "name:en": "Friday Market" }, "geometry": { "type": "Point", "coordinates": [ 49.992561678573246, 36.295819820232282 ] } },
+{ "type": "Feature", "properties": { "name": "میدان تره بار قزوین", "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 49.989393597214999, 36.25938085951978 ] } },
+{ "type": "Feature", "properties": { "name": "میدان تره بار قزوین", "name:en": null }, "geometry": { "type": "Point", "coordinates": [ 49.988645811595134, 36.259738925119777 ] } },
+{ "type": "Feature", "properties": { "name": "بازار میوه و سبزیجات مینودر", "name:en": "بازار میوه و سبزیجات مینودر" }, "geometry": { "type": "Point", "coordinates": [ 50.0033785, 36.3060744 ] } }
+]
+}

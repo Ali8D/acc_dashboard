@@ -1,0 +1,8611 @@
+from_id,to_id,travel_time
+22,01_Mohammad Taghi Nourozi,20
+22,02_,41
+22,03_Qods Highschool,30
+22,04_استعدادهای درخشان شهیدان شالباف,47
+22,05_Sepide Kashani,37
+22,06_Bokharaei High School,35
+22,07_Tohid school,33
+22,08_Pasargad High Scored,23
+22,09_Farzanegan Sampad (NODET) High school,34
+22,10_,36
+22,11_,21
+22,12_Pasdaran highschool,43
+22,13_,45
+22,14_,25
+22,15_,50
+22,16_,36
+22,17_,30
+22,18_,25
+22,19_Erfan,28
+22,20_Khatamol anbia Technical School,33
+22,21_Enghelab-e-Eslami Technical school,34
+22,22_Shahed,26
+22,23_Shahed,25
+22,24_,30
+22,25_,32
+22,26_Chamran,43
+22,27_Nourozian School,33
+22,28_Nourozian School Building,33
+22,29_,43
+22,30_,44
+22,31_,35
+22,32_Shahed School,34
+22,33_Martyr Babayi elites Highschool,30
+22,34_,32
+22,35_Jaberebn e Hayyan,43
+22,36_Nejatiye,40
+22,37_,39
+22,38_,36
+22,39_Daneshmand High School,49
+22,40_Amin Rambood,40
+22,41_,40
+22,42_,31
+22,43_Reshadat,30
+22,44_,40
+22,45_,40
+22,46_,38
+22,47_,36
+22,48_,34
+22,49_Sadra,32
+22,50_,48
+22,51_Tarbiat,44
+22,52_,46
+22,53_Exceptional Children School,48
+22,54_Shahidi,40
+22,55_Ayande Sazan Novin,51
+22,56_Erfan High School,31
+22,57_Dehkhoda And Farabi High school,39
+22,58_,40
+22,59_Shirodi and Haj Seyed Fazlollah Ghavam,38
+22,60_Sheykh e Toosi and Kalini,38
+22,61_,45
+22,62_Abdollahi School,44
+22,63_Sa'adat School,45
+22,64_Valiasr,31
+22,65_Aghmashe High School,30
+22,66_,39
+22,67_,31
+22,68_,31
+22,69_Hemmat School,39
+22,70_,35
+22,71_,37
+22,72_,49
+22,73_,42
+22,74_,45
+22,75_,42
+22,76_,43
+22,77_,43
+22,78_,44
+22,79_Allame Jafari High school,51
+22,80_,33
+22,81_,26
+22,82_,39
+31,01_Mohammad Taghi Nourozi,50
+31,02_,61
+31,03_Qods Highschool,39
+31,04_استعدادهای درخشان شهیدان شالباف,68
+31,05_Sepide Kashani,52
+31,06_Bokharaei High School,56
+31,07_Tohid school,41
+31,08_Pasargad High Scored,47
+31,09_Farzanegan Sampad (NODET) High school,57
+31,10_,56
+31,11_,46
+31,12_Pasdaran highschool,31
+31,13_,66
+31,14_,33
+31,15_,31
+31,16_,60
+31,17_,57
+31,18_,53
+31,19_Erfan,51
+31,20_Khatamol anbia Technical School,56
+31,21_Enghelab-e-Eslami Technical school,58
+31,22_Shahed,49
+31,23_Shahed,48
+31,24_,52
+31,25_,47
+31,26_Chamran,45
+31,27_Nourozian School,47
+31,28_Nourozian School Building,47
+31,29_,22
+31,30_,20
+31,31_,40
+31,32_Shahed School,57
+31,33_Martyr Babayi elites Highschool,53
+31,34_,47
+31,35_Jaberebn e Hayyan,66
+31,36_Nejatiye,63
+31,37_,45
+31,38_,36
+31,39_Daneshmand High School,72
+31,40_Amin Rambood,32
+31,41_,46
+31,42_,52
+31,43_Reshadat,51
+31,44_,41
+31,45_,42
+31,46_,61
+31,47_,59
+31,48_,22
+31,49_Sadra,48
+31,50_,68
+31,51_Tarbiat,63
+31,52_,66
+31,53_Exceptional Children School,68
+31,54_Shahidi,28
+31,55_Ayande Sazan Novin,74
+31,56_Erfan High School,54
+31,57_Dehkhoda And Farabi High school,36
+31,58_,36
+31,59_Shirodi and Haj Seyed Fazlollah Ghavam,37
+31,60_Sheykh e Toosi and Kalini,37
+31,61_,29
+31,62_Abdollahi School,67
+31,63_Sa'adat School,68
+31,64_Valiasr,32
+31,65_Aghmashe High School,41
+31,66_,45
+31,67_,52
+31,68_,52
+31,69_Hemmat School,45
+31,70_,25
+31,71_,58
+31,72_,69
+31,73_,62
+31,74_,64
+31,75_,62
+31,76_,63
+31,77_,63
+31,78_,64
+31,79_Allame Jafari High school,71
+31,80_,61
+31,81_,40
+31,82_,45
+32,01_Mohammad Taghi Nourozi,50
+32,02_,61
+32,03_Qods Highschool,39
+32,04_استعدادهای درخشان شهیدان شالباف,68
+32,05_Sepide Kashani,52
+32,06_Bokharaei High School,56
+32,07_Tohid school,41
+32,08_Pasargad High Scored,47
+32,09_Farzanegan Sampad (NODET) High school,57
+32,10_,56
+32,11_,46
+32,12_Pasdaran highschool,31
+32,13_,66
+32,14_,33
+32,15_,31
+32,16_,60
+32,17_,57
+32,18_,53
+32,19_Erfan,51
+32,20_Khatamol anbia Technical School,56
+32,21_Enghelab-e-Eslami Technical school,58
+32,22_Shahed,49
+32,23_Shahed,48
+32,24_,52
+32,25_,47
+32,26_Chamran,45
+32,27_Nourozian School,47
+32,28_Nourozian School Building,47
+32,29_,22
+32,30_,20
+32,31_,40
+32,32_Shahed School,57
+32,33_Martyr Babayi elites Highschool,53
+32,34_,47
+32,35_Jaberebn e Hayyan,66
+32,36_Nejatiye,63
+32,37_,45
+32,38_,36
+32,39_Daneshmand High School,72
+32,40_Amin Rambood,32
+32,41_,46
+32,42_,52
+32,43_Reshadat,51
+32,44_,41
+32,45_,42
+32,46_,61
+32,47_,59
+32,48_,22
+32,49_Sadra,48
+32,50_,68
+32,51_Tarbiat,61
+32,52_,66
+32,53_Exceptional Children School,68
+32,54_Shahidi,28
+32,55_Ayande Sazan Novin,74
+32,56_Erfan High School,54
+32,57_Dehkhoda And Farabi High school,36
+32,58_,36
+32,59_Shirodi and Haj Seyed Fazlollah Ghavam,37
+32,60_Sheykh e Toosi and Kalini,37
+32,61_,29
+32,62_Abdollahi School,67
+32,63_Sa'adat School,68
+32,64_Valiasr,32
+32,65_Aghmashe High School,41
+32,66_,45
+32,67_,52
+32,68_,52
+32,69_Hemmat School,45
+32,70_,25
+32,71_,58
+32,72_,69
+32,73_,62
+32,74_,62
+32,75_,60
+32,76_,61
+32,77_,63
+32,78_,64
+32,79_Allame Jafari High school,71
+32,80_,61
+32,81_,40
+32,82_,45
+33,01_Mohammad Taghi Nourozi,56
+33,02_,67
+33,03_Qods Highschool,45
+33,04_استعدادهای درخشان شهیدان شالباف,73
+33,05_Sepide Kashani,54
+33,06_Bokharaei High School,61
+33,07_Tohid school,46
+33,08_Pasargad High Scored,53
+33,09_Farzanegan Sampad (NODET) High school,62
+33,10_,62
+33,11_,52
+33,12_Pasdaran highschool,34
+33,13_,71
+33,14_,39
+33,15_,28
+33,16_,65
+33,17_,62
+33,18_,58
+33,19_Erfan,56
+33,20_Khatamol anbia Technical School,61
+33,21_Enghelab-e-Eslami Technical school,63
+33,22_Shahed,54
+33,23_Shahed,53
+33,24_,57
+33,25_,50
+33,26_Chamran,48
+33,27_Nourozian School,51
+33,28_Nourozian School Building,51
+33,29_,20
+33,30_,18
+33,31_,45
+33,32_Shahed School,62
+33,33_Martyr Babayi elites Highschool,58
+33,34_,50
+33,35_Jaberebn e Hayyan,71
+33,36_Nejatiye,68
+33,37_,48
+33,38_,41
+33,39_Daneshmand High School,77
+33,40_Amin Rambood,35
+33,41_,48
+33,42_,57
+33,43_Reshadat,56
+33,44_,44
+33,45_,45
+33,46_,66
+33,47_,64
+33,48_,27
+33,49_Sadra,53
+33,50_,74
+33,51_Tarbiat,56
+33,52_,67
+33,53_Exceptional Children School,69
+33,54_Shahidi,31
+33,55_Ayande Sazan Novin,79
+33,56_Erfan High School,59
+33,57_Dehkhoda And Farabi High school,39
+33,58_,39
+33,59_Shirodi and Haj Seyed Fazlollah Ghavam,40
+33,60_Sheykh e Toosi and Kalini,40
+33,61_,33
+33,62_Abdollahi School,72
+33,63_Sa'adat School,73
+33,64_Valiasr,37
+33,65_Aghmashe High School,47
+33,66_,48
+33,67_,57
+33,68_,57
+33,69_Hemmat School,48
+33,70_,26
+33,71_,63
+33,72_,75
+33,73_,63
+33,74_,57
+33,75_,55
+33,76_,56
+33,77_,64
+33,78_,65
+33,79_Allame Jafari High school,73
+33,80_,66
+33,81_,46
+33,82_,48
+36,01_Mohammad Taghi Nourozi,37
+36,02_,56
+36,03_Qods Highschool,32
+36,04_استعدادهای درخشان شهیدان شالباف,58
+36,05_Sepide Kashani,44
+36,06_Bokharaei High School,46
+36,07_Tohid school,34
+36,08_Pasargad High Scored,35
+36,09_Farzanegan Sampad (NODET) High school,47
+36,10_,51
+36,11_,35
+36,12_Pasdaran highschool,29
+36,13_,56
+36,14_,26
+36,15_,27
+36,16_,50
+36,17_,47
+36,18_,43
+36,19_Erfan,41
+36,20_Khatamol anbia Technical School,46
+36,21_Enghelab-e-Eslami Technical school,48
+36,22_Shahed,39
+36,23_Shahed,38
+36,24_,43
+36,25_,39
+36,26_Chamran,43
+36,27_Nourozian School,39
+36,28_Nourozian School Building,39
+36,29_,8
+36,30_,9
+36,31_,32
+36,32_Shahed School,47
+36,33_Martyr Babayi elites Highschool,43
+36,34_,39
+36,35_Jaberebn e Hayyan,56
+36,36_Nejatiye,53
+36,37_,42
+36,38_,29
+36,39_Daneshmand High School,62
+36,40_Amin Rambood,30
+36,41_,43
+36,42_,43
+36,43_Reshadat,41
+36,44_,39
+36,45_,40
+36,46_,51
+36,47_,49
+36,48_,7
+36,49_Sadra,38
+36,50_,63
+36,51_Tarbiat,53
+36,52_,61
+36,53_Exceptional Children School,63
+36,54_Shahidi,26
+36,55_Ayande Sazan Novin,64
+36,56_Erfan High School,44
+36,57_Dehkhoda And Farabi High school,34
+36,58_,34
+36,59_Shirodi and Haj Seyed Fazlollah Ghavam,35
+36,60_Sheykh e Toosi and Kalini,35
+36,61_,22
+36,62_Abdollahi School,57
+36,63_Sa'adat School,58
+36,64_Valiasr,26
+36,65_Aghmashe High School,33
+36,66_,43
+36,67_,44
+36,68_,44
+36,69_Hemmat School,43
+36,70_,6
+36,71_,48
+36,72_,64
+36,73_,57
+36,74_,54
+36,75_,52
+36,76_,53
+36,77_,58
+36,78_,59
+36,79_Allame Jafari High school,66
+36,80_,51
+36,81_,32
+36,82_,42
+37,01_Mohammad Taghi Nourozi,46
+37,02_,57
+37,03_Qods Highschool,35
+37,04_استعدادهای درخشان شهیدان شالباف,63
+37,05_Sepide Kashani,45
+37,06_Bokharaei High School,51
+37,07_Tohid school,36
+37,08_Pasargad High Scored,43
+37,09_Farzanegan Sampad (NODET) High school,52
+37,10_,52
+37,11_,42
+37,12_Pasdaran highschool,24
+37,13_,61
+37,14_,29
+37,15_,20
+37,16_,55
+37,17_,52
+37,18_,48
+37,19_Erfan,46
+37,20_Khatamol anbia Technical School,51
+37,21_Enghelab-e-Eslami Technical school,53
+37,22_Shahed,44
+37,23_Shahed,43
+37,24_,47
+37,25_,40
+37,26_Chamran,38
+37,27_Nourozian School,41
+37,28_Nourozian School Building,41
+37,29_,9
+37,30_,7
+37,31_,35
+37,32_Shahed School,52
+37,33_Martyr Babayi elites Highschool,48
+37,34_,40
+37,35_Jaberebn e Hayyan,61
+37,36_Nejatiye,58
+37,37_,38
+37,38_,31
+37,39_Daneshmand High School,67
+37,40_Amin Rambood,25
+37,41_,37
+37,42_,47
+37,43_Reshadat,46
+37,44_,34
+37,45_,35
+37,46_,56
+37,47_,54
+37,48_,16
+37,49_Sadra,43
+37,50_,64
+37,51_Tarbiat,48
+37,52_,58
+37,53_Exceptional Children School,60
+37,54_Shahidi,21
+37,55_Ayande Sazan Novin,69
+37,56_Erfan High School,49
+37,57_Dehkhoda And Farabi High school,29
+37,58_,29
+37,59_Shirodi and Haj Seyed Fazlollah Ghavam,30
+37,60_Sheykh e Toosi and Kalini,30
+37,61_,23
+37,62_Abdollahi School,62
+37,63_Sa'adat School,63
+37,64_Valiasr,27
+37,65_Aghmashe High School,37
+37,66_,38
+37,67_,47
+37,68_,47
+37,69_Hemmat School,38
+37,70_,18
+37,71_,53
+37,72_,65
+37,73_,54
+37,74_,49
+37,75_,47
+37,76_,48
+37,77_,55
+37,78_,56
+37,79_Allame Jafari High school,63
+37,80_,56
+37,81_,36
+37,82_,38
+38,01_Mohammad Taghi Nourozi,48
+38,02_,57
+38,03_Qods Highschool,40
+38,04_استعدادهای درخشان شهیدان شالباف,62
+38,05_Sepide Kashani,42
+38,06_Bokharaei High School,50
+38,07_Tohid school,37
+38,08_Pasargad High Scored,47
+38,09_Farzanegan Sampad (NODET) High school,52
+38,10_,52
+38,11_,47
+38,12_Pasdaran highschool,25
+38,13_,60
+38,14_,35
+38,15_,15
+38,16_,56
+38,17_,53
+38,18_,47
+38,19_Erfan,45
+38,20_Khatamol anbia Technical School,51
+38,21_Enghelab-e-Eslami Technical school,53
+38,22_Shahed,45
+38,23_Shahed,44
+38,24_,46
+38,25_,39
+38,26_Chamran,36
+38,27_Nourozian School,40
+38,28_Nourozian School Building,40
+38,29_,17
+38,30_,16
+38,31_,36
+38,32_Shahed School,52
+38,33_Martyr Babayi elites Highschool,49
+38,34_,39
+38,35_Jaberebn e Hayyan,60
+38,36_Nejatiye,57
+38,37_,38
+38,38_,31
+38,39_Daneshmand High School,66
+38,40_Amin Rambood,27
+38,41_,36
+38,42_,46
+38,43_Reshadat,45
+38,44_,33
+38,45_,34
+38,46_,58
+38,47_,56
+38,48_,20
+38,49_Sadra,42
+38,50_,64
+38,51_Tarbiat,44
+38,52_,57
+38,53_Exceptional Children School,59
+38,54_Shahidi,22
+38,55_Ayande Sazan Novin,68
+38,56_Erfan High School,48
+38,57_Dehkhoda And Farabi High school,30
+38,58_,30
+38,59_Shirodi and Haj Seyed Fazlollah Ghavam,31
+38,60_Sheykh e Toosi and Kalini,31
+38,61_,23
+38,62_Abdollahi School,62
+38,63_Sa'adat School,62
+38,64_Valiasr,30
+38,65_Aghmashe High School,43
+38,66_,37
+38,67_,46
+38,68_,46
+38,69_Hemmat School,37
+38,70_,25
+38,71_,52
+38,72_,65
+38,73_,53
+38,74_,45
+38,75_,43
+38,76_,44
+38,77_,54
+38,78_,55
+38,79_Allame Jafari High school,63
+38,80_,55
+38,81_,42
+38,82_,38
+39,01_Mohammad Taghi Nourozi,53
+39,02_,53
+39,03_Qods Highschool,47
+39,04_استعدادهای درخشان شهیدان شالباف,60
+39,05_Sepide Kashani,42
+39,06_Bokharaei High School,48
+39,07_Tohid school,40
+39,08_Pasargad High Scored,56
+39,09_Farzanegan Sampad (NODET) High school,53
+39,10_,48
+39,11_,56
+39,12_Pasdaran highschool,27
+39,13_,59
+39,14_,42
+39,15_,19
+39,16_,57
+39,17_,54
+39,18_,48
+39,19_Erfan,46
+39,20_Khatamol anbia Technical School,52
+39,21_Enghelab-e-Eslami Technical school,54
+39,22_Shahed,46
+39,23_Shahed,45
+39,24_,47
+39,25_,40
+39,26_Chamran,35
+39,27_Nourozian School,41
+39,28_Nourozian School Building,41
+39,29_,26
+39,30_,25
+39,31_,38
+39,32_Shahed School,53
+39,33_Martyr Babayi elites Highschool,50
+39,34_,40
+39,35_Jaberebn e Hayyan,61
+39,36_Nejatiye,58
+39,37_,40
+39,38_,33
+39,39_Daneshmand High School,67
+39,40_Amin Rambood,30
+39,41_,34
+39,42_,44
+39,43_Reshadat,43
+39,44_,34
+39,45_,35
+39,46_,60
+39,47_,58
+39,48_,28
+39,49_Sadra,43
+39,50_,60
+39,51_Tarbiat,40
+39,52_,53
+39,53_Exceptional Children School,55
+39,54_Shahidi,24
+39,55_Ayande Sazan Novin,69
+39,56_Erfan High School,49
+39,57_Dehkhoda And Farabi High school,31
+39,58_,31
+39,59_Shirodi and Haj Seyed Fazlollah Ghavam,34
+39,60_Sheykh e Toosi and Kalini,34
+39,61_,26
+39,62_Abdollahi School,63
+39,63_Sa'adat School,63
+39,64_Valiasr,35
+39,65_Aghmashe High School,50
+39,66_,37
+39,67_,44
+39,68_,44
+39,69_Hemmat School,37
+39,70_,33
+39,71_,53
+39,72_,61
+39,73_,49
+39,74_,41
+39,75_,39
+39,76_,40
+39,77_,50
+39,78_,51
+39,79_Allame Jafari High school,59
+39,80_,56
+39,81_,49
+39,82_,40
+40,01_Mohammad Taghi Nourozi,61
+40,02_,57
+40,03_Qods Highschool,55
+40,04_استعدادهای درخشان شهیدان شالباف,65
+40,05_Sepide Kashani,46
+40,06_Bokharaei High School,52
+40,07_Tohid school,48
+40,08_Pasargad High Scored,63
+40,09_Farzanegan Sampad (NODET) High school,61
+40,10_,52
+40,11_,63
+40,12_Pasdaran highschool,35
+40,13_,65
+40,14_,50
+40,15_,29
+40,16_,65
+40,17_,62
+40,18_,56
+40,19_Erfan,52
+40,20_Khatamol anbia Technical School,60
+40,21_Enghelab-e-Eslami Technical school,62
+40,22_Shahed,52
+40,23_Shahed,53
+40,24_,53
+40,25_,47
+40,26_Chamran,41
+40,27_Nourozian School,49
+40,28_Nourozian School Building,49
+40,29_,34
+40,30_,33
+40,31_,46
+40,32_Shahed School,61
+40,33_Martyr Babayi elites Highschool,58
+40,34_,47
+40,35_Jaberebn e Hayyan,67
+40,36_Nejatiye,66
+40,37_,48
+40,38_,41
+40,39_Daneshmand High School,75
+40,40_Amin Rambood,38
+40,41_,38
+40,42_,48
+40,43_Reshadat,49
+40,44_,40
+40,45_,41
+40,46_,68
+40,47_,66
+40,48_,36
+40,49_Sadra,51
+40,50_,64
+40,51_Tarbiat,44
+40,52_,57
+40,53_Exceptional Children School,59
+40,54_Shahidi,32
+40,55_Ayande Sazan Novin,77
+40,56_Erfan High School,55
+40,57_Dehkhoda And Farabi High school,37
+40,58_,37
+40,59_Shirodi and Haj Seyed Fazlollah Ghavam,42
+40,60_Sheykh e Toosi and Kalini,42
+40,61_,34
+40,62_Abdollahi School,69
+40,63_Sa'adat School,69
+40,64_Valiasr,43
+40,65_Aghmashe High School,58
+40,66_,43
+40,67_,48
+40,68_,48
+40,69_Hemmat School,43
+40,70_,41
+40,71_,61
+40,72_,65
+40,73_,53
+40,74_,45
+40,75_,43
+40,76_,44
+40,77_,54
+40,78_,55
+40,79_Allame Jafari High school,63
+40,80_,64
+40,81_,57
+40,82_,48
+41,01_Mohammad Taghi Nourozi,35
+41,02_,55
+41,03_Qods Highschool,29
+41,04_استعدادهای درخشان شهیدان شالباف,56
+41,05_Sepide Kashani,41
+41,06_Bokharaei High School,44
+41,07_Tohid school,24
+41,08_Pasargad High Scored,32
+41,09_Farzanegan Sampad (NODET) High school,45
+41,10_,50
+41,11_,32
+41,12_Pasdaran highschool,25
+41,13_,54
+41,14_,25
+41,15_,26
+41,16_,48
+41,17_,45
+41,18_,41
+41,19_Erfan,39
+41,20_Khatamol anbia Technical School,44
+41,21_Enghelab-e-Eslami Technical school,46
+41,22_Shahed,37
+41,23_Shahed,36
+41,24_,41
+41,25_,36
+41,26_Chamran,40
+41,27_Nourozian School,37
+41,28_Nourozian School Building,37
+41,29_,11
+41,30_,11
+41,31_,22
+41,32_Shahed School,45
+41,33_Martyr Babayi elites Highschool,41
+41,34_,36
+41,35_Jaberebn e Hayyan,54
+41,36_Nejatiye,51
+41,37_,35
+41,38_,19
+41,39_Daneshmand High School,60
+41,40_Amin Rambood,28
+41,41_,41
+41,42_,42
+41,43_Reshadat,39
+41,44_,36
+41,45_,37
+41,46_,49
+41,47_,47
+41,48_,7
+41,49_Sadra,36
+41,50_,62
+41,51_Tarbiat,52
+41,52_,60
+41,53_Exceptional Children School,62
+41,54_Shahidi,22
+41,55_Ayande Sazan Novin,62
+41,56_Erfan High School,42
+41,57_Dehkhoda And Farabi High school,31
+41,58_,31
+41,59_Shirodi and Haj Seyed Fazlollah Ghavam,25
+41,60_Sheykh e Toosi and Kalini,25
+41,61_,14
+41,62_Abdollahi School,55
+41,63_Sa'adat School,56
+41,64_Valiasr,18
+41,65_Aghmashe High School,31
+41,66_,40
+41,67_,43
+41,68_,42
+41,69_Hemmat School,40
+41,70_,12
+41,71_,46
+41,72_,63
+41,73_,56
+41,74_,53
+41,75_,51
+41,76_,51
+41,77_,57
+41,78_,58
+41,79_Allame Jafari High school,64
+41,80_,49
+41,81_,30
+41,82_,35
+42,01_Mohammad Taghi Nourozi,46
+42,02_,56
+42,03_Qods Highschool,37
+42,04_استعدادهای درخشان شهیدان شالباف,62
+42,05_Sepide Kashani,39
+42,06_Bokharaei High School,50
+42,07_Tohid school,33
+42,08_Pasargad High Scored,44
+42,09_Farzanegan Sampad (NODET) High school,52
+42,10_,53
+42,11_,43
+42,12_Pasdaran highschool,18
+42,13_,60
+42,14_,33
+42,15_,5
+42,16_,56
+42,17_,53
+42,18_,47
+42,19_Erfan,45
+42,20_Khatamol anbia Technical School,51
+42,21_Enghelab-e-Eslami Technical school,53
+42,22_Shahed,45
+42,23_Shahed,44
+42,24_,46
+42,25_,39
+42,26_Chamran,34
+42,27_Nourozian School,40
+42,28_Nourozian School Building,40
+42,29_,17
+42,30_,16
+42,31_,32
+42,32_Shahed School,52
+42,33_Martyr Babayi elites Highschool,49
+42,34_,39
+42,35_Jaberebn e Hayyan,60
+42,36_Nejatiye,57
+42,37_,37
+42,38_,26
+42,39_Daneshmand High School,66
+42,40_Amin Rambood,23
+42,41_,35
+42,42_,46
+42,43_Reshadat,45
+42,44_,33
+42,45_,34
+42,46_,58
+42,47_,56
+42,48_,20
+42,49_Sadra,42
+42,50_,63
+42,51_Tarbiat,45
+42,52_,58
+42,53_Exceptional Children School,60
+42,54_Shahidi,19
+42,55_Ayande Sazan Novin,68
+42,56_Erfan High School,48
+42,57_Dehkhoda And Farabi High school,26
+42,58_,24
+42,59_Shirodi and Haj Seyed Fazlollah Ghavam,28
+42,60_Sheykh e Toosi and Kalini,28
+42,61_,15
+42,62_Abdollahi School,62
+42,63_Sa'adat School,62
+42,64_Valiasr,28
+42,65_Aghmashe High School,41
+42,66_,37
+42,67_,46
+42,68_,46
+42,69_Hemmat School,37
+42,70_,25
+42,71_,52
+42,72_,64
+42,73_,54
+42,74_,46
+42,75_,44
+42,76_,45
+42,77_,55
+42,78_,56
+42,79_Allame Jafari High school,63
+42,80_,55
+42,81_,42
+42,82_,36
+44,01_Mohammad Taghi Nourozi,52
+44,02_,54
+44,03_Qods Highschool,47
+44,04_استعدادهای درخشان شهیدان شالباف,61
+44,05_Sepide Kashani,39
+44,06_Bokharaei High School,49
+44,07_Tohid school,43
+44,08_Pasargad High Scored,54
+44,09_Farzanegan Sampad (NODET) High school,57
+44,10_,49
+44,11_,54
+44,12_Pasdaran highschool,29
+44,13_,61
+44,14_,44
+44,15_,12
+44,16_,61
+44,17_,58
+44,18_,52
+44,19_Erfan,49
+44,20_Khatamol anbia Technical School,56
+44,21_Enghelab-e-Eslami Technical school,58
+44,22_Shahed,49
+44,23_Shahed,49
+44,24_,49
+44,25_,41
+44,26_Chamran,34
+44,27_Nourozian School,43
+44,28_Nourozian School Building,43
+44,29_,29
+44,30_,28
+44,31_,42
+44,32_Shahed School,57
+44,33_Martyr Babayi elites Highschool,54
+44,34_,41
+44,35_Jaberebn e Hayyan,64
+44,36_Nejatiye,62
+44,37_,44
+44,38_,37
+44,39_Daneshmand High School,71
+44,40_Amin Rambood,32
+44,41_,34
+44,42_,45
+44,43_Reshadat,46
+44,44_,35
+44,45_,35
+44,46_,64
+44,47_,62
+44,48_,31
+44,49_Sadra,44
+44,50_,61
+44,51_Tarbiat,42
+44,52_,54
+44,53_Exceptional Children School,56
+44,54_Shahidi,28
+44,55_Ayande Sazan Novin,73
+44,56_Erfan High School,52
+44,57_Dehkhoda And Farabi High school,28
+44,58_,26
+44,59_Shirodi and Haj Seyed Fazlollah Ghavam,37
+44,60_Sheykh e Toosi and Kalini,37
+44,61_,27
+44,62_Abdollahi School,66
+44,63_Sa'adat School,66
+44,64_Valiasr,37
+44,65_Aghmashe High School,51
+44,66_,37
+44,67_,45
+44,68_,45
+44,69_Hemmat School,37
+44,70_,37
+44,71_,57
+44,72_,62
+44,73_,50
+44,74_,43
+44,75_,41
+44,76_,42
+44,77_,51
+44,78_,52
+44,79_Allame Jafari High school,60
+44,80_,60
+44,81_,52
+44,82_,44
+45,01_Mohammad Taghi Nourozi,27
+45,02_,45
+45,03_Qods Highschool,20
+45,04_استعدادهای درخشان شهیدان شالباف,48
+45,05_Sepide Kashani,34
+45,06_Bokharaei High School,36
+45,07_Tohid school,17
+45,08_Pasargad High Scored,24
+45,09_Farzanegan Sampad (NODET) High school,37
+45,10_,40
+45,11_,24
+45,12_Pasdaran highschool,24
+45,13_,46
+45,14_,16
+45,15_,32
+45,16_,40
+45,17_,37
+45,18_,33
+45,19_Erfan,31
+45,20_Khatamol anbia Technical School,36
+45,21_Enghelab-e-Eslami Technical school,38
+45,22_Shahed,29
+45,23_Shahed,28
+45,24_,33
+45,25_,30
+45,26_Chamran,38
+45,27_Nourozian School,30
+45,28_Nourozian School Building,30
+45,29_,23
+45,30_,22
+45,31_,15
+45,32_Shahed School,37
+45,33_Martyr Babayi elites Highschool,33
+45,34_,30
+45,35_Jaberebn e Hayyan,46
+45,36_Nejatiye,43
+45,37_,29
+45,38_,14
+45,39_Daneshmand High School,52
+45,40_Amin Rambood,28
+45,41_,38
+45,42_,33
+45,43_Reshadat,31
+45,44_,36
+45,45_,36
+45,46_,41
+45,47_,39
+45,48_,15
+45,49_Sadra,28
+45,50_,52
+45,51_Tarbiat,44
+45,52_,50
+45,53_Exceptional Children School,52
+45,54_Shahidi,21
+45,55_Ayande Sazan Novin,54
+45,56_Erfan High School,34
+45,57_Dehkhoda And Farabi High school,32
+45,58_,31
+45,59_Shirodi and Haj Seyed Fazlollah Ghavam,23
+45,60_Sheykh e Toosi and Kalini,23
+45,61_,17
+45,62_Abdollahi School,47
+45,63_Sa'adat School,48
+45,64_Valiasr,10
+45,65_Aghmashe High School,21
+45,66_,36
+45,67_,34
+45,68_,33
+45,69_Hemmat School,36
+45,70_,17
+45,71_,38
+45,72_,53
+45,73_,46
+45,74_,45
+45,75_,43
+45,76_,44
+45,77_,47
+45,78_,48
+45,79_Allame Jafari High school,55
+45,80_,41
+45,81_,21
+45,82_,29
+46,01_Mohammad Taghi Nourozi,31
+46,02_,49
+46,03_Qods Highschool,26
+46,04_استعدادهای درخشان شهیدان شالباف,51
+46,05_Sepide Kashani,38
+46,06_Bokharaei High School,39
+46,07_Tohid school,30
+46,08_Pasargad High Scored,28
+46,09_Farzanegan Sampad (NODET) High school,40
+46,10_,44
+46,11_,28
+46,12_Pasdaran highschool,36
+46,13_,49
+46,14_,21
+46,15_,44
+46,16_,43
+46,17_,40
+46,18_,36
+46,19_Erfan,34
+46,20_Khatamol anbia Technical School,39
+46,21_Enghelab-e-Eslami Technical school,41
+46,22_Shahed,32
+46,23_Shahed,31
+46,24_,36
+46,25_,34
+46,26_Chamran,44
+46,27_Nourozian School,34
+46,28_Nourozian School Building,34
+46,29_,30
+46,30_,30
+46,31_,28
+46,32_Shahed School,40
+46,33_Martyr Babayi elites Highschool,36
+46,34_,34
+46,35_Jaberebn e Hayyan,49
+46,36_Nejatiye,46
+46,37_,41
+46,38_,27
+46,39_Daneshmand High School,55
+46,40_Amin Rambood,40
+46,41_,45
+46,42_,36
+46,43_Reshadat,34
+46,44_,41
+46,45_,42
+46,46_,44
+46,47_,42
+46,48_,21
+46,49_Sadra,32
+46,50_,56
+46,51_Tarbiat,48
+46,52_,54
+46,53_Exceptional Children School,56
+46,54_Shahidi,33
+46,55_Ayande Sazan Novin,57
+46,56_Erfan High School,37
+46,57_Dehkhoda And Farabi High school,45
+46,58_,44
+46,59_Shirodi and Haj Seyed Fazlollah Ghavam,36
+46,60_Sheykh e Toosi and Kalini,36
+46,61_,30
+46,62_Abdollahi School,50
+46,63_Sa'adat School,51
+46,64_Valiasr,19
+46,65_Aghmashe High School,28
+46,66_,40
+46,67_,37
+46,68_,37
+46,69_Hemmat School,40
+46,70_,22
+46,71_,41
+46,72_,57
+46,73_,50
+46,74_,49
+46,75_,47
+46,76_,47
+46,77_,51
+46,78_,52
+46,79_Allame Jafari High school,59
+46,80_,44
+46,81_,27
+46,82_,41
+47,01_Mohammad Taghi Nourozi,38
+47,02_,56
+47,03_Qods Highschool,28
+47,04_استعدادهای درخشان شهیدان شالباف,60
+47,05_Sepide Kashani,40
+47,06_Bokharaei High School,48
+47,07_Tohid school,18
+47,08_Pasargad High Scored,35
+47,09_Farzanegan Sampad (NODET) High school,49
+47,10_,51
+47,11_,34
+47,12_Pasdaran highschool,15
+47,13_,58
+47,14_,25
+47,15_,19
+47,16_,51
+47,17_,45
+47,18_,44
+47,19_Erfan,43
+47,20_Khatamol anbia Technical School,48
+47,21_Enghelab-e-Eslami Technical school,49
+47,22_Shahed,41
+47,23_Shahed,40
+47,24_,44
+47,25_,36
+47,26_Chamran,34
+47,27_Nourozian School,33
+47,28_Nourozian School Building,34
+47,29_,21
+47,30_,21
+47,31_,17
+47,32_Shahed School,49
+47,33_Martyr Babayi elites Highschool,45
+47,34_,36
+47,35_Jaberebn e Hayyan,58
+47,36_Nejatiye,55
+47,37_,27
+47,38_,11
+47,39_Daneshmand High School,64
+47,40_Amin Rambood,19
+47,41_,35
+47,42_,44
+47,43_Reshadat,43
+47,44_,31
+47,45_,32
+47,46_,53
+47,47_,51
+47,48_,17
+47,49_Sadra,36
+47,50_,63
+47,51_Tarbiat,50
+47,52_,59
+47,53_Exceptional Children School,61
+47,54_Shahidi,12
+47,55_Ayande Sazan Novin,66
+47,56_Erfan High School,46
+47,57_Dehkhoda And Farabi High school,25
+47,58_,24
+47,59_Shirodi and Haj Seyed Fazlollah Ghavam,17
+47,60_Sheykh e Toosi and Kalini,17
+47,61_,4
+47,62_Abdollahi School,59
+47,63_Sa'adat School,60
+47,64_Valiasr,15
+47,65_Aghmashe High School,32
+47,66_,35
+47,67_,45
+47,68_,44
+47,69_Hemmat School,35
+47,70_,22
+47,71_,50
+47,72_,64
+47,73_,55
+47,74_,51
+47,75_,49
+47,76_,50
+47,77_,56
+47,78_,57
+47,79_Allame Jafari High school,64
+47,80_,49
+47,81_,33
+47,82_,27
+48,01_Mohammad Taghi Nourozi,33
+48,02_,50
+48,03_Qods Highschool,25
+48,04_استعدادهای درخشان شهیدان شالباف,50
+48,05_Sepide Kashani,30
+48,06_Bokharaei High School,38
+48,07_Tohid school,21
+48,08_Pasargad High Scored,31
+48,09_Farzanegan Sampad (NODET) High school,40
+48,10_,47
+48,11_,29
+48,12_Pasdaran highschool,0
+48,13_,48
+48,14_,22
+48,15_,19
+48,16_,44
+48,17_,41
+48,18_,35
+48,19_Erfan,33
+48,20_Khatamol anbia Technical School,39
+48,21_Enghelab-e-Eslami Technical school,41
+48,22_Shahed,33
+48,23_Shahed,32
+48,24_,34
+48,25_,27
+48,26_Chamran,23
+48,27_Nourozian School,28
+48,28_Nourozian School Building,28
+48,29_,24
+48,30_,23
+48,31_,20
+48,32_Shahed School,40
+48,33_Martyr Babayi elites Highschool,37
+48,34_,27
+48,35_Jaberebn e Hayyan,48
+48,36_Nejatiye,45
+48,37_,23
+48,38_,14
+48,39_Daneshmand High School,54
+48,40_Amin Rambood,11
+48,41_,24
+48,42_,37
+48,43_Reshadat,33
+48,44_,21
+48,45_,22
+48,46_,46
+48,47_,44
+48,48_,25
+48,49_Sadra,30
+48,50_,57
+48,51_Tarbiat,41
+48,52_,53
+48,53_Exceptional Children School,55
+48,54_Shahidi,5
+48,55_Ayande Sazan Novin,56
+48,56_Erfan High School,36
+48,57_Dehkhoda And Farabi High school,13
+48,58_,13
+48,59_Shirodi and Haj Seyed Fazlollah Ghavam,15
+48,60_Sheykh e Toosi and Kalini,15
+48,61_,10
+48,62_Abdollahi School,50
+48,63_Sa'adat School,50
+48,64_Valiasr,15
+48,65_Aghmashe High School,29
+48,66_,25
+48,67_,37
+48,68_,37
+48,69_Hemmat School,25
+48,70_,29
+48,71_,40
+48,72_,58
+48,73_,49
+48,74_,42
+48,75_,40
+48,76_,40
+48,77_,50
+48,78_,51
+48,79_Allame Jafari High school,58
+48,80_,43
+48,81_,31
+48,82_,23
+49,01_Mohammad Taghi Nourozi,40
+49,02_,46
+49,03_Qods Highschool,34
+49,04_استعدادهای درخشان شهیدان شالباف,53
+49,05_Sepide Kashani,30
+49,06_Bokharaei High School,41
+49,07_Tohid school,30
+49,08_Pasargad High Scored,39
+49,09_Farzanegan Sampad (NODET) High school,46
+49,10_,43
+49,11_,38
+49,12_Pasdaran highschool,13
+49,13_,52
+49,14_,31
+49,15_,11
+49,16_,50
+49,17_,47
+49,18_,41
+49,19_Erfan,39
+49,20_Khatamol anbia Technical School,45
+49,21_Enghelab-e-Eslami Technical school,47
+49,22_Shahed,39
+49,23_Shahed,38
+49,24_,40
+49,25_,31
+49,26_Chamran,25
+49,27_Nourozian School,33
+49,28_Nourozian School Building,33
+49,29_,26
+49,30_,25
+49,31_,29
+49,32_Shahed School,46
+49,33_Martyr Babayi elites Highschool,43
+49,34_,31
+49,35_Jaberebn e Hayyan,54
+49,36_Nejatiye,51
+49,37_,32
+49,38_,23
+49,39_Daneshmand High School,60
+49,40_Amin Rambood,18
+49,41_,24
+49,42_,37
+49,43_Reshadat,37
+49,44_,25
+49,45_,25
+49,46_,53
+49,47_,51
+49,48_,28
+49,49_Sadra,34
+49,50_,53
+49,51_Tarbiat,36
+49,52_,49
+49,53_Exceptional Children School,51
+49,54_Shahidi,14
+49,55_Ayande Sazan Novin,62
+49,56_Erfan High School,42
+49,57_Dehkhoda And Farabi High school,16
+49,58_,14
+49,59_Shirodi and Haj Seyed Fazlollah Ghavam,24
+49,60_Sheykh e Toosi and Kalini,24
+49,61_,15
+49,62_Abdollahi School,56
+49,63_Sa'adat School,56
+49,64_Valiasr,24
+49,65_Aghmashe High School,38
+49,66_,28
+49,67_,37
+49,68_,37
+49,69_Hemmat School,28
+49,70_,32
+49,71_,46
+49,72_,54
+49,73_,45
+49,74_,37
+49,75_,35
+49,76_,36
+49,77_,46
+49,78_,47
+49,79_Allame Jafari High school,54
+49,80_,49
+49,81_,40
+49,82_,32
+50,01_Mohammad Taghi Nourozi,32
+50,02_,52
+50,03_Qods Highschool,18
+50,04_استعدادهای درخشان شهیدان شالباف,57
+50,05_Sepide Kashani,39
+50,06_Bokharaei High School,45
+50,07_Tohid school,8
+50,08_Pasargad High Scored,29
+50,09_Farzanegan Sampad (NODET) High school,46
+50,10_,47
+50,11_,28
+50,12_Pasdaran highschool,14
+50,13_,55
+50,14_,19
+50,15_,27
+50,16_,46
+50,17_,41
+50,18_,39
+50,19_Erfan,40
+50,20_Khatamol anbia Technical School,43
+50,21_Enghelab-e-Eslami Technical school,44
+50,22_Shahed,38
+50,23_Shahed,37
+50,24_,41
+50,25_,32
+50,26_Chamran,33
+50,27_Nourozian School,26
+50,28_Nourozian School Building,26
+50,29_,28
+50,30_,27
+50,31_,7
+50,32_Shahed School,46
+50,33_Martyr Babayi elites Highschool,42
+50,34_,32
+50,35_Jaberebn e Hayyan,55
+50,36_Nejatiye,52
+50,37_,20
+50,38_,1
+50,39_Daneshmand High School,61
+50,40_Amin Rambood,15
+50,41_,34
+50,42_,41
+50,43_Reshadat,40
+50,44_,29
+50,45_,30
+50,46_,50
+50,47_,48
+50,48_,22
+50,49_Sadra,29
+50,50_,59
+50,51_Tarbiat,47
+50,52_,55
+50,53_Exceptional Children School,57
+50,54_Shahidi,12
+50,55_Ayande Sazan Novin,63
+50,56_Erfan High School,43
+50,57_Dehkhoda And Farabi High school,24
+50,58_,24
+50,59_Shirodi and Haj Seyed Fazlollah Ghavam,10
+50,60_Sheykh e Toosi and Kalini,10
+50,61_,12
+50,62_Abdollahi School,56
+50,63_Sa'adat School,57
+50,64_Valiasr,9
+50,65_Aghmashe High School,23
+50,66_,33
+50,67_,42
+50,68_,41
+50,69_Hemmat School,32
+50,70_,26
+50,71_,47
+50,72_,60
+50,73_,51
+50,74_,48
+50,75_,46
+50,76_,47
+50,77_,52
+50,78_,53
+50,79_Allame Jafari High school,60
+50,80_,43
+50,81_,28
+50,82_,20
+51,01_Mohammad Taghi Nourozi,33
+51,02_,52
+51,03_Qods Highschool,23
+51,04_استعدادهای درخشان شهیدان شالباف,50
+51,05_Sepide Kashani,32
+51,06_Bokharaei High School,38
+51,07_Tohid school,13
+51,08_Pasargad High Scored,31
+51,09_Farzanegan Sampad (NODET) High school,40
+51,10_,48
+51,11_,29
+51,12_Pasdaran highschool,8
+51,13_,48
+51,14_,22
+51,15_,22
+51,16_,44
+51,17_,41
+51,18_,35
+51,19_Erfan,33
+51,20_Khatamol anbia Technical School,39
+51,21_Enghelab-e-Eslami Technical school,41
+51,22_Shahed,33
+51,23_Shahed,32
+51,24_,34
+51,25_,27
+51,26_Chamran,25
+51,27_Nourozian School,23
+51,28_Nourozian School Building,23
+51,29_,26
+51,30_,25
+51,31_,12
+51,32_Shahed School,40
+51,33_Martyr Babayi elites Highschool,37
+51,34_,27
+51,35_Jaberebn e Hayyan,48
+51,36_Nejatiye,45
+51,37_,17
+51,38_,10
+51,39_Daneshmand High School,54
+51,40_Amin Rambood,8
+51,41_,26
+51,42_,37
+51,43_Reshadat,33
+51,44_,21
+51,45_,22
+51,46_,46
+51,47_,44
+51,48_,24
+51,49_Sadra,26
+51,50_,60
+51,51_Tarbiat,42
+51,52_,54
+51,53_Exceptional Children School,56
+51,54_Shahidi,2
+51,55_Ayande Sazan Novin,56
+51,56_Erfan High School,36
+51,57_Dehkhoda And Farabi High school,15
+51,58_,15
+51,59_Shirodi and Haj Seyed Fazlollah Ghavam,7
+51,60_Sheykh e Toosi and Kalini,7
+51,61_,10
+51,62_Abdollahi School,50
+51,63_Sa'adat School,50
+51,64_Valiasr,14
+51,65_Aghmashe High School,28
+51,66_,25
+51,67_,38
+51,68_,37
+51,69_Hemmat School,25
+51,70_,29
+51,71_,40
+51,72_,61
+51,73_,50
+51,74_,43
+51,75_,41
+51,76_,42
+51,77_,51
+51,78_,52
+51,79_Allame Jafari High school,59
+51,80_,43
+51,81_,31
+51,82_,16
+52,01_Mohammad Taghi Nourozi,48
+52,02_,44
+52,03_Qods Highschool,42
+52,04_استعدادهای درخشان شهیدان شالباف,53
+52,05_Sepide Kashani,31
+52,06_Bokharaei High School,40
+52,07_Tohid school,38
+52,08_Pasargad High Scored,47
+52,09_Farzanegan Sampad (NODET) High school,55
+52,10_,39
+52,11_,47
+52,12_Pasdaran highschool,22
+52,13_,55
+52,14_,39
+52,15_,15
+52,16_,58
+52,17_,55
+52,18_,50
+52,19_Erfan,44
+52,20_Khatamol anbia Technical School,54
+52,21_Enghelab-e-Eslami Technical school,56
+52,22_Shahed,44
+52,23_Shahed,45
+52,24_,44
+52,25_,36
+52,26_Chamran,26
+52,27_Nourozian School,38
+52,28_Nourozian School Building,38
+52,29_,35
+52,30_,34
+52,31_,36
+52,32_Shahed School,55
+52,33_Martyr Babayi elites Highschool,51
+52,34_,36
+52,35_Jaberebn e Hayyan,58
+52,36_Nejatiye,60
+52,37_,38
+52,38_,31
+52,39_Daneshmand High School,69
+52,40_Amin Rambood,27
+52,41_,25
+52,42_,35
+52,43_Reshadat,39
+52,44_,29
+52,45_,30
+52,46_,61
+52,47_,59
+52,48_,37
+52,49_Sadra,39
+52,50_,51
+52,51_Tarbiat,34
+52,52_,45
+52,53_Exceptional Children School,47
+52,54_Shahidi,23
+52,55_Ayande Sazan Novin,71
+52,56_Erfan High School,47
+52,57_Dehkhoda And Farabi High school,19
+52,58_,18
+52,59_Shirodi and Haj Seyed Fazlollah Ghavam,33
+52,60_Sheykh e Toosi and Kalini,33
+52,61_,26
+52,62_Abdollahi School,60
+52,63_Sa'adat School,60
+52,64_Valiasr,31
+52,65_Aghmashe High School,46
+52,66_,32
+52,67_,35
+52,68_,35
+52,69_Hemmat School,32
+52,70_,42
+52,71_,55
+52,72_,52
+52,73_,41
+52,74_,35
+52,75_,33
+52,76_,34
+52,77_,42
+52,78_,43
+52,79_Allame Jafari High school,50
+52,80_,58
+52,81_,47
+52,82_,38
+53,01_Mohammad Taghi Nourozi,61
+53,02_,52
+53,03_Qods Highschool,55
+53,04_استعدادهای درخشان شهیدان شالباف,61
+53,05_Sepide Kashani,41
+53,06_Bokharaei High School,48
+53,07_Tohid school,48
+53,08_Pasargad High Scored,62
+53,09_Farzanegan Sampad (NODET) High school,61
+53,10_,47
+53,11_,61
+53,12_Pasdaran highschool,35
+53,13_,62
+53,14_,50
+53,15_,25
+53,16_,65
+53,17_,62
+53,18_,56
+53,19_Erfan,50
+53,20_Khatamol anbia Technical School,60
+53,21_Enghelab-e-Eslami Technical school,62
+53,22_Shahed,50
+53,23_Shahed,53
+53,24_,50
+53,25_,46
+53,26_Chamran,38
+53,27_Nourozian School,49
+53,28_Nourozian School Building,49
+53,29_,34
+53,30_,33
+53,31_,46
+53,32_Shahed School,61
+53,33_Martyr Babayi elites Highschool,58
+53,34_,46
+53,35_Jaberebn e Hayyan,64
+53,36_Nejatiye,66
+53,37_,48
+53,38_,41
+53,39_Daneshmand High School,75
+53,40_Amin Rambood,38
+53,41_,33
+53,42_,43
+53,43_Reshadat,47
+53,44_,38
+53,45_,39
+53,46_,68
+53,47_,66
+53,48_,36
+53,49_Sadra,51
+53,50_,59
+53,51_Tarbiat,39
+53,52_,52
+53,53_Exceptional Children School,54
+53,54_Shahidi,32
+53,55_Ayande Sazan Novin,77
+53,56_Erfan High School,53
+53,57_Dehkhoda And Farabi High school,34
+53,58_,34
+53,59_Shirodi and Haj Seyed Fazlollah Ghavam,42
+53,60_Sheykh e Toosi and Kalini,42
+53,61_,34
+53,62_Abdollahi School,66
+53,63_Sa'adat School,66
+53,64_Valiasr,43
+53,65_Aghmashe High School,58
+53,66_,40
+53,67_,43
+53,68_,43
+53,69_Hemmat School,40
+53,70_,41
+53,71_,61
+53,72_,60
+53,73_,48
+53,74_,40
+53,75_,38
+53,76_,39
+53,77_,49
+53,78_,50
+53,79_Allame Jafari High school,58
+53,80_,64
+53,81_,57
+53,82_,48
+54,01_Mohammad Taghi Nourozi,22
+54,02_,40
+54,03_Qods Highschool,13
+54,04_استعدادهای درخشان شهیدان شالباف,45
+54,05_Sepide Kashani,30
+54,06_Bokharaei High School,33
+54,07_Tohid school,25
+54,08_Pasargad High Scored,20
+54,09_Farzanegan Sampad (NODET) High school,33
+54,10_,35
+54,11_,20
+54,12_Pasdaran highschool,31
+54,13_,43
+54,14_,8
+54,15_,45
+54,16_,36
+54,17_,33
+54,18_,29
+54,19_Erfan,27
+54,20_Khatamol anbia Technical School,32
+54,21_Enghelab-e-Eslami Technical school,34
+54,22_Shahed,25
+54,23_Shahed,24
+54,24_,29
+54,25_,25
+54,26_Chamran,36
+54,27_Nourozian School,25
+54,28_Nourozian School Building,25
+54,29_,33
+54,30_,32
+54,31_,24
+54,32_Shahed School,33
+54,33_Martyr Babayi elites Highschool,29
+54,34_,25
+54,35_Jaberebn e Hayyan,42
+54,36_Nejatiye,39
+54,37_,35
+54,38_,23
+54,39_Daneshmand High School,48
+54,40_Amin Rambood,35
+54,41_,36
+54,42_,29
+54,43_Reshadat,28
+54,44_,34
+54,45_,34
+54,46_,37
+54,47_,35
+54,48_,24
+54,49_Sadra,23
+54,50_,47
+54,51_Tarbiat,40
+54,52_,45
+54,53_Exceptional Children School,47
+54,54_Shahidi,28
+54,55_Ayande Sazan Novin,50
+54,56_Erfan High School,30
+54,57_Dehkhoda And Farabi High school,37
+54,58_,36
+54,59_Shirodi and Haj Seyed Fazlollah Ghavam,30
+54,60_Sheykh e Toosi and Kalini,30
+54,61_,31
+54,62_Abdollahi School,43
+54,63_Sa'adat School,44
+54,64_Valiasr,15
+54,65_Aghmashe High School,16
+54,66_,32
+54,67_,30
+54,68_,29
+54,69_Hemmat School,32
+54,70_,26
+54,71_,35
+54,72_,48
+54,73_,41
+54,74_,41
+54,75_,39
+54,76_,39
+54,77_,42
+54,78_,43
+54,79_Allame Jafari High school,50
+54,80_,37
+54,81_,15
+54,82_,35
+55,01_Mohammad Taghi Nourozi,25
+55,02_,51
+55,03_Qods Highschool,14
+55,04_استعدادهای درخشان شهیدان شالباف,58
+55,05_Sepide Kashani,35
+55,06_Bokharaei High School,46
+55,07_Tohid school,4
+55,08_Pasargad High Scored,23
+55,09_Farzanegan Sampad (NODET) High school,43
+55,10_,46
+55,11_,22
+55,12_Pasdaran highschool,22
+55,13_,56
+55,14_,19
+55,15_,34
+55,16_,44
+55,17_,39
+55,18_,36
+55,19_Erfan,36
+55,20_Khatamol anbia Technical School,41
+55,21_Enghelab-e-Eslami Technical school,42
+55,22_Shahed,36
+55,23_Shahed,35
+55,24_,37
+55,25_,25
+55,26_Chamran,27
+55,27_Nourozian School,19
+55,28_Nourozian School Building,19
+55,29_,35
+55,30_,34
+55,31_,10
+55,32_Shahed School,43
+55,33_Martyr Babayi elites Highschool,40
+55,34_,25
+55,35_Jaberebn e Hayyan,52
+55,36_Nejatiye,48
+55,37_,13
+55,38_,12
+55,39_Daneshmand High School,57
+55,40_Amin Rambood,14
+55,41_,26
+55,42_,42
+55,43_Reshadat,41
+55,44_,24
+55,45_,24
+55,46_,49
+55,47_,47
+55,48_,30
+55,49_Sadra,22
+55,50_,58
+55,51_Tarbiat,45
+55,52_,56
+55,53_Exceptional Children School,58
+55,54_Shahidi,17
+55,55_Ayande Sazan Novin,59
+55,56_Erfan High School,41
+55,57_Dehkhoda And Farabi High school,20
+55,58_,22
+55,59_Shirodi and Haj Seyed Fazlollah Ghavam,7
+55,60_Sheykh e Toosi and Kalini,7
+55,61_,22
+55,62_Abdollahi School,53
+55,63_Sa'adat School,53
+55,64_Valiasr,16
+55,65_Aghmashe High School,20
+55,66_,26
+55,67_,42
+55,68_,42
+55,69_Hemmat School,25
+55,70_,34
+55,71_,48
+55,72_,59
+55,73_,52
+55,74_,46
+55,75_,44
+55,76_,44
+55,77_,53
+55,78_,54
+55,79_Allame Jafari High school,61
+55,80_,41
+55,81_,25
+55,82_,13
+56,01_Mohammad Taghi Nourozi,31
+56,02_,52
+56,03_Qods Highschool,21
+56,04_استعدادهای درخشان شهیدان شالباف,53
+56,05_Sepide Kashani,32
+56,06_Bokharaei High School,41
+56,07_Tohid school,11
+56,08_Pasargad High Scored,29
+56,09_Farzanegan Sampad (NODET) High school,40
+56,10_,48
+56,11_,28
+56,12_Pasdaran highschool,11
+56,13_,51
+56,14_,24
+56,15_,25
+56,16_,44
+56,17_,41
+56,18_,35
+56,19_Erfan,33
+56,20_Khatamol anbia Technical School,39
+56,21_Enghelab-e-Eslami Technical school,41
+56,22_Shahed,33
+56,23_Shahed,32
+56,24_,34
+56,25_,23
+56,26_Chamran,22
+56,27_Nourozian School,18
+56,28_Nourozian School Building,19
+56,29_,30
+56,30_,29
+56,31_,12
+56,32_Shahed School,40
+56,33_Martyr Babayi elites Highschool,37
+56,34_,23
+56,35_Jaberebn e Hayyan,48
+56,36_Nejatiye,45
+56,37_,13
+56,38_,10
+56,39_Daneshmand High School,54
+56,40_Amin Rambood,4
+56,41_,23
+56,42_,39
+56,43_Reshadat,36
+56,44_,19
+56,45_,19
+56,46_,47
+56,47_,45
+56,48_,28
+56,49_Sadra,22
+56,50_,59
+56,51_Tarbiat,43
+56,52_,55
+56,53_Exceptional Children School,57
+56,54_Shahidi,6
+56,55_Ayande Sazan Novin,56
+56,56_Erfan High School,37
+56,57_Dehkhoda And Farabi High school,15
+56,58_,16
+56,59_Shirodi and Haj Seyed Fazlollah Ghavam,3
+56,60_Sheykh e Toosi and Kalini,3
+56,61_,14
+56,62_Abdollahi School,50
+56,63_Sa'adat School,50
+56,64_Valiasr,18
+56,65_Aghmashe High School,26
+56,66_,23
+56,67_,39
+56,68_,39
+56,69_Hemmat School,23
+56,70_,33
+56,71_,43
+56,72_,60
+56,73_,51
+56,74_,44
+56,75_,42
+56,76_,42
+56,77_,52
+56,78_,53
+56,79_Allame Jafari High school,60
+56,80_,43
+56,81_,31
+56,82_,12
+57,01_Mohammad Taghi Nourozi,26
+57,02_,53
+57,03_Qods Highschool,10
+57,04_استعدادهای درخشان شهیدان شالباف,56
+57,05_Sepide Kashani,37
+57,06_Bokharaei High School,44
+57,07_Tohid school,5
+57,08_Pasargad High Scored,22
+57,09_Farzanegan Sampad (NODET) High school,45
+57,10_,48
+57,11_,22
+57,12_Pasdaran highschool,20
+57,13_,54
+57,14_,12
+57,15_,33
+57,16_,43
+57,17_,38
+57,18_,36
+57,19_Erfan,39
+57,20_Khatamol anbia Technical School,40
+57,21_Enghelab-e-Eslami Technical school,41
+57,22_Shahed,37
+57,23_Shahed,36
+57,24_,40
+57,25_,29
+57,26_Chamran,31
+57,27_Nourozian School,23
+57,28_Nourozian School Building,23
+57,29_,31
+57,30_,30
+57,31_,2
+57,32_Shahed School,45
+57,33_Martyr Babayi elites Highschool,41
+57,34_,29
+57,35_Jaberebn e Hayyan,54
+57,36_Nejatiye,51
+57,37_,17
+57,38_,6
+57,39_Daneshmand High School,60
+57,40_Amin Rambood,16
+57,41_,31
+57,42_,41
+57,43_Reshadat,39
+57,44_,28
+57,45_,28
+57,46_,49
+57,47_,47
+57,48_,24
+57,49_Sadra,26
+57,50_,60
+57,51_Tarbiat,45
+57,52_,57
+57,53_Exceptional Children School,59
+57,54_Shahidi,14
+57,55_Ayande Sazan Novin,62
+57,56_Erfan High School,42
+57,57_Dehkhoda And Farabi High school,25
+57,58_,26
+57,59_Shirodi and Haj Seyed Fazlollah Ghavam,11
+57,60_Sheykh e Toosi and Kalini,11
+57,61_,19
+57,62_Abdollahi School,55
+57,63_Sa'adat School,56
+57,64_Valiasr,9
+57,65_Aghmashe High School,16
+57,66_,30
+57,67_,42
+57,68_,41
+57,69_Hemmat School,29
+57,70_,28
+57,71_,46
+57,72_,61
+57,73_,53
+57,74_,46
+57,75_,45
+57,76_,45
+57,77_,54
+57,78_,55
+57,79_Allame Jafari High school,63
+57,80_,39
+57,81_,21
+57,82_,17
+59,01_Mohammad Taghi Nourozi,35
+59,02_,45
+59,03_Qods Highschool,29
+59,04_استعدادهای درخشان شهیدان شالباف,49
+59,05_Sepide Kashani,27
+59,06_Bokharaei High School,37
+59,07_Tohid school,21
+59,08_Pasargad High Scored,35
+59,09_Farzanegan Sampad (NODET) High school,39
+59,10_,42
+59,11_,33
+59,12_Pasdaran highschool,7
+59,13_,47
+59,14_,26
+59,15_,20
+59,16_,43
+59,17_,40
+59,18_,34
+59,19_Erfan,32
+59,20_Khatamol anbia Technical School,38
+59,21_Enghelab-e-Eslami Technical school,40
+59,22_Shahed,32
+59,23_Shahed,31
+59,24_,33
+59,25_,26
+59,26_Chamran,19
+59,27_Nourozian School,27
+59,28_Nourozian School Building,27
+59,29_,22
+59,30_,21
+59,31_,22
+59,32_Shahed School,39
+59,33_Martyr Babayi elites Highschool,36
+59,34_,26
+59,35_Jaberebn e Hayyan,47
+59,36_Nejatiye,44
+59,37_,21
+59,38_,18
+59,39_Daneshmand High School,53
+59,40_Amin Rambood,7
+59,41_,16
+59,42_,34
+59,43_Reshadat,32
+59,44_,16
+59,45_,17
+59,46_,46
+59,47_,44
+59,48_,24
+59,49_Sadra,29
+59,50_,52
+59,51_Tarbiat,37
+59,52_,49
+59,53_Exceptional Children School,51
+59,54_Shahidi,7
+59,55_Ayande Sazan Novin,55
+59,56_Erfan High School,35
+59,57_Dehkhoda And Farabi High school,5
+59,58_,5
+59,59_Shirodi and Haj Seyed Fazlollah Ghavam,14
+59,60_Sheykh e Toosi and Kalini,14
+59,61_,14
+59,62_Abdollahi School,49
+59,63_Sa'adat School,49
+59,64_Valiasr,19
+59,65_Aghmashe High School,33
+59,66_,22
+59,67_,33
+59,68_,33
+59,69_Hemmat School,21
+59,70_,29
+59,71_,39
+59,72_,53
+59,73_,45
+59,74_,38
+59,75_,36
+59,76_,36
+59,77_,46
+59,78_,47
+59,79_Allame Jafari High school,53
+59,80_,42
+59,81_,35
+59,82_,21
+60,01_Mohammad Taghi Nourozi,35
+60,02_,52
+60,03_Qods Highschool,25
+60,04_استعدادهای درخشان شهیدان شالباف,52
+60,05_Sepide Kashani,32
+60,06_Bokharaei High School,40
+60,07_Tohid school,15
+60,08_Pasargad High Scored,34
+60,09_Farzanegan Sampad (NODET) High school,41
+60,10_,49
+60,11_,32
+60,12_Pasdaran highschool,10
+60,13_,50
+60,14_,25
+60,15_,25
+60,16_,45
+60,17_,42
+60,18_,36
+60,19_Erfan,34
+60,20_Khatamol anbia Technical School,40
+60,21_Enghelab-e-Eslami Technical school,42
+60,22_Shahed,34
+60,23_Shahed,33
+60,24_,35
+60,25_,23
+60,26_Chamran,23
+60,27_Nourozian School,22
+60,28_Nourozian School Building,23
+60,29_,29
+60,30_,28
+60,31_,15
+60,32_Shahed School,41
+60,33_Martyr Babayi elites Highschool,38
+60,34_,23
+60,35_Jaberebn e Hayyan,49
+60,36_Nejatiye,46
+60,37_,16
+60,38_,13
+60,39_Daneshmand High School,55
+60,40_Amin Rambood,4
+60,41_,23
+60,42_,39
+60,43_Reshadat,35
+60,44_,19
+60,45_,20
+60,46_,48
+60,47_,46
+60,48_,29
+60,49_Sadra,26
+60,50_,59
+60,51_Tarbiat,43
+60,52_,56
+60,53_Exceptional Children School,58
+60,54_Shahidi,5
+60,55_Ayande Sazan Novin,57
+60,56_Erfan High School,37
+60,57_Dehkhoda And Farabi High school,15
+60,58_,17
+60,59_Shirodi and Haj Seyed Fazlollah Ghavam,7
+60,60_Sheykh e Toosi and Kalini,7
+60,61_,13
+60,62_Abdollahi School,51
+60,63_Sa'adat School,51
+60,64_Valiasr,18
+60,65_Aghmashe High School,31
+60,66_,24
+60,67_,39
+60,68_,39
+60,69_Hemmat School,23
+60,70_,33
+60,71_,42
+60,72_,60
+60,73_,52
+60,74_,44
+60,75_,42
+60,76_,43
+60,77_,53
+60,78_,54
+60,79_Allame Jafari High school,60
+60,80_,44
+60,81_,34
+60,82_,15
+61,01_Mohammad Taghi Nourozi,37
+61,02_,40
+61,03_Qods Highschool,32
+61,04_استعدادهای درخشان شهیدان شالباف,48
+61,05_Sepide Kashani,24
+61,06_Bokharaei High School,35
+61,07_Tohid school,22
+61,08_Pasargad High Scored,38
+61,09_Farzanegan Sampad (NODET) High school,42
+61,10_,37
+61,11_,38
+61,12_Pasdaran highschool,13
+61,13_,48
+61,14_,31
+61,15_,21
+61,16_,46
+61,17_,43
+61,18_,37
+61,19_Erfan,35
+61,20_Khatamol anbia Technical School,41
+61,21_Enghelab-e-Eslami Technical school,43
+61,22_Shahed,35
+61,23_Shahed,34
+61,24_,36
+61,25_,26
+61,26_Chamran,17
+61,27_Nourozian School,28
+61,28_Nourozian School Building,28
+61,29_,27
+61,30_,26
+61,31_,27
+61,32_Shahed School,42
+61,33_Martyr Babayi elites Highschool,39
+61,34_,26
+61,35_Jaberebn e Hayyan,50
+61,36_Nejatiye,47
+61,37_,22
+61,38_,23
+61,39_Daneshmand High School,56
+61,40_Amin Rambood,12
+61,41_,12
+61,42_,31
+61,43_Reshadat,32
+61,44_,16
+61,45_,18
+61,46_,49
+61,47_,47
+61,48_,29
+61,49_Sadra,29
+61,50_,47
+61,51_Tarbiat,32
+61,52_,44
+61,53_Exceptional Children School,46
+61,54_Shahidi,12
+61,55_Ayande Sazan Novin,58
+61,56_Erfan High School,39
+61,57_Dehkhoda And Farabi High school,3
+61,58_,0
+61,59_Shirodi and Haj Seyed Fazlollah Ghavam,18
+61,60_Sheykh e Toosi and Kalini,18
+61,61_,19
+61,62_Abdollahi School,52
+61,63_Sa'adat School,52
+61,64_Valiasr,24
+61,65_Aghmashe High School,38
+61,66_,21
+61,67_,31
+61,68_,31
+61,69_Hemmat School,20
+61,70_,34
+61,71_,44
+61,72_,48
+61,73_,40
+61,74_,33
+61,75_,31
+61,76_,32
+61,77_,41
+61,78_,42
+61,79_Allame Jafari High school,49
+61,80_,45
+61,81_,40
+61,82_,22
+62,01_Mohammad Taghi Nourozi,43
+62,02_,38
+62,03_Qods Highschool,39
+62,04_استعدادهای درخشان شهیدان شالباف,47
+62,05_Sepide Kashani,26
+62,06_Bokharaei High School,34
+62,07_Tohid school,29
+62,08_Pasargad High Scored,42
+62,09_Farzanegan Sampad (NODET) High school,50
+62,10_,33
+62,11_,42
+62,12_Pasdaran highschool,19
+62,13_,49
+62,14_,37
+62,15_,20
+62,16_,54
+62,17_,51
+62,18_,45
+62,19_Erfan,39
+62,20_Khatamol anbia Technical School,49
+62,21_Enghelab-e-Eslami Technical school,51
+62,22_Shahed,39
+62,23_Shahed,40
+62,24_,39
+62,25_,31
+62,26_Chamran,18
+62,27_Nourozian School,33
+62,28_Nourozian School Building,33
+62,29_,36
+62,30_,35
+62,31_,34
+62,32_Shahed School,50
+62,33_Martyr Babayi elites Highschool,47
+62,34_,31
+62,35_Jaberebn e Hayyan,54
+62,36_Nejatiye,55
+62,37_,29
+62,38_,29
+62,39_Daneshmand High School,64
+62,40_Amin Rambood,20
+62,41_,14
+62,42_,29
+62,43_Reshadat,33
+62,44_,18
+62,45_,20
+62,46_,57
+62,47_,55
+62,48_,38
+62,49_Sadra,34
+62,50_,45
+62,51_Tarbiat,31
+62,52_,40
+62,53_Exceptional Children School,42
+62,54_Shahidi,20
+62,55_Ayande Sazan Novin,66
+62,56_Erfan High School,42
+62,57_Dehkhoda And Farabi High school,9
+62,58_,9
+62,59_Shirodi and Haj Seyed Fazlollah Ghavam,25
+62,60_Sheykh e Toosi and Kalini,25
+62,61_,26
+62,62_Abdollahi School,56
+62,63_Sa'adat School,56
+62,64_Valiasr,30
+62,65_Aghmashe High School,43
+62,66_,23
+62,67_,29
+62,68_,29
+62,69_Hemmat School,23
+62,70_,43
+62,71_,50
+62,72_,46
+62,73_,36
+62,74_,32
+62,75_,30
+62,76_,31
+62,77_,37
+62,78_,38
+62,79_Allame Jafari High school,46
+62,80_,53
+62,81_,45
+62,82_,29
+63,01_Mohammad Taghi Nourozi,43
+63,02_,34
+63,03_Qods Highschool,43
+63,04_استعدادهای درخشان شهیدان شالباف,43
+63,05_Sepide Kashani,27
+63,06_Bokharaei High School,30
+63,07_Tohid school,33
+63,08_Pasargad High Scored,44
+63,09_Farzanegan Sampad (NODET) High school,49
+63,10_,29
+63,11_,43
+63,12_Pasdaran highschool,24
+63,13_,45
+63,14_,40
+63,15_,25
+63,16_,57
+63,17_,49
+63,18_,42
+63,19_Erfan,35
+63,20_Khatamol anbia Technical School,52
+63,21_Enghelab-e-Eslami Technical school,54
+63,22_Shahed,35
+63,23_Shahed,38
+63,24_,35
+63,25_,34
+63,26_Chamran,22
+63,27_Nourozian School,37
+63,28_Nourozian School Building,37
+63,29_,37
+63,30_,36
+63,31_,38
+63,32_Shahed School,49
+63,33_Martyr Babayi elites Highschool,48
+63,34_,34
+63,35_Jaberebn e Hayyan,51
+63,36_Nejatiye,59
+63,37_,34
+63,38_,33
+63,39_Daneshmand High School,60
+63,40_Amin Rambood,24
+63,41_,16
+63,42_,25
+63,43_Reshadat,29
+63,44_,22
+63,45_,24
+63,46_,59
+63,47_,57
+63,48_,39
+63,49_Sadra,38
+63,50_,41
+63,51_Tarbiat,28
+63,52_,37
+63,53_Exceptional Children School,39
+63,54_Shahidi,25
+63,55_Ayande Sazan Novin,62
+63,56_Erfan High School,38
+63,57_Dehkhoda And Farabi High school,16
+63,58_,16
+63,59_Shirodi and Haj Seyed Fazlollah Ghavam,29
+63,60_Sheykh e Toosi and Kalini,29
+63,61_,31
+63,62_Abdollahi School,53
+63,63_Sa'adat School,53
+63,64_Valiasr,33
+63,65_Aghmashe High School,46
+63,66_,27
+63,67_,25
+63,68_,25
+63,69_Hemmat School,26
+63,70_,44
+63,71_,46
+63,72_,42
+63,73_,33
+63,74_,29
+63,75_,27
+63,76_,28
+63,77_,34
+63,78_,35
+63,79_Allame Jafari High school,43
+63,80_,50
+63,81_,45
+63,82_,33
+64,01_Mohammad Taghi Nourozi,22
+64,02_,52
+64,03_Qods Highschool,16
+64,04_استعدادهای درخشان شهیدان شالباف,53
+64,05_Sepide Kashani,31
+64,06_Bokharaei High School,41
+64,07_Tohid school,6
+64,08_Pasargad High Scored,22
+64,09_Farzanegan Sampad (NODET) High school,36
+64,10_,47
+64,11_,22
+64,12_Pasdaran highschool,21
+64,13_,51
+64,14_,21
+64,15_,33
+64,16_,40
+64,17_,37
+64,18_,31
+64,19_Erfan,29
+64,20_Khatamol anbia Technical School,35
+64,21_Enghelab-e-Eslami Technical school,37
+64,22_Shahed,29
+64,23_Shahed,28
+64,24_,30
+64,25_,19
+64,26_Chamran,21
+64,27_Nourozian School,13
+64,28_Nourozian School Building,13
+64,29_,36
+64,30_,35
+64,31_,11
+64,32_Shahed School,36
+64,33_Martyr Babayi elites Highschool,33
+64,34_,19
+64,35_Jaberebn e Hayyan,46
+64,36_Nejatiye,41
+64,37_,7
+64,38_,13
+64,39_Daneshmand High School,50
+64,40_Amin Rambood,13
+64,41_,26
+64,42_,38
+64,43_Reshadat,35
+64,44_,17
+64,45_,18
+64,46_,43
+64,47_,41
+64,48_,31
+64,49_Sadra,16
+64,50_,59
+64,51_Tarbiat,43
+64,52_,56
+64,53_Exceptional Children School,58
+64,54_Shahidi,15
+64,55_Ayande Sazan Novin,52
+64,56_Erfan High School,35
+64,57_Dehkhoda And Farabi High school,19
+64,58_,20
+64,59_Shirodi and Haj Seyed Fazlollah Ghavam,6
+64,60_Sheykh e Toosi and Kalini,6
+64,61_,20
+64,62_Abdollahi School,47
+64,63_Sa'adat School,47
+64,64_Valiasr,17
+64,65_Aghmashe High School,21
+64,66_,20
+64,67_,39
+64,68_,38
+64,69_Hemmat School,19
+64,70_,35
+64,71_,43
+64,72_,60
+64,73_,52
+64,74_,44
+64,75_,42
+64,76_,43
+64,77_,53
+64,78_,54
+64,79_Allame Jafari High school,61
+64,80_,39
+64,81_,25
+64,82_,6
+65,01_Mohammad Taghi Nourozi,20
+65,02_,45
+65,03_Qods Highschool,8
+65,04_استعدادهای درخشان شهیدان شالباف,50
+65,05_Sepide Kashani,28
+65,06_Bokharaei High School,38
+65,07_Tohid school,17
+65,08_Pasargad High Scored,12
+65,09_Farzanegan Sampad (NODET) High school,38
+65,10_,40
+65,11_,14
+65,12_Pasdaran highschool,35
+65,13_,48
+65,14_,13
+65,15_,46
+65,16_,40
+65,17_,34
+65,18_,33
+65,19_Erfan,32
+65,20_Khatamol anbia Technical School,37
+65,21_Enghelab-e-Eslami Technical school,38
+65,22_Shahed,30
+65,23_Shahed,29
+65,24_,34
+65,25_,21
+65,26_Chamran,34
+65,27_Nourozian School,21
+65,28_Nourozian School Building,21
+65,29_,36
+65,30_,36
+65,31_,19
+65,32_Shahed School,38
+65,33_Martyr Babayi elites Highschool,34
+65,34_,21
+65,35_Jaberebn e Hayyan,47
+65,36_Nejatiye,44
+65,37_,25
+65,38_,22
+65,39_Daneshmand High School,53
+65,40_Amin Rambood,30
+65,41_,35
+65,42_,34
+65,43_Reshadat,33
+65,44_,33
+65,45_,34
+65,46_,42
+65,47_,40
+65,48_,26
+65,49_Sadra,19
+65,50_,52
+65,51_Tarbiat,41
+65,52_,50
+65,53_Exceptional Children School,52
+65,54_Shahidi,31
+65,55_Ayande Sazan Novin,55
+65,56_Erfan High School,35
+65,57_Dehkhoda And Farabi High school,36
+65,58_,36
+65,59_Shirodi and Haj Seyed Fazlollah Ghavam,23
+65,60_Sheykh e Toosi and Kalini,23
+65,61_,35
+65,62_Abdollahi School,48
+65,63_Sa'adat School,49
+65,64_Valiasr,22
+65,65_Aghmashe High School,5
+65,66_,30
+65,67_,35
+65,68_,34
+65,69_Hemmat School,31
+65,70_,29
+65,71_,40
+65,72_,53
+65,73_,46
+65,74_,42
+65,75_,41
+65,76_,41
+65,77_,47
+65,78_,48
+65,79_Allame Jafari High school,55
+65,80_,38
+65,81_,5
+65,82_,24
+66,01_Mohammad Taghi Nourozi,25
+66,02_,51
+66,03_Qods Highschool,20
+66,04_استعدادهای درخشان شهیدان شالباف,49
+66,05_Sepide Kashani,28
+66,06_Bokharaei High School,37
+66,07_Tohid school,10
+66,08_Pasargad High Scored,25
+66,09_Farzanegan Sampad (NODET) High school,34
+66,10_,47
+66,11_,24
+66,12_Pasdaran highschool,19
+66,13_,47
+66,14_,25
+66,15_,32
+66,16_,38
+66,17_,35
+66,18_,29
+66,19_Erfan,27
+66,20_Khatamol anbia Technical School,33
+66,21_Enghelab-e-Eslami Technical school,35
+66,22_Shahed,27
+66,23_Shahed,26
+66,24_,28
+66,25_,17
+66,26_Chamran,17
+66,27_Nourozian School,12
+66,28_Nourozian School Building,13
+66,29_,38
+66,30_,37
+66,31_,16
+66,32_Shahed School,34
+66,33_Martyr Babayi elites Highschool,31
+66,34_,17
+66,35_Jaberebn e Hayyan,43
+66,36_Nejatiye,39
+66,37_,6
+66,38_,17
+66,39_Daneshmand High School,48
+66,40_Amin Rambood,11
+66,41_,22
+66,42_,36
+66,43_Reshadat,32
+66,44_,14
+66,45_,14
+66,46_,41
+66,47_,39
+66,48_,34
+66,49_Sadra,16
+66,50_,59
+66,51_Tarbiat,41
+66,52_,54
+66,53_Exceptional Children School,56
+66,54_Shahidi,14
+66,55_Ayande Sazan Novin,50
+66,56_Erfan High School,32
+66,57_Dehkhoda And Farabi High school,17
+66,58_,18
+66,59_Shirodi and Haj Seyed Fazlollah Ghavam,8
+66,60_Sheykh e Toosi and Kalini,8
+66,61_,22
+66,62_Abdollahi School,44
+66,63_Sa'adat School,44
+66,64_Valiasr,22
+66,65_Aghmashe High School,26
+66,66_,17
+66,67_,37
+66,68_,36
+66,69_Hemmat School,16
+66,70_,38
+66,71_,39
+66,72_,60
+66,73_,50
+66,74_,42
+66,75_,40
+66,76_,40
+66,77_,51
+66,78_,52
+66,79_Allame Jafari High school,59
+66,80_,37
+66,81_,30
+66,82_,6
+67,01_Mohammad Taghi Nourozi,16
+67,02_,47
+67,03_Qods Highschool,7
+67,04_استعدادهای درخشان شهیدان شالباف,54
+67,05_Sepide Kashani,30
+67,06_Bokharaei High School,42
+67,07_Tohid school,12
+67,08_Pasargad High Scored,10
+67,09_Farzanegan Sampad (NODET) High school,42
+67,10_,42
+67,11_,12
+67,12_Pasdaran highschool,32
+67,13_,52
+67,14_,12
+67,15_,43
+67,16_,39
+67,17_,32
+67,18_,32
+67,19_Erfan,36
+67,20_Khatamol anbia Technical School,37
+67,21_Enghelab-e-Eslami Technical school,37
+67,22_Shahed,33
+67,23_Shahed,32
+67,24_,38
+67,25_,23
+67,26_Chamran,33
+67,27_Nourozian School,21
+67,28_Nourozian School Building,20
+67,29_,40
+67,30_,40
+67,31_,16
+67,32_Shahed School,42
+67,33_Martyr Babayi elites Highschool,38
+67,34_,23
+67,35_Jaberebn e Hayyan,51
+67,36_Nejatiye,48
+67,37_,19
+67,38_,19
+67,39_Daneshmand High School,57
+67,40_Amin Rambood,24
+67,41_,35
+67,42_,38
+67,43_Reshadat,37
+67,44_,30
+67,45_,30
+67,46_,46
+67,47_,44
+67,48_,30
+67,49_Sadra,20
+67,50_,54
+67,51_Tarbiat,43
+67,52_,52
+67,53_Exceptional Children School,54
+67,54_Shahidi,27
+67,55_Ayande Sazan Novin,59
+67,56_Erfan High School,39
+67,57_Dehkhoda And Farabi High school,30
+67,58_,32
+67,59_Shirodi and Haj Seyed Fazlollah Ghavam,17
+67,60_Sheykh e Toosi and Kalini,17
+67,61_,32
+67,62_Abdollahi School,52
+67,63_Sa'adat School,53
+67,64_Valiasr,20
+67,65_Aghmashe High School,11
+67,66_,32
+67,67_,38
+67,68_,38
+67,69_Hemmat School,31
+67,70_,32
+67,71_,44
+67,72_,55
+67,73_,48
+67,74_,44
+67,75_,43
+67,76_,43
+67,77_,49
+67,78_,50
+67,79_Allame Jafari High school,57
+67,80_,33
+67,81_,11
+67,82_,19
+68,01_Mohammad Taghi Nourozi,29
+68,02_,46
+68,03_Qods Highschool,25
+68,04_استعدادهای درخشان شهیدان شالباف,45
+68,05_Sepide Kashani,24
+68,06_Bokharaei High School,33
+68,07_Tohid school,15
+68,08_Pasargad High Scored,29
+68,09_Farzanegan Sampad (NODET) High school,33
+68,10_,45
+68,11_,29
+68,12_Pasdaran highschool,17
+68,13_,43
+68,14_,30
+68,15_,28
+68,16_,37
+68,17_,34
+68,18_,28
+68,19_Erfan,26
+68,20_Khatamol anbia Technical School,32
+68,21_Enghelab-e-Eslami Technical school,34
+68,22_Shahed,26
+68,23_Shahed,25
+68,24_,27
+68,25_,17
+68,26_Chamran,12
+68,27_Nourozian School,16
+68,28_Nourozian School Building,17
+68,29_,33
+68,30_,32
+68,31_,20
+68,32_Shahed School,33
+68,33_Martyr Babayi elites Highschool,30
+68,34_,17
+68,35_Jaberebn e Hayyan,41
+68,36_Nejatiye,38
+68,37_,9
+68,38_,22
+68,39_Daneshmand High School,47
+68,40_Amin Rambood,10
+68,41_,17
+68,42_,33
+68,43_Reshadat,28
+68,44_,8
+68,45_,9
+68,46_,40
+68,47_,38
+68,48_,34
+68,49_Sadra,19
+68,50_,54
+68,51_Tarbiat,38
+68,52_,51
+68,53_Exceptional Children School,53
+68,54_Shahidi,14
+68,55_Ayande Sazan Novin,49
+68,56_Erfan High School,30
+68,57_Dehkhoda And Farabi High school,13
+68,58_,14
+68,59_Shirodi and Haj Seyed Fazlollah Ghavam,12
+68,60_Sheykh e Toosi and Kalini,12
+68,61_,23
+68,62_Abdollahi School,43
+68,63_Sa'adat School,43
+68,64_Valiasr,27
+68,65_Aghmashe High School,31
+68,66_,13
+68,67_,33
+68,68_,33
+68,69_Hemmat School,12
+68,70_,39
+68,71_,35
+68,72_,55
+68,73_,47
+68,74_,39
+68,75_,37
+68,76_,37
+68,77_,48
+68,78_,49
+68,79_Allame Jafari High school,55
+68,80_,36
+68,81_,35
+68,82_,9
+69,01_Mohammad Taghi Nourozi,33
+69,02_,41
+69,03_Qods Highschool,32
+69,04_استعدادهای درخشان شهیدان شالباف,48
+69,05_Sepide Kashani,21
+69,06_Bokharaei High School,36
+69,07_Tohid school,22
+69,08_Pasargad High Scored,36
+69,09_Farzanegan Sampad (NODET) High school,36
+69,10_,38
+69,11_,36
+69,12_Pasdaran highschool,18
+69,13_,46
+69,14_,36
+69,15_,28
+69,16_,40
+69,17_,37
+69,18_,31
+69,19_Erfan,29
+69,20_Khatamol anbia Technical School,35
+69,21_Enghelab-e-Eslami Technical school,37
+69,22_Shahed,29
+69,23_Shahed,28
+69,24_,30
+69,25_,18
+69,26_Chamran,7
+69,27_Nourozian School,22
+69,28_Nourozian School Building,22
+69,29_,35
+69,30_,34
+69,31_,27
+69,32_Shahed School,36
+69,33_Martyr Babayi elites Highschool,33
+69,34_,18
+69,35_Jaberebn e Hayyan,44
+69,36_Nejatiye,41
+69,37_,17
+69,38_,27
+69,39_Daneshmand High School,50
+69,40_Amin Rambood,12
+69,41_,8
+69,42_,32
+69,43_Reshadat,31
+69,44_,4
+69,45_,6
+69,46_,43
+69,47_,41
+69,48_,37
+69,49_Sadra,22
+69,50_,48
+69,51_Tarbiat,34
+69,52_,45
+69,53_Exceptional Children School,47
+69,54_Shahidi,17
+69,55_Ayande Sazan Novin,52
+69,56_Erfan High School,33
+69,57_Dehkhoda And Farabi High school,11
+69,58_,12
+69,59_Shirodi and Haj Seyed Fazlollah Ghavam,18
+69,60_Sheykh e Toosi and Kalini,18
+69,61_,24
+69,62_Abdollahi School,46
+69,63_Sa'adat School,46
+69,64_Valiasr,30
+69,65_Aghmashe High School,38
+69,66_,9
+69,67_,32
+69,68_,32
+69,69_Hemmat School,8
+69,70_,42
+69,71_,38
+69,72_,49
+69,73_,41
+69,74_,35
+69,75_,33
+69,76_,33
+69,77_,42
+69,78_,43
+69,79_Allame Jafari High school,50
+69,80_,39
+69,81_,41
+69,82_,16
+70,01_Mohammad Taghi Nourozi,14
+70,02_,48
+70,03_Qods Highschool,15
+70,04_استعدادهای درخشان شهیدان شالباف,54
+70,05_Sepide Kashani,29
+70,06_Bokharaei High School,42
+70,07_Tohid school,11
+70,08_Pasargad High Scored,12
+70,09_Farzanegan Sampad (NODET) High school,38
+70,10_,43
+70,11_,12
+70,12_Pasdaran highschool,30
+70,13_,52
+70,14_,20
+70,15_,42
+70,16_,39
+70,17_,34
+70,18_,32
+70,19_Erfan,32
+70,20_Khatamol anbia Technical School,36
+70,21_Enghelab-e-Eslami Technical school,37
+70,22_Shahed,30
+70,23_Shahed,29
+70,24_,34
+70,25_,19
+70,26_Chamran,24
+70,27_Nourozian School,12
+70,28_Nourozian School Building,13
+70,29_,41
+70,30_,41
+70,31_,16
+70,32_Shahed School,38
+70,33_Martyr Babayi elites Highschool,34
+70,34_,19
+70,35_Jaberebn e Hayyan,48
+70,36_Nejatiye,44
+70,37_,10
+70,38_,19
+70,39_Daneshmand High School,53
+70,40_Amin Rambood,22
+70,41_,31
+70,42_,38
+70,43_Reshadat,37
+70,44_,21
+70,45_,21
+70,46_,42
+70,47_,40
+70,48_,31
+70,49_Sadra,14
+70,50_,55
+70,51_Tarbiat,42
+70,52_,52
+70,53_Exceptional Children School,54
+70,54_Shahidi,25
+70,55_Ayande Sazan Novin,55
+70,56_Erfan High School,37
+70,57_Dehkhoda And Farabi High school,28
+70,58_,30
+70,59_Shirodi and Haj Seyed Fazlollah Ghavam,16
+70,60_Sheykh e Toosi and Kalini,16
+70,61_,30
+70,62_Abdollahi School,48
+70,63_Sa'adat School,49
+70,64_Valiasr,20
+70,65_Aghmashe High School,21
+70,66_,23
+70,67_,38
+70,68_,38
+70,69_Hemmat School,22
+70,70_,34
+70,71_,44
+70,72_,56
+70,73_,48
+70,74_,43
+70,75_,42
+70,76_,42
+70,77_,49
+70,78_,50
+70,79_Allame Jafari High school,58
+70,80_,36
+70,81_,21
+70,82_,10
+71,01_Mohammad Taghi Nourozi,14
+71,02_,48
+71,03_Qods Highschool,23
+71,04_استعدادهای درخشان شهیدان شالباف,53
+71,05_Sepide Kashani,25
+71,06_Bokharaei High School,41
+71,07_Tohid school,15
+71,08_Pasargad High Scored,17
+71,09_Farzanegan Sampad (NODET) High school,32
+71,10_,43
+71,11_,16
+71,12_Pasdaran highschool,27
+71,13_,51
+71,14_,25
+71,15_,39
+71,16_,36
+71,17_,33
+71,18_,27
+71,19_Erfan,25
+71,20_Khatamol anbia Technical School,31
+71,21_Enghelab-e-Eslami Technical school,33
+71,22_Shahed,25
+71,23_Shahed,24
+71,24_,27
+71,25_,11
+71,26_Chamran,21
+71,27_Nourozian School,4
+71,28_Nourozian School Building,5
+71,29_,44
+71,30_,44
+71,31_,20
+71,32_Shahed School,32
+71,33_Martyr Babayi elites Highschool,29
+71,34_,11
+71,35_Jaberebn e Hayyan,44
+71,36_Nejatiye,37
+71,37_,9
+71,38_,23
+71,39_Daneshmand High School,46
+71,40_Amin Rambood,21
+71,41_,28
+71,42_,37
+71,43_Reshadat,34
+71,44_,17
+71,45_,18
+71,46_,39
+71,47_,37
+71,48_,34
+71,49_Sadra,8
+71,50_,55
+71,51_Tarbiat,39
+71,52_,51
+71,53_Exceptional Children School,53
+71,54_Shahidi,24
+71,55_Ayande Sazan Novin,48
+71,56_Erfan High School,33
+71,57_Dehkhoda And Farabi High school,27
+71,58_,29
+71,59_Shirodi and Haj Seyed Fazlollah Ghavam,15
+71,60_Sheykh e Toosi and Kalini,15
+71,61_,29
+71,62_Abdollahi School,45
+71,63_Sa'adat School,45
+71,64_Valiasr,27
+71,65_Aghmashe High School,27
+71,66_,19
+71,67_,36
+71,68_,37
+71,69_Hemmat School,19
+71,70_,35
+71,71_,43
+71,72_,56
+71,73_,47
+71,74_,40
+71,75_,39
+71,76_,39
+71,77_,48
+71,78_,49
+71,79_Allame Jafari High school,56
+71,80_,35
+71,81_,26
+71,82_,9
+72,01_Mohammad Taghi Nourozi,18
+72,02_,45
+72,03_Qods Highschool,25
+72,04_استعدادهای درخشان شهیدان شالباف,50
+72,05_Sepide Kashani,22
+72,06_Bokharaei High School,38
+72,07_Tohid school,15
+72,08_Pasargad High Scored,22
+72,09_Farzanegan Sampad (NODET) High school,29
+72,10_,40
+72,11_,21
+72,12_Pasdaran highschool,23
+72,13_,48
+72,14_,28
+72,15_,35
+72,16_,33
+72,17_,30
+72,18_,24
+72,19_Erfan,22
+72,20_Khatamol anbia Technical School,28
+72,21_Enghelab-e-Eslami Technical school,30
+72,22_Shahed,22
+72,23_Shahed,21
+72,24_,24
+72,25_,8
+72,26_Chamran,17
+72,27_Nourozian School,4
+72,28_Nourozian School Building,5
+72,29_,42
+72,30_,42
+72,31_,21
+72,32_Shahed School,29
+72,33_Martyr Babayi elites Highschool,26
+72,34_,8
+72,35_Jaberebn e Hayyan,41
+72,36_Nejatiye,34
+72,37_,8
+72,38_,23
+72,39_Daneshmand High School,43
+72,40_Amin Rambood,17
+72,41_,23
+72,42_,34
+72,43_Reshadat,31
+72,44_,13
+72,45_,13
+72,46_,36
+72,47_,34
+72,48_,35
+72,49_Sadra,8
+72,50_,52
+72,51_Tarbiat,37
+72,52_,48
+72,53_Exceptional Children School,50
+72,54_Shahidi,19
+72,55_Ayande Sazan Novin,45
+72,56_Erfan High School,30
+72,57_Dehkhoda And Farabi High school,23
+72,58_,24
+72,59_Shirodi and Haj Seyed Fazlollah Ghavam,14
+72,60_Sheykh e Toosi and Kalini,14
+72,61_,28
+72,62_Abdollahi School,42
+72,63_Sa'adat School,42
+72,64_Valiasr,27
+72,65_Aghmashe High School,30
+72,66_,15
+72,67_,34
+72,68_,34
+72,69_Hemmat School,15
+72,70_,38
+72,71_,40
+72,72_,53
+72,73_,44
+72,74_,38
+72,75_,37
+72,76_,37
+72,77_,45
+72,78_,46
+72,79_Allame Jafari High school,54
+72,80_,32
+72,81_,30
+72,82_,8
+73,01_Mohammad Taghi Nourozi,37
+73,02_,37
+73,03_Qods Highschool,39
+73,04_استعدادهای درخشان شهیدان شالباف,46
+73,05_Sepide Kashani,18
+73,06_Bokharaei High School,33
+73,07_Tohid school,29
+73,08_Pasargad High Scored,37
+73,09_Farzanegan Sampad (NODET) High school,44
+73,10_,34
+73,11_,39
+73,12_Pasdaran highschool,25
+73,13_,47
+73,14_,39
+73,15_,28
+73,16_,48
+73,17_,45
+73,18_,39
+73,19_Erfan,35
+73,20_Khatamol anbia Technical School,43
+73,21_Enghelab-e-Eslami Technical school,45
+73,22_Shahed,35
+73,23_Shahed,34
+73,24_,35
+73,25_,24
+73,26_Chamran,7
+73,27_Nourozian School,28
+73,28_Nourozian School Building,28
+73,29_,39
+73,30_,38
+73,31_,34
+73,32_Shahed School,44
+73,33_Martyr Babayi elites Highschool,41
+73,34_,24
+73,35_Jaberebn e Hayyan,50
+73,36_Nejatiye,49
+73,37_,24
+73,38_,34
+73,39_Daneshmand High School,58
+73,40_Amin Rambood,20
+73,41_,1
+73,42_,28
+73,43_Reshadat,32
+73,44_,13
+73,45_,11
+73,46_,51
+73,47_,49
+73,48_,41
+73,49_Sadra,29
+73,50_,44
+73,51_Tarbiat,26
+73,52_,39
+73,53_Exceptional Children School,41
+73,54_Shahidi,24
+73,55_Ayande Sazan Novin,60
+73,56_Erfan High School,39
+73,57_Dehkhoda And Farabi High school,12
+73,58_,13
+73,59_Shirodi and Haj Seyed Fazlollah Ghavam,25
+73,60_Sheykh e Toosi and Kalini,25
+73,61_,31
+73,62_Abdollahi School,51
+73,63_Sa'adat School,51
+73,64_Valiasr,36
+73,65_Aghmashe High School,44
+73,66_,13
+73,67_,28
+73,68_,28
+73,69_Hemmat School,13
+73,70_,45
+73,71_,46
+73,72_,45
+73,73_,35
+73,74_,27
+73,75_,25
+73,76_,26
+73,77_,36
+73,78_,37
+73,79_Allame Jafari High school,44
+73,80_,47
+73,81_,42
+73,82_,24
+74,01_Mohammad Taghi Nourozi,45
+74,02_,33
+74,03_Qods Highschool,47
+74,04_استعدادهای درخشان شهیدان شالباف,42
+74,05_Sepide Kashani,32
+74,06_Bokharaei High School,29
+74,07_Tohid school,39
+74,08_Pasargad High Scored,46
+74,09_Farzanegan Sampad (NODET) High school,50
+74,10_,28
+74,11_,45
+74,12_Pasdaran highschool,34
+74,13_,44
+74,14_,43
+74,15_,35
+74,16_,60
+74,17_,50
+74,18_,41
+74,19_Erfan,34
+74,20_Khatamol anbia Technical School,55
+74,21_Enghelab-e-Eslami Technical school,58
+74,22_Shahed,34
+74,23_Shahed,37
+74,24_,34
+74,25_,38
+74,26_Chamran,27
+74,27_Nourozian School,41
+74,28_Nourozian School Building,42
+74,29_,44
+74,30_,43
+74,31_,45
+74,32_Shahed School,50
+74,33_Martyr Babayi elites Highschool,50
+74,34_,38
+74,35_Jaberebn e Hayyan,51
+74,36_Nejatiye,63
+74,37_,40
+74,38_,43
+74,39_Daneshmand High School,59
+74,40_Amin Rambood,30
+74,41_,22
+74,42_,24
+74,43_Reshadat,28
+74,44_,28
+74,45_,30
+74,46_,61
+74,47_,59
+74,48_,46
+74,49_Sadra,42
+74,50_,40
+74,51_Tarbiat,33
+74,52_,38
+74,53_Exceptional Children School,40
+74,54_Shahidi,35
+74,55_Ayande Sazan Novin,61
+74,56_Erfan High School,37
+74,57_Dehkhoda And Farabi High school,22
+74,58_,22
+74,59_Shirodi and Haj Seyed Fazlollah Ghavam,35
+74,60_Sheykh e Toosi and Kalini,35
+74,61_,41
+74,62_Abdollahi School,53
+74,63_Sa'adat School,53
+74,64_Valiasr,43
+74,65_Aghmashe High School,48
+74,66_,32
+74,67_,24
+74,68_,24
+74,69_Hemmat School,32
+74,70_,51
+74,71_,45
+74,72_,41
+74,73_,34
+74,74_,34
+74,75_,32
+74,76_,33
+74,77_,35
+74,78_,36
+74,79_Allame Jafari High school,43
+74,80_,49
+74,81_,47
+74,82_,39
+75,01_Mohammad Taghi Nourozi,14
+75,02_,37
+75,03_Qods Highschool,14
+75,04_استعدادهای درخشان شهیدان شالباف,42
+75,05_Sepide Kashani,26
+75,06_Bokharaei High School,30
+75,07_Tohid school,23
+75,08_Pasargad High Scored,3
+75,09_Farzanegan Sampad (NODET) High school,30
+75,10_,32
+75,11_,3
+75,12_Pasdaran highschool,32
+75,13_,40
+75,14_,13
+75,15_,42
+75,16_,32
+75,17_,26
+75,18_,25
+75,19_Erfan,24
+75,20_Khatamol anbia Technical School,29
+75,21_Enghelab-e-Eslami Technical school,30
+75,22_Shahed,22
+75,23_Shahed,21
+75,24_,26
+75,25_,21
+75,26_Chamran,32
+75,27_Nourozian School,20
+75,28_Nourozian School Building,20
+75,29_,32
+75,30_,32
+75,31_,24
+75,32_Shahed School,30
+75,33_Martyr Babayi elites Highschool,26
+75,34_,21
+75,35_Jaberebn e Hayyan,39
+75,36_Nejatiye,36
+75,37_,25
+75,38_,26
+75,39_Daneshmand High School,45
+75,40_Amin Rambood,30
+75,41_,32
+75,42_,26
+75,43_Reshadat,25
+75,44_,30
+75,45_,31
+75,46_,34
+75,47_,32
+75,48_,22
+75,49_Sadra,19
+75,50_,44
+75,51_Tarbiat,37
+75,52_,42
+75,53_Exceptional Children School,44
+75,54_Shahidi,28
+75,55_Ayande Sazan Novin,47
+75,56_Erfan High School,27
+75,57_Dehkhoda And Farabi High school,32
+75,58_,32
+75,59_Shirodi and Haj Seyed Fazlollah Ghavam,27
+75,60_Sheykh e Toosi and Kalini,27
+75,61_,33
+75,62_Abdollahi School,40
+75,63_Sa'adat School,41
+75,64_Valiasr,19
+75,65_Aghmashe High School,14
+75,66_,28
+75,67_,27
+75,68_,26
+75,69_Hemmat School,29
+75,70_,23
+75,71_,32
+75,72_,45
+75,73_,38
+75,74_,38
+75,75_,36
+75,76_,36
+75,77_,39
+75,78_,40
+75,79_Allame Jafari High school,47
+75,80_,30
+75,81_,12
+75,82_,24
+76,01_Mohammad Taghi Nourozi,42
+76,02_,35
+76,03_Qods Highschool,46
+76,04_استعدادهای درخشان شهیدان شالباف,44
+76,05_Sepide Kashani,25
+76,06_Bokharaei High School,31
+76,07_Tohid school,43
+76,08_Pasargad High Scored,42
+76,09_Farzanegan Sampad (NODET) High school,51
+76,10_,30
+76,11_,42
+76,12_Pasdaran highschool,36
+76,13_,46
+76,14_,42
+76,15_,37
+76,16_,60
+76,17_,52
+76,18_,43
+76,19_Erfan,36
+76,20_Khatamol anbia Technical School,55
+76,21_Enghelab-e-Eslami Technical school,58
+76,22_Shahed,36
+76,23_Shahed,39
+76,24_,36
+76,25_,33
+76,26_Chamran,22
+76,27_Nourozian School,37
+76,28_Nourozian School Building,37
+76,29_,48
+76,30_,47
+76,31_,49
+76,32_Shahed School,51
+76,33_Martyr Babayi elites Highschool,51
+76,34_,33
+76,35_Jaberebn e Hayyan,53
+76,36_Nejatiye,63
+76,37_,39
+76,38_,46
+76,39_Daneshmand High School,61
+76,40_Amin Rambood,34
+76,41_,18
+76,42_,26
+76,43_Reshadat,30
+76,44_,28
+76,45_,25
+76,46_,61
+76,47_,59
+76,48_,49
+76,49_Sadra,37
+76,50_,42
+76,51_Tarbiat,27
+76,52_,40
+76,53_Exceptional Children School,42
+76,54_Shahidi,37
+76,55_Ayande Sazan Novin,63
+76,56_Erfan High School,39
+76,57_Dehkhoda And Farabi High school,26
+76,58_,27
+76,59_Shirodi and Haj Seyed Fazlollah Ghavam,39
+76,60_Sheykh e Toosi and Kalini,39
+76,61_,43
+76,62_Abdollahi School,55
+76,63_Sa'adat School,55
+76,64_Valiasr,46
+76,65_Aghmashe High School,46
+76,66_,25
+76,67_,26
+76,68_,26
+76,69_Hemmat School,25
+76,70_,52
+76,71_,47
+76,72_,43
+76,73_,36
+76,74_,28
+76,75_,27
+76,76_,27
+76,77_,37
+76,78_,38
+76,79_Allame Jafari High school,45
+76,80_,51
+76,81_,45
+76,82_,38
+77,01_Mohammad Taghi Nourozi,21
+77,02_,43
+77,03_Qods Highschool,31
+77,04_استعدادهای درخشان شهیدان شالباف,45
+77,05_Sepide Kashani,17
+77,06_Bokharaei High School,33
+77,07_Tohid school,21
+77,08_Pasargad High Scored,25
+77,09_Farzanegan Sampad (NODET) High school,30
+77,10_,39
+77,11_,25
+77,12_Pasdaran highschool,21
+77,13_,43
+77,14_,28
+77,15_,33
+77,16_,34
+77,17_,31
+77,18_,25
+77,19_Erfan,23
+77,20_Khatamol anbia Technical School,29
+77,21_Enghelab-e-Eslami Technical school,31
+77,22_Shahed,22
+77,23_Shahed,21
+77,24_,24
+77,25_,7
+77,26_Chamran,14
+77,27_Nourozian School,7
+77,28_Nourozian School Building,8
+77,29_,42
+77,30_,42
+77,31_,27
+77,32_Shahed School,30
+77,33_Martyr Babayi elites Highschool,27
+77,34_,7
+77,35_Jaberebn e Hayyan,39
+77,36_Nejatiye,35
+77,37_,12
+77,38_,29
+77,39_Daneshmand High School,44
+77,40_Amin Rambood,20
+77,41_,21
+77,42_,30
+77,43_Reshadat,28
+77,44_,10
+77,45_,11
+77,46_,37
+77,47_,35
+77,48_,37
+77,49_Sadra,11
+77,50_,50
+77,51_Tarbiat,36
+77,52_,47
+77,53_Exceptional Children School,49
+77,54_Shahidi,20
+77,55_Ayande Sazan Novin,46
+77,56_Erfan High School,28
+77,57_Dehkhoda And Farabi High school,23
+77,58_,24
+77,59_Shirodi and Haj Seyed Fazlollah Ghavam,19
+77,60_Sheykh e Toosi and Kalini,19
+77,61_,27
+77,62_Abdollahi School,40
+77,63_Sa'adat School,40
+77,64_Valiasr,32
+77,65_Aghmashe High School,32
+77,66_,10
+77,67_,30
+77,68_,30
+77,69_Hemmat School,10
+77,70_,38
+77,71_,35
+77,72_,51
+77,73_,43
+77,74_,37
+77,75_,35
+77,76_,35
+77,77_,44
+77,78_,45
+77,79_Allame Jafari High school,52
+77,80_,33
+77,81_,30
+77,82_,12
+78,01_Mohammad Taghi Nourozi,29
+78,02_,37
+78,03_Qods Highschool,35
+78,04_استعدادهای درخشان شهیدان شالباف,44
+78,05_Sepide Kashani,10
+78,06_Bokharaei High School,32
+78,07_Tohid school,25
+78,08_Pasargad High Scored,28
+78,09_Farzanegan Sampad (NODET) High school,37
+78,10_,36
+78,11_,30
+78,12_Pasdaran highschool,21
+78,13_,42
+78,14_,31
+78,15_,32
+78,16_,42
+78,17_,39
+78,18_,32
+78,19_Erfan,29
+78,20_Khatamol anbia Technical School,37
+78,21_Enghelab-e-Eslami Technical school,39
+78,22_Shahed,27
+78,23_Shahed,26
+78,24_,30
+78,25_,11
+78,26_Chamran,7
+78,27_Nourozian School,17
+78,28_Nourozian School Building,17
+78,29_,42
+78,30_,41
+78,31_,31
+78,32_Shahed School,37
+78,33_Martyr Babayi elites Highschool,35
+78,34_,11
+78,35_Jaberebn e Hayyan,44
+78,36_Nejatiye,43
+78,37_,16
+78,38_,30
+78,39_Daneshmand High School,50
+78,40_Amin Rambood,20
+78,41_,13
+78,42_,32
+78,43_Reshadat,28
+78,44_,8
+78,45_,5
+78,46_,44
+78,47_,42
+78,48_,38
+78,49_Sadra,17
+78,50_,44
+78,51_Tarbiat,29
+78,52_,44
+78,53_Exceptional Children School,46
+78,54_Shahidi,20
+78,55_Ayande Sazan Novin,52
+78,56_Erfan High School,32
+78,57_Dehkhoda And Farabi High school,21
+78,58_,22
+78,59_Shirodi and Haj Seyed Fazlollah Ghavam,24
+78,60_Sheykh e Toosi and Kalini,24
+78,61_,27
+78,62_Abdollahi School,46
+78,63_Sa'adat School,46
+78,64_Valiasr,32
+78,65_Aghmashe High School,35
+78,66_,1
+78,67_,28
+78,68_,29
+78,69_Hemmat School,2
+78,70_,41
+78,71_,36
+78,72_,45
+78,73_,40
+78,74_,30
+78,75_,28
+78,76_,28
+78,77_,41
+78,78_,42
+78,79_Allame Jafari High school,47
+78,80_,39
+78,81_,33
+78,82_,16
+79,01_Mohammad Taghi Nourozi,32
+79,02_,35
+79,03_Qods Highschool,37
+79,04_استعدادهای درخشان شهیدان شالباف,44
+79,05_Sepide Kashani,7
+79,06_Bokharaei High School,33
+79,07_Tohid school,33
+79,08_Pasargad High Scored,31
+79,09_Farzanegan Sampad (NODET) High school,43
+79,10_,31
+79,11_,32
+79,12_Pasdaran highschool,28
+79,13_,44
+79,14_,32
+79,15_,33
+79,16_,47
+79,17_,44
+79,18_,38
+79,19_Erfan,33
+79,20_Khatamol anbia Technical School,43
+79,21_Enghelab-e-Eslami Technical school,45
+79,22_Shahed,31
+79,23_Shahed,30
+79,24_,33
+79,25_,16
+79,26_Chamran,9
+79,27_Nourozian School,22
+79,28_Nourozian School Building,22
+79,29_,47
+79,30_,47
+79,31_,38
+79,32_Shahed School,43
+79,33_Martyr Babayi elites Highschool,40
+79,34_,16
+79,35_Jaberebn e Hayyan,46
+79,36_Nejatiye,50
+79,37_,24
+79,38_,38
+79,39_Daneshmand High School,55
+79,40_Amin Rambood,27
+79,41_,12
+79,42_,29
+79,43_Reshadat,30
+79,44_,15
+79,45_,12
+79,46_,49
+79,47_,47
+79,48_,42
+79,49_Sadra,22
+79,50_,42
+79,51_Tarbiat,22
+79,52_,36
+79,53_Exceptional Children School,38
+79,54_Shahidi,27
+79,55_Ayande Sazan Novin,57
+79,56_Erfan High School,36
+79,57_Dehkhoda And Farabi High school,21
+79,58_,22
+79,59_Shirodi and Haj Seyed Fazlollah Ghavam,31
+79,60_Sheykh e Toosi and Kalini,31
+79,61_,34
+79,62_Abdollahi School,48
+79,63_Sa'adat School,48
+79,64_Valiasr,38
+79,65_Aghmashe High School,36
+79,66_,8
+79,67_,23
+79,68_,24
+79,69_Hemmat School,9
+79,70_,43
+79,71_,41
+79,72_,43
+79,73_,32
+79,74_,23
+79,75_,21
+79,76_,22
+79,77_,33
+79,78_,34
+79,79_Allame Jafari High school,42
+79,80_,45
+79,81_,35
+79,82_,23
+80,01_Mohammad Taghi Nourozi,40
+80,02_,37
+80,03_Qods Highschool,45
+80,04_استعدادهای درخشان شهیدان شالباف,46
+80,05_Sepide Kashani,19
+80,06_Bokharaei High School,33
+80,07_Tohid school,38
+80,08_Pasargad High Scored,39
+80,09_Farzanegan Sampad (NODET) High school,49
+80,10_,32
+80,11_,41
+80,12_Pasdaran highschool,31
+80,13_,48
+80,14_,40
+80,15_,33
+80,16_,55
+80,17_,50
+80,18_,44
+80,19_Erfan,38
+80,20_Khatamol anbia Technical School,50
+80,21_Enghelab-e-Eslami Technical school,52
+80,22_Shahed,38
+80,23_Shahed,40
+80,24_,38
+80,25_,27
+80,26_Chamran,14
+80,27_Nourozian School,33
+80,28_Nourozian School Building,33
+80,29_,47
+80,30_,46
+80,31_,43
+80,32_Shahed School,49
+80,33_Martyr Babayi elites Highschool,48
+80,34_,27
+80,35_Jaberebn e Hayyan,52
+80,36_Nejatiye,56
+80,37_,31
+80,38_,41
+80,39_Daneshmand High School,63
+80,40_Amin Rambood,28
+80,41_,9
+80,42_,28
+80,43_Reshadat,32
+80,44_,20
+80,45_,18
+80,46_,58
+80,47_,56
+80,48_,49
+80,49_Sadra,33
+80,50_,44
+80,51_Tarbiat,24
+80,52_,37
+80,53_Exceptional Children School,39
+80,54_Shahidi,31
+80,55_Ayande Sazan Novin,65
+80,56_Erfan High School,41
+80,57_Dehkhoda And Farabi High school,21
+80,58_,21
+80,59_Shirodi and Haj Seyed Fazlollah Ghavam,34
+80,60_Sheykh e Toosi and Kalini,34
+80,61_,37
+80,62_Abdollahi School,54
+80,63_Sa'adat School,54
+80,64_Valiasr,42
+80,65_Aghmashe High School,45
+80,66_,18
+80,67_,27
+80,68_,28
+80,69_Hemmat School,18
+80,70_,51
+80,71_,49
+80,72_,45
+80,73_,33
+80,74_,25
+80,75_,23
+80,76_,24
+80,77_,34
+80,78_,35
+80,79_Allame Jafari High school,43
+80,80_,52
+80,81_,43
+80,82_,31
+81,01_Mohammad Taghi Nourozi,9
+81,02_,40
+81,03_Qods Highschool,24
+81,04_استعدادهای درخشان شهیدان شالباف,46
+81,05_Sepide Kashani,31
+81,06_Bokharaei High School,34
+81,07_Tohid school,25
+81,08_Pasargad High Scored,15
+81,09_Farzanegan Sampad (NODET) High school,34
+81,10_,35
+81,11_,13
+81,12_Pasdaran highschool,37
+81,13_,44
+81,14_,19
+81,15_,45
+81,16_,33
+81,17_,28
+81,18_,26
+81,19_Erfan,28
+81,20_Khatamol anbia Technical School,30
+81,21_Enghelab-e-Eslami Technical school,31
+81,22_Shahed,26
+81,23_Shahed,25
+81,24_,30
+81,25_,26
+81,26_Chamran,37
+81,27_Nourozian School,23
+81,28_Nourozian School Building,22
+81,29_,38
+81,30_,39
+81,31_,29
+81,32_Shahed School,34
+81,33_Martyr Babayi elites Highschool,30
+81,34_,26
+81,35_Jaberebn e Hayyan,43
+81,36_Nejatiye,40
+81,37_,28
+81,38_,29
+81,39_Daneshmand High School,49
+81,40_Amin Rambood,34
+81,41_,35
+81,42_,30
+81,43_Reshadat,29
+81,44_,35
+81,45_,35
+81,46_,38
+81,47_,36
+81,48_,29
+81,49_Sadra,22
+81,50_,47
+81,51_Tarbiat,41
+81,52_,45
+81,53_Exceptional Children School,47
+81,54_Shahidi,34
+81,55_Ayande Sazan Novin,51
+81,56_Erfan High School,31
+81,57_Dehkhoda And Farabi High school,33
+81,58_,35
+81,59_Shirodi and Haj Seyed Fazlollah Ghavam,30
+81,60_Sheykh e Toosi and Kalini,30
+81,61_,39
+81,62_Abdollahi School,44
+81,63_Sa'adat School,45
+81,64_Valiasr,25
+81,65_Aghmashe High School,24
+81,66_,33
+81,67_,30
+81,68_,30
+81,69_Hemmat School,33
+81,70_,30
+81,71_,36
+81,72_,48
+81,73_,41
+81,74_,42
+81,75_,40
+81,76_,40
+81,77_,42
+81,78_,43
+81,79_Allame Jafari High school,50
+81,80_,30
+81,81_,23
+81,82_,28
+82,01_Mohammad Taghi Nourozi,10
+82,02_,37
+82,03_Qods Highschool,27
+82,04_استعدادهای درخشان شهیدان شالباف,44
+82,05_Sepide Kashani,24
+82,06_Bokharaei High School,32
+82,07_Tohid school,24
+82,08_Pasargad High Scored,20
+82,09_Farzanegan Sampad (NODET) High school,28
+82,10_,32
+82,11_,20
+82,12_Pasdaran highschool,28
+82,13_,42
+82,14_,22
+82,15_,39
+82,16_,31
+82,17_,28
+82,18_,23
+82,19_Erfan,22
+82,20_Khatamol anbia Technical School,27
+82,21_Enghelab-e-Eslami Technical school,29
+82,22_Shahed,15
+82,23_Shahed,14
+82,24_,24
+82,25_,10
+82,26_Chamran,25
+82,27_Nourozian School,12
+82,28_Nourozian School Building,11
+82,29_,42
+82,30_,42
+82,31_,29
+82,32_Shahed School,28
+82,33_Martyr Babayi elites Highschool,24
+82,34_,10
+82,35_Jaberebn e Hayyan,38
+82,36_Nejatiye,34
+82,37_,21
+82,38_,32
+82,39_Daneshmand High School,43
+82,40_Amin Rambood,30
+82,41_,30
+82,42_,28
+82,43_Reshadat,27
+82,44_,22
+82,45_,23
+82,46_,33
+82,47_,31
+82,48_,32
+82,49_Sadra,11
+82,50_,44
+82,51_Tarbiat,36
+82,52_,42
+82,53_Exceptional Children School,44
+82,54_Shahidi,27
+82,55_Ayande Sazan Novin,45
+82,56_Erfan High School,27
+82,57_Dehkhoda And Farabi High school,29
+82,58_,30
+82,59_Shirodi and Haj Seyed Fazlollah Ghavam,27
+82,60_Sheykh e Toosi and Kalini,27
+82,61_,34
+82,62_Abdollahi School,39
+82,63_Sa'adat School,39
+82,64_Valiasr,29
+82,65_Aghmashe High School,27
+82,66_,22
+82,67_,28
+82,68_,28
+82,69_Hemmat School,22
+82,70_,33
+82,71_,34
+82,72_,45
+82,73_,38
+82,74_,37
+82,75_,35
+82,76_,36
+82,77_,39
+82,78_,40
+82,79_Allame Jafari High school,47
+82,80_,32
+82,81_,25
+82,82_,21
+83,01_Mohammad Taghi Nourozi,20
+83,02_,35
+83,03_Qods Highschool,27
+83,04_استعدادهای درخشان شهیدان شالباف,41
+83,05_Sepide Kashani,15
+83,06_Bokharaei High School,29
+83,07_Tohid school,29
+83,08_Pasargad High Scored,23
+83,09_Farzanegan Sampad (NODET) High school,28
+83,10_,31
+83,11_,23
+83,12_Pasdaran highschool,24
+83,13_,39
+83,14_,22
+83,15_,36
+83,16_,31
+83,17_,28
+83,18_,22
+83,19_Erfan,21
+83,20_Khatamol anbia Technical School,27
+83,21_Enghelab-e-Eslami Technical school,29
+83,22_Shahed,14
+83,23_Shahed,13
+83,24_,23
+83,25_,8
+83,26_Chamran,21
+83,27_Nourozian School,12
+83,28_Nourozian School Building,12
+83,29_,40
+83,30_,41
+83,31_,33
+83,32_Shahed School,28
+83,33_Martyr Babayi elites Highschool,24
+83,34_,8
+83,35_Jaberebn e Hayyan,37
+83,36_Nejatiye,34
+83,37_,20
+83,38_,32
+83,39_Daneshmand High School,43
+83,40_Amin Rambood,26
+83,41_,26
+83,42_,25
+83,43_Reshadat,23
+83,44_,18
+83,45_,19
+83,46_,32
+83,47_,30
+83,48_,31
+83,49_Sadra,12
+83,50_,42
+83,51_Tarbiat,30
+83,52_,41
+83,53_Exceptional Children School,43
+83,54_Shahidi,23
+83,55_Ayande Sazan Novin,45
+83,56_Erfan High School,26
+83,57_Dehkhoda And Farabi High school,27
+83,58_,27
+83,59_Shirodi and Haj Seyed Fazlollah Ghavam,28
+83,60_Sheykh e Toosi and Kalini,28
+83,61_,30
+83,62_Abdollahi School,38
+83,63_Sa'adat School,39
+83,64_Valiasr,28
+83,65_Aghmashe High School,26
+83,66_,14
+83,67_,24
+83,68_,25
+83,69_Hemmat School,15
+83,70_,32
+83,71_,31
+83,72_,43
+83,73_,37
+83,74_,31
+83,75_,29
+83,76_,29
+83,77_,38
+83,78_,39
+83,79_Allame Jafari High school,45
+83,80_,32
+83,81_,25
+83,82_,20
+84,01_Mohammad Taghi Nourozi,19
+84,02_,41
+84,03_Qods Highschool,28
+84,04_استعدادهای درخشان شهیدان شالباف,46
+84,05_Sepide Kashani,36
+84,06_Bokharaei High School,34
+84,07_Tohid school,32
+84,08_Pasargad High Scored,22
+84,09_Farzanegan Sampad (NODET) High school,33
+84,10_,36
+84,11_,20
+84,12_Pasdaran highschool,39
+84,13_,44
+84,14_,23
+84,15_,49
+84,16_,30
+84,17_,22
+84,18_,15
+84,19_Erfan,23
+84,20_Khatamol anbia Technical School,28
+84,21_Enghelab-e-Eslami Technical school,28
+84,22_Shahed,22
+84,23_Shahed,21
+84,24_,25
+84,25_,27
+84,26_Chamran,38
+84,27_Nourozian School,24
+84,28_Nourozian School Building,23
+84,29_,42
+84,30_,43
+84,31_,34
+84,32_Shahed School,33
+84,33_Martyr Babayi elites Highschool,29
+84,34_,27
+84,35_Jaberebn e Hayyan,42
+84,36_Nejatiye,40
+84,37_,32
+84,38_,35
+84,39_Daneshmand High School,49
+84,40_Amin Rambood,39
+84,41_,40
+84,42_,30
+84,43_Reshadat,29
+84,44_,35
+84,45_,35
+84,46_,38
+84,47_,36
+84,48_,33
+84,49_Sadra,23
+84,50_,48
+84,51_Tarbiat,43
+84,52_,46
+84,53_Exceptional Children School,48
+84,54_Shahidi,37
+84,55_Ayande Sazan Novin,51
+84,56_Erfan High School,31
+84,57_Dehkhoda And Farabi High school,39
+84,58_,40
+84,59_Shirodi and Haj Seyed Fazlollah Ghavam,36
+84,60_Sheykh e Toosi and Kalini,36
+84,61_,43
+84,62_Abdollahi School,43
+84,63_Sa'adat School,44
+84,64_Valiasr,29
+84,65_Aghmashe High School,28
+84,66_,38
+84,67_,31
+84,68_,30
+84,69_Hemmat School,38
+84,70_,34
+84,71_,36
+84,72_,49
+84,73_,42
+84,74_,44
+84,75_,41
+84,76_,42
+84,77_,43
+84,78_,44
+84,79_Allame Jafari High school,51
+84,80_,23
+84,81_,27
+84,82_,32
+85,01_Mohammad Taghi Nourozi,25
+85,02_,31
+85,03_Qods Highschool,28
+85,04_استعدادهای درخشان شهیدان شالباف,38
+85,05_Sepide Kashani,6
+85,06_Bokharaei High School,26
+85,07_Tohid school,33
+85,08_Pasargad High Scored,25
+85,09_Farzanegan Sampad (NODET) High school,34
+85,10_,30
+85,11_,25
+85,12_Pasdaran highschool,28
+85,13_,37
+85,14_,23
+85,15_,39
+85,16_,40
+85,17_,36
+85,18_,27
+85,19_Erfan,23
+85,20_Khatamol anbia Technical School,36
+85,21_Enghelab-e-Eslami Technical school,38
+85,22_Shahed,19
+85,23_Shahed,18
+85,24_,23
+85,25_,13
+85,26_Chamran,19
+85,27_Nourozian School,19
+85,28_Nourozian School Building,19
+85,29_,42
+85,30_,42
+85,31_,36
+85,32_Shahed School,34
+85,33_Martyr Babayi elites Highschool,32
+85,34_,13
+85,35_Jaberebn e Hayyan,39
+85,36_Nejatiye,43
+85,37_,26
+85,38_,36
+85,39_Daneshmand High School,45
+85,40_Amin Rambood,30
+85,41_,22
+85,42_,24
+85,43_Reshadat,22
+85,44_,20
+85,45_,20
+85,46_,41
+85,47_,39
+85,48_,33
+85,49_Sadra,19
+85,50_,38
+85,51_Tarbiat,23
+85,52_,39
+85,53_Exceptional Children School,41
+85,54_Shahidi,27
+85,55_Ayande Sazan Novin,47
+85,56_Erfan High School,27
+85,57_Dehkhoda And Farabi High school,29
+85,58_,30
+85,59_Shirodi and Haj Seyed Fazlollah Ghavam,33
+85,60_Sheykh e Toosi and Kalini,33
+85,61_,34
+85,62_Abdollahi School,41
+85,63_Sa'adat School,41
+85,64_Valiasr,29
+85,65_Aghmashe High School,28
+85,66_,16
+85,67_,18
+85,68_,19
+85,69_Hemmat School,17
+85,70_,34
+85,71_,31
+85,72_,39
+85,73_,35
+85,74_,24
+85,75_,22
+85,76_,22
+85,77_,36
+85,78_,37
+85,79_Allame Jafari High school,42
+85,80_,37
+85,81_,27
+85,82_,26
+86,01_Mohammad Taghi Nourozi,26
+86,02_,33
+86,03_Qods Highschool,29
+86,04_استعدادهای درخشان شهیدان شالباف,37
+86,05_Sepide Kashani,19
+86,06_Bokharaei High School,25
+86,07_Tohid school,36
+86,08_Pasargad High Scored,26
+86,09_Farzanegan Sampad (NODET) High school,29
+86,10_,28
+86,11_,26
+86,12_Pasdaran highschool,29
+86,13_,35
+86,14_,24
+86,15_,39
+86,16_,34
+86,17_,31
+86,18_,21
+86,19_Erfan,18
+86,20_Khatamol anbia Technical School,30
+86,21_Enghelab-e-Eslami Technical school,32
+86,22_Shahed,12
+86,23_Shahed,11
+86,24_,18
+86,25_,19
+86,26_Chamran,27
+86,27_Nourozian School,23
+86,28_Nourozian School Building,23
+86,29_,42
+86,30_,43
+86,31_,37
+86,32_Shahed School,29
+86,33_Martyr Babayi elites Highschool,27
+86,34_,19
+86,35_Jaberebn e Hayyan,35
+86,36_Nejatiye,37
+86,37_,27
+86,38_,36
+86,39_Daneshmand High School,41
+86,40_Amin Rambood,31
+86,41_,30
+86,42_,21
+86,43_Reshadat,17
+86,44_,24
+86,45_,24
+86,46_,35
+86,47_,33
+86,48_,33
+86,49_Sadra,22
+86,50_,40
+86,51_Tarbiat,30
+86,52_,38
+86,53_Exceptional Children School,40
+86,54_Shahidi,28
+86,55_Ayande Sazan Novin,43
+86,56_Erfan High School,21
+86,57_Dehkhoda And Farabi High school,29
+86,58_,29
+86,59_Shirodi and Haj Seyed Fazlollah Ghavam,34
+86,60_Sheykh e Toosi and Kalini,34
+86,61_,35
+86,62_Abdollahi School,36
+86,63_Sa'adat School,37
+86,64_Valiasr,30
+86,65_Aghmashe High School,29
+86,66_,23
+86,67_,22
+86,68_,21
+86,69_Hemmat School,24
+86,70_,34
+86,71_,27
+86,72_,41
+86,73_,34
+86,74_,31
+86,75_,28
+86,76_,29
+86,77_,35
+86,78_,36
+86,79_Allame Jafari High school,43
+86,80_,32
+86,81_,28
+86,82_,27
+87,01_Mohammad Taghi Nourozi,24
+87,02_,38
+87,03_Qods Highschool,28
+87,04_استعدادهای درخشان شهیدان شالباف,41
+87,05_Sepide Kashani,28
+87,06_Bokharaei High School,25
+87,07_Tohid school,33
+87,08_Pasargad High Scored,25
+87,09_Farzanegan Sampad (NODET) High school,21
+87,10_,33
+87,11_,24
+87,12_Pasdaran highschool,29
+87,13_,39
+87,14_,23
+87,15_,40
+87,16_,24
+87,17_,21
+87,18_,8
+87,19_Erfan,6
+87,20_Khatamol anbia Technical School,20
+87,21_Enghelab-e-Eslami Technical school,22
+87,22_Shahed,4
+87,23_Shahed,7
+87,24_,8
+87,25_,20
+87,26_Chamran,27
+87,27_Nourozian School,23
+87,28_Nourozian School Building,23
+87,29_,40
+87,30_,39
+87,31_,32
+87,32_Shahed School,21
+87,33_Martyr Babayi elites Highschool,17
+87,34_,20
+87,35_Jaberebn e Hayyan,32
+87,36_Nejatiye,27
+87,37_,24
+87,38_,31
+87,39_Daneshmand High School,36
+87,40_Amin Rambood,31
+87,41_,32
+87,42_,19
+87,43_Reshadat,14
+87,44_,24
+87,45_,24
+87,46_,25
+87,47_,23
+87,48_,31
+87,49_Sadra,23
+87,50_,45
+87,51_Tarbiat,34
+87,52_,43
+87,53_Exceptional Children School,45
+87,54_Shahidi,28
+87,55_Ayande Sazan Novin,38
+87,56_Erfan High School,18
+87,57_Dehkhoda And Farabi High school,30
+87,58_,31
+87,59_Shirodi and Haj Seyed Fazlollah Ghavam,32
+87,60_Sheykh e Toosi and Kalini,32
+87,61_,35
+87,62_Abdollahi School,31
+87,63_Sa'adat School,32
+87,64_Valiasr,25
+87,65_Aghmashe High School,27
+87,66_,27
+87,67_,21
+87,68_,20
+87,69_Hemmat School,27
+87,70_,32
+87,71_,30
+87,72_,46
+87,73_,39
+87,74_,35
+87,75_,33
+87,76_,33
+87,77_,40
+87,78_,41
+87,79_Allame Jafari High school,48
+87,80_,20
+87,81_,26
+87,82_,24
+88,01_Mohammad Taghi Nourozi,21
+88,02_,36
+88,03_Qods Highschool,28
+88,04_استعدادهای درخشان شهیدان شالباف,43
+88,05_Sepide Kashani,28
+88,06_Bokharaei High School,31
+88,07_Tohid school,28
+88,08_Pasargad High Scored,24
+88,09_Farzanegan Sampad (NODET) High school,25
+88,10_,31
+88,11_,22
+88,12_Pasdaran highschool,31
+88,13_,41
+88,14_,23
+88,15_,40
+88,16_,28
+88,17_,23
+88,18_,8
+88,19_Erfan,11
+88,20_Khatamol anbia Technical School,24
+88,21_Enghelab-e-Eslami Technical school,26
+88,22_Shahed,10
+88,23_Shahed,9
+88,24_,13
+88,25_,21
+88,26_Chamran,29
+88,27_Nourozian School,24
+88,28_Nourozian School Building,24
+88,29_,40
+88,30_,41
+88,31_,31
+88,32_Shahed School,25
+88,33_Martyr Babayi elites Highschool,21
+88,34_,21
+88,35_Jaberebn e Hayyan,35
+88,36_Nejatiye,31
+88,37_,26
+88,38_,31
+88,39_Daneshmand High School,40
+88,40_Amin Rambood,31
+88,41_,32
+88,42_,27
+88,43_Reshadat,23
+88,44_,26
+88,45_,26
+88,46_,29
+88,47_,27
+88,48_,32
+88,49_Sadra,23
+88,50_,43
+88,51_Tarbiat,38
+88,52_,41
+88,53_Exceptional Children School,43
+88,54_Shahidi,30
+88,55_Ayande Sazan Novin,42
+88,56_Erfan High School,24
+88,57_Dehkhoda And Farabi High school,30
+88,58_,31
+88,59_Shirodi and Haj Seyed Fazlollah Ghavam,30
+88,60_Sheykh e Toosi and Kalini,30
+88,61_,37
+88,62_Abdollahi School,35
+88,63_Sa'adat School,36
+88,64_Valiasr,28
+88,65_Aghmashe High School,28
+88,66_,29
+88,67_,27
+88,68_,27
+88,69_Hemmat School,29
+88,70_,33
+88,71_,33
+88,72_,44
+88,73_,37
+88,74_,39
+88,75_,37
+88,76_,37
+88,77_,38
+88,78_,39
+88,79_Allame Jafari High school,46
+88,80_,20
+88,81_,27
+88,82_,26
+89,01_Mohammad Taghi Nourozi,25
+89,02_,24
+89,03_Qods Highschool,28
+89,04_استعدادهای درخشان شهیدان شالباف,32
+89,05_Sepide Kashani,18
+89,06_Bokharaei High School,19
+89,07_Tohid school,35
+89,08_Pasargad High Scored,25
+89,09_Farzanegan Sampad (NODET) High school,32
+89,10_,21
+89,11_,25
+89,12_Pasdaran highschool,30
+89,13_,32
+89,14_,23
+89,15_,42
+89,16_,39
+89,17_,30
+89,18_,21
+89,19_Erfan,13
+89,20_Khatamol anbia Technical School,33
+89,21_Enghelab-e-Eslami Technical school,36
+89,22_Shahed,14
+89,23_Shahed,16
+89,24_,13
+89,25_,23
+89,26_Chamran,28
+89,27_Nourozian School,27
+89,28_Nourozian School Building,27
+89,29_,41
+89,30_,42
+89,31_,36
+89,32_Shahed School,31
+89,33_Martyr Babayi elites Highschool,30
+89,34_,23
+89,35_Jaberebn e Hayyan,36
+89,36_Nejatiye,42
+89,37_,30
+89,38_,35
+89,39_Daneshmand High School,42
+89,40_Amin Rambood,32
+89,41_,31
+89,42_,11
+89,43_Reshadat,10
+89,44_,25
+89,45_,25
+89,46_,40
+89,47_,38
+89,48_,32
+89,49_Sadra,27
+89,50_,31
+89,51_Tarbiat,23
+89,52_,32
+89,53_Exceptional Children School,34
+89,54_Shahidi,29
+89,55_Ayande Sazan Novin,44
+89,56_Erfan High School,17
+89,57_Dehkhoda And Farabi High school,32
+89,58_,33
+89,59_Shirodi and Haj Seyed Fazlollah Ghavam,36
+89,60_Sheykh e Toosi and Kalini,36
+89,61_,35
+89,62_Abdollahi School,38
+89,63_Sa'adat School,38
+89,64_Valiasr,29
+89,65_Aghmashe High School,28
+89,66_,24
+89,67_,11
+89,68_,10
+89,69_Hemmat School,24
+89,70_,33
+89,71_,28
+89,72_,32
+89,73_,28
+89,74_,24
+89,75_,21
+89,76_,22
+89,77_,29
+89,78_,30
+89,79_Allame Jafari High school,34
+89,80_,29
+89,81_,27
+89,82_,30
+90,01_Mohammad Taghi Nourozi,33
+90,02_,38
+90,03_Qods Highschool,39
+90,04_استعدادهای درخشان شهیدان شالباف,47
+90,05_Sepide Kashani,18
+90,06_Bokharaei High School,34
+90,07_Tohid school,39
+90,08_Pasargad High Scored,32
+90,09_Farzanegan Sampad (NODET) High school,51
+90,10_,33
+90,11_,34
+90,12_Pasdaran highschool,37
+90,13_,47
+90,14_,34
+90,15_,38
+90,16_,60
+90,17_,52
+90,18_,44
+90,19_Erfan,37
+90,20_Khatamol anbia Technical School,55
+90,21_Enghelab-e-Eslami Technical school,58
+90,22_Shahed,37
+90,23_Shahed,37
+90,24_,37
+90,25_,24
+90,26_Chamran,25
+90,27_Nourozian School,26
+90,28_Nourozian School Building,26
+90,29_,51
+90,30_,51
+90,31_,44
+90,32_Shahed School,51
+90,33_Martyr Babayi elites Highschool,50
+90,34_,24
+90,35_Jaberebn e Hayyan,49
+90,36_Nejatiye,63
+90,37_,35
+90,38_,46
+90,39_Daneshmand High School,58
+90,40_Amin Rambood,35
+90,41_,23
+90,42_,30
+90,43_Reshadat,34
+90,44_,28
+90,45_,28
+90,46_,61
+90,47_,59
+90,48_,44
+90,49_Sadra,26
+90,50_,45
+90,51_Tarbiat,13
+90,52_,36
+90,53_Exceptional Children School,38
+90,54_Shahidi,38
+90,55_Ayande Sazan Novin,60
+90,56_Erfan High School,39
+90,57_Dehkhoda And Farabi High school,27
+90,58_,28
+90,59_Shirodi and Haj Seyed Fazlollah Ghavam,39
+90,60_Sheykh e Toosi and Kalini,39
+90,61_,44
+90,62_Abdollahi School,51
+90,63_Sa'adat School,51
+90,64_Valiasr,40
+90,65_Aghmashe High School,39
+90,66_,26
+90,67_,22
+90,68_,23
+90,69_Hemmat School,26
+90,70_,45
+90,71_,44
+90,72_,46
+90,73_,33
+90,74_,14
+90,75_,13
+90,76_,13
+90,77_,34
+90,78_,35
+90,79_Allame Jafari High school,44
+90,80_,52
+90,81_,37
+90,82_,35
+91,01_Mohammad Taghi Nourozi,33
+91,02_,30
+91,03_Qods Highschool,36
+91,04_استعدادهای درخشان شهیدان شالباف,39
+91,05_Sepide Kashani,12
+91,06_Bokharaei High School,29
+91,07_Tohid school,42
+91,08_Pasargad High Scored,34
+91,09_Farzanegan Sampad (NODET) High school,44
+91,10_,25
+91,11_,33
+91,12_Pasdaran highschool,38
+91,13_,41
+91,14_,31
+91,15_,40
+91,16_,50
+91,17_,46
+91,18_,37
+91,19_Erfan,33
+91,20_Khatamol anbia Technical School,46
+91,21_Enghelab-e-Eslami Technical school,48
+91,22_Shahed,28
+91,23_Shahed,27
+91,24_,33
+91,25_,23
+91,26_Chamran,24
+91,27_Nourozian School,29
+91,28_Nourozian School Building,29
+91,29_,50
+91,30_,50
+91,31_,44
+91,32_Shahed School,44
+91,33_Martyr Babayi elites Highschool,42
+91,34_,23
+91,35_Jaberebn e Hayyan,44
+91,36_Nejatiye,53
+91,37_,36
+91,38_,44
+91,39_Daneshmand High School,55
+91,40_Amin Rambood,36
+91,41_,25
+91,42_,22
+91,43_Reshadat,26
+91,44_,30
+91,45_,27
+91,46_,51
+91,47_,49
+91,48_,41
+91,49_Sadra,29
+91,50_,37
+91,51_Tarbiat,10
+91,52_,30
+91,53_Exceptional Children School,32
+91,54_Shahidi,38
+91,55_Ayande Sazan Novin,57
+91,56_Erfan High School,35
+91,57_Dehkhoda And Farabi High school,28
+91,58_,29
+91,59_Shirodi and Haj Seyed Fazlollah Ghavam,42
+91,60_Sheykh e Toosi and Kalini,42
+91,61_,45
+91,62_Abdollahi School,46
+91,63_Sa'adat School,46
+91,64_Valiasr,37
+91,65_Aghmashe High School,36
+91,66_,24
+91,67_,12
+91,68_,14
+91,69_Hemmat School,24
+91,70_,42
+91,71_,41
+91,72_,38
+91,73_,26
+91,74_,11
+91,75_,11
+91,76_,10
+91,77_,27
+91,78_,28
+91,79_Allame Jafari High school,36
+91,80_,46
+91,81_,35
+91,82_,36
+92,01_Mohammad Taghi Nourozi,25
+92,02_,54
+92,03_Qods Highschool,35
+92,04_استعدادهای درخشان شهیدان شالباف,53
+92,05_Sepide Kashani,40
+92,06_Bokharaei High School,36
+92,07_Tohid school,30
+92,08_Pasargad High Scored,29
+92,09_Farzanegan Sampad (NODET) High school,14
+92,10_,50
+92,11_,26
+92,12_Pasdaran highschool,41
+92,13_,51
+92,14_,30
+92,15_,53
+92,16_,13
+92,17_,5
+92,18_,17
+92,19_Erfan,22
+92,20_Khatamol anbia Technical School,9
+92,21_Enghelab-e-Eslami Technical school,10
+92,22_Shahed,26
+92,23_Shahed,25
+92,24_,21
+92,25_,32
+92,26_Chamran,40
+92,27_Nourozian School,33
+92,28_Nourozian School Building,33
+92,29_,47
+92,30_,48
+92,31_,34
+92,32_Shahed School,13
+92,33_Martyr Babayi elites Highschool,15
+92,34_,32
+92,35_Jaberebn e Hayyan,32
+92,36_Nejatiye,32
+92,37_,36
+92,38_,37
+92,39_Daneshmand High School,41
+92,40_Amin Rambood,39
+92,41_,45
+92,42_,38
+92,43_Reshadat,32
+92,44_,38
+92,45_,38
+92,46_,30
+92,47_,28
+92,48_,38
+92,49_Sadra,31
+92,50_,62
+92,51_Tarbiat,53
+92,52_,60
+92,53_Exceptional Children School,62
+92,54_Shahidi,40
+92,55_Ayande Sazan Novin,43
+92,56_Erfan High School,23
+92,57_Dehkhoda And Farabi High school,41
+92,58_,43
+92,59_Shirodi and Haj Seyed Fazlollah Ghavam,35
+92,60_Sheykh e Toosi and Kalini,35
+92,61_,47
+92,62_Abdollahi School,33
+92,63_Sa'adat School,33
+92,64_Valiasr,35
+92,65_Aghmashe High School,35
+92,66_,40
+92,67_,40
+92,68_,39
+92,69_Hemmat School,39
+92,70_,39
+92,71_,41
+92,72_,63
+92,73_,56
+92,74_,53
+92,75_,51
+92,76_,52
+92,77_,57
+92,78_,58
+92,79_Allame Jafari High school,63
+92,80_,4
+92,81_,34
+92,82_,36
+93,01_Mohammad Taghi Nourozi,25
+93,02_,49
+93,03_Qods Highschool,32
+93,04_استعدادهای درخشان شهیدان شالباف,46
+93,05_Sepide Kashani,35
+93,06_Bokharaei High School,29
+93,07_Tohid school,31
+93,08_Pasargad High Scored,27
+93,09_Farzanegan Sampad (NODET) High school,8
+93,10_,45
+93,11_,25
+93,12_Pasdaran highschool,36
+93,13_,44
+93,14_,27
+93,15_,48
+93,16_,16
+93,17_,4
+93,18_,17
+93,19_Erfan,18
+93,20_Khatamol anbia Technical School,7
+93,21_Enghelab-e-Eslami Technical school,8
+93,22_Shahed,21
+93,23_Shahed,20
+93,24_,17
+93,25_,27
+93,26_Chamran,34
+93,27_Nourozian School,28
+93,28_Nourozian School Building,28
+93,29_,44
+93,30_,45
+93,31_,34
+93,32_Shahed School,7
+93,33_Martyr Babayi elites Highschool,10
+93,34_,27
+93,35_Jaberebn e Hayyan,27
+93,36_Nejatiye,25
+93,37_,31
+93,38_,35
+93,39_Daneshmand High School,34
+93,40_Amin Rambood,35
+93,41_,40
+93,42_,30
+93,43_Reshadat,26
+93,44_,31
+93,45_,31
+93,46_,23
+93,47_,21
+93,48_,35
+93,49_Sadra,27
+93,50_,57
+93,51_Tarbiat,48
+93,52_,55
+93,53_Exceptional Children School,57
+93,54_Shahidi,35
+93,55_Ayande Sazan Novin,36
+93,56_Erfan High School,16
+93,57_Dehkhoda And Farabi High school,37
+93,58_,38
+93,59_Shirodi and Haj Seyed Fazlollah Ghavam,34
+93,60_Sheykh e Toosi and Kalini,34
+93,61_,42
+93,62_Abdollahi School,29
+93,63_Sa'adat School,29
+93,64_Valiasr,32
+93,65_Aghmashe High School,32
+93,66_,35
+93,67_,36
+93,68_,35
+93,69_Hemmat School,34
+93,70_,36
+93,71_,34
+93,72_,58
+93,73_,51
+93,74_,49
+93,75_,46
+93,76_,47
+93,77_,52
+93,78_,53
+93,79_Allame Jafari High school,57
+93,80_,9
+93,81_,31
+93,82_,31
+94,01_Mohammad Taghi Nourozi,29
+94,02_,24
+94,03_Qods Highschool,32
+94,04_استعدادهای درخشان شهیدان شالباف,33
+94,05_Sepide Kashani,18
+94,06_Bokharaei High School,16
+94,07_Tohid school,38
+94,08_Pasargad High Scored,29
+94,09_Farzanegan Sampad (NODET) High school,36
+94,10_,22
+94,11_,29
+94,12_Pasdaran highschool,38
+94,13_,35
+94,14_,27
+94,15_,44
+94,16_,45
+94,17_,36
+94,18_,27
+94,19_Erfan,19
+94,20_Khatamol anbia Technical School,38
+94,21_Enghelab-e-Eslami Technical school,41
+94,22_Shahed,20
+94,23_Shahed,22
+94,24_,19
+94,25_,29
+94,26_Chamran,30
+94,27_Nourozian School,33
+94,28_Nourozian School Building,33
+94,29_,45
+94,30_,46
+94,31_,40
+94,32_Shahed School,35
+94,33_Martyr Babayi elites Highschool,36
+94,34_,29
+94,35_Jaberebn e Hayyan,40
+94,36_Nejatiye,48
+94,37_,38
+94,38_,40
+94,39_Daneshmand High School,48
+94,40_Amin Rambood,38
+94,41_,31
+94,42_,9
+94,43_Reshadat,13
+94,44_,31
+94,45_,30
+94,46_,46
+94,47_,44
+94,48_,36
+94,49_Sadra,33
+94,50_,31
+94,51_Tarbiat,13
+94,52_,32
+94,53_Exceptional Children School,34
+94,54_Shahidi,37
+94,55_Ayande Sazan Novin,50
+94,56_Erfan High School,22
+94,57_Dehkhoda And Farabi High school,32
+94,58_,33
+94,59_Shirodi and Haj Seyed Fazlollah Ghavam,43
+94,60_Sheykh e Toosi and Kalini,43
+94,61_,43
+94,62_Abdollahi School,42
+94,63_Sa'adat School,42
+94,64_Valiasr,33
+94,65_Aghmashe High School,32
+94,66_,28
+94,67_,0
+94,68_,0
+94,69_Hemmat School,28
+94,70_,37
+94,71_,34
+94,72_,32
+94,73_,28
+94,74_,14
+94,75_,12
+94,76_,12
+94,77_,29
+94,78_,30
+94,79_Allame Jafari High school,34
+94,80_,35
+94,81_,31
+94,82_,38
+95,01_Mohammad Taghi Nourozi,30
+95,02_,25
+95,03_Qods Highschool,33
+95,04_استعدادهای درخشان شهیدان شالباف,32
+95,05_Sepide Kashani,29
+95,06_Bokharaei High School,2
+95,07_Tohid school,41
+95,08_Pasargad High Scored,31
+95,09_Farzanegan Sampad (NODET) High school,27
+95,10_,22
+95,11_,30
+95,12_Pasdaran highschool,37
+95,13_,32
+95,14_,28
+95,15_,49
+95,16_,37
+95,17_,32
+95,18_,29
+95,19_Erfan,21
+95,20_Khatamol anbia Technical School,32
+95,21_Enghelab-e-Eslami Technical school,34
+95,22_Shahed,21
+95,23_Shahed,24
+95,24_,21
+95,25_,29
+95,26_Chamran,35
+95,27_Nourozian School,33
+95,28_Nourozian School Building,33
+95,29_,47
+95,30_,47
+95,31_,41
+95,32_Shahed School,28
+95,33_Martyr Babayi elites Highschool,26
+95,34_,29
+95,35_Jaberebn e Hayyan,30
+95,36_Nejatiye,45
+95,37_,37
+95,38_,41
+95,39_Daneshmand High School,42
+95,40_Amin Rambood,39
+95,41_,37
+95,42_,8
+95,43_Reshadat,9
+95,44_,32
+95,45_,32
+95,46_,43
+95,47_,41
+95,48_,38
+95,49_Sadra,33
+95,50_,32
+95,51_Tarbiat,27
+95,52_,32
+95,53_Exceptional Children School,34
+95,54_Shahidi,36
+95,55_Ayande Sazan Novin,44
+95,56_Erfan High School,15
+95,57_Dehkhoda And Farabi High school,39
+95,58_,40
+95,59_Shirodi and Haj Seyed Fazlollah Ghavam,42
+95,60_Sheykh e Toosi and Kalini,42
+95,61_,42
+95,62_Abdollahi School,32
+95,63_Sa'adat School,32
+95,64_Valiasr,34
+95,65_Aghmashe High School,33
+95,66_,31
+95,67_,14
+95,68_,14
+95,69_Hemmat School,31
+95,70_,39
+95,71_,26
+95,72_,33
+95,73_,28
+95,74_,28
+95,75_,25
+95,76_,26
+95,77_,29
+95,78_,30
+95,79_Allame Jafari High school,35
+95,80_,35
+95,81_,32
+95,82_,37
+96,01_Mohammad Taghi Nourozi,30
+96,02_,41
+96,03_Qods Highschool,35
+96,04_استعدادهای درخشان شهیدان شالباف,39
+96,05_Sepide Kashani,34
+96,06_Bokharaei High School,19
+96,07_Tohid school,41
+96,08_Pasargad High Scored,32
+96,09_Farzanegan Sampad (NODET) High school,8
+96,10_,40
+96,11_,31
+96,12_Pasdaran highschool,36
+96,13_,37
+96,14_,30
+96,15_,48
+96,16_,22
+96,17_,15
+96,18_,21
+96,19_Erfan,21
+96,20_Khatamol anbia Technical School,12
+96,21_Enghelab-e-Eslami Technical school,15
+96,22_Shahed,24
+96,23_Shahed,23
+96,24_,19
+96,25_,28
+96,26_Chamran,34
+96,27_Nourozian School,33
+96,28_Nourozian School Building,33
+96,29_,47
+96,30_,48
+96,31_,40
+96,32_Shahed School,8
+96,33_Martyr Babayi elites Highschool,11
+96,34_,28
+96,35_Jaberebn e Hayyan,25
+96,36_Nejatiye,28
+96,37_,33
+96,38_,41
+96,39_Daneshmand High School,37
+96,40_Amin Rambood,38
+96,41_,41
+96,42_,21
+96,43_Reshadat,18
+96,44_,31
+96,45_,31
+96,46_,26
+96,47_,24
+96,48_,38
+96,49_Sadra,33
+96,50_,49
+96,51_Tarbiat,40
+96,52_,49
+96,53_Exceptional Children School,51
+96,54_Shahidi,35
+96,55_Ayande Sazan Novin,39
+96,56_Erfan High School,9
+96,57_Dehkhoda And Farabi High school,39
+96,58_,39
+96,59_Shirodi and Haj Seyed Fazlollah Ghavam,40
+96,60_Sheykh e Toosi and Kalini,40
+96,61_,42
+96,62_Abdollahi School,27
+96,63_Sa'adat School,27
+96,64_Valiasr,35
+96,65_Aghmashe High School,35
+96,66_,34
+96,67_,27
+96,68_,28
+96,69_Hemmat School,34
+96,70_,39
+96,71_,29
+96,72_,50
+96,73_,45
+96,74_,41
+96,75_,39
+96,76_,39
+96,77_,46
+96,78_,47
+96,79_Allame Jafari High school,51
+96,80_,19
+96,81_,34
+96,82_,33
+97,01_Mohammad Taghi Nourozi,41
+97,02_,39
+97,03_Qods Highschool,44
+97,04_استعدادهای درخشان شهیدان شالباف,48
+97,05_Sepide Kashani,32
+97,06_Bokharaei High School,34
+97,07_Tohid school,48
+97,08_Pasargad High Scored,42
+97,09_Farzanegan Sampad (NODET) High school,54
+97,10_,33
+97,11_,41
+97,12_Pasdaran highschool,47
+97,13_,50
+97,14_,39
+97,15_,48
+97,16_,58
+97,17_,54
+97,18_,46
+97,19_Erfan,42
+97,20_Khatamol anbia Technical School,54
+97,21_Enghelab-e-Eslami Technical school,56
+97,22_Shahed,38
+97,23_Shahed,38
+97,24_,42
+97,25_,38
+97,26_Chamran,36
+97,27_Nourozian School,41
+97,28_Nourozian School Building,41
+97,29_,58
+97,30_,58
+97,31_,51
+97,32_Shahed School,54
+97,33_Martyr Babayi elites Highschool,51
+97,34_,38
+97,35_Jaberebn e Hayyan,54
+97,36_Nejatiye,61
+97,37_,48
+97,38_,52
+97,39_Daneshmand High School,69
+97,40_Amin Rambood,45
+97,41_,33
+97,42_,28
+97,43_Reshadat,35
+97,44_,41
+97,45_,39
+97,46_,59
+97,47_,57
+97,48_,50
+97,49_Sadra,40
+97,50_,45
+97,51_Tarbiat,18
+97,52_,31
+97,53_Exceptional Children School,35
+97,54_Shahidi,48
+97,55_Ayande Sazan Novin,71
+97,56_Erfan High School,42
+97,57_Dehkhoda And Farabi High school,37
+97,58_,38
+97,59_Shirodi and Haj Seyed Fazlollah Ghavam,51
+97,60_Sheykh e Toosi and Kalini,51
+97,61_,54
+97,62_Abdollahi School,56
+97,63_Sa'adat School,56
+97,64_Valiasr,46
+97,65_Aghmashe High School,44
+97,66_,38
+97,67_,22
+97,68_,23
+97,69_Hemmat School,38
+97,70_,51
+97,71_,52
+97,72_,46
+97,73_,31
+97,74_,19
+97,75_,17
+97,76_,17
+97,77_,31
+97,78_,32
+97,79_Allame Jafari High school,44
+97,80_,57
+97,81_,43
+97,82_,48
+99,01_Mohammad Taghi Nourozi,35
+99,02_,41
+99,03_Qods Highschool,41
+99,04_استعدادهای درخشان شهیدان شالباف,37
+99,05_Sepide Kashani,40
+99,06_Bokharaei High School,23
+99,07_Tohid school,45
+99,08_Pasargad High Scored,37
+99,09_Farzanegan Sampad (NODET) High school,15
+99,10_,39
+99,11_,36
+99,12_Pasdaran highschool,44
+99,13_,35
+99,14_,36
+99,15_,56
+99,16_,19
+99,17_,23
+99,18_,29
+99,19_Erfan,28
+99,20_Khatamol anbia Technical School,15
+99,21_Enghelab-e-Eslami Technical school,16
+99,22_Shahed,30
+99,23_Shahed,29
+99,24_,28
+99,25_,35
+99,26_Chamran,42
+99,27_Nourozian School,39
+99,28_Nourozian School Building,39
+99,29_,53
+99,30_,54
+99,31_,45
+99,32_Shahed School,17
+99,33_Martyr Babayi elites Highschool,12
+99,34_,35
+99,35_Jaberebn e Hayyan,12
+99,36_Nejatiye,27
+99,37_,40
+99,38_,46
+99,39_Daneshmand High School,34
+99,40_Amin Rambood,46
+99,41_,49
+99,42_,31
+99,43_Reshadat,29
+99,44_,39
+99,45_,39
+99,46_,27
+99,47_,25
+99,48_,44
+99,49_Sadra,39
+99,50_,49
+99,51_Tarbiat,44
+99,52_,45
+99,53_Exceptional Children School,47
+99,54_Shahidi,43
+99,55_Ayande Sazan Novin,36
+99,56_Erfan High School,25
+99,57_Dehkhoda And Farabi High school,47
+99,58_,47
+99,59_Shirodi and Haj Seyed Fazlollah Ghavam,45
+99,60_Sheykh e Toosi and Kalini,45
+99,61_,50
+99,62_Abdollahi School,14
+99,63_Sa'adat School,14
+99,64_Valiasr,41
+99,65_Aghmashe High School,41
+99,66_,41
+99,67_,38
+99,68_,38
+99,69_Hemmat School,42
+99,70_,45
+99,71_,24
+99,72_,50
+99,73_,41
+99,74_,45
+99,75_,44
+99,76_,43
+99,77_,42
+99,78_,43
+99,79_Allame Jafari High school,49
+99,80_,27
+99,81_,40
+99,82_,40
+100,01_Mohammad Taghi Nourozi,43
+100,02_,36
+100,03_Qods Highschool,46
+100,04_استعدادهای درخشان شهیدان شالباف,44
+100,05_Sepide Kashani,37
+100,06_Bokharaei High School,35
+100,07_Tohid school,51
+100,08_Pasargad High Scored,44
+100,09_Farzanegan Sampad (NODET) High school,55
+100,10_,22
+100,11_,43
+100,12_Pasdaran highschool,50
+100,13_,46
+100,14_,41
+100,15_,51
+100,16_,60
+100,17_,57
+100,18_,49
+100,19_Erfan,46
+100,20_Khatamol anbia Technical School,56
+100,21_Enghelab-e-Eslami Technical school,58
+100,22_Shahed,41
+100,23_Shahed,40
+100,24_,46
+100,25_,43
+100,26_Chamran,39
+100,27_Nourozian School,47
+100,28_Nourozian School Building,47
+100,29_,60
+100,30_,60
+100,31_,54
+100,32_Shahed School,57
+100,33_Martyr Babayi elites Highschool,53
+100,34_,43
+100,35_Jaberebn e Hayyan,49
+100,36_Nejatiye,62
+100,37_,54
+100,38_,55
+100,39_Daneshmand High School,65
+100,40_Amin Rambood,48
+100,41_,36
+100,42_,32
+100,43_Reshadat,39
+100,44_,44
+100,45_,42
+100,46_,60
+100,47_,58
+100,48_,52
+100,49_Sadra,46
+100,50_,36
+100,51_Tarbiat,28
+100,52_,17
+100,53_Exceptional Children School,21
+100,54_Shahidi,51
+100,55_Ayande Sazan Novin,71
+100,56_Erfan High School,46
+100,57_Dehkhoda And Farabi High school,40
+100,58_,41
+100,59_Shirodi and Haj Seyed Fazlollah Ghavam,54
+100,60_Sheykh e Toosi and Kalini,54
+100,61_,57
+100,62_Abdollahi School,50
+100,63_Sa'adat School,50
+100,64_Valiasr,48
+100,65_Aghmashe High School,46
+100,66_,42
+100,67_,30
+100,68_,29
+100,69_Hemmat School,42
+100,70_,53
+100,71_,47
+100,72_,38
+100,73_,19
+100,74_,29
+100,75_,28
+100,76_,27
+100,77_,20
+100,78_,21
+100,79_Allame Jafari High school,33
+100,80_,61
+100,81_,45
+100,82_,54
+98,01_Mohammad Taghi Nourozi,36
+98,02_,25
+98,03_Qods Highschool,39
+98,04_استعدادهای درخشان شهیدان شالباف,30
+98,05_Sepide Kashani,32
+98,06_Bokharaei High School,31
+98,07_Tohid school,44
+98,08_Pasargad High Scored,37
+98,09_Farzanegan Sampad (NODET) High school,45
+98,10_,23
+98,11_,36
+98,12_Pasdaran highschool,45
+98,13_,33
+98,14_,34
+98,15_,46
+98,16_,53
+98,17_,50
+98,18_,42
+98,19_Erfan,39
+98,20_Khatamol anbia Technical School,48
+98,21_Enghelab-e-Eslami Technical school,50
+98,22_Shahed,34
+98,23_Shahed,33
+98,24_,39
+98,25_,37
+98,26_Chamran,33
+98,27_Nourozian School,41
+98,28_Nourozian School Building,41
+98,29_,54
+98,30_,55
+98,31_,47
+98,32_Shahed School,47
+98,33_Martyr Babayi elites Highschool,43
+98,34_,37
+98,35_Jaberebn e Hayyan,36
+98,36_Nejatiye,54
+98,37_,49
+98,38_,49
+98,39_Daneshmand High School,53
+98,40_Amin Rambood,43
+98,41_,31
+98,42_,25
+98,43_Reshadat,32
+98,44_,39
+98,45_,37
+98,46_,51
+98,47_,49
+98,48_,45
+98,49_Sadra,40
+98,50_,33
+98,51_Tarbiat,23
+98,52_,26
+98,53_Exceptional Children School,30
+98,54_Shahidi,46
+98,55_Ayande Sazan Novin,55
+98,56_Erfan High School,39
+98,57_Dehkhoda And Farabi High school,35
+98,58_,36
+98,59_Shirodi and Haj Seyed Fazlollah Ghavam,49
+98,60_Sheykh e Toosi and Kalini,49
+98,61_,52
+98,62_Abdollahi School,37
+98,63_Sa'adat School,37
+98,64_Valiasr,41
+98,65_Aghmashe High School,39
+98,66_,37
+98,67_,25
+98,68_,24
+98,69_Hemmat School,37
+98,70_,46
+98,71_,36
+98,72_,34
+98,73_,24
+98,74_,24
+98,75_,23
+98,76_,22
+98,77_,25
+98,78_,26
+98,79_Allame Jafari High school,33
+98,80_,54
+98,81_,38
+98,82_,49
+101,01_Mohammad Taghi Nourozi,36
+101,02_,52
+101,03_Qods Highschool,43
+101,04_استعدادهای درخشان شهیدان شالباف,45
+101,05_Sepide Kashani,47
+101,06_Bokharaei High School,42
+101,07_Tohid school,43
+101,08_Pasargad High Scored,38
+101,09_Farzanegan Sampad (NODET) High school,21
+101,10_,53
+101,11_,36
+101,12_Pasdaran highschool,47
+101,13_,43
+101,14_,38
+101,15_,59
+101,16_,8
+101,17_,23
+101,18_,29
+101,19_Erfan,30
+101,20_Khatamol anbia Technical School,21
+101,21_Enghelab-e-Eslami Technical school,21
+101,22_Shahed,32
+101,23_Shahed,31
+101,24_,30
+101,25_,38
+101,26_Chamran,45
+101,27_Nourozian School,40
+101,28_Nourozian School Building,40
+101,29_,55
+101,30_,55
+101,31_,45
+101,32_Shahed School,24
+101,33_Martyr Babayi elites Highschool,18
+101,34_,38
+101,35_Jaberebn e Hayyan,21
+101,36_Nejatiye,16
+101,37_,42
+101,38_,46
+101,39_Daneshmand High School,33
+101,40_Amin Rambood,47
+101,41_,51
+101,42_,47
+101,43_Reshadat,41
+101,44_,42
+101,45_,42
+101,46_,22
+101,47_,20
+101,48_,46
+101,49_Sadra,39
+101,50_,60
+101,51_Tarbiat,59
+101,52_,63
+101,53_Exceptional Children School,65
+101,54_Shahidi,46
+101,55_Ayande Sazan Novin,32
+101,56_Erfan High School,33
+101,57_Dehkhoda And Farabi High school,48
+101,58_,49
+101,59_Shirodi and Haj Seyed Fazlollah Ghavam,45
+101,60_Sheykh e Toosi and Kalini,45
+101,61_,53
+101,62_Abdollahi School,23
+101,63_Sa'adat School,24
+101,64_Valiasr,42
+101,65_Aghmashe High School,42
+101,66_,46
+101,67_,48
+101,68_,48
+101,69_Hemmat School,45
+101,70_,47
+101,71_,33
+101,72_,61
+101,73_,59
+101,74_,59
+101,75_,57
+101,76_,58
+101,77_,60
+101,78_,60
+101,79_Allame Jafari High school,60
+101,80_,25
+101,81_,41
+101,82_,42
+102,01_Mohammad Taghi Nourozi,40
+102,02_,52
+102,03_Qods Highschool,47
+102,04_استعدادهای درخشان شهیدان شالباف,41
+102,05_Sepide Kashani,47
+102,06_Bokharaei High School,43
+102,07_Tohid school,48
+102,08_Pasargad High Scored,43
+102,09_Farzanegan Sampad (NODET) High school,23
+102,10_,51
+102,11_,41
+102,12_Pasdaran highschool,44
+102,13_,39
+102,14_,42
+102,15_,56
+102,16_,24
+102,17_,27
+102,18_,29
+102,19_Erfan,29
+102,20_Khatamol anbia Technical School,24
+102,21_Enghelab-e-Eslami Technical school,26
+102,22_Shahed,31
+102,23_Shahed,30
+102,24_,28
+102,25_,35
+102,26_Chamran,42
+102,27_Nourozian School,38
+102,28_Nourozian School Building,38
+102,29_,59
+102,30_,59
+102,31_,50
+102,32_Shahed School,24
+102,33_Martyr Babayi elites Highschool,20
+102,34_,35
+102,35_Jaberebn e Hayyan,24
+102,36_Nejatiye,4
+102,37_,39
+102,38_,49
+102,39_Daneshmand High School,24
+102,40_Amin Rambood,46
+102,41_,49
+102,42_,45
+102,43_Reshadat,39
+102,44_,39
+102,45_,39
+102,46_,15
+102,47_,13
+102,48_,51
+102,49_Sadra,38
+102,50_,60
+102,51_Tarbiat,57
+102,52_,63
+102,53_Exceptional Children School,65
+102,54_Shahidi,43
+102,55_Ayande Sazan Novin,16
+102,56_Erfan High School,31
+102,57_Dehkhoda And Farabi High school,47
+102,58_,47
+102,59_Shirodi and Haj Seyed Fazlollah Ghavam,47
+102,60_Sheykh e Toosi and Kalini,47
+102,61_,50
+102,62_Abdollahi School,23
+102,63_Sa'adat School,24
+102,64_Valiasr,46
+102,65_Aghmashe High School,47
+102,66_,43
+102,67_,47
+102,68_,46
+102,69_Hemmat School,42
+102,70_,52
+102,71_,28
+102,72_,61
+102,73_,59
+102,74_,57
+102,75_,56
+102,76_,56
+102,77_,59
+102,78_,59
+102,79_Allame Jafari High school,60
+102,80_,32
+102,81_,46
+102,82_,39
+103,01_Mohammad Taghi Nourozi,40
+103,02_,49
+103,03_Qods Highschool,46
+103,04_استعدادهای درخشان شهیدان شالباف,39
+103,05_Sepide Kashani,46
+103,06_Bokharaei High School,44
+103,07_Tohid school,50
+103,08_Pasargad High Scored,42
+103,09_Farzanegan Sampad (NODET) High school,24
+103,10_,50
+103,11_,40
+103,12_Pasdaran highschool,46
+103,13_,37
+103,14_,41
+103,15_,58
+103,16_,26
+103,17_,28
+103,18_,30
+103,19_Erfan,29
+103,20_Khatamol anbia Technical School,25
+103,21_Enghelab-e-Eslami Technical school,27
+103,22_Shahed,31
+103,23_Shahed,30
+103,24_,29
+103,25_,37
+103,26_Chamran,44
+103,27_Nourozian School,40
+103,28_Nourozian School Building,40
+103,29_,58
+103,30_,57
+103,31_,49
+103,32_Shahed School,25
+103,33_Martyr Babayi elites Highschool,21
+103,34_,37
+103,35_Jaberebn e Hayyan,22
+103,36_Nejatiye,9
+103,37_,41
+103,38_,49
+103,39_Daneshmand High School,18
+103,40_Amin Rambood,48
+103,41_,51
+103,42_,45
+103,43_Reshadat,39
+103,44_,41
+103,45_,41
+103,46_,12
+103,47_,10
+103,48_,50
+103,49_Sadra,40
+103,50_,57
+103,51_Tarbiat,57
+103,52_,64
+103,53_Exceptional Children School,66
+103,54_Shahidi,45
+103,55_Ayande Sazan Novin,17
+103,56_Erfan High School,32
+103,57_Dehkhoda And Farabi High school,49
+103,58_,49
+103,59_Shirodi and Haj Seyed Fazlollah Ghavam,49
+103,60_Sheykh e Toosi and Kalini,49
+103,61_,52
+103,62_Abdollahi School,21
+103,63_Sa'adat School,22
+103,64_Valiasr,43
+103,65_Aghmashe High School,45
+103,66_,45
+103,67_,46
+103,68_,46
+103,69_Hemmat School,44
+103,70_,51
+103,71_,26
+103,72_,58
+103,73_,58
+103,74_,57
+103,75_,55
+103,76_,56
+103,77_,58
+103,78_,58
+103,79_Allame Jafari High school,57
+103,80_,33
+103,81_,44
+103,82_,41
+104,01_Mohammad Taghi Nourozi,50
+104,02_,60
+104,03_Qods Highschool,57
+104,04_استعدادهای درخشان شهیدان شالباف,46
+104,05_Sepide Kashani,57
+104,06_Bokharaei High School,48
+104,07_Tohid school,58
+104,08_Pasargad High Scored,52
+104,09_Farzanegan Sampad (NODET) High school,33
+104,10_,60
+104,11_,50
+104,12_Pasdaran highschool,54
+104,13_,44
+104,14_,52
+104,15_,66
+104,16_,34
+104,17_,37
+104,18_,39
+104,19_Erfan,38
+104,20_Khatamol anbia Technical School,34
+104,21_Enghelab-e-Eslami Technical school,36
+104,22_Shahed,40
+104,23_Shahed,39
+104,24_,38
+104,25_,45
+104,26_Chamran,52
+104,27_Nourozian School,48
+104,28_Nourozian School Building,48
+104,29_,69
+104,30_,68
+104,31_,59
+104,32_Shahed School,34
+104,33_Martyr Babayi elites Highschool,30
+104,34_,45
+104,35_Jaberebn e Hayyan,30
+104,36_Nejatiye,16
+104,37_,49
+104,38_,59
+104,39_Daneshmand High School,18
+104,40_Amin Rambood,56
+104,41_,59
+104,42_,53
+104,43_Reshadat,48
+104,44_,49
+104,45_,49
+104,46_,24
+104,47_,22
+104,48_,60
+104,49_Sadra,48
+104,50_,68
+104,51_Tarbiat,66
+104,52_,71
+104,53_Exceptional Children School,73
+104,54_Shahidi,53
+104,55_Ayande Sazan Novin,7
+104,56_Erfan High School,41
+104,57_Dehkhoda And Farabi High school,57
+104,58_,57
+104,59_Shirodi and Haj Seyed Fazlollah Ghavam,57
+104,60_Sheykh e Toosi and Kalini,57
+104,61_,60
+104,62_Abdollahi School,29
+104,63_Sa'adat School,29
+104,64_Valiasr,55
+104,65_Aghmashe High School,56
+104,66_,53
+104,67_,56
+104,68_,55
+104,69_Hemmat School,52
+104,70_,61
+104,71_,32
+104,72_,69
+104,73_,67
+104,74_,67
+104,75_,65
+104,76_,65
+104,77_,68
+104,78_,68
+104,79_Allame Jafari High school,68
+104,80_,42
+104,81_,55
+104,82_,49
+105,01_Mohammad Taghi Nourozi,44
+105,02_,45
+105,03_Qods Highschool,48
+105,04_استعدادهای درخشان شهیدان شالباف,35
+105,05_Sepide Kashani,49
+105,06_Bokharaei High School,41
+105,07_Tohid school,56
+105,08_Pasargad High Scored,45
+105,09_Farzanegan Sampad (NODET) High school,30
+105,10_,48
+105,11_,44
+105,12_Pasdaran highschool,52
+105,13_,33
+105,14_,43
+105,15_,64
+105,16_,32
+105,17_,34
+105,18_,36
+105,19_Erfan,35
+105,20_Khatamol anbia Technical School,31
+105,21_Enghelab-e-Eslami Technical school,33
+105,22_Shahed,37
+105,23_Shahed,36
+105,24_,35
+105,25_,43
+105,26_Chamran,50
+105,27_Nourozian School,46
+105,28_Nourozian School Building,46
+105,29_,60
+105,30_,60
+105,31_,55
+105,32_Shahed School,31
+105,33_Martyr Babayi elites Highschool,27
+105,34_,43
+105,35_Jaberebn e Hayyan,20
+105,36_Nejatiye,23
+105,37_,47
+105,38_,53
+105,39_Daneshmand High School,18
+105,40_Amin Rambood,54
+105,41_,57
+105,42_,45
+105,43_Reshadat,41
+105,44_,47
+105,45_,47
+105,46_,11
+105,47_,10
+105,48_,51
+105,49_Sadra,46
+105,50_,53
+105,51_Tarbiat,57
+105,52_,61
+105,53_Exceptional Children School,63
+105,54_Shahidi,51
+105,55_Ayande Sazan Novin,23
+105,56_Erfan High School,37
+105,57_Dehkhoda And Farabi High school,55
+105,58_,55
+105,59_Shirodi and Haj Seyed Fazlollah Ghavam,55
+105,60_Sheykh e Toosi and Kalini,55
+105,61_,58
+105,62_Abdollahi School,19
+105,63_Sa'adat School,20
+105,64_Valiasr,46
+105,65_Aghmashe High School,47
+105,66_,50
+105,67_,48
+105,68_,48
+105,69_Hemmat School,50
+105,70_,52
+105,71_,21
+105,72_,54
+105,73_,56
+105,74_,58
+105,75_,56
+105,76_,56
+105,77_,56
+105,78_,56
+105,79_Allame Jafari High school,53
+105,80_,39
+105,81_,46
+105,82_,47
+107,01_Mohammad Taghi Nourozi,42
+107,02_,37
+107,03_Qods Highschool,45
+107,04_استعدادهای درخشان شهیدان شالباف,42
+107,05_Sepide Kashani,37
+107,06_Bokharaei High School,37
+107,07_Tohid school,50
+107,08_Pasargad High Scored,43
+107,09_Farzanegan Sampad (NODET) High school,56
+107,10_,20
+107,11_,42
+107,12_Pasdaran highschool,50
+107,13_,45
+107,14_,40
+107,15_,51
+107,16_,59
+107,17_,56
+107,18_,48
+107,19_Erfan,45
+107,20_Khatamol anbia Technical School,55
+107,21_Enghelab-e-Eslami Technical school,57
+107,22_Shahed,40
+107,23_Shahed,39
+107,24_,45
+107,25_,42
+107,26_Chamran,38
+107,27_Nourozian School,46
+107,28_Nourozian School Building,46
+107,29_,60
+107,30_,60
+107,31_,53
+107,32_Shahed School,56
+107,33_Martyr Babayi elites Highschool,52
+107,34_,42
+107,35_Jaberebn e Hayyan,48
+107,36_Nejatiye,61
+107,37_,54
+107,38_,54
+107,39_Daneshmand High School,66
+107,40_Amin Rambood,48
+107,41_,36
+107,42_,31
+107,43_Reshadat,38
+107,44_,44
+107,45_,42
+107,46_,59
+107,47_,57
+107,48_,51
+107,49_Sadra,46
+107,50_,31
+107,51_Tarbiat,28
+107,52_,3
+107,53_Exceptional Children School,6
+107,54_Shahidi,51
+107,55_Ayande Sazan Novin,72
+107,56_Erfan High School,45
+107,57_Dehkhoda And Farabi High school,40
+107,58_,41
+107,59_Shirodi and Haj Seyed Fazlollah Ghavam,54
+107,60_Sheykh e Toosi and Kalini,54
+107,61_,57
+107,62_Abdollahi School,49
+107,63_Sa'adat School,49
+107,64_Valiasr,47
+107,65_Aghmashe High School,45
+107,66_,42
+107,67_,30
+107,68_,29
+107,69_Hemmat School,42
+107,70_,52
+107,71_,46
+107,72_,33
+107,73_,13
+107,74_,29
+107,75_,28
+107,76_,27
+107,77_,14
+107,78_,15
+107,79_Allame Jafari High school,29
+107,80_,60
+107,81_,44
+107,82_,54
+108,01_Mohammad Taghi Nourozi,50
+108,02_,23
+108,03_Qods Highschool,53
+108,04_استعدادهای درخشان شهیدان شالباف,28
+108,05_Sepide Kashani,45
+108,06_Bokharaei High School,45
+108,07_Tohid school,58
+108,08_Pasargad High Scored,51
+108,09_Farzanegan Sampad (NODET) High school,62
+108,10_,21
+108,11_,50
+108,12_Pasdaran highschool,58
+108,13_,31
+108,14_,48
+108,15_,59
+108,16_,65
+108,17_,64
+108,18_,56
+108,19_Erfan,53
+108,20_Khatamol anbia Technical School,63
+108,21_Enghelab-e-Eslami Technical school,65
+108,22_Shahed,48
+108,23_Shahed,47
+108,24_,53
+108,25_,50
+108,26_Chamran,46
+108,27_Nourozian School,54
+108,28_Nourozian School Building,54
+108,29_,68
+108,30_,68
+108,31_,61
+108,32_Shahed School,63
+108,33_Martyr Babayi elites Highschool,59
+108,34_,50
+108,35_Jaberebn e Hayyan,52
+108,36_Nejatiye,63
+108,37_,62
+108,38_,62
+108,39_Daneshmand High School,55
+108,40_Amin Rambood,56
+108,41_,44
+108,42_,39
+108,43_Reshadat,46
+108,44_,52
+108,45_,50
+108,46_,61
+108,47_,59
+108,48_,59
+108,49_Sadra,54
+108,50_,25
+108,51_Tarbiat,36
+108,52_,19
+108,53_Exceptional Children School,21
+108,54_Shahidi,59
+108,55_Ayande Sazan Novin,58
+108,56_Erfan High School,53
+108,57_Dehkhoda And Farabi High school,48
+108,58_,49
+108,59_Shirodi and Haj Seyed Fazlollah Ghavam,62
+108,60_Sheykh e Toosi and Kalini,62
+108,61_,65
+108,62_Abdollahi School,53
+108,63_Sa'adat School,53
+108,64_Valiasr,55
+108,65_Aghmashe High School,53
+108,66_,50
+108,67_,38
+108,68_,37
+108,69_Hemmat School,50
+108,70_,60
+108,71_,49
+108,72_,26
+108,73_,10
+108,74_,37
+108,75_,36
+108,76_,35
+108,77_,9
+108,78_,8
+108,79_Allame Jafari High school,22
+108,80_,68
+108,81_,52
+108,82_,62
+109,01_Mohammad Taghi Nourozi,44
+109,02_,36
+109,03_Qods Highschool,47
+109,04_استعدادهای درخشان شهیدان شالباف,39
+109,05_Sepide Kashani,40
+109,06_Bokharaei High School,40
+109,07_Tohid school,52
+109,08_Pasargad High Scored,45
+109,09_Farzanegan Sampad (NODET) High school,58
+109,10_,20
+109,11_,44
+109,12_Pasdaran highschool,53
+109,13_,42
+109,14_,42
+109,15_,54
+109,16_,61
+109,17_,58
+109,18_,50
+109,19_Erfan,47
+109,20_Khatamol anbia Technical School,57
+109,21_Enghelab-e-Eslami Technical school,59
+109,22_Shahed,42
+109,23_Shahed,41
+109,24_,47
+109,25_,45
+109,26_Chamran,41
+109,27_Nourozian School,49
+109,28_Nourozian School Building,49
+109,29_,62
+109,30_,63
+109,31_,55
+109,32_Shahed School,58
+109,33_Martyr Babayi elites Highschool,54
+109,34_,45
+109,35_Jaberebn e Hayyan,51
+109,36_Nejatiye,64
+109,37_,57
+109,38_,57
+109,39_Daneshmand High School,63
+109,40_Amin Rambood,51
+109,41_,39
+109,42_,33
+109,43_Reshadat,40
+109,44_,47
+109,45_,45
+109,46_,62
+109,47_,60
+109,48_,53
+109,49_Sadra,48
+109,50_,25
+109,51_Tarbiat,31
+109,52_,10
+109,53_Exceptional Children School,12
+109,54_Shahidi,54
+109,55_Ayande Sazan Novin,69
+109,56_Erfan High School,47
+109,57_Dehkhoda And Farabi High school,43
+109,58_,44
+109,59_Shirodi and Haj Seyed Fazlollah Ghavam,57
+109,60_Sheykh e Toosi and Kalini,57
+109,61_,60
+109,62_Abdollahi School,52
+109,63_Sa'adat School,52
+109,64_Valiasr,49
+109,65_Aghmashe High School,47
+109,66_,45
+109,67_,33
+109,68_,32
+109,69_Hemmat School,45
+109,70_,54
+109,71_,49
+109,72_,27
+109,73_,13
+109,74_,32
+109,75_,31
+109,76_,30
+109,77_,14
+109,78_,14
+109,79_Allame Jafari High school,16
+109,80_,62
+109,81_,46
+109,82_,57
+110,01_Mohammad Taghi Nourozi,43
+110,02_,14
+110,03_Qods Highschool,46
+110,04_استعدادهای درخشان شهیدان شالباف,23
+110,05_Sepide Kashani,35
+110,06_Bokharaei High School,35
+110,07_Tohid school,50
+110,08_Pasargad High Scored,44
+110,09_Farzanegan Sampad (NODET) High school,48
+110,10_,5
+110,11_,43
+110,12_Pasdaran highschool,50
+110,13_,25
+110,14_,41
+110,15_,51
+110,16_,56
+110,17_,54
+110,18_,46
+110,19_Erfan,42
+110,20_Khatamol anbia Technical School,52
+110,21_Enghelab-e-Eslami Technical school,53
+110,22_Shahed,39
+110,23_Shahed,39
+110,24_,42
+110,25_,42
+110,26_Chamran,39
+110,27_Nourozian School,46
+110,28_Nourozian School Building,46
+110,29_,60
+110,30_,60
+110,31_,54
+110,32_Shahed School,51
+110,33_Martyr Babayi elites Highschool,47
+110,34_,42
+110,35_Jaberebn e Hayyan,38
+110,36_Nejatiye,57
+110,37_,53
+110,38_,54
+110,39_Daneshmand High School,49
+110,40_Amin Rambood,48
+110,41_,36
+110,42_,28
+110,43_Reshadat,35
+110,44_,43
+110,45_,42
+110,46_,54
+110,47_,52
+110,48_,52
+110,49_Sadra,46
+110,50_,26
+110,51_Tarbiat,26
+110,52_,22
+110,53_Exceptional Children School,24
+110,54_Shahidi,51
+110,55_Ayande Sazan Novin,51
+110,56_Erfan High School,42
+110,57_Dehkhoda And Farabi High school,40
+110,58_,41
+110,59_Shirodi and Haj Seyed Fazlollah Ghavam,54
+110,60_Sheykh e Toosi and Kalini,54
+110,61_,57
+110,62_Abdollahi School,40
+110,63_Sa'adat School,40
+110,64_Valiasr,48
+110,65_Aghmashe High School,46
+110,66_,40
+110,67_,28
+110,68_,27
+110,69_Hemmat School,40
+110,70_,53
+110,71_,39
+110,72_,27
+110,73_,17
+110,74_,27
+110,75_,26
+110,76_,25
+110,77_,18
+110,78_,19
+110,79_Allame Jafari High school,27
+110,80_,58
+110,81_,45
+110,82_,53
+111,01_Mohammad Taghi Nourozi,36
+111,02_,30
+111,03_Qods Highschool,39
+111,04_استعدادهای درخشان شهیدان شالباف,32
+111,05_Sepide Kashani,36
+111,06_Bokharaei High School,21
+111,07_Tohid school,48
+111,08_Pasargad High Scored,36
+111,09_Farzanegan Sampad (NODET) High school,31
+111,10_,28
+111,11_,36
+111,12_Pasdaran highschool,45
+111,13_,31
+111,14_,34
+111,15_,53
+111,16_,39
+111,17_,41
+111,18_,38
+111,19_Erfan,30
+111,20_Khatamol anbia Technical School,35
+111,21_Enghelab-e-Eslami Technical school,36
+111,22_Shahed,31
+111,23_Shahed,33
+111,24_,30
+111,25_,35
+111,26_Chamran,40
+111,27_Nourozian School,39
+111,28_Nourozian School Building,39
+111,29_,51
+111,30_,52
+111,31_,47
+111,32_Shahed School,33
+111,33_Martyr Babayi elites Highschool,30
+111,34_,35
+111,35_Jaberebn e Hayyan,24
+111,36_Nejatiye,43
+111,37_,45
+111,38_,46
+111,39_Daneshmand High School,40
+111,40_Amin Rambood,47
+111,41_,42
+111,42_,29
+111,43_Reshadat,26
+111,44_,40
+111,45_,40
+111,46_,38
+111,47_,37
+111,48_,42
+111,49_Sadra,39
+111,50_,38
+111,51_Tarbiat,34
+111,52_,34
+111,53_Exceptional Children School,36
+111,54_Shahidi,42
+111,55_Ayande Sazan Novin,42
+111,56_Erfan High School,27
+111,57_Dehkhoda And Farabi High school,44
+111,58_,44
+111,59_Shirodi and Haj Seyed Fazlollah Ghavam,48
+111,60_Sheykh e Toosi and Kalini,48
+111,61_,47
+111,62_Abdollahi School,25
+111,63_Sa'adat School,25
+111,64_Valiasr,39
+111,65_Aghmashe High School,39
+111,66_,38
+111,67_,32
+111,68_,31
+111,69_Hemmat School,39
+111,70_,43
+111,71_,20
+111,72_,39
+111,73_,30
+111,74_,35
+111,75_,34
+111,76_,33
+111,77_,31
+111,78_,32
+111,79_Allame Jafari High school,39
+111,80_,46
+111,81_,38
+111,82_,45
+112,01_Mohammad Taghi Nourozi,39
+112,02_,32
+112,03_Qods Highschool,42
+112,04_استعدادهای درخشان شهیدان شالباف,24
+112,05_Sepide Kashani,39
+112,06_Bokharaei High School,28
+112,07_Tohid school,51
+112,08_Pasargad High Scored,39
+112,09_Farzanegan Sampad (NODET) High school,29
+112,10_,36
+112,11_,39
+112,12_Pasdaran highschool,45
+112,13_,21
+112,14_,37
+112,15_,57
+112,16_,31
+112,17_,33
+112,18_,35
+112,19_Erfan,31
+112,20_Khatamol anbia Technical School,30
+112,21_Enghelab-e-Eslami Technical school,32
+112,22_Shahed,32
+112,23_Shahed,32
+112,24_,31
+112,25_,36
+112,26_Chamran,43
+112,27_Nourozian School,41
+112,28_Nourozian School Building,41
+112,29_,54
+112,30_,55
+112,31_,50
+112,32_Shahed School,30
+112,33_Martyr Babayi elites Highschool,26
+112,34_,36
+112,35_Jaberebn e Hayyan,20
+112,36_Nejatiye,25
+112,37_,43
+112,38_,49
+112,39_Daneshmand High School,22
+112,40_Amin Rambood,47
+112,41_,49
+112,42_,33
+112,43_Reshadat,29
+112,44_,40
+112,45_,40
+112,46_,22
+112,47_,20
+112,48_,45
+112,49_Sadra,41
+112,50_,40
+112,51_Tarbiat,46
+112,52_,51
+112,53_Exceptional Children School,53
+112,54_Shahidi,43
+112,55_Ayande Sazan Novin,24
+112,56_Erfan High School,31
+112,57_Dehkhoda And Farabi High school,49
+112,58_,48
+112,59_Shirodi and Haj Seyed Fazlollah Ghavam,49
+112,60_Sheykh e Toosi and Kalini,49
+112,61_,50
+112,62_Abdollahi School,18
+112,63_Sa'adat School,19
+112,64_Valiasr,42
+112,65_Aghmashe High School,42
+112,66_,40
+112,67_,38
+112,68_,37
+112,69_Hemmat School,41
+112,70_,46
+112,71_,14
+112,72_,41
+112,73_,45
+112,74_,47
+112,75_,46
+112,76_,45
+112,77_,45
+112,78_,44
+112,79_Allame Jafari High school,40
+112,80_,38
+112,81_,41
+112,82_,43
+113,01_Mohammad Taghi Nourozi,52
+113,02_,54
+113,03_Qods Highschool,56
+113,04_استعدادهای درخشان شهیدان شالباف,42
+113,05_Sepide Kashani,58
+113,06_Bokharaei High School,48
+113,07_Tohid school,63
+113,08_Pasargad High Scored,53
+113,09_Farzanegan Sampad (NODET) High school,37
+113,10_,60
+113,11_,52
+113,12_Pasdaran highschool,59
+113,13_,40
+113,14_,51
+113,15_,71
+113,16_,39
+113,17_,41
+113,18_,43
+113,19_Erfan,42
+113,20_Khatamol anbia Technical School,38
+113,21_Enghelab-e-Eslami Technical school,40
+113,22_Shahed,44
+113,23_Shahed,43
+113,24_,42
+113,25_,50
+113,26_Chamran,57
+113,27_Nourozian School,53
+113,28_Nourozian School Building,53
+113,29_,68
+113,30_,67
+113,31_,62
+113,32_Shahed School,38
+113,33_Martyr Babayi elites Highschool,34
+113,34_,50
+113,35_Jaberebn e Hayyan,30
+113,36_Nejatiye,21
+113,37_,54
+113,38_,60
+113,39_Daneshmand High School,11
+113,40_Amin Rambood,61
+113,41_,64
+113,42_,53
+113,43_Reshadat,49
+113,44_,54
+113,45_,54
+113,46_,25
+113,47_,24
+113,48_,60
+113,49_Sadra,53
+113,50_,63
+113,51_Tarbiat,69
+113,52_,71
+113,53_Exceptional Children School,73
+113,54_Shahidi,58
+113,55_Ayande Sazan Novin,3
+113,56_Erfan High School,45
+113,57_Dehkhoda And Farabi High school,62
+113,58_,62
+113,59_Shirodi and Haj Seyed Fazlollah Ghavam,62
+113,60_Sheykh e Toosi and Kalini,62
+113,61_,65
+113,62_Abdollahi School,28
+113,63_Sa'adat School,28
+113,64_Valiasr,53
+113,65_Aghmashe High School,55
+113,66_,57
+113,67_,58
+113,68_,57
+113,69_Hemmat School,57
+113,70_,61
+113,71_,31
+113,72_,64
+113,73_,67
+113,74_,69
+113,75_,67
+113,76_,68
+113,77_,68
+113,78_,68
+113,79_Allame Jafari High school,63
+113,80_,46
+113,81_,54
+113,82_,54
+114,01_Mohammad Taghi Nourozi,41
+114,02_,31
+114,03_Qods Highschool,44
+114,04_استعدادهای درخشان شهیدان شالباف,22
+114,05_Sepide Kashani,43
+114,06_Bokharaei High School,33
+114,07_Tohid school,54
+114,08_Pasargad High Scored,41
+114,09_Farzanegan Sampad (NODET) High school,28
+114,10_,38
+114,11_,41
+114,12_Pasdaran highschool,48
+114,13_,20
+114,14_,39
+114,15_,60
+114,16_,30
+114,17_,32
+114,18_,34
+114,19_Erfan,33
+114,20_Khatamol anbia Technical School,29
+114,21_Enghelab-e-Eslami Technical school,31
+114,22_Shahed,35
+114,23_Shahed,34
+114,24_,33
+114,25_,40
+114,26_Chamran,46
+114,27_Nourozian School,44
+114,28_Nourozian School Building,44
+114,29_,56
+114,30_,57
+114,31_,52
+114,32_Shahed School,29
+114,33_Martyr Babayi elites Highschool,25
+114,34_,40
+114,35_Jaberebn e Hayyan,21
+114,36_Nejatiye,25
+114,37_,45
+114,38_,51
+114,39_Daneshmand High School,15
+114,40_Amin Rambood,50
+114,41_,53
+114,42_,37
+114,43_Reshadat,34
+114,44_,43
+114,45_,43
+114,46_,21
+114,47_,19
+114,48_,47
+114,49_Sadra,44
+114,50_,41
+114,51_Tarbiat,48
+114,52_,54
+114,53_Exceptional Children School,56
+114,54_Shahidi,47
+114,55_Ayande Sazan Novin,19
+114,56_Erfan High School,34
+114,57_Dehkhoda And Farabi High school,51
+114,58_,51
+114,59_Shirodi and Haj Seyed Fazlollah Ghavam,52
+114,60_Sheykh e Toosi and Kalini,52
+114,61_,54
+114,62_Abdollahi School,19
+114,63_Sa'adat School,19
+114,64_Valiasr,44
+114,65_Aghmashe High School,44
+114,66_,45
+114,67_,42
+114,68_,41
+114,69_Hemmat School,46
+114,70_,48
+114,71_,22
+114,72_,42
+114,73_,47
+114,74_,49
+114,75_,48
+114,76_,47
+114,77_,47
+114,78_,46
+114,79_Allame Jafari High school,41
+114,80_,37
+114,81_,43
+114,82_,45
+115,01_Mohammad Taghi Nourozi,48
+115,02_,32
+115,03_Qods Highschool,51
+115,04_استعدادهای درخشان شهیدان شالباف,36
+115,05_Sepide Kashani,43
+115,06_Bokharaei High School,43
+115,07_Tohid school,56
+115,08_Pasargad High Scored,49
+115,09_Farzanegan Sampad (NODET) High school,62
+115,10_,31
+115,11_,48
+115,12_Pasdaran highschool,56
+115,13_,39
+115,14_,46
+115,15_,57
+115,16_,65
+115,17_,62
+115,18_,54
+115,19_Erfan,51
+115,20_Khatamol anbia Technical School,61
+115,21_Enghelab-e-Eslami Technical school,63
+115,22_Shahed,46
+115,23_Shahed,45
+115,24_,51
+115,25_,48
+115,26_Chamran,44
+115,27_Nourozian School,52
+115,28_Nourozian School Building,52
+115,29_,66
+115,30_,66
+115,31_,59
+115,32_Shahed School,62
+115,33_Martyr Babayi elites Highschool,58
+115,34_,48
+115,35_Jaberebn e Hayyan,52
+115,36_Nejatiye,67
+115,37_,60
+115,38_,60
+115,39_Daneshmand High School,61
+115,40_Amin Rambood,54
+115,41_,42
+115,42_,37
+115,43_Reshadat,44
+115,44_,50
+115,45_,48
+115,46_,64
+115,47_,62
+115,48_,57
+115,49_Sadra,52
+115,50_,10
+115,51_Tarbiat,34
+115,52_,22
+115,53_Exceptional Children School,22
+115,54_Shahidi,57
+115,55_Ayande Sazan Novin,66
+115,56_Erfan High School,51
+115,57_Dehkhoda And Farabi High school,46
+115,58_,47
+115,59_Shirodi and Haj Seyed Fazlollah Ghavam,60
+115,60_Sheykh e Toosi and Kalini,60
+115,61_,63
+115,62_Abdollahi School,53
+115,63_Sa'adat School,53
+115,64_Valiasr,53
+115,65_Aghmashe High School,51
+115,66_,48
+115,67_,36
+115,68_,35
+115,69_Hemmat School,48
+115,70_,58
+115,71_,52
+115,72_,10
+115,73_,26
+115,74_,35
+115,75_,34
+115,76_,33
+115,77_,26
+115,78_,25
+115,79_Allame Jafari High school,5
+115,80_,66
+115,81_,50
+115,82_,60
+116,01_Mohammad Taghi Nourozi,56
+116,02_,27
+116,03_Qods Highschool,59
+116,04_استعدادهای درخشان شهیدان شالباف,31
+116,05_Sepide Kashani,44
+116,06_Bokharaei High School,45
+116,07_Tohid school,62
+116,08_Pasargad High Scored,57
+116,09_Farzanegan Sampad (NODET) High school,63
+116,10_,30
+116,11_,56
+116,12_Pasdaran highschool,61
+116,13_,34
+116,14_,54
+116,15_,62
+116,16_,70
+116,17_,65
+116,18_,57
+116,19_Erfan,52
+116,20_Khatamol anbia Technical School,68
+116,21_Enghelab-e-Eslami Technical school,70
+116,22_Shahed,50
+116,23_Shahed,50
+116,24_,52
+116,25_,53
+116,26_Chamran,50
+116,27_Nourozian School,57
+116,28_Nourozian School Building,57
+116,29_,72
+116,30_,72
+116,31_,65
+116,32_Shahed School,63
+116,33_Martyr Babayi elites Highschool,62
+116,34_,53
+116,35_Jaberebn e Hayyan,51
+116,36_Nejatiye,65
+116,37_,64
+116,38_,66
+116,39_Daneshmand High School,56
+116,40_Amin Rambood,59
+116,41_,48
+116,42_,38
+116,43_Reshadat,45
+116,44_,54
+116,45_,53
+116,46_,61
+116,47_,59
+116,48_,65
+116,49_Sadra,57
+116,50_,10
+116,51_Tarbiat,37
+116,52_,31
+116,53_Exceptional Children School,31
+116,54_Shahidi,62
+116,55_Ayande Sazan Novin,61
+116,56_Erfan High School,52
+116,57_Dehkhoda And Farabi High school,51
+116,58_,52
+116,59_Shirodi and Haj Seyed Fazlollah Ghavam,65
+116,60_Sheykh e Toosi and Kalini,65
+116,61_,68
+116,62_Abdollahi School,53
+116,63_Sa'adat School,53
+116,64_Valiasr,61
+116,65_Aghmashe High School,59
+116,66_,51
+116,67_,38
+116,68_,37
+116,69_Hemmat School,51
+116,70_,66
+116,71_,48
+116,72_,11
+116,73_,29
+116,74_,37
+116,75_,36
+116,76_,36
+116,77_,28
+116,78_,27
+116,79_Allame Jafari High school,15
+116,80_,69
+116,81_,58
+116,82_,64
+117,01_Mohammad Taghi Nourozi,41
+117,02_,31
+117,03_Qods Highschool,44
+117,04_استعدادهای درخشان شهیدان شالباف,23
+117,05_Sepide Kashani,41
+117,06_Bokharaei High School,31
+117,07_Tohid school,53
+117,08_Pasargad High Scored,41
+117,09_Farzanegan Sampad (NODET) High school,40
+117,10_,35
+117,11_,41
+117,12_Pasdaran highschool,50
+117,13_,21
+117,14_,39
+117,15_,61
+117,16_,44
+117,17_,46
+117,18_,43
+117,19_Erfan,35
+117,20_Khatamol anbia Technical School,43
+117,21_Enghelab-e-Eslami Technical school,45
+117,22_Shahed,36
+117,23_Shahed,38
+117,24_,35
+117,25_,40
+117,26_Chamran,48
+117,27_Nourozian School,44
+117,28_Nourozian School Building,44
+117,29_,56
+117,30_,57
+117,31_,52
+117,32_Shahed School,42
+117,33_Martyr Babayi elites Highschool,38
+117,34_,40
+117,35_Jaberebn e Hayyan,34
+117,36_Nejatiye,41
+117,37_,50
+117,38_,51
+117,39_Daneshmand High School,32
+117,40_Amin Rambood,52
+117,41_,51
+117,42_,35
+117,43_Reshadat,32
+117,44_,45
+117,45_,45
+117,46_,35
+117,47_,33
+117,48_,47
+117,49_Sadra,44
+117,50_,32
+117,51_Tarbiat,43
+117,52_,47
+117,53_Exceptional Children School,48
+117,54_Shahidi,47
+117,55_Ayande Sazan Novin,38
+117,56_Erfan High School,33
+117,57_Dehkhoda And Farabi High school,53
+117,58_,52
+117,59_Shirodi and Haj Seyed Fazlollah Ghavam,53
+117,60_Sheykh e Toosi and Kalini,53
+117,61_,52
+117,62_Abdollahi School,32
+117,63_Sa'adat School,33
+117,64_Valiasr,44
+117,65_Aghmashe High School,44
+117,66_,43
+117,67_,39
+117,68_,38
+117,69_Hemmat School,44
+117,70_,48
+117,71_,23
+117,72_,33
+117,73_,41
+117,74_,43
+117,75_,42
+117,76_,42
+117,77_,41
+117,78_,40
+117,79_Allame Jafari High school,35
+117,80_,51
+117,81_,43
+117,82_,50
+106,01_Mohammad Taghi Nourozi,47
+106,02_,12
+106,03_Qods Highschool,50
+106,04_استعدادهای درخشان شهیدان شالباف,3
+106,05_Sepide Kashani,43
+106,06_Bokharaei High School,37
+106,07_Tohid school,59
+106,08_Pasargad High Scored,47
+106,09_Farzanegan Sampad (NODET) High school,46
+106,10_,26
+106,11_,47
+106,12_Pasdaran highschool,56
+106,13_,8
+106,14_,45
+106,15_,62
+106,16_,49
+106,17_,51
+106,18_,48
+106,19_Erfan,42
+106,20_Khatamol anbia Technical School,48
+106,21_Enghelab-e-Eslami Technical school,50
+106,22_Shahed,42
+106,23_Shahed,45
+106,24_,42
+106,25_,46
+106,26_Chamran,51
+106,27_Nourozian School,51
+106,28_Nourozian School Building,51
+106,29_,62
+106,30_,63
+106,31_,58
+106,32_Shahed School,48
+106,33_Martyr Babayi elites Highschool,44
+106,34_,46
+106,35_Jaberebn e Hayyan,39
+106,36_Nejatiye,43
+106,37_,57
+106,38_,57
+106,39_Daneshmand High School,34
+106,40_Amin Rambood,57
+106,41_,49
+106,42_,37
+106,43_Reshadat,38
+106,44_,51
+106,45_,50
+106,46_,40
+106,47_,38
+106,48_,53
+106,49_Sadra,51
+106,50_,27
+106,51_Tarbiat,37
+106,52_,40
+106,53_Exceptional Children School,42
+106,54_Shahidi,53
+106,55_Ayande Sazan Novin,38
+106,56_Erfan High School,40
+106,57_Dehkhoda And Farabi High school,51
+106,58_,52
+106,59_Shirodi and Haj Seyed Fazlollah Ghavam,58
+106,60_Sheykh e Toosi and Kalini,58
+106,61_,58
+106,62_Abdollahi School,38
+106,63_Sa'adat School,38
+106,64_Valiasr,50
+106,65_Aghmashe High School,50
+106,66_,48
+106,67_,37
+106,68_,36
+106,69_Hemmat School,49
+106,70_,54
+106,71_,29
+106,72_,28
+106,73_,31
+106,74_,37
+106,75_,36
+106,76_,36
+106,77_,32
+106,78_,31
+106,79_Allame Jafari High school,30
+106,80_,56
+106,81_,49
+106,82_,57
+118,01_Mohammad Taghi Nourozi,55
+118,02_,21
+118,03_Qods Highschool,58
+118,04_استعدادهای درخشان شهیدان شالباف,25
+118,05_Sepide Kashani,38
+118,06_Bokharaei High School,39
+118,07_Tohid school,61
+118,08_Pasargad High Scored,56
+118,09_Farzanegan Sampad (NODET) High school,57
+118,10_,24
+118,11_,55
+118,12_Pasdaran highschool,57
+118,13_,28
+118,14_,53
+118,15_,58
+118,16_,64
+118,17_,60
+118,18_,54
+118,19_Erfan,46
+118,20_Khatamol anbia Technical School,62
+118,21_Enghelab-e-Eslami Technical school,64
+118,22_Shahed,47
+118,23_Shahed,47
+118,24_,46
+118,25_,50
+118,26_Chamran,46
+118,27_Nourozian School,54
+118,28_Nourozian School Building,54
+118,29_,70
+118,30_,71
+118,31_,65
+118,32_Shahed School,57
+118,33_Martyr Babayi elites Highschool,56
+118,34_,50
+118,35_Jaberebn e Hayyan,45
+118,36_Nejatiye,59
+118,37_,60
+118,38_,65
+118,39_Daneshmand High School,50
+118,40_Amin Rambood,55
+118,41_,44
+118,42_,32
+118,43_Reshadat,39
+118,44_,50
+118,45_,49
+118,46_,55
+118,47_,53
+118,48_,63
+118,49_Sadra,54
+118,50_,9
+118,51_Tarbiat,32
+118,52_,30
+118,53_Exceptional Children School,30
+118,54_Shahidi,58
+118,55_Ayande Sazan Novin,55
+118,56_Erfan High School,46
+118,57_Dehkhoda And Farabi High school,47
+118,58_,48
+118,59_Shirodi and Haj Seyed Fazlollah Ghavam,60
+118,60_Sheykh e Toosi and Kalini,60
+118,61_,64
+118,62_Abdollahi School,47
+118,63_Sa'adat School,47
+118,64_Valiasr,59
+118,65_Aghmashe High School,58
+118,66_,47
+118,67_,32
+118,68_,31
+118,69_Hemmat School,47
+118,70_,64
+118,71_,42
+118,72_,10
+118,73_,29
+118,74_,32
+118,75_,31
+118,76_,31
+118,77_,30
+118,78_,29
+118,79_Allame Jafari High school,20
+118,80_,65
+118,81_,57
+118,82_,60
+119,01_Mohammad Taghi Nourozi,46
+119,02_,39
+119,03_Qods Highschool,49
+119,04_استعدادهای درخشان شهیدان شالباف,44
+119,05_Sepide Kashani,42
+119,06_Bokharaei High School,42
+119,07_Tohid school,54
+119,08_Pasargad High Scored,47
+119,09_Farzanegan Sampad (NODET) High school,60
+119,10_,31
+119,11_,46
+119,12_Pasdaran highschool,55
+119,13_,47
+119,14_,44
+119,15_,56
+119,16_,63
+119,17_,60
+119,18_,52
+119,19_Erfan,49
+119,20_Khatamol anbia Technical School,59
+119,21_Enghelab-e-Eslami Technical school,61
+119,22_Shahed,44
+119,23_Shahed,43
+119,24_,49
+119,25_,47
+119,26_Chamran,43
+119,27_Nourozian School,51
+119,28_Nourozian School Building,51
+119,29_,64
+119,30_,65
+119,31_,57
+119,32_Shahed School,60
+119,33_Martyr Babayi elites Highschool,56
+119,34_,47
+119,35_Jaberebn e Hayyan,53
+119,36_Nejatiye,66
+119,37_,59
+119,38_,59
+119,39_Daneshmand High School,68
+119,40_Amin Rambood,53
+119,41_,41
+119,42_,35
+119,43_Reshadat,42
+119,44_,49
+119,45_,47
+119,46_,64
+119,47_,62
+119,48_,55
+119,49_Sadra,50
+119,50_,14
+119,51_Tarbiat,33
+119,52_,21
+119,53_Exceptional Children School,21
+119,54_Shahidi,56
+119,55_Ayande Sazan Novin,74
+119,56_Erfan High School,49
+119,57_Dehkhoda And Farabi High school,45
+119,58_,46
+119,59_Shirodi and Haj Seyed Fazlollah Ghavam,59
+119,60_Sheykh e Toosi and Kalini,59
+119,61_,62
+119,62_Abdollahi School,54
+119,63_Sa'adat School,54
+119,64_Valiasr,51
+119,65_Aghmashe High School,49
+119,66_,47
+119,67_,35
+119,68_,34
+119,69_Hemmat School,47
+119,70_,56
+119,71_,51
+119,72_,14
+119,73_,25
+119,74_,34
+119,75_,33
+119,76_,32
+119,77_,26
+119,78_,26
+119,79_Allame Jafari High school,17
+119,80_,64
+119,81_,48
+119,82_,59
+120,01_Mohammad Taghi Nourozi,26
+120,02_,46
+120,03_Qods Highschool,5
+120,04_استعدادهای درخشان شهیدان شالباف,51
+120,05_Sepide Kashani,33
+120,06_Bokharaei High School,39
+120,07_Tohid school,16
+120,08_Pasargad High Scored,18
+120,09_Farzanegan Sampad (NODET) High school,39
+120,10_,41
+120,11_,19
+120,12_Pasdaran highschool,32
+120,13_,49
+120,14_,5
+120,15_,44
+120,16_,42
+120,17_,39
+120,18_,35
+120,19_Erfan,33
+120,20_Khatamol anbia Technical School,38
+120,21_Enghelab-e-Eslami Technical school,40
+120,22_Shahed,31
+120,23_Shahed,30
+120,24_,35
+120,25_,26
+120,26_Chamran,39
+120,27_Nourozian School,26
+120,28_Nourozian School Building,26
+120,29_,33
+120,30_,33
+120,31_,18
+120,32_Shahed School,39
+120,33_Martyr Babayi elites Highschool,35
+120,34_,26
+120,35_Jaberebn e Hayyan,48
+120,36_Nejatiye,45
+120,37_,26
+120,38_,22
+120,39_Daneshmand High School,54
+120,40_Amin Rambood,30
+120,41_,38
+120,42_,35
+120,43_Reshadat,34
+120,44_,37
+120,45_,37
+120,46_,43
+120,47_,41
+120,48_,24
+120,49_Sadra,24
+120,50_,53
+120,51_Tarbiat,44
+120,52_,51
+120,53_Exceptional Children School,53
+120,54_Shahidi,29
+120,55_Ayande Sazan Novin,56
+120,56_Erfan High School,36
+120,57_Dehkhoda And Farabi High school,34
+120,58_,35
+120,59_Shirodi and Haj Seyed Fazlollah Ghavam,23
+120,60_Sheykh e Toosi and Kalini,23
+120,61_,31
+120,62_Abdollahi School,49
+120,63_Sa'adat School,50
+120,64_Valiasr,15
+120,65_Aghmashe High School,3
+120,66_,35
+120,67_,36
+120,68_,35
+120,69_Hemmat School,36
+120,70_,26
+120,71_,41
+120,72_,54
+120,73_,47
+120,74_,45
+120,75_,44
+120,76_,44
+120,77_,48
+120,78_,49
+120,79_Allame Jafari High school,56
+120,80_,43
+120,81_,8
+120,82_,26
+121,01_Mohammad Taghi Nourozi,26
+121,02_,44
+121,03_Qods Highschool,5
+121,04_استعدادهای درخشان شهیدان شالباف,49
+121,05_Sepide Kashani,34
+121,06_Bokharaei High School,37
+121,07_Tohid school,12
+121,08_Pasargad High Scored,20
+121,09_Farzanegan Sampad (NODET) High school,38
+121,10_,39
+121,11_,21
+121,12_Pasdaran highschool,26
+121,13_,47
+121,14_,3
+121,15_,39
+121,16_,39
+121,17_,34
+121,18_,32
+121,19_Erfan,32
+121,20_Khatamol anbia Technical School,36
+121,21_Enghelab-e-Eslami Technical school,37
+121,22_Shahed,30
+121,23_Shahed,29
+121,24_,34
+121,25_,29
+121,26_Chamran,36
+121,27_Nourozian School,28
+121,28_Nourozian School Building,29
+121,29_,30
+121,30_,30
+121,31_,12
+121,32_Shahed School,38
+121,33_Martyr Babayi elites Highschool,34
+121,34_,29
+121,35_Jaberebn e Hayyan,47
+121,36_Nejatiye,44
+121,37_,23
+121,38_,16
+121,39_Daneshmand High School,53
+121,40_Amin Rambood,26
+121,41_,36
+121,42_,33
+121,43_Reshadat,32
+121,44_,33
+121,45_,34
+121,46_,42
+121,47_,40
+121,48_,22
+121,49_Sadra,27
+121,50_,51
+121,51_Tarbiat,44
+121,52_,49
+121,53_Exceptional Children School,51
+121,54_Shahidi,24
+121,55_Ayande Sazan Novin,55
+121,56_Erfan High School,35
+121,57_Dehkhoda And Farabi High school,30
+121,58_,30
+121,59_Shirodi and Haj Seyed Fazlollah Ghavam,19
+121,60_Sheykh e Toosi and Kalini,19
+121,61_,25
+121,62_Abdollahi School,48
+121,63_Sa'adat School,49
+121,64_Valiasr,9
+121,65_Aghmashe High School,9
+121,66_,35
+121,67_,34
+121,68_,33
+121,69_Hemmat School,35
+121,70_,24
+121,71_,39
+121,72_,52
+121,73_,45
+121,74_,45
+121,75_,43
+121,76_,43
+121,77_,46
+121,78_,47
+121,79_Allame Jafari High school,54
+121,80_,37
+121,81_,13
+121,82_,22
+122,01_Mohammad Taghi Nourozi,29
+122,02_,31
+122,03_Qods Highschool,32
+122,04_استعدادهای درخشان شهیدان شالباف,39
+122,05_Sepide Kashani,5
+122,06_Bokharaei High School,28
+122,07_Tohid school,38
+122,08_Pasargad High Scored,30
+122,09_Farzanegan Sampad (NODET) High school,40
+122,10_,30
+122,11_,29
+122,12_Pasdaran highschool,32
+122,13_,39
+122,14_,27
+122,15_,39
+122,16_,46
+122,17_,41
+122,18_,33
+122,19_Erfan,29
+122,20_Khatamol anbia Technical School,41
+122,21_Enghelab-e-Eslami Technical school,44
+122,22_Shahed,24
+122,23_Shahed,23
+122,24_,28
+122,25_,17
+122,26_Chamran,19
+122,27_Nourozian School,23
+122,28_Nourozian School Building,23
+122,29_,46
+122,30_,46
+122,31_,40
+122,32_Shahed School,40
+122,33_Martyr Babayi elites Highschool,37
+122,34_,17
+122,35_Jaberebn e Hayyan,44
+122,36_Nejatiye,49
+122,37_,30
+122,38_,40
+122,39_Daneshmand High School,50
+122,40_Amin Rambood,32
+122,41_,22
+122,42_,25
+122,43_Reshadat,25
+122,44_,23
+122,45_,21
+122,46_,47
+122,47_,45
+122,48_,37
+122,49_Sadra,23
+122,50_,38
+122,51_Tarbiat,18
+122,52_,38
+122,53_Exceptional Children School,40
+122,54_Shahidi,32
+122,55_Ayande Sazan Novin,52
+122,56_Erfan High School,31
+122,57_Dehkhoda And Farabi High school,27
+122,58_,28
+122,59_Shirodi and Haj Seyed Fazlollah Ghavam,37
+122,60_Sheykh e Toosi and Kalini,37
+122,61_,38
+122,62_Abdollahi School,46
+122,63_Sa'adat School,46
+122,64_Valiasr,33
+122,65_Aghmashe High School,32
+122,66_,17
+122,67_,16
+122,68_,17
+122,69_Hemmat School,18
+122,70_,38
+122,71_,36
+122,72_,39
+122,73_,34
+122,74_,19
+122,75_,18
+122,76_,18
+122,77_,35
+122,78_,36
+122,79_Allame Jafari High school,41
+122,80_,42
+122,81_,31
+122,82_,29
+123,01_Mohammad Taghi Nourozi,39
+123,02_,35
+123,03_Qods Highschool,42
+123,04_استعدادهای درخشان شهیدان شالباف,41
+123,05_Sepide Kashani,31
+123,06_Bokharaei High School,23
+123,07_Tohid school,44
+123,08_Pasargad High Scored,40
+123,09_Farzanegan Sampad (NODET) High school,43
+123,10_,30
+123,11_,39
+123,12_Pasdaran highschool,43
+123,13_,44
+123,14_,37
+123,15_,44
+123,16_,53
+123,17_,52
+123,18_,44
+123,19_Erfan,39
+123,20_Khatamol anbia Technical School,48
+123,21_Enghelab-e-Eslami Technical school,49
+123,22_Shahed,36
+123,23_Shahed,36
+123,24_,39
+123,25_,37
+123,26_Chamran,32
+123,27_Nourozian School,40
+123,28_Nourozian School Building,40
+123,29_,54
+123,30_,54
+123,31_,48
+123,32_Shahed School,45
+123,33_Martyr Babayi elites Highschool,41
+123,34_,37
+123,35_Jaberebn e Hayyan,46
+123,36_Nejatiye,59
+123,37_,47
+123,38_,48
+123,39_Daneshmand High School,58
+123,40_Amin Rambood,40
+123,41_,30
+123,42_,25
+123,43_Reshadat,32
+123,44_,36
+123,45_,36
+123,46_,57
+123,47_,55
+123,48_,48
+123,49_Sadra,40
+123,50_,41
+123,51_Tarbiat,19
+123,52_,28
+123,53_Exceptional Children School,32
+123,54_Shahidi,44
+123,55_Ayande Sazan Novin,60
+123,56_Erfan High School,37
+123,57_Dehkhoda And Farabi High school,32
+123,58_,33
+123,59_Shirodi and Haj Seyed Fazlollah Ghavam,46
+123,60_Sheykh e Toosi and Kalini,46
+123,61_,50
+123,62_Abdollahi School,47
+123,63_Sa'adat School,47
+123,64_Valiasr,44
+123,65_Aghmashe High School,42
+123,66_,36
+123,67_,21
+123,68_,22
+123,69_Hemmat School,36
+123,70_,49
+123,71_,42
+123,72_,42
+123,73_,27
+123,74_,20
+123,75_,18
+123,76_,19
+123,77_,28
+123,78_,29
+123,79_Allame Jafari High school,40
+123,80_,56
+123,81_,41
+123,82_,47
+124,01_Mohammad Taghi Nourozi,29
+124,02_,28
+124,03_Qods Highschool,32
+124,04_استعدادهای درخشان شهیدان شالباف,35
+124,05_Sepide Kashani,27
+124,06_Bokharaei High School,10
+124,07_Tohid school,40
+124,08_Pasargad High Scored,29
+124,09_Farzanegan Sampad (NODET) High school,28
+124,10_,26
+124,11_,29
+124,12_Pasdaran highschool,35
+124,13_,33
+124,14_,27
+124,15_,47
+124,16_,38
+124,17_,30
+124,18_,23
+124,19_Erfan,15
+124,20_Khatamol anbia Technical School,31
+124,21_Enghelab-e-Eslami Technical school,34
+124,22_Shahed,16
+124,23_Shahed,18
+124,24_,15
+124,25_,27
+124,26_Chamran,33
+124,27_Nourozian School,32
+124,28_Nourozian School Building,32
+124,29_,45
+124,30_,46
+124,31_,40
+124,32_Shahed School,27
+124,33_Martyr Babayi elites Highschool,28
+124,34_,27
+124,35_Jaberebn e Hayyan,34
+124,36_Nejatiye,41
+124,37_,35
+124,38_,39
+124,39_Daneshmand High School,40
+124,40_Amin Rambood,37
+124,41_,36
+124,42_,4
+124,43_Reshadat,3
+124,44_,30
+124,45_,30
+124,46_,39
+124,47_,37
+124,48_,36
+124,49_Sadra,31
+124,50_,35
+124,51_Tarbiat,24
+124,52_,36
+124,53_Exceptional Children School,38
+124,54_Shahidi,34
+124,55_Ayande Sazan Novin,42
+124,56_Erfan High School,13
+124,57_Dehkhoda And Farabi High school,37
+124,58_,38
+124,59_Shirodi and Haj Seyed Fazlollah Ghavam,40
+124,60_Sheykh e Toosi and Kalini,40
+124,61_,40
+124,62_Abdollahi School,36
+124,63_Sa'adat School,36
+124,64_Valiasr,33
+124,65_Aghmashe High School,32
+124,66_,29
+124,67_,10
+124,68_,9
+124,69_Hemmat School,29
+124,70_,37
+124,71_,26
+124,72_,36
+124,73_,32
+124,74_,24
+124,75_,22
+124,76_,23
+124,77_,33
+124,78_,34
+124,79_Allame Jafari High school,38
+124,80_,31
+124,81_,31
+124,82_,35
+125,01_Mohammad Taghi Nourozi,30
+125,02_,38
+125,03_Qods Highschool,34
+125,04_استعدادهای درخشان شهیدان شالباف,36
+125,05_Sepide Kashani,30
+125,06_Bokharaei High School,18
+125,07_Tohid school,40
+125,08_Pasargad High Scored,31
+125,09_Farzanegan Sampad (NODET) High school,17
+125,10_,36
+125,11_,30
+125,12_Pasdaran highschool,33
+125,13_,34
+125,14_,29
+125,15_,45
+125,16_,26
+125,17_,18
+125,18_,15
+125,19_Erfan,12
+125,20_Khatamol anbia Technical School,20
+125,21_Enghelab-e-Eslami Technical school,22
+125,22_Shahed,14
+125,23_Shahed,16
+125,24_,10
+125,25_,25
+125,26_Chamran,31
+125,27_Nourozian School,30
+125,28_Nourozian School Building,30
+125,29_,46
+125,30_,46
+125,31_,40
+125,32_Shahed School,16
+125,33_Martyr Babayi elites Highschool,19
+125,34_,25
+125,35_Jaberebn e Hayyan,32
+125,36_Nejatiye,29
+125,37_,30
+125,38_,39
+125,39_Daneshmand High School,38
+125,40_Amin Rambood,35
+125,41_,38
+125,42_,17
+125,43_Reshadat,10
+125,44_,28
+125,45_,28
+125,46_,27
+125,47_,25
+125,48_,37
+125,49_Sadra,30
+125,50_,46
+125,51_Tarbiat,35
+125,52_,47
+125,53_Exceptional Children School,49
+125,54_Shahidi,32
+125,55_Ayande Sazan Novin,40
+125,56_Erfan High School,5
+125,57_Dehkhoda And Farabi High school,36
+125,58_,36
+125,59_Shirodi and Haj Seyed Fazlollah Ghavam,38
+125,60_Sheykh e Toosi and Kalini,38
+125,61_,39
+125,62_Abdollahi School,33
+125,63_Sa'adat School,34
+125,64_Valiasr,34
+125,65_Aghmashe High School,34
+125,66_,30
+125,67_,21
+125,68_,20
+125,69_Hemmat School,30
+125,70_,38
+125,71_,26
+125,72_,47
+125,73_,43
+125,74_,35
+125,75_,33
+125,76_,34
+125,77_,44
+125,78_,45
+125,79_Allame Jafari High school,47
+125,80_,18
+125,81_,33
+125,82_,30
+126,01_Mohammad Taghi Nourozi,29
+126,02_,51
+126,03_Qods Highschool,39
+126,04_استعدادهای درخشان شهیدان شالباف,44
+126,05_Sepide Kashani,42
+126,06_Bokharaei High School,34
+126,07_Tohid school,34
+126,08_Pasargad High Scored,33
+126,09_Farzanegan Sampad (NODET) High school,14
+126,10_,50
+126,11_,30
+126,12_Pasdaran highschool,43
+126,13_,42
+126,14_,34
+126,15_,55
+126,16_,0
+126,17_,13
+126,18_,24
+126,19_Erfan,26
+126,20_Khatamol anbia Technical School,12
+126,21_Enghelab-e-Eslami Technical school,11
+126,22_Shahed,28
+126,23_Shahed,27
+126,24_,26
+126,25_,34
+126,26_Chamran,41
+126,27_Nourozian School,35
+126,28_Nourozian School Building,35
+126,29_,51
+126,30_,52
+126,31_,38
+126,32_Shahed School,16
+126,33_Martyr Babayi elites Highschool,11
+126,34_,34
+126,35_Jaberebn e Hayyan,26
+126,36_Nejatiye,23
+126,37_,38
+126,38_,41
+126,39_Daneshmand High School,32
+126,40_Amin Rambood,41
+126,41_,47
+126,42_,42
+126,43_Reshadat,37
+126,44_,38
+126,45_,38
+126,46_,21
+126,47_,19
+126,48_,42
+126,49_Sadra,33
+126,50_,59
+126,51_Tarbiat,55
+126,52_,60
+126,53_Exceptional Children School,62
+126,54_Shahidi,42
+126,55_Ayande Sazan Novin,34
+126,56_Erfan High School,28
+126,57_Dehkhoda And Farabi High school,43
+126,58_,45
+126,59_Shirodi and Haj Seyed Fazlollah Ghavam,39
+126,60_Sheykh e Toosi and Kalini,39
+126,61_,49
+126,62_Abdollahi School,27
+126,63_Sa'adat School,28
+126,64_Valiasr,39
+126,65_Aghmashe High School,39
+126,66_,42
+126,67_,44
+126,68_,44
+126,69_Hemmat School,41
+126,70_,43
+126,71_,32
+126,72_,60
+126,73_,56
+126,74_,56
+126,75_,53
+126,76_,54
+126,77_,57
+126,78_,58
+126,79_Allame Jafari High school,59
+126,80_,16
+126,81_,38
+126,82_,38
+127,01_Mohammad Taghi Nourozi,41
+127,02_,45
+127,03_Qods Highschool,45
+127,04_استعدادهای درخشان شهیدان شالباف,37
+127,05_Sepide Kashani,46
+127,06_Bokharaei High School,33
+127,07_Tohid school,52
+127,08_Pasargad High Scored,42
+127,09_Farzanegan Sampad (NODET) High school,26
+127,10_,44
+127,11_,41
+127,12_Pasdaran highschool,48
+127,13_,35
+127,14_,40
+127,15_,60
+127,16_,22
+127,17_,30
+127,18_,32
+127,19_Erfan,31
+127,20_Khatamol anbia Technical School,26
+127,21_Enghelab-e-Eslami Technical school,27
+127,22_Shahed,33
+127,23_Shahed,32
+127,24_,31
+127,25_,39
+127,26_Chamran,46
+127,27_Nourozian School,42
+127,28_Nourozian School Building,42
+127,29_,57
+127,30_,56
+127,31_,51
+127,32_Shahed School,27
+127,33_Martyr Babayi elites Highschool,23
+127,34_,39
+127,35_Jaberebn e Hayyan,10
+127,36_Nejatiye,19
+127,37_,43
+127,38_,49
+127,39_Daneshmand High School,24
+127,40_Amin Rambood,50
+127,41_,53
+127,42_,41
+127,43_Reshadat,38
+127,44_,43
+127,45_,43
+127,46_,14
+127,47_,12
+127,48_,49
+127,49_Sadra,42
+127,50_,53
+127,51_Tarbiat,52
+127,52_,52
+127,53_Exceptional Children School,54
+127,54_Shahidi,47
+127,55_Ayande Sazan Novin,26
+127,56_Erfan High School,34
+127,57_Dehkhoda And Farabi High school,51
+127,58_,51
+127,59_Shirodi and Haj Seyed Fazlollah Ghavam,51
+127,60_Sheykh e Toosi and Kalini,51
+127,61_,54
+127,62_Abdollahi School,9
+127,63_Sa'adat School,10
+127,64_Valiasr,42
+127,65_Aghmashe High School,44
+127,66_,46
+127,67_,46
+127,68_,45
+127,69_Hemmat School,46
+127,70_,50
+127,71_,20
+127,72_,54
+127,73_,48
+127,74_,53
+127,75_,51
+127,76_,51
+127,77_,49
+127,78_,50
+127,79_Allame Jafari High school,53
+127,80_,35
+127,81_,43
+127,82_,43
+128,01_Mohammad Taghi Nourozi,36
+128,02_,35
+128,03_Qods Highschool,39
+128,04_استعدادهای درخشان شهیدان شالباف,28
+128,05_Sepide Kashani,36
+128,06_Bokharaei High School,23
+128,07_Tohid school,48
+128,08_Pasargad High Scored,36
+128,09_Farzanegan Sampad (NODET) High school,29
+128,10_,34
+128,11_,36
+128,12_Pasdaran highschool,44
+128,13_,26
+128,14_,34
+128,15_,56
+128,16_,32
+128,17_,37
+128,18_,35
+128,19_Erfan,30
+128,20_Khatamol anbia Technical School,28
+128,21_Enghelab-e-Eslami Technical school,30
+128,22_Shahed,30
+128,23_Shahed,33
+128,24_,30
+128,25_,34
+128,26_Chamran,42
+128,27_Nourozian School,39
+128,28_Nourozian School Building,39
+128,29_,51
+128,30_,52
+128,31_,47
+128,32_Shahed School,31
+128,33_Martyr Babayi elites Highschool,26
+128,34_,34
+128,35_Jaberebn e Hayyan,13
+128,36_Nejatiye,29
+128,37_,44
+128,38_,46
+128,39_Daneshmand High School,26
+128,40_Amin Rambood,46
+128,41_,46
+128,42_,30
+128,43_Reshadat,26
+128,44_,39
+128,45_,39
+128,46_,23
+128,47_,21
+128,48_,42
+128,49_Sadra,39
+128,50_,43
+128,51_Tarbiat,41
+128,52_,42
+128,53_Exceptional Children School,44
+128,54_Shahidi,41
+128,55_Ayande Sazan Novin,28
+128,56_Erfan High School,28
+128,57_Dehkhoda And Farabi High school,48
+128,58_,47
+128,59_Shirodi and Haj Seyed Fazlollah Ghavam,47
+128,60_Sheykh e Toosi and Kalini,47
+128,61_,47
+128,62_Abdollahi School,15
+128,63_Sa'adat School,15
+128,64_Valiasr,39
+128,65_Aghmashe High School,39
+128,66_,37
+128,67_,35
+128,68_,34
+128,69_Hemmat School,38
+128,70_,43
+128,71_,7
+128,72_,44
+128,73_,38
+128,74_,42
+128,75_,41
+128,76_,40
+128,77_,39
+128,78_,40
+128,79_Allame Jafari High school,43
+128,80_,41
+128,81_,38
+128,82_,44
+129,01_Mohammad Taghi Nourozi,49
+129,02_,52
+129,03_Qods Highschool,56
+129,04_استعدادهای درخشان شهیدان شالباف,41
+129,05_Sepide Kashani,56
+129,06_Bokharaei High School,48
+129,07_Tohid school,59
+129,08_Pasargad High Scored,52
+129,09_Farzanegan Sampad (NODET) High school,33
+129,10_,58
+129,11_,50
+129,12_Pasdaran highschool,55
+129,13_,39
+129,14_,51
+129,15_,67
+129,16_,35
+129,17_,37
+129,18_,39
+129,19_Erfan,38
+129,20_Khatamol anbia Technical School,34
+129,21_Enghelab-e-Eslami Technical school,36
+129,22_Shahed,40
+129,23_Shahed,39
+129,24_,38
+129,25_,46
+129,26_Chamran,53
+129,27_Nourozian School,49
+129,28_Nourozian School Building,49
+129,29_,68
+129,30_,67
+129,31_,59
+129,32_Shahed School,34
+129,33_Martyr Babayi elites Highschool,30
+129,34_,46
+129,35_Jaberebn e Hayyan,29
+129,36_Nejatiye,17
+129,37_,50
+129,38_,58
+129,39_Daneshmand High School,11
+129,40_Amin Rambood,57
+129,41_,60
+129,42_,52
+129,43_Reshadat,47
+129,44_,50
+129,45_,50
+129,46_,23
+129,47_,21
+129,48_,60
+129,49_Sadra,49
+129,50_,62
+129,51_Tarbiat,67
+129,52_,70
+129,53_Exceptional Children School,72
+129,54_Shahidi,54
+129,55_Ayande Sazan Novin,4
+129,56_Erfan High School,41
+129,57_Dehkhoda And Farabi High school,58
+129,58_,58
+129,59_Shirodi and Haj Seyed Fazlollah Ghavam,58
+129,60_Sheykh e Toosi and Kalini,58
+129,61_,61
+129,62_Abdollahi School,28
+129,63_Sa'adat School,28
+129,64_Valiasr,53
+129,65_Aghmashe High School,55
+129,66_,53
+129,67_,56
+129,68_,55
+129,69_Hemmat School,53
+129,70_,61
+129,71_,31
+129,72_,63
+129,73_,65
+129,74_,67
+129,75_,65
+129,76_,66
+129,77_,66
+129,78_,66
+129,79_Allame Jafari High school,62
+129,80_,42
+129,81_,54
+129,82_,50
+130,01_Mohammad Taghi Nourozi,47
+130,02_,41
+130,03_Qods Highschool,50
+130,04_استعدادهای درخشان شهیدان شالباف,32
+130,05_Sepide Kashani,51
+130,06_Bokharaei High School,41
+130,07_Tohid school,60
+130,08_Pasargad High Scored,47
+130,09_Farzanegan Sampad (NODET) High school,34
+130,10_,48
+130,11_,47
+130,12_Pasdaran highschool,56
+130,13_,30
+130,14_,45
+130,15_,68
+130,16_,36
+130,17_,38
+130,18_,40
+130,19_Erfan,39
+130,20_Khatamol anbia Technical School,35
+130,21_Enghelab-e-Eslami Technical school,37
+130,22_Shahed,41
+130,23_Shahed,40
+130,24_,39
+130,25_,47
+130,26_Chamran,54
+130,27_Nourozian School,50
+130,28_Nourozian School Building,50
+130,29_,62
+130,30_,63
+130,31_,58
+130,32_Shahed School,35
+130,33_Martyr Babayi elites Highschool,31
+130,34_,47
+130,35_Jaberebn e Hayyan,27
+130,36_Nejatiye,26
+130,37_,51
+130,38_,57
+130,39_Daneshmand High School,3
+130,40_Amin Rambood,58
+130,41_,61
+130,42_,46
+130,43_Reshadat,42
+130,44_,51
+130,45_,51
+130,46_,20
+130,47_,19
+130,48_,54
+130,49_Sadra,50
+130,50_,51
+130,51_Tarbiat,58
+130,52_,63
+130,53_Exceptional Children School,65
+130,54_Shahidi,55
+130,55_Ayande Sazan Novin,14
+130,56_Erfan High School,40
+130,57_Dehkhoda And Farabi High school,59
+130,58_,59
+130,59_Shirodi and Haj Seyed Fazlollah Ghavam,59
+130,60_Sheykh e Toosi and Kalini,59
+130,61_,62
+130,62_Abdollahi School,25
+130,63_Sa'adat School,25
+130,64_Valiasr,50
+130,65_Aghmashe High School,50
+130,66_,53
+130,67_,51
+130,68_,50
+130,69_Hemmat School,54
+130,70_,55
+130,71_,28
+130,72_,52
+130,73_,57
+130,74_,59
+130,75_,58
+130,76_,57
+130,77_,57
+130,78_,56
+130,79_Allame Jafari High school,51
+130,80_,43
+130,81_,49
+130,82_,51
+131,01_Mohammad Taghi Nourozi,46
+131,02_,43
+131,03_Qods Highschool,49
+131,04_استعدادهای درخشان شهیدان شالباف,34
+131,05_Sepide Kashani,50
+131,06_Bokharaei High School,40
+131,07_Tohid school,59
+131,08_Pasargad High Scored,46
+131,09_Farzanegan Sampad (NODET) High school,33
+131,10_,48
+131,11_,46
+131,12_Pasdaran highschool,55
+131,13_,32
+131,14_,44
+131,15_,67
+131,16_,35
+131,17_,37
+131,18_,39
+131,19_Erfan,38
+131,20_Khatamol anbia Technical School,34
+131,21_Enghelab-e-Eslami Technical school,36
+131,22_Shahed,40
+131,23_Shahed,39
+131,24_,38
+131,25_,46
+131,26_Chamran,53
+131,27_Nourozian School,49
+131,28_Nourozian School Building,49
+131,29_,61
+131,30_,62
+131,31_,57
+131,32_Shahed School,34
+131,33_Martyr Babayi elites Highschool,30
+131,34_,46
+131,35_Jaberebn e Hayyan,26
+131,36_Nejatiye,26
+131,37_,50
+131,38_,56
+131,39_Daneshmand High School,1
+131,40_Amin Rambood,57
+131,41_,60
+131,42_,45
+131,43_Reshadat,41
+131,44_,50
+131,45_,50
+131,46_,22
+131,47_,22
+131,48_,53
+131,49_Sadra,49
+131,50_,51
+131,51_Tarbiat,58
+131,52_,63
+131,53_Exceptional Children School,65
+131,54_Shahidi,54
+131,55_Ayande Sazan Novin,14
+131,56_Erfan High School,39
+131,57_Dehkhoda And Farabi High school,58
+131,58_,58
+131,59_Shirodi and Haj Seyed Fazlollah Ghavam,58
+131,60_Sheykh e Toosi and Kalini,58
+131,61_,61
+131,62_Abdollahi School,24
+131,63_Sa'adat School,24
+131,64_Valiasr,49
+131,65_Aghmashe High School,49
+131,66_,52
+131,67_,50
+131,68_,49
+131,69_Hemmat School,53
+131,70_,54
+131,71_,27
+131,72_,52
+131,73_,57
+131,74_,59
+131,75_,58
+131,76_,57
+131,77_,57
+131,78_,56
+131,79_Allame Jafari High school,51
+131,80_,42
+131,81_,48
+131,82_,50
+132,01_Mohammad Taghi Nourozi,48
+132,02_,2
+132,03_Qods Highschool,51
+132,04_استعدادهای درخشان شهیدان شالباف,10
+132,05_Sepide Kashani,40
+132,06_Bokharaei High School,40
+132,07_Tohid school,56
+132,08_Pasargad High Scored,48
+132,09_Farzanegan Sampad (NODET) High school,52
+132,10_,19
+132,11_,48
+132,12_Pasdaran highschool,56
+132,13_,13
+132,14_,46
+132,15_,57
+132,16_,55
+132,17_,56
+132,18_,52
+132,19_Erfan,47
+132,20_Khatamol anbia Technical School,54
+132,21_Enghelab-e-Eslami Technical school,56
+132,22_Shahed,44
+132,23_Shahed,44
+132,24_,47
+132,25_,47
+132,26_Chamran,44
+132,27_Nourozian School,52
+132,28_Nourozian School Building,52
+132,29_,64
+132,30_,65
+132,31_,59
+132,32_Shahed School,54
+132,33_Martyr Babayi elites Highschool,50
+132,34_,47
+132,35_Jaberebn e Hayyan,43
+132,36_Nejatiye,51
+132,37_,57
+132,38_,59
+132,39_Daneshmand High School,42
+132,40_Amin Rambood,53
+132,41_,42
+132,42_,33
+132,43_Reshadat,40
+132,44_,49
+132,45_,47
+132,46_,46
+132,47_,44
+132,48_,55
+132,49_Sadra,51
+132,50_,26
+132,51_Tarbiat,31
+132,52_,32
+132,53_Exceptional Children School,34
+132,54_Shahidi,56
+132,55_Ayande Sazan Novin,47
+132,56_Erfan High School,46
+132,57_Dehkhoda And Farabi High school,45
+132,58_,46
+132,59_Shirodi and Haj Seyed Fazlollah Ghavam,59
+132,60_Sheykh e Toosi and Kalini,59
+132,61_,62
+132,62_Abdollahi School,44
+132,63_Sa'adat School,44
+132,64_Valiasr,52
+132,65_Aghmashe High School,51
+132,66_,46
+132,67_,33
+132,68_,32
+132,69_Hemmat School,46
+132,70_,56
+132,71_,36
+132,72_,27
+132,73_,27
+132,74_,32
+132,75_,31
+132,76_,30
+132,77_,28
+132,78_,27
+132,79_Allame Jafari High school,31
+132,80_,61
+132,81_,50
+132,82_,57
+133,01_Mohammad Taghi Nourozi,49
+133,02_,10
+133,03_Qods Highschool,52
+133,04_استعدادهای درخشان شهیدان شالباف,15
+133,05_Sepide Kashani,36
+133,06_Bokharaei High School,37
+133,07_Tohid school,56
+133,08_Pasargad High Scored,50
+133,09_Farzanegan Sampad (NODET) High school,53
+133,10_,15
+133,11_,49
+133,12_Pasdaran highschool,54
+133,13_,18
+133,14_,47
+133,15_,55
+133,16_,59
+133,17_,57
+133,18_,51
+133,19_Erfan,44
+133,20_Khatamol anbia Technical School,58
+133,21_Enghelab-e-Eslami Technical school,60
+133,22_Shahed,43
+133,23_Shahed,43
+133,24_,44
+133,25_,46
+133,26_Chamran,43
+133,27_Nourozian School,51
+133,28_Nourozian School Building,51
+133,29_,65
+133,30_,65
+133,31_,59
+133,32_Shahed School,53
+133,33_Martyr Babayi elites Highschool,52
+133,34_,46
+133,35_Jaberebn e Hayyan,43
+133,36_Nejatiye,53
+133,37_,57
+133,38_,59
+133,39_Daneshmand High School,44
+133,40_Amin Rambood,52
+133,41_,41
+133,42_,30
+133,43_Reshadat,37
+133,44_,47
+133,45_,46
+133,46_,50
+133,47_,48
+133,48_,57
+133,49_Sadra,50
+133,50_,25
+133,51_Tarbiat,30
+133,52_,27
+133,53_Exceptional Children School,29
+133,54_Shahidi,55
+133,55_Ayande Sazan Novin,46
+133,56_Erfan High School,43
+133,57_Dehkhoda And Farabi High school,44
+133,58_,45
+133,59_Shirodi and Haj Seyed Fazlollah Ghavam,58
+133,60_Sheykh e Toosi and Kalini,58
+133,61_,61
+133,62_Abdollahi School,43
+133,63_Sa'adat School,43
+133,64_Valiasr,53
+133,65_Aghmashe High School,52
+133,66_,45
+133,67_,30
+133,68_,29
+133,69_Hemmat School,45
+133,70_,58
+133,71_,39
+133,72_,25
+133,73_,18
+133,74_,30
+133,75_,29
+133,76_,29
+133,77_,19
+133,78_,18
+133,79_Allame Jafari High school,25
+133,80_,61
+133,81_,51
+133,82_,57
+134,01_Mohammad Taghi Nourozi,42
+134,02_,24
+134,03_Qods Highschool,45
+134,04_استعدادهای درخشان شهیدان شالباف,33
+134,05_Sepide Kashani,36
+134,06_Bokharaei High School,36
+134,07_Tohid school,50
+134,08_Pasargad High Scored,43
+134,09_Farzanegan Sampad (NODET) High school,53
+134,10_,7
+134,11_,42
+134,12_Pasdaran highschool,49
+134,13_,35
+134,14_,40
+134,15_,50
+134,16_,59
+134,17_,56
+134,18_,48
+134,19_Erfan,44
+134,20_Khatamol anbia Technical School,55
+134,21_Enghelab-e-Eslami Technical school,57
+134,22_Shahed,40
+134,23_Shahed,39
+134,24_,44
+134,25_,41
+134,26_Chamran,37
+134,27_Nourozian School,46
+134,28_Nourozian School Building,46
+134,29_,59
+134,30_,59
+134,31_,53
+134,32_Shahed School,56
+134,33_Martyr Babayi elites Highschool,52
+134,34_,41
+134,35_Jaberebn e Hayyan,44
+134,36_Nejatiye,60
+134,37_,53
+134,38_,54
+134,39_Daneshmand High School,58
+134,40_Amin Rambood,47
+134,41_,35
+134,42_,30
+134,43_Reshadat,38
+134,44_,43
+134,45_,41
+134,46_,58
+134,47_,56
+134,48_,51
+134,49_Sadra,45
+134,50_,24
+134,51_Tarbiat,27
+134,52_,16
+134,53_Exceptional Children School,18
+134,54_Shahidi,50
+134,55_Ayande Sazan Novin,61
+134,56_Erfan High School,44
+134,57_Dehkhoda And Farabi High school,39
+134,58_,40
+134,59_Shirodi and Haj Seyed Fazlollah Ghavam,53
+134,60_Sheykh e Toosi and Kalini,53
+134,61_,56
+134,62_Abdollahi School,45
+134,63_Sa'adat School,45
+134,64_Valiasr,47
+134,65_Aghmashe High School,45
+134,66_,41
+134,67_,29
+134,68_,28
+134,69_Hemmat School,41
+134,70_,52
+134,71_,43
+134,72_,25
+134,73_,11
+134,74_,28
+134,75_,27
+134,76_,26
+134,77_,12
+134,78_,13
+134,79_Allame Jafari High school,23
+134,80_,60
+134,81_,44
+134,82_,53
+135,01_Mohammad Taghi Nourozi,43
+135,02_,37
+135,03_Qods Highschool,46
+135,04_استعدادهای درخشان شهیدان شالباف,41
+135,05_Sepide Kashani,39
+135,06_Bokharaei High School,39
+135,07_Tohid school,51
+135,08_Pasargad High Scored,44
+135,09_Farzanegan Sampad (NODET) High school,57
+135,10_,28
+135,11_,43
+135,12_Pasdaran highschool,52
+135,13_,43
+135,14_,41
+135,15_,53
+135,16_,60
+135,17_,57
+135,18_,49
+135,19_Erfan,46
+135,20_Khatamol anbia Technical School,56
+135,21_Enghelab-e-Eslami Technical school,58
+135,22_Shahed,41
+135,23_Shahed,40
+135,24_,46
+135,25_,44
+135,26_Chamran,40
+135,27_Nourozian School,48
+135,28_Nourozian School Building,48
+135,29_,61
+135,30_,62
+135,31_,54
+135,32_Shahed School,57
+135,33_Martyr Babayi elites Highschool,53
+135,34_,44
+135,35_Jaberebn e Hayyan,50
+135,36_Nejatiye,63
+135,37_,56
+135,38_,56
+135,39_Daneshmand High School,64
+135,40_Amin Rambood,50
+135,41_,38
+135,42_,32
+135,43_Reshadat,39
+135,44_,46
+135,45_,44
+135,46_,61
+135,47_,59
+135,48_,52
+135,49_Sadra,47
+135,50_,22
+135,51_Tarbiat,30
+135,52_,18
+135,53_Exceptional Children School,18
+135,54_Shahidi,53
+135,55_Ayande Sazan Novin,71
+135,56_Erfan High School,46
+135,57_Dehkhoda And Farabi High school,42
+135,58_,43
+135,59_Shirodi and Haj Seyed Fazlollah Ghavam,56
+135,60_Sheykh e Toosi and Kalini,56
+135,61_,59
+135,62_Abdollahi School,51
+135,63_Sa'adat School,51
+135,64_Valiasr,48
+135,65_Aghmashe High School,46
+135,66_,44
+135,67_,32
+135,68_,31
+135,69_Hemmat School,44
+135,70_,53
+135,71_,48
+135,72_,22
+135,73_,22
+135,74_,31
+135,75_,30
+135,76_,29
+135,77_,23
+135,78_,23
+135,79_Allame Jafari High school,13
+135,80_,61
+135,81_,45
+135,82_,56
+157,01_Mohammad Taghi Nourozi,26
+157,02_,44
+157,03_Qods Highschool,33
+157,04_استعدادهای درخشان شهیدان شالباف,50
+157,05_Sepide Kashani,36
+157,06_Bokharaei High School,34
+157,07_Tohid school,33
+157,08_Pasargad High Scored,29
+157,09_Farzanegan Sampad (NODET) High school,21
+157,10_,39
+157,11_,27
+157,12_Pasdaran highschool,36
+157,13_,48
+157,14_,28
+157,15_,46
+157,16_,22
+157,17_,11
+157,18_,4
+157,19_Erfan,11
+157,20_Khatamol anbia Technical School,18
+157,21_Enghelab-e-Eslami Technical school,19
+157,22_Shahed,16
+157,23_Shahed,16
+157,24_,12
+157,25_,27
+157,26_Chamran,34
+157,27_Nourozian School,29
+157,28_Nourozian School Building,29
+157,29_,45
+157,30_,46
+157,31_,36
+157,32_Shahed School,20
+157,33_Martyr Babayi elites Highschool,20
+157,34_,27
+157,35_Jaberebn e Hayyan,35
+157,36_Nejatiye,30
+157,37_,31
+157,38_,36
+157,39_Daneshmand High School,39
+157,40_Amin Rambood,36
+157,41_,38
+157,42_,29
+157,43_Reshadat,24
+157,44_,31
+157,45_,31
+157,46_,28
+157,47_,26
+157,48_,37
+157,49_Sadra,28
+157,50_,51
+157,51_Tarbiat,44
+157,52_,49
+157,53_Exceptional Children School,51
+157,54_Shahidi,35
+157,55_Ayande Sazan Novin,41
+157,56_Erfan High School,19
+157,57_Dehkhoda And Farabi High school,37
+157,58_,37
+157,59_Shirodi and Haj Seyed Fazlollah Ghavam,35
+157,60_Sheykh e Toosi and Kalini,35
+157,61_,42
+157,62_Abdollahi School,34
+157,63_Sa'adat School,35
+157,64_Valiasr,33
+157,65_Aghmashe High School,33
+157,66_,34
+157,67_,31
+157,68_,30
+157,69_Hemmat School,34
+157,70_,38
+157,71_,39
+157,72_,52
+157,73_,45
+157,74_,45
+157,75_,42
+157,76_,43
+157,77_,46
+157,78_,47
+157,79_Allame Jafari High school,54
+157,80_,8
+157,81_,32
+157,82_,31
+158,01_Mohammad Taghi Nourozi,33
+158,02_,30
+158,03_Qods Highschool,36
+158,04_استعدادهای درخشان شهیدان شالباف,24
+158,05_Sepide Kashani,33
+158,06_Bokharaei High School,22
+158,07_Tohid school,45
+158,08_Pasargad High Scored,33
+158,09_Farzanegan Sampad (NODET) High school,32
+158,10_,32
+158,11_,33
+158,12_Pasdaran highschool,41
+158,13_,22
+158,14_,31
+158,15_,53
+158,16_,38
+158,17_,39
+158,18_,35
+158,19_Erfan,27
+158,20_Khatamol anbia Technical School,35
+158,21_Enghelab-e-Eslami Technical school,37
+158,22_Shahed,27
+158,23_Shahed,30
+158,24_,27
+158,25_,31
+158,26_Chamran,39
+158,27_Nourozian School,36
+158,28_Nourozian School Building,36
+158,29_,48
+158,30_,49
+158,31_,44
+158,32_Shahed School,34
+158,33_Martyr Babayi elites Highschool,30
+158,34_,31
+158,35_Jaberebn e Hayyan,22
+158,36_Nejatiye,32
+158,37_,41
+158,38_,43
+158,39_Daneshmand High School,29
+158,40_Amin Rambood,43
+158,41_,43
+158,42_,27
+158,43_Reshadat,23
+158,44_,36
+158,45_,36
+158,46_,26
+158,47_,24
+158,48_,39
+158,49_Sadra,36
+158,50_,38
+158,51_Tarbiat,40
+158,52_,44
+158,53_Exceptional Children School,46
+158,54_Shahidi,38
+158,55_Ayande Sazan Novin,31
+158,56_Erfan High School,25
+158,57_Dehkhoda And Farabi High school,45
+158,58_,44
+158,59_Shirodi and Haj Seyed Fazlollah Ghavam,44
+158,60_Sheykh e Toosi and Kalini,44
+158,61_,44
+158,62_Abdollahi School,20
+158,63_Sa'adat School,20
+158,64_Valiasr,36
+158,65_Aghmashe High School,36
+158,66_,34
+158,67_,32
+158,68_,31
+158,69_Hemmat School,35
+158,70_,40
+158,71_,9
+158,72_,39
+158,73_,39
+158,74_,41
+158,75_,40
+158,76_,39
+158,77_,40
+158,78_,40
+158,79_Allame Jafari High school,38
+158,80_,43
+158,81_,35
+158,82_,41
+160,01_Mohammad Taghi Nourozi,35
+160,02_,34
+160,03_Qods Highschool,38
+160,04_استعدادهای درخشان شهیدان شالباف,35
+160,05_Sepide Kashani,33
+160,06_Bokharaei High School,14
+160,07_Tohid school,45
+160,08_Pasargad High Scored,35
+160,09_Farzanegan Sampad (NODET) High school,26
+160,10_,32
+160,11_,35
+160,12_Pasdaran highschool,39
+160,13_,33
+160,14_,33
+160,15_,51
+160,16_,35
+160,17_,35
+160,18_,35
+160,19_Erfan,27
+160,20_Khatamol anbia Technical School,30
+160,21_Enghelab-e-Eslami Technical school,32
+160,22_Shahed,27
+160,23_Shahed,30
+160,24_,27
+160,25_,31
+160,26_Chamran,37
+160,27_Nourozian School,36
+160,28_Nourozian School Building,36
+160,29_,50
+160,30_,50
+160,31_,46
+160,32_Shahed School,28
+160,33_Martyr Babayi elites Highschool,24
+160,34_,31
+160,35_Jaberebn e Hayyan,25
+160,36_Nejatiye,44
+160,37_,39
+160,38_,43
+160,39_Daneshmand High School,41
+160,40_Amin Rambood,41
+160,41_,41
+160,42_,23
+160,43_Reshadat,20
+160,44_,34
+160,45_,34
+160,46_,41
+160,47_,39
+160,48_,41
+160,49_Sadra,36
+160,50_,42
+160,51_Tarbiat,37
+160,52_,38
+160,53_Exceptional Children School,40
+160,54_Shahidi,38
+160,55_Ayande Sazan Novin,43
+160,56_Erfan High School,20
+160,57_Dehkhoda And Farabi High school,43
+160,58_,42
+160,59_Shirodi and Haj Seyed Fazlollah Ghavam,44
+160,60_Sheykh e Toosi and Kalini,44
+160,61_,44
+160,62_Abdollahi School,27
+160,63_Sa'adat School,27
+160,64_Valiasr,38
+160,65_Aghmashe High School,38
+160,66_,33
+160,67_,29
+160,68_,30
+160,69_Hemmat School,33
+160,70_,42
+160,71_,25
+160,72_,43
+160,73_,34
+160,74_,38
+160,75_,37
+160,76_,36
+160,77_,35
+160,78_,36
+160,79_Allame Jafari High school,43
+160,80_,39
+160,81_,37
+160,82_,39

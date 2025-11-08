@@ -1,0 +1,2796 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_817c31e9e4e365adbb54f66642ddd291 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_817c31e9e4e365adbb54f66642ddd291" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_817c31e9e4e365adbb54f66642ddd291 = L.map(
+                "map_817c31e9e4e365adbb54f66642ddd291",
+                {
+                    center: [36.27602062439316, 50.00896332894053],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_c2161fc7b898fe9a8e9db13245a8a684 = L.tileLayer(
+                "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "Data by \u0026copy; \u003ca target=\"_blank\" href=\"http://openstreetmap.org\"\u003eOpenStreetMap\u003c/a\u003e, under \u003ca target=\"_blank\" href=\"http://www.openstreetmap.org/copyright\"\u003eODbL\u003c/a\u003e.", "detectRetina": false, "maxNativeZoom": 18, "maxZoom": 18, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var marker_ca5f1c2a05718b27bf5817ce18251c35 = L.marker(
+                [36.2559632, 50.0107014],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_efcd180b1e1f6f3090b8d20c6f46392f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_ca5f1c2a05718b27bf5817ce18251c35.setIcon(icon_efcd180b1e1f6f3090b8d20c6f46392f);
+        
+    
+        var popup_118fcdd3dc81af2a7c909ed977aacaca = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_396a482ad795928f4107051f052bf703 = $(`<div id="html_396a482ad795928f4107051f052bf703" style="width: 100.0%; height: 100.0%;">سجادیه<br>Sajadiye Mosque<br>POINT (50.0107014 36.2559632)</div>`)[0];
+                popup_118fcdd3dc81af2a7c909ed977aacaca.setContent(html_396a482ad795928f4107051f052bf703);
+            
+        
+
+        marker_ca5f1c2a05718b27bf5817ce18251c35.bindPopup(popup_118fcdd3dc81af2a7c909ed977aacaca)
+        ;
+
+        
+    
+    
+            var marker_9aaf39661c12f935311d1652163c2c29 = L.marker(
+                [36.2730441, 49.9989704],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_1011970434e3bce5e3fcbaa7efb6e6a7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_9aaf39661c12f935311d1652163c2c29.setIcon(icon_1011970434e3bce5e3fcbaa7efb6e6a7);
+        
+    
+        var popup_6cecbce42d5d2d6152b5bc03c3d9c711 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8552f85e2b69951ec9a96700b58df5a8 = $(`<div id="html_8552f85e2b69951ec9a96700b58df5a8" style="width: 100.0%; height: 100.0%;">حلیمه و رمیمه خاتون<br>Halime khatun<br>POINT (49.9989704 36.2730441)</div>`)[0];
+                popup_6cecbce42d5d2d6152b5bc03c3d9c711.setContent(html_8552f85e2b69951ec9a96700b58df5a8);
+            
+        
+
+        marker_9aaf39661c12f935311d1652163c2c29.bindPopup(popup_6cecbce42d5d2d6152b5bc03c3d9c711)
+        ;
+
+        
+    
+    
+            var marker_3585be6deda6fe68db2a7f590b728c86 = L.marker(
+                [36.2723514, 50.001296],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_0d27867a4c2f2ec77b02d31e09bac6ee = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_3585be6deda6fe68db2a7f590b728c86.setIcon(icon_0d27867a4c2f2ec77b02d31e09bac6ee);
+        
+    
+        var popup_0219fe1bfdb969e688b22950993ffe78 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_218cfb10f18249d67d8e577ec7bc95a1 = $(`<div id="html_218cfb10f18249d67d8e577ec7bc95a1" style="width: 100.0%; height: 100.0%;">مسجد حضرت فاطمه زهرا<br>Masjed Hazrate Fateme Zahra<br>POINT (50.001296 36.2723514)</div>`)[0];
+                popup_0219fe1bfdb969e688b22950993ffe78.setContent(html_218cfb10f18249d67d8e577ec7bc95a1);
+            
+        
+
+        marker_3585be6deda6fe68db2a7f590b728c86.bindPopup(popup_0219fe1bfdb969e688b22950993ffe78)
+        ;
+
+        
+    
+    
+            var marker_7fb8b2fdc4191c1fdf6413c74a4e8b7b = L.marker(
+                [36.2715494, 50.0023421],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_ebac50740c17833c83bfe065570a81d3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_7fb8b2fdc4191c1fdf6413c74a4e8b7b.setIcon(icon_ebac50740c17833c83bfe065570a81d3);
+        
+    
+        var popup_c7a5a5086b4a7ebee5bdf9957f94613d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_daab0578e1ff98535bd246a4e9cdfdb8 = $(`<div id="html_daab0578e1ff98535bd246a4e9cdfdb8" style="width: 100.0%; height: 100.0%;">ملاباشی<br>Molabashi<br>POINT (50.0023421 36.2715494)</div>`)[0];
+                popup_c7a5a5086b4a7ebee5bdf9957f94613d.setContent(html_daab0578e1ff98535bd246a4e9cdfdb8);
+            
+        
+
+        marker_7fb8b2fdc4191c1fdf6413c74a4e8b7b.bindPopup(popup_c7a5a5086b4a7ebee5bdf9957f94613d)
+        ;
+
+        
+    
+    
+            var marker_7dd761fa039550f2dfeeea1a775551ed = L.marker(
+                [36.2738423, 50.0000118],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_f6551fbf894360c8d4ac52593688457c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_7dd761fa039550f2dfeeea1a775551ed.setIcon(icon_f6551fbf894360c8d4ac52593688457c);
+        
+    
+        var popup_e1d69af5ac902a87899dacf4db4c18a6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3ae0564e8e194c1a1932141675143d52 = $(`<div id="html_3ae0564e8e194c1a1932141675143d52" style="width: 100.0%; height: 100.0%;">حسینیه رضوی<br>Hoseynie Razavi<br>POINT (50.0000118 36.2738423)</div>`)[0];
+                popup_e1d69af5ac902a87899dacf4db4c18a6.setContent(html_3ae0564e8e194c1a1932141675143d52);
+            
+        
+
+        marker_7dd761fa039550f2dfeeea1a775551ed.bindPopup(popup_e1d69af5ac902a87899dacf4db4c18a6)
+        ;
+
+        
+    
+    
+            var marker_50363e2b364dcfd1f8de119cf01b5863 = L.marker(
+                [36.2735336, 50.0037011],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_998f362ecf585a6f8e9f68946a156853 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_50363e2b364dcfd1f8de119cf01b5863.setIcon(icon_998f362ecf585a6f8e9f68946a156853);
+        
+    
+        var popup_7123570ac48318de5d4d6655c33bd9ce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a8041eb0bd76e44c4d02dd5c757a2568 = $(`<div id="html_a8041eb0bd76e44c4d02dd5c757a2568" style="width: 100.0%; height: 100.0%;">سوخته چنار<br>Soukhte chenar Mosque<br>POINT (50.0037011 36.2735336)</div>`)[0];
+                popup_7123570ac48318de5d4d6655c33bd9ce.setContent(html_a8041eb0bd76e44c4d02dd5c757a2568);
+            
+        
+
+        marker_50363e2b364dcfd1f8de119cf01b5863.bindPopup(popup_7123570ac48318de5d4d6655c33bd9ce)
+        ;
+
+        
+    
+    
+            var marker_4138794f03090f6885ba9adb2fe3ab80 = L.marker(
+                [36.2739138, 50.0032387],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_aaa6dd9f63a6610674399c06d88bbd81 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4138794f03090f6885ba9adb2fe3ab80.setIcon(icon_aaa6dd9f63a6610674399c06d88bbd81);
+        
+    
+        var popup_6337a9fed50d9d32945dc4b8d6e7a1b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8b7bd8c004a97795d06f6760d2fd57bf = $(`<div id="html_8b7bd8c004a97795d06f6760d2fd57bf" style="width: 100.0%; height: 100.0%;">مسجد ستوده<br>Sotudeh Mosque<br>POINT (50.0032387 36.2739138)</div>`)[0];
+                popup_6337a9fed50d9d32945dc4b8d6e7a1b0.setContent(html_8b7bd8c004a97795d06f6760d2fd57bf);
+            
+        
+
+        marker_4138794f03090f6885ba9adb2fe3ab80.bindPopup(popup_6337a9fed50d9d32945dc4b8d6e7a1b0)
+        ;
+
+        
+    
+    
+            var marker_7ed52027142df4c3a742aea12b9bc8dd = L.marker(
+                [36.2702232, 49.9985316],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_0a7a37579069b2e27d044b6a8f9008ba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_7ed52027142df4c3a742aea12b9bc8dd.setIcon(icon_0a7a37579069b2e27d044b6a8f9008ba);
+        
+    
+        var popup_77adc8a34788720a18aaabaa44c3cee1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e5db204d0f256a8ef2abc437fa78ca80 = $(`<div id="html_e5db204d0f256a8ef2abc437fa78ca80" style="width: 100.0%; height: 100.0%;">آقا سید علی<br>Agha seyed Ali Mosque<br>POINT (49.9985316 36.2702232)</div>`)[0];
+                popup_77adc8a34788720a18aaabaa44c3cee1.setContent(html_e5db204d0f256a8ef2abc437fa78ca80);
+            
+        
+
+        marker_7ed52027142df4c3a742aea12b9bc8dd.bindPopup(popup_77adc8a34788720a18aaabaa44c3cee1)
+        ;
+
+        
+    
+    
+            var marker_c1804b7eca7bdd3d8fac355bd575f8fd = L.marker(
+                [36.2747812, 49.9985248],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_1e6ea2bbb3217ff19216c6cee18d9ece = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_c1804b7eca7bdd3d8fac355bd575f8fd.setIcon(icon_1e6ea2bbb3217ff19216c6cee18d9ece);
+        
+    
+        var popup_5f9c0fcda1d3c5d99d274a8ecabb7b6a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_11533b9dc8ba548d7e6344d401cd8867 = $(`<div id="html_11533b9dc8ba548d7e6344d401cd8867" style="width: 100.0%; height: 100.0%;">مسجد شیشه گر<br>Shishegar Mosque<br>POINT (49.9985248 36.2747812)</div>`)[0];
+                popup_5f9c0fcda1d3c5d99d274a8ecabb7b6a.setContent(html_11533b9dc8ba548d7e6344d401cd8867);
+            
+        
+
+        marker_c1804b7eca7bdd3d8fac355bd575f8fd.bindPopup(popup_5f9c0fcda1d3c5d99d274a8ecabb7b6a)
+        ;
+
+        
+    
+    
+            var marker_1b3c148f7700fd4b49afa2e83c14c6ef = L.marker(
+                [36.2626942, 50.0107462],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_43cf5c29734eb84d06b6812a82590ab1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_1b3c148f7700fd4b49afa2e83c14c6ef.setIcon(icon_43cf5c29734eb84d06b6812a82590ab1);
+        
+    
+        var popup_fd5cbada3a9fe623a11257b43ce8cbb4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_05a62f6305f3596174732b12ea07448f = $(`<div id="html_05a62f6305f3596174732b12ea07448f" style="width: 100.0%; height: 100.0%;">امامزاده علی<br>Emamzadeh Ali<br>POINT (50.0107462 36.2626942)</div>`)[0];
+                popup_fd5cbada3a9fe623a11257b43ce8cbb4.setContent(html_05a62f6305f3596174732b12ea07448f);
+            
+        
+
+        marker_1b3c148f7700fd4b49afa2e83c14c6ef.bindPopup(popup_fd5cbada3a9fe623a11257b43ce8cbb4)
+        ;
+
+        
+    
+    
+            var marker_44a23395e57f81c439fc435b44985778 = L.marker(
+                [36.3109377, 50.0314173],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3cf6f9dd5577be50d6598c9049d5685f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_44a23395e57f81c439fc435b44985778.setIcon(icon_3cf6f9dd5577be50d6598c9049d5685f);
+        
+    
+        var popup_506b4aee713aae610d4e4703c43088ef = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8a8cd69676174a354d9fac098c1e0a1d = $(`<div id="html_8a8cd69676174a354d9fac098c1e0a1d" style="width: 100.0%; height: 100.0%;">مسجد فاطمه الزهرای پونک<br>Fatemeh AlZahra Mosque<br>POINT (50.0314173 36.3109377)</div>`)[0];
+                popup_506b4aee713aae610d4e4703c43088ef.setContent(html_8a8cd69676174a354d9fac098c1e0a1d);
+            
+        
+
+        marker_44a23395e57f81c439fc435b44985778.bindPopup(popup_506b4aee713aae610d4e4703c43088ef)
+        ;
+
+        
+    
+    
+            var marker_8ec3af748f1a8b0b12aeff51444f2c84 = L.marker(
+                [36.2713907, 49.9972016],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_abfe29238c429b6b6461f8380f963965 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_8ec3af748f1a8b0b12aeff51444f2c84.setIcon(icon_abfe29238c429b6b6461f8380f963965);
+        
+    
+        var popup_0bcb91e7a8adb3468d1eaf64e07bccbc = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed187d5cf6bd07415efbabbcbe5a3fc0 = $(`<div id="html_ed187d5cf6bd07415efbabbcbe5a3fc0" style="width: 100.0%; height: 100.0%;">حاج موسی<br>Haj Mousa<br>POINT (49.9972016 36.2713907)</div>`)[0];
+                popup_0bcb91e7a8adb3468d1eaf64e07bccbc.setContent(html_ed187d5cf6bd07415efbabbcbe5a3fc0);
+            
+        
+
+        marker_8ec3af748f1a8b0b12aeff51444f2c84.bindPopup(popup_0bcb91e7a8adb3468d1eaf64e07bccbc)
+        ;
+
+        
+    
+    
+            var marker_98e559ddc68999cfb098fa25636c565c = L.marker(
+                [36.2764346, 49.9993889],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_c3218a52cd1f133f9d683ce563a056ba = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_98e559ddc68999cfb098fa25636c565c.setIcon(icon_c3218a52cd1f133f9d683ce563a056ba);
+        
+    
+        var popup_35f4c3f4bb9e2a2c01a6cfa16d2e16b0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_5cd6ef64c6e066b6abbbbcc3943aa9e3 = $(`<div id="html_5cd6ef64c6e066b6abbbbcc3943aa9e3" style="width: 100.0%; height: 100.0%;">مسجد حاج کاظم<br>Haj Kazem Mosque<br>POINT (49.9993889 36.2764346)</div>`)[0];
+                popup_35f4c3f4bb9e2a2c01a6cfa16d2e16b0.setContent(html_5cd6ef64c6e066b6abbbbcc3943aa9e3);
+            
+        
+
+        marker_98e559ddc68999cfb098fa25636c565c.bindPopup(popup_35f4c3f4bb9e2a2c01a6cfa16d2e16b0)
+        ;
+
+        
+    
+    
+            var marker_ea003d36d06730208280176997625336 = L.marker(
+                [36.3091663, 50.0033259],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_ba1fc338695bd2ae9a19be71de671878 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_ea003d36d06730208280176997625336.setIcon(icon_ba1fc338695bd2ae9a19be71de671878);
+        
+    
+        var popup_64610f530abf0f2e8f754c3e7eaddf2e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_715a9ac06a9aa9893641d3c4ae272c83 = $(`<div id="html_715a9ac06a9aa9893641d3c4ae272c83" style="width: 100.0%; height: 100.0%;">مسجد امام حسن عسگری (ع)<br>Imamا Hasan Asgari Mosque<br>POINT (50.0033259 36.3091663)</div>`)[0];
+                popup_64610f530abf0f2e8f754c3e7eaddf2e.setContent(html_715a9ac06a9aa9893641d3c4ae272c83);
+            
+        
+
+        marker_ea003d36d06730208280176997625336.bindPopup(popup_64610f530abf0f2e8f754c3e7eaddf2e)
+        ;
+
+        
+    
+    
+            var marker_d80bb511a1973b72ceb514ca04f7343f = L.marker(
+                [36.2648372, 50.0023529],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_18f3c411329f6a5c8f549304cb342584 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_d80bb511a1973b72ceb514ca04f7343f.setIcon(icon_18f3c411329f6a5c8f549304cb342584);
+        
+    
+        var popup_2b2d9b0a8636982d31f8b8299f107504 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1bb692652a02af938412a18257fae1bd = $(`<div id="html_1bb692652a02af938412a18257fae1bd" style="width: 100.0%; height: 100.0%;">امامزاده اسماعیل<br>Emamzadeh Esmaeil<br>POINT (50.0023529 36.2648372)</div>`)[0];
+                popup_2b2d9b0a8636982d31f8b8299f107504.setContent(html_1bb692652a02af938412a18257fae1bd);
+            
+        
+
+        marker_d80bb511a1973b72ceb514ca04f7343f.bindPopup(popup_2b2d9b0a8636982d31f8b8299f107504)
+        ;
+
+        
+    
+    
+            var marker_7cc9945abc0b8efb1aafed02dbdb8433 = L.marker(
+                [36.2802969, 50.0025879],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_464c9d5188a23f501356b617e37cdaa3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_7cc9945abc0b8efb1aafed02dbdb8433.setIcon(icon_464c9d5188a23f501356b617e37cdaa3);
+        
+    
+        var popup_1d3f5ad692ba5a93ee8cd0199567b557 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_387de165d48863d6e08b1c22beb6dad3 = $(`<div id="html_387de165d48863d6e08b1c22beb6dad3" style="width: 100.0%; height: 100.0%;">مسجد ثاراالله<br>Sar Allah Masque<br>POINT (50.0025879 36.2802969)</div>`)[0];
+                popup_1d3f5ad692ba5a93ee8cd0199567b557.setContent(html_387de165d48863d6e08b1c22beb6dad3);
+            
+        
+
+        marker_7cc9945abc0b8efb1aafed02dbdb8433.bindPopup(popup_1d3f5ad692ba5a93ee8cd0199567b557)
+        ;
+
+        
+    
+    
+            var marker_5241e5219e08254d41aad8acfebf83a4 = L.marker(
+                [36.2654177, 50.0100324],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_371a3132039d759d0a60babc2f698f90 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_5241e5219e08254d41aad8acfebf83a4.setIcon(icon_371a3132039d759d0a60babc2f698f90);
+        
+    
+        var popup_565280e789d5e105202ba95352bb4041 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3f86fcf173de8aa839cc9c87caac4379 = $(`<div id="html_3f86fcf173de8aa839cc9c87caac4379" style="width: 100.0%; height: 100.0%;">امامزاده آمنه خاتون<br>Ameneh Khatoon<br>POINT (50.0100324 36.2654177)</div>`)[0];
+                popup_565280e789d5e105202ba95352bb4041.setContent(html_3f86fcf173de8aa839cc9c87caac4379);
+            
+        
+
+        marker_5241e5219e08254d41aad8acfebf83a4.bindPopup(popup_565280e789d5e105202ba95352bb4041)
+        ;
+
+        
+    
+    
+            var marker_6cfedfbf28afbfb844befdcaac1d9479 = L.marker(
+                [36.2633958, 50.0060046],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_2cd22a355285015c11f451660d3d6b69 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_6cfedfbf28afbfb844befdcaac1d9479.setIcon(icon_2cd22a355285015c11f451660d3d6b69);
+        
+    
+        var popup_7fc34d58c9cf562b0c8b567aa5eb1044 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fdcb2b433b36179f4f80c55cd71c7956 = $(`<div id="html_fdcb2b433b36179f4f80c55cd71c7956" style="width: 100.0%; height: 100.0%;">مسجد محمدیه<br>Mohammadie Mosque<br>POINT (50.0060046 36.2633958)</div>`)[0];
+                popup_7fc34d58c9cf562b0c8b567aa5eb1044.setContent(html_fdcb2b433b36179f4f80c55cd71c7956);
+            
+        
+
+        marker_6cfedfbf28afbfb844befdcaac1d9479.bindPopup(popup_7fc34d58c9cf562b0c8b567aa5eb1044)
+        ;
+
+        
+    
+    
+            var marker_a0e4d9d8b086eff1ba84a5de66fdd363 = L.marker(
+                [36.2632542, 49.9952259],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_7804d9202e4b8025f836393dc4574102 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_a0e4d9d8b086eff1ba84a5de66fdd363.setIcon(icon_7804d9202e4b8025f836393dc4574102);
+        
+    
+        var popup_332947ee4e98ccf3f3bc7e2eb8cbf376 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_658e820618cdba369de285b1f47ba455 = $(`<div id="html_658e820618cdba369de285b1f47ba455" style="width: 100.0%; height: 100.0%;">مسجد سبز<br>Sabz Mosque<br>POINT (49.9952259 36.2632542)</div>`)[0];
+                popup_332947ee4e98ccf3f3bc7e2eb8cbf376.setContent(html_658e820618cdba369de285b1f47ba455);
+            
+        
+
+        marker_a0e4d9d8b086eff1ba84a5de66fdd363.bindPopup(popup_332947ee4e98ccf3f3bc7e2eb8cbf376)
+        ;
+
+        
+    
+    
+            var marker_e6f876fc6c5ca9d088ba0fa1976f87bc = L.marker(
+                [36.2782377, 49.9977193],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_6129902748dd2c1cedba9c5fc600e696 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_e6f876fc6c5ca9d088ba0fa1976f87bc.setIcon(icon_6129902748dd2c1cedba9c5fc600e696);
+        
+    
+        var popup_fe16043483e0e75f7a416c1964b9a439 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d52b8dae3566073bae5a290cef489a34 = $(`<div id="html_d52b8dae3566073bae5a290cef489a34" style="width: 100.0%; height: 100.0%;">Station ۴<br>nan<br>POINT (49.9977193 36.2782377)</div>`)[0];
+                popup_fe16043483e0e75f7a416c1964b9a439.setContent(html_d52b8dae3566073bae5a290cef489a34);
+            
+        
+
+        marker_e6f876fc6c5ca9d088ba0fa1976f87bc.bindPopup(popup_fe16043483e0e75f7a416c1964b9a439)
+        ;
+
+        
+    
+    
+            var marker_98f5703f56ef81fc6ff0609fc3a715fb = L.marker(
+                [36.2668964, 49.998247],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3a09f09b49139da4e0b270b00793a7ff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_98f5703f56ef81fc6ff0609fc3a715fb.setIcon(icon_3a09f09b49139da4e0b270b00793a7ff);
+        
+    
+        var popup_f11486d55566270042261899c046850d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_92c85e1b3ca22269ee1307894c6fdb30 = $(`<div id="html_92c85e1b3ca22269ee1307894c6fdb30" style="width: 100.0%; height: 100.0%;">Station ۲<br>nan<br>POINT (49.998247 36.2668964)</div>`)[0];
+                popup_f11486d55566270042261899c046850d.setContent(html_92c85e1b3ca22269ee1307894c6fdb30);
+            
+        
+
+        marker_98f5703f56ef81fc6ff0609fc3a715fb.bindPopup(popup_f11486d55566270042261899c046850d)
+        ;
+
+        
+    
+    
+            var marker_8dad2a5c3b4f2d37807549cc358ce720 = L.marker(
+                [36.3104879, 50.0129348],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_61c7d8f81cd998e44d65a7507cb8d152 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_8dad2a5c3b4f2d37807549cc358ce720.setIcon(icon_61c7d8f81cd998e44d65a7507cb8d152);
+        
+    
+        var popup_179e95992d1b0dc1e43f382278709bea = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2485553a4caf2e3f656e34b635e2c435 = $(`<div id="html_2485553a4caf2e3f656e34b635e2c435" style="width: 100.0%; height: 100.0%;">مسجد امام جعفر صادق<br>Imam Jafar Sadegh Mosque<br>POINT (50.0129348 36.3104879)</div>`)[0];
+                popup_179e95992d1b0dc1e43f382278709bea.setContent(html_2485553a4caf2e3f656e34b635e2c435);
+            
+        
+
+        marker_8dad2a5c3b4f2d37807549cc358ce720.bindPopup(popup_179e95992d1b0dc1e43f382278709bea)
+        ;
+
+        
+    
+    
+            var marker_4ba11e0b0e2989124eb6a84874b9261f = L.marker(
+                [36.3034303, 50.027772],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_d37e2d406dfdcde02279127ca3b760a3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4ba11e0b0e2989124eb6a84874b9261f.setIcon(icon_d37e2d406dfdcde02279127ca3b760a3);
+        
+    
+        var popup_a6c9121f38842e2c69e33fd4e08cca5e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3711f1872d705e9c8e494d2813ac2bc4 = $(`<div id="html_3711f1872d705e9c8e494d2813ac2bc4" style="width: 100.0%; height: 100.0%;">مسجد جواد الائمه<br>Javad Aemmeh Mosque<br>POINT (50.027772 36.3034303)</div>`)[0];
+                popup_a6c9121f38842e2c69e33fd4e08cca5e.setContent(html_3711f1872d705e9c8e494d2813ac2bc4);
+            
+        
+
+        marker_4ba11e0b0e2989124eb6a84874b9261f.bindPopup(popup_a6c9121f38842e2c69e33fd4e08cca5e)
+        ;
+
+        
+    
+    
+            var marker_7a3f2442a174cbe9e5d29ebc68f0dd4e = L.marker(
+                [36.2681785, 50.0123429],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_df83781549cb1514383f63358e0874a3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_7a3f2442a174cbe9e5d29ebc68f0dd4e.setIcon(icon_df83781549cb1514383f63358e0874a3);
+        
+    
+        var popup_a9bddedb09a728af22660f039e34dfef = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_681da54c33718bc745abbf71d531beb2 = $(`<div id="html_681da54c33718bc745abbf71d531beb2" style="width: 100.0%; height: 100.0%;">مسجد امام حسین<br>Imam Hossein Mosque<br>POINT (50.0123429 36.2681785)</div>`)[0];
+                popup_a9bddedb09a728af22660f039e34dfef.setContent(html_681da54c33718bc745abbf71d531beb2);
+            
+        
+
+        marker_7a3f2442a174cbe9e5d29ebc68f0dd4e.bindPopup(popup_a9bddedb09a728af22660f039e34dfef)
+        ;
+
+        
+    
+    
+            var marker_7f0f6fe5cd32f252737afb58ad03f0b6 = L.marker(
+                [36.2723402, 50.022794],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_aebe0acae83d9c66bac439738f3444d7 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_7f0f6fe5cd32f252737afb58ad03f0b6.setIcon(icon_aebe0acae83d9c66bac439738f3444d7);
+        
+    
+        var popup_2052599f0bddef4a21d1ff6f126c225d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3d3752ab656b6c0db1719afa2b2da084 = $(`<div id="html_3d3752ab656b6c0db1719afa2b2da084" style="width: 100.0%; height: 100.0%;">مسجد ابوالفضل<br>Abolfazl Mosque<br>POINT (50.022794 36.2723402)</div>`)[0];
+                popup_2052599f0bddef4a21d1ff6f126c225d.setContent(html_3d3752ab656b6c0db1719afa2b2da084);
+            
+        
+
+        marker_7f0f6fe5cd32f252737afb58ad03f0b6.bindPopup(popup_2052599f0bddef4a21d1ff6f126c225d)
+        ;
+
+        
+    
+    
+            var marker_bf80525e93e78b57ed8702b86d2147c5 = L.marker(
+                [36.2789456, 50.020388],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_a5f3b3f0847da84bc3d0a3ea9f5d12bb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_bf80525e93e78b57ed8702b86d2147c5.setIcon(icon_a5f3b3f0847da84bc3d0a3ea9f5d12bb);
+        
+    
+        var popup_693a1dde92691631e20a6652cf9dae6e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_7cd9707139680f89eb7948266f96c94f = $(`<div id="html_7cd9707139680f89eb7948266f96c94f" style="width: 100.0%; height: 100.0%;">مکتب الزهرا<br>Maktab Zehra<br>POINT (50.020388 36.2789456)</div>`)[0];
+                popup_693a1dde92691631e20a6652cf9dae6e.setContent(html_7cd9707139680f89eb7948266f96c94f);
+            
+        
+
+        marker_bf80525e93e78b57ed8702b86d2147c5.bindPopup(popup_693a1dde92691631e20a6652cf9dae6e)
+        ;
+
+        
+    
+    
+            var marker_1eaf811b60f82e92d7f8f9fe0ba853a2 = L.marker(
+                [36.2772944, 49.9975522],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_055482e4422393a8b83cbf4fd78bf0c0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_1eaf811b60f82e92d7f8f9fe0ba853a2.setIcon(icon_055482e4422393a8b83cbf4fd78bf0c0);
+        
+    
+        var popup_30cc978c4e45fba8813367538d526808 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_65573856c445e557d06c181481c084cc = $(`<div id="html_65573856c445e557d06c181481c084cc" style="width: 100.0%; height: 100.0%;">مسجد احمد بیک<br>Ahmad Beik Mosque<br>POINT (49.9975522 36.2772944)</div>`)[0];
+                popup_30cc978c4e45fba8813367538d526808.setContent(html_65573856c445e557d06c181481c084cc);
+            
+        
+
+        marker_1eaf811b60f82e92d7f8f9fe0ba853a2.bindPopup(popup_30cc978c4e45fba8813367538d526808)
+        ;
+
+        
+    
+    
+            var marker_2a2f8f69f605395f87197113117d62eb = L.marker(
+                [36.2718099, 50.0082796],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_bfe1d21258442579caef7aa98c7a1e55 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_2a2f8f69f605395f87197113117d62eb.setIcon(icon_bfe1d21258442579caef7aa98c7a1e55);
+        
+    
+        var popup_ab0f254511deea41572f27b3974afbba = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9bd734e3b269551bd2251280b540660d = $(`<div id="html_9bd734e3b269551bd2251280b540660d" style="width: 100.0%; height: 100.0%;">مسجد المهدی<br>Almahdi Mosque<br>POINT (50.0082796 36.2718099)</div>`)[0];
+                popup_ab0f254511deea41572f27b3974afbba.setContent(html_9bd734e3b269551bd2251280b540660d);
+            
+        
+
+        marker_2a2f8f69f605395f87197113117d62eb.bindPopup(popup_ab0f254511deea41572f27b3974afbba)
+        ;
+
+        
+    
+    
+            var marker_5286de571a2c2bbaeefb9c5af17b69c3 = L.marker(
+                [36.2997626, 49.9917254],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_78e86555ddee455fd5e3ac12fec9d9e2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_5286de571a2c2bbaeefb9c5af17b69c3.setIcon(icon_78e86555ddee455fd5e3ac12fec9d9e2);
+        
+    
+        var popup_34a2cfbb7fe6db7479c8c76509bba0b3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_311cb610e158c05dcb0b3f201d6115b1 = $(`<div id="html_311cb610e158c05dcb0b3f201d6115b1" style="width: 100.0%; height: 100.0%;">مسجد فاطمه زهرا<br>Fateme Zahra Mosque<br>POINT (49.9917254 36.2997626)</div>`)[0];
+                popup_34a2cfbb7fe6db7479c8c76509bba0b3.setContent(html_311cb610e158c05dcb0b3f201d6115b1);
+            
+        
+
+        marker_5286de571a2c2bbaeefb9c5af17b69c3.bindPopup(popup_34a2cfbb7fe6db7479c8c76509bba0b3)
+        ;
+
+        
+    
+    
+            var marker_64c1d48a96d85e642b8af63be66eba9a = L.marker(
+                [36.2590818, 50.0098543],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_f9593d28dfd60b205cd3513d0bb99ce2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_64c1d48a96d85e642b8af63be66eba9a.setIcon(icon_f9593d28dfd60b205cd3513d0bb99ce2);
+        
+    
+        var popup_f95c3f14838444696cae28f072791674 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_51038b09e100eee49f3b4c0d9e45ba52 = $(`<div id="html_51038b09e100eee49f3b4c0d9e45ba52" style="width: 100.0%; height: 100.0%;">مسجد راه چمان<br>Rah Chaman Mosque<br>POINT (50.0098543 36.2590818)</div>`)[0];
+                popup_f95c3f14838444696cae28f072791674.setContent(html_51038b09e100eee49f3b4c0d9e45ba52);
+            
+        
+
+        marker_64c1d48a96d85e642b8af63be66eba9a.bindPopup(popup_f95c3f14838444696cae28f072791674)
+        ;
+
+        
+    
+    
+            var marker_11cc0c9b824a22ade7f6c689efbe50be = L.marker(
+                [36.2650547, 50.0002068],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_b4faa456a4991b22776be6658b88788f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_11cc0c9b824a22ade7f6c689efbe50be.setIcon(icon_b4faa456a4991b22776be6658b88788f);
+        
+    
+        var popup_cda8a821aaf280cfc530e983c5391d44 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bfeb20121f1ae64f0150e4adf015cd9a = $(`<div id="html_bfeb20121f1ae64f0150e4adf015cd9a" style="width: 100.0%; height: 100.0%;">مسجد هفت درب<br>Haft Dar Mosque<br>POINT (50.0002068 36.2650547)</div>`)[0];
+                popup_cda8a821aaf280cfc530e983c5391d44.setContent(html_bfeb20121f1ae64f0150e4adf015cd9a);
+            
+        
+
+        marker_11cc0c9b824a22ade7f6c689efbe50be.bindPopup(popup_cda8a821aaf280cfc530e983c5391d44)
+        ;
+
+        
+    
+    
+            var marker_dce9ee5f653d8f84e3642abd270faf12 = L.marker(
+                [36.2740592, 50.0178633],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_e9eb8e50d44a035afcb4ac5b96a932fe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_dce9ee5f653d8f84e3642abd270faf12.setIcon(icon_e9eb8e50d44a035afcb4ac5b96a932fe);
+        
+    
+        var popup_0d8bfa7a1285666af4d9c82714e9a9ae = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e384037dfd664a83d3b9e9e01f5a604c = $(`<div id="html_e384037dfd664a83d3b9e9e01f5a604c" style="width: 100.0%; height: 100.0%;">مسجد<br>Mosque<br>POINT (50.0178633 36.2740592)</div>`)[0];
+                popup_0d8bfa7a1285666af4d9c82714e9a9ae.setContent(html_e384037dfd664a83d3b9e9e01f5a604c);
+            
+        
+
+        marker_dce9ee5f653d8f84e3642abd270faf12.bindPopup(popup_0d8bfa7a1285666af4d9c82714e9a9ae)
+        ;
+
+        
+    
+    
+            var marker_a328a2d214f4e291c9a054be64e3919a = L.marker(
+                [36.2599463, 49.9967591],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3ce941b608898d8f9ba246b343929921 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_a328a2d214f4e291c9a054be64e3919a.setIcon(icon_3ce941b608898d8f9ba246b343929921);
+        
+    
+        var popup_cc3698aace8966c037cbea3fecad9ce5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e4509a47fc0545e20a9a507720c49f3d = $(`<div id="html_e4509a47fc0545e20a9a507720c49f3d" style="width: 100.0%; height: 100.0%;">مسجد لعل<br>Laal Mosque<br>POINT (49.9967591 36.2599463)</div>`)[0];
+                popup_cc3698aace8966c037cbea3fecad9ce5.setContent(html_e4509a47fc0545e20a9a507720c49f3d);
+            
+        
+
+        marker_a328a2d214f4e291c9a054be64e3919a.bindPopup(popup_cc3698aace8966c037cbea3fecad9ce5)
+        ;
+
+        
+    
+    
+            var marker_545472c200cdb6af03d7573cba763313 = L.marker(
+                [36.2723771, 49.9985806],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_afa5344b8aa3cca18a91fd4620011ee0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_545472c200cdb6af03d7573cba763313.setIcon(icon_afa5344b8aa3cca18a91fd4620011ee0);
+        
+    
+        var popup_36c25ff78a92cfddbc8f5dc4ad87c5a5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a930ed9f800971ab5526c438504d3977 = $(`<div id="html_a930ed9f800971ab5526c438504d3977" style="width: 100.0%; height: 100.0%;">مسچد امام حسن<br>Imam Hassan Mosque<br>POINT (49.9985806 36.2723771)</div>`)[0];
+                popup_36c25ff78a92cfddbc8f5dc4ad87c5a5.setContent(html_a930ed9f800971ab5526c438504d3977);
+            
+        
+
+        marker_545472c200cdb6af03d7573cba763313.bindPopup(popup_36c25ff78a92cfddbc8f5dc4ad87c5a5)
+        ;
+
+        
+    
+    
+            var marker_12899b4f3ea44b6e9e5a6602a353446d = L.marker(
+                [36.2880926, 49.9988891],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_df376b3d93e660640eacf3f9ef21cfee = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_12899b4f3ea44b6e9e5a6602a353446d.setIcon(icon_df376b3d93e660640eacf3f9ef21cfee);
+        
+    
+        var popup_98b50e8f07d90b00358aa3b8c381e284 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f9384229cc6e1609952f03f32a46b846 = $(`<div id="html_f9384229cc6e1609952f03f32a46b846" style="width: 100.0%; height: 100.0%;">مسجد چهارده معصوم<br>14th Masoom Mosque<br>POINT (49.9988891 36.2880926)</div>`)[0];
+                popup_98b50e8f07d90b00358aa3b8c381e284.setContent(html_f9384229cc6e1609952f03f32a46b846);
+            
+        
+
+        marker_12899b4f3ea44b6e9e5a6602a353446d.bindPopup(popup_98b50e8f07d90b00358aa3b8c381e284)
+        ;
+
+        
+    
+    
+            var marker_8ead483b51c04bbccf114e8075493990 = L.marker(
+                [36.2601421, 49.9946687],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_8237bd08674d7bc8d7cc02c81abaeabe = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_8ead483b51c04bbccf114e8075493990.setIcon(icon_8237bd08674d7bc8d7cc02c81abaeabe);
+        
+    
+        var popup_cbe3265f1f44d9b9f6e8806597405855 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1cc3e4d717fe2bbe0646f8768032a9c2 = $(`<div id="html_1cc3e4d717fe2bbe0646f8768032a9c2" style="width: 100.0%; height: 100.0%;">مسجد امامیه<br>nan<br>POINT (49.9946687 36.2601421)</div>`)[0];
+                popup_cbe3265f1f44d9b9f6e8806597405855.setContent(html_1cc3e4d717fe2bbe0646f8768032a9c2);
+            
+        
+
+        marker_8ead483b51c04bbccf114e8075493990.bindPopup(popup_cbe3265f1f44d9b9f6e8806597405855)
+        ;
+
+        
+    
+    
+            var marker_4b27b2ee7ba8244de7291e7a6484190c = L.marker(
+                [36.3266128, 49.9875314],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_724659ca601e25066d0e5ddf60508e24 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4b27b2ee7ba8244de7291e7a6484190c.setIcon(icon_724659ca601e25066d0e5ddf60508e24);
+        
+    
+        var popup_5bd695c2a8655b2ed0a7e047359526b6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e7a0a9966481b721f4d475f2fb833e3 = $(`<div id="html_6e7a0a9966481b721f4d475f2fb833e3" style="width: 100.0%; height: 100.0%;">مسجد امام علی<br>Emam Ali Mosque<br>POINT (49.9875314 36.3266128)</div>`)[0];
+                popup_5bd695c2a8655b2ed0a7e047359526b6.setContent(html_6e7a0a9966481b721f4d475f2fb833e3);
+            
+        
+
+        marker_4b27b2ee7ba8244de7291e7a6484190c.bindPopup(popup_5bd695c2a8655b2ed0a7e047359526b6)
+        ;
+
+        
+    
+    
+            var marker_192550578f408d9883f056f0267ea214 = L.marker(
+                [36.2929384, 50.0225501],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_21b454182ba78b47658b317df674de12 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_192550578f408d9883f056f0267ea214.setIcon(icon_21b454182ba78b47658b317df674de12);
+        
+    
+        var popup_258ee69a70bc175ecb4576b47eb6a638 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_43590d468db02a6490dcf3e0349a02bc = $(`<div id="html_43590d468db02a6490dcf3e0349a02bc" style="width: 100.0%; height: 100.0%;">مسجد صاحب‌الزمان عج.<br>nan<br>POINT (50.0225501 36.2929384)</div>`)[0];
+                popup_258ee69a70bc175ecb4576b47eb6a638.setContent(html_43590d468db02a6490dcf3e0349a02bc);
+            
+        
+
+        marker_192550578f408d9883f056f0267ea214.bindPopup(popup_258ee69a70bc175ecb4576b47eb6a638)
+        ;
+
+        
+    
+    
+            var marker_9427d576edf14b569cbf87a9fe4e3491 = L.marker(
+                [36.267204, 49.9958412],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_2f159ed837708296fe9413d99496905f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_9427d576edf14b569cbf87a9fe4e3491.setIcon(icon_2f159ed837708296fe9413d99496905f);
+        
+    
+        var popup_c0109a4532f3b365b96665e49e75210a = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4f073b83319e6bfe76c3096d005e5051 = $(`<div id="html_4f073b83319e6bfe76c3096d005e5051" style="width: 100.0%; height: 100.0%;">درب آشپزخانه مسجد صالحيه<br>nan<br>POINT (49.9958412 36.267204)</div>`)[0];
+                popup_c0109a4532f3b365b96665e49e75210a.setContent(html_4f073b83319e6bfe76c3096d005e5051);
+            
+        
+
+        marker_9427d576edf14b569cbf87a9fe4e3491.bindPopup(popup_c0109a4532f3b365b96665e49e75210a)
+        ;
+
+        
+    
+    
+            var marker_e8f0182a7876a3dcb4c766332e1d56d6 = L.marker(
+                [36.2637256, 49.9975596],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_2061e36384b45249c472bb1cf7fbaf62 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_e8f0182a7876a3dcb4c766332e1d56d6.setIcon(icon_2061e36384b45249c472bb1cf7fbaf62);
+        
+    
+        var popup_5173cf08354097f9e22a5a2d51a8dc7c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e9b5711c414589d89506f656de67529d = $(`<div id="html_e9b5711c414589d89506f656de67529d" style="width: 100.0%; height: 100.0%;">مسجد میمنت (امام صادق(ع)<br>nan<br>POINT (49.9975596 36.2637256)</div>`)[0];
+                popup_5173cf08354097f9e22a5a2d51a8dc7c.setContent(html_e9b5711c414589d89506f656de67529d);
+            
+        
+
+        marker_e8f0182a7876a3dcb4c766332e1d56d6.bindPopup(popup_5173cf08354097f9e22a5a2d51a8dc7c)
+        ;
+
+        
+    
+    
+            var marker_80c5cf601e3c8cf240be073779cc7de0 = L.marker(
+                [36.3085912, 50.0242641],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_2338d1765a415f9d38c370a86cdf7f5b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_80c5cf601e3c8cf240be073779cc7de0.setIcon(icon_2338d1765a415f9d38c370a86cdf7f5b);
+        
+    
+        var popup_cc822ad15edb49bec04bf2b923eb5919 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_92fa7772611f774a1bab4b490b429c9b = $(`<div id="html_92fa7772611f774a1bab4b490b429c9b" style="width: 100.0%; height: 100.0%;">Abul Fazl (AS) Mosque<br>nan<br>POINT (50.0242641 36.3085912)</div>`)[0];
+                popup_cc822ad15edb49bec04bf2b923eb5919.setContent(html_92fa7772611f774a1bab4b490b429c9b);
+            
+        
+
+        marker_80c5cf601e3c8cf240be073779cc7de0.bindPopup(popup_cc822ad15edb49bec04bf2b923eb5919)
+        ;
+
+        
+    
+    
+            var marker_3957296de72cc3c30cd7a8b38859c4de = L.marker(
+                [36.2670014, 50.0002029],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_618b338080cee82536278e3476ef055b = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_3957296de72cc3c30cd7a8b38859c4de.setIcon(icon_618b338080cee82536278e3476ef055b);
+        
+    
+        var popup_e0774ca6b6a14d14d1e7002c0a317ac0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_649c397756613cdc3c952c1d7f5b0a47 = $(`<div id="html_649c397756613cdc3c952c1d7f5b0a47" style="width: 100.0%; height: 100.0%;">حسینیه مرحوم سید باقر محمدی نسب<br>nan<br>POINT (50.0002029 36.2670014)</div>`)[0];
+                popup_e0774ca6b6a14d14d1e7002c0a317ac0.setContent(html_649c397756613cdc3c952c1d7f5b0a47);
+            
+        
+
+        marker_3957296de72cc3c30cd7a8b38859c4de.bindPopup(popup_e0774ca6b6a14d14d1e7002c0a317ac0)
+        ;
+
+        
+    
+    
+            var marker_2975aa2301efb43f47f0716528049eb7 = L.marker(
+                [36.3077123, 50.0152014],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_b067e5a3056e7a7ae788c47dbafff6df = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_2975aa2301efb43f47f0716528049eb7.setIcon(icon_b067e5a3056e7a7ae788c47dbafff6df);
+        
+    
+        var popup_5550cfa7edb6b0f3dc9d1a723ba75ba3 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_30b97e024205b5d5513607e3634a5cb1 = $(`<div id="html_30b97e024205b5d5513607e3634a5cb1" style="width: 100.0%; height: 100.0%;">مسجد فاطمه الزهراء<br>nan<br>POINT (50.0152014 36.3077123)</div>`)[0];
+                popup_5550cfa7edb6b0f3dc9d1a723ba75ba3.setContent(html_30b97e024205b5d5513607e3634a5cb1);
+            
+        
+
+        marker_2975aa2301efb43f47f0716528049eb7.bindPopup(popup_5550cfa7edb6b0f3dc9d1a723ba75ba3)
+        ;
+
+        
+    
+    
+            var marker_4451c4f97e69d178f58b53d574bc169a = L.marker(
+                [36.3202496, 49.9931118],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_f601a7b1b2254aaed73e56475f78a564 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4451c4f97e69d178f58b53d574bc169a.setIcon(icon_f601a7b1b2254aaed73e56475f78a564);
+        
+    
+        var popup_1a2ac3309394e2a4e49f9f369860f6ce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e863ce5141de693d87741dba88de887b = $(`<div id="html_e863ce5141de693d87741dba88de887b" style="width: 100.0%; height: 100.0%;">حسینیه امام علی<br>nan<br>POINT (49.9931118 36.3202496)</div>`)[0];
+                popup_1a2ac3309394e2a4e49f9f369860f6ce.setContent(html_e863ce5141de693d87741dba88de887b);
+            
+        
+
+        marker_4451c4f97e69d178f58b53d574bc169a.bindPopup(popup_1a2ac3309394e2a4e49f9f369860f6ce)
+        ;
+
+        
+    
+    
+            var marker_89e493b007788755e99443bd90eb69a7 = L.marker(
+                [36.2713821, 50.0020811],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_855cdf1288eda5a7f84e88da2a2bf35d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_89e493b007788755e99443bd90eb69a7.setIcon(icon_855cdf1288eda5a7f84e88da2a2bf35d);
+        
+    
+        var popup_e291203163731df2e8421c40b59af65f = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_59103b2bba3a7ff2f938d1540492766b = $(`<div id="html_59103b2bba3a7ff2f938d1540492766b" style="width: 100.0%; height: 100.0%;">حسینیه آیت الله سامت (ره)<br>nan<br>POINT (50.0020811 36.2713821)</div>`)[0];
+                popup_e291203163731df2e8421c40b59af65f.setContent(html_59103b2bba3a7ff2f938d1540492766b);
+            
+        
+
+        marker_89e493b007788755e99443bd90eb69a7.bindPopup(popup_e291203163731df2e8421c40b59af65f)
+        ;
+
+        
+    
+    
+            var marker_5e1e142b2ffb92490849de43afa95ea6 = L.marker(
+                [36.299162099102666, 50.01870669296046],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_e9957a93799a8bc3a433b268daf52183 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_5e1e142b2ffb92490849de43afa95ea6.setIcon(icon_e9957a93799a8bc3a433b268daf52183);
+        
+    
+        var popup_ff8d070c477a87121f9cbf0bbd484ad5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_19a6d240c608d37c829390b4564aafe7 = $(`<div id="html_19a6d240c608d37c829390b4564aafe7" style="width: 100.0%; height: 100.0%;">مسجد غدیر<br>Qadir mosque<br>POINT (50.01870669296046 36.299162099102666)</div>`)[0];
+                popup_ff8d070c477a87121f9cbf0bbd484ad5.setContent(html_19a6d240c608d37c829390b4564aafe7);
+            
+        
+
+        marker_5e1e142b2ffb92490849de43afa95ea6.bindPopup(popup_ff8d070c477a87121f9cbf0bbd484ad5)
+        ;
+
+        
+    
+    
+            var marker_ec5f9f7a4487428b915a613603047b92 = L.marker(
+                [36.29576739537887, 50.02088843765698],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_246a9d3f43c4a060d13f46b1f07ea221 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_ec5f9f7a4487428b915a613603047b92.setIcon(icon_246a9d3f43c4a060d13f46b1f07ea221);
+        
+    
+        var popup_013831df14e92dce20c679eadae69a16 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2dfc0e2b96bbb8dfba14c83ebdb69328 = $(`<div id="html_2dfc0e2b96bbb8dfba14c83ebdb69328" style="width: 100.0%; height: 100.0%;">مسجد امام رضا (علیه‌السلام)<br>Imam Reza Mosque<br>POINT (50.02088843765698 36.29576739537887)</div>`)[0];
+                popup_013831df14e92dce20c679eadae69a16.setContent(html_2dfc0e2b96bbb8dfba14c83ebdb69328);
+            
+        
+
+        marker_ec5f9f7a4487428b915a613603047b92.bindPopup(popup_013831df14e92dce20c679eadae69a16)
+        ;
+
+        
+    
+    
+            var marker_b956421cd71bb079df54f453d00dc7d4 = L.marker(
+                [36.28788858543747, 50.011537891892864],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_e3f96380c55b6493e83a3d0965883915 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b956421cd71bb079df54f453d00dc7d4.setIcon(icon_e3f96380c55b6493e83a3d0965883915);
+        
+    
+        var popup_9a587b6c8bb6573dd8dcb9cac74812be = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fb6250f471b29e2f2d8608485d5ea366 = $(`<div id="html_fb6250f471b29e2f2d8608485d5ea366" style="width: 100.0%; height: 100.0%;">مسجد ولایت<br>Velayat<br>POINT (50.011537891892864 36.28788858543747)</div>`)[0];
+                popup_9a587b6c8bb6573dd8dcb9cac74812be.setContent(html_fb6250f471b29e2f2d8608485d5ea366);
+            
+        
+
+        marker_b956421cd71bb079df54f453d00dc7d4.bindPopup(popup_9a587b6c8bb6573dd8dcb9cac74812be)
+        ;
+
+        
+    
+    
+            var marker_3f63321e1f85c65ccd4c1ce71c574c41 = L.marker(
+                [36.28006084358836, 50.013833123199966],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_700d8ec1cdcea858f8472cd9b90eda6c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_3f63321e1f85c65ccd4c1ce71c574c41.setIcon(icon_700d8ec1cdcea858f8472cd9b90eda6c);
+        
+    
+        var popup_cc8a1f61fcff6fe55f6160ab93861ae5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_21cec523e1a768ee0e113464c0868e11 = $(`<div id="html_21cec523e1a768ee0e113464c0868e11" style="width: 100.0%; height: 100.0%;">مسجد محمد رسول الله<br>Mohammad Rasolallah Mosque<br>POINT (50.013833123199966 36.28006084358836)</div>`)[0];
+                popup_cc8a1f61fcff6fe55f6160ab93861ae5.setContent(html_21cec523e1a768ee0e113464c0868e11);
+            
+        
+
+        marker_3f63321e1f85c65ccd4c1ce71c574c41.bindPopup(popup_cc8a1f61fcff6fe55f6160ab93861ae5)
+        ;
+
+        
+    
+    
+            var marker_581bfed5cc0673db87be66a9e0df49ae = L.marker(
+                [36.257211881998124, 50.000666431237946],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_7a16ffea316e08215e9fefcc1d6efe68 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_581bfed5cc0673db87be66a9e0df49ae.setIcon(icon_7a16ffea316e08215e9fefcc1d6efe68);
+        
+    
+        var popup_d00d409cb39f149f484498419533a8d6 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2f35458c4a8e382650cc93434cbb0147 = $(`<div id="html_2f35458c4a8e382650cc93434cbb0147" style="width: 100.0%; height: 100.0%;">امامزاده حسین<br>Emamzadeh Hossein shrine<br>POINT (50.000666431237946 36.257211881998124)</div>`)[0];
+                popup_d00d409cb39f149f484498419533a8d6.setContent(html_2f35458c4a8e382650cc93434cbb0147);
+            
+        
+
+        marker_581bfed5cc0673db87be66a9e0df49ae.bindPopup(popup_d00d409cb39f149f484498419533a8d6)
+        ;
+
+        
+    
+    
+            var marker_3506a84a0dfd68478a09f4d7b57d528b = L.marker(
+                [36.255106061528835, 50.007836940904625],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_c2d935dde7cc5a0a6163f9fac4db6b16 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_3506a84a0dfd68478a09f4d7b57d528b.setIcon(icon_c2d935dde7cc5a0a6163f9fac4db6b16);
+        
+    
+        var popup_aaa36b7c2e93d5dc8992120089474d47 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ed73e9907be756ee7d6b484f5226a9e4 = $(`<div id="html_ed73e9907be756ee7d6b484f5226a9e4" style="width: 100.0%; height: 100.0%;">مسجد سنجیده<br>Sanjideh Mosque<br>POINT (50.007836940904625 36.255106061528835)</div>`)[0];
+                popup_aaa36b7c2e93d5dc8992120089474d47.setContent(html_ed73e9907be756ee7d6b484f5226a9e4);
+            
+        
+
+        marker_3506a84a0dfd68478a09f4d7b57d528b.bindPopup(popup_aaa36b7c2e93d5dc8992120089474d47)
+        ;
+
+        
+    
+    
+            var marker_911badcdff9d3d3dbec35f2275a17f66 = L.marker(
+                [36.266633174511746, 50.00234735912997],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_32dcb1384b92ca4693840968da52c97e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_911badcdff9d3d3dbec35f2275a17f66.setIcon(icon_32dcb1384b92ca4693840968da52c97e);
+        
+    
+        var popup_290211556e4cf9a3c35089d11ce5fcce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_92b798e876ea1d95001697ea6c2a2931 = $(`<div id="html_92b798e876ea1d95001697ea6c2a2931" style="width: 100.0%; height: 100.0%;">مسجد پنجه علی<br>Panje Ali Mosque<br>POINT (50.00234735912997 36.266633174511746)</div>`)[0];
+                popup_290211556e4cf9a3c35089d11ce5fcce.setContent(html_92b798e876ea1d95001697ea6c2a2931);
+            
+        
+
+        marker_911badcdff9d3d3dbec35f2275a17f66.bindPopup(popup_290211556e4cf9a3c35089d11ce5fcce)
+        ;
+
+        
+    
+    
+            var marker_6069926675a38c21184c15af86e2f076 = L.marker(
+                [36.30021803883784, 50.01051906407218],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_ed5443fbd310b0828c7593dbbaa12df2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_6069926675a38c21184c15af86e2f076.setIcon(icon_ed5443fbd310b0828c7593dbbaa12df2);
+        
+    
+        var popup_2532db06a39cbaae65c0a8ce3ef7aacb = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_4e7514dfe0d391fb46452c162437b03e = $(`<div id="html_4e7514dfe0d391fb46452c162437b03e" style="width: 100.0%; height: 100.0%;">حسینیه حضرت ابوالفضل<br>Hazrat Abolfazl<br>POINT (50.01051906407218 36.30021803883784)</div>`)[0];
+                popup_2532db06a39cbaae65c0a8ce3ef7aacb.setContent(html_4e7514dfe0d391fb46452c162437b03e);
+            
+        
+
+        marker_6069926675a38c21184c15af86e2f076.bindPopup(popup_2532db06a39cbaae65c0a8ce3ef7aacb)
+        ;
+
+        
+    
+    
+            var marker_4ae205ec2efaf1d0dffaf33d9f61b9c2 = L.marker(
+                [36.26841283484315, 50.002946898500056],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_94b7461b4adce01445798f239494c260 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4ae205ec2efaf1d0dffaf33d9f61b9c2.setIcon(icon_94b7461b4adce01445798f239494c260);
+        
+    
+        var popup_305814b7376575e9c9beee85d7497fd9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d3e7bbe83f3b3a9f48c48103b0465a2b = $(`<div id="html_d3e7bbe83f3b3a9f48c48103b0465a2b" style="width: 100.0%; height: 100.0%;">آرامگاه چهار انبیاء<br>Tomb of The Four Prophets<br>POINT (50.002946898500056 36.26841283484315)</div>`)[0];
+                popup_305814b7376575e9c9beee85d7497fd9.setContent(html_d3e7bbe83f3b3a9f48c48103b0465a2b);
+            
+        
+
+        marker_4ae205ec2efaf1d0dffaf33d9f61b9c2.bindPopup(popup_305814b7376575e9c9beee85d7497fd9)
+        ;
+
+        
+    
+    
+            var marker_6fe5aec2e95c3d3710737ba3947addd7 = L.marker(
+                [36.29689105, 50.00137805],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3cbeeb0f93cb0142b548f583eb22861e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_6fe5aec2e95c3d3710737ba3947addd7.setIcon(icon_3cbeeb0f93cb0142b548f583eb22861e);
+        
+    
+        var popup_f751dca55b80eb38687568543b3302c8 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1ce54c5550eeeb43e81db9daa3aed3ff = $(`<div id="html_1ce54c5550eeeb43e81db9daa3aed3ff" style="width: 100.0%; height: 100.0%;">مسجد امام خمینی<br>Emam Khomeini Mosque<br>POINT (50.00137805 36.29689105)</div>`)[0];
+                popup_f751dca55b80eb38687568543b3302c8.setContent(html_1ce54c5550eeeb43e81db9daa3aed3ff);
+            
+        
+
+        marker_6fe5aec2e95c3d3710737ba3947addd7.bindPopup(popup_f751dca55b80eb38687568543b3302c8)
+        ;
+
+        
+    
+    
+            var marker_b2962984a579efbfd885cd782c2bc52c = L.marker(
+                [36.26388087047175, 49.99204293659658],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_d1f0cbd809143ae773802d6b0e13cfae = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b2962984a579efbfd885cd782c2bc52c.setIcon(icon_d1f0cbd809143ae773802d6b0e13cfae);
+        
+    
+        var popup_f389d0f7012da34b6e9d96b404e8b37e = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_39e03a66e9de0f840e1357e1d20f2279 = $(`<div id="html_39e03a66e9de0f840e1357e1d20f2279" style="width: 100.0%; height: 100.0%;">امامزاده سلطان سید محمد<br>Emamzadeh Soltan Seyed Mohamad<br>POINT (49.99204293659658 36.26388087047175)</div>`)[0];
+                popup_f389d0f7012da34b6e9d96b404e8b37e.setContent(html_39e03a66e9de0f840e1357e1d20f2279);
+            
+        
+
+        marker_b2962984a579efbfd885cd782c2bc52c.bindPopup(popup_f389d0f7012da34b6e9d96b404e8b37e)
+        ;
+
+        
+    
+    
+            var marker_e7ae4f24aedf5d156ff94722ee0660fb = L.marker(
+                [36.31116591322075, 49.98958433563018],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3f212e559261edfedf13af56775841d2 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_e7ae4f24aedf5d156ff94722ee0660fb.setIcon(icon_3f212e559261edfedf13af56775841d2);
+        
+    
+        var popup_7e0e3682fac7967740ff012b254be6ad = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_238cd6831133177d49f7d820bf8ac6fb = $(`<div id="html_238cd6831133177d49f7d820bf8ac6fb" style="width: 100.0%; height: 100.0%;">مسجد جامع المهدی مینودر<br>Al Mahdi Mosque<br>POINT (49.98958433563018 36.31116591322075)</div>`)[0];
+                popup_7e0e3682fac7967740ff012b254be6ad.setContent(html_238cd6831133177d49f7d820bf8ac6fb);
+            
+        
+
+        marker_e7ae4f24aedf5d156ff94722ee0660fb.bindPopup(popup_7e0e3682fac7967740ff012b254be6ad)
+        ;
+
+        
+    
+    
+            var marker_09672b5d78e298c101f827778069baba = L.marker(
+                [36.3104528045452, 50.01292673175208],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3d7e10dfefde9518707ce6f5323d8722 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_09672b5d78e298c101f827778069baba.setIcon(icon_3d7e10dfefde9518707ce6f5323d8722);
+        
+    
+        var popup_c173f84229de63ddbee1b47631ab390b = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6e766f16a47c3b9a0d6c87fb920fcdea = $(`<div id="html_6e766f16a47c3b9a0d6c87fb920fcdea" style="width: 100.0%; height: 100.0%;">مسجد امام جعفر صادق(ع)<br>nan<br>POINT (50.01292673175208 36.3104528045452)</div>`)[0];
+                popup_c173f84229de63ddbee1b47631ab390b.setContent(html_6e766f16a47c3b9a0d6c87fb920fcdea);
+            
+        
+
+        marker_09672b5d78e298c101f827778069baba.bindPopup(popup_c173f84229de63ddbee1b47631ab390b)
+        ;
+
+        
+    
+    
+            var marker_3727cd5baf391c767ec7e2cde3b0a632 = L.marker(
+                [36.2872596140569, 50.01593094316043],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_4fdc28fb9f1efe19df0b8c936828bb78 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_3727cd5baf391c767ec7e2cde3b0a632.setIcon(icon_4fdc28fb9f1efe19df0b8c936828bb78);
+        
+    
+        var popup_43b214dae061eb522018c623caa0d749 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_25521f04ce176ecb5099e8e103acd146 = $(`<div id="html_25521f04ce176ecb5099e8e103acd146" style="width: 100.0%; height: 100.0%;">nan<br>nan<br>POINT (50.01593094316043 36.2872596140569)</div>`)[0];
+                popup_43b214dae061eb522018c623caa0d749.setContent(html_25521f04ce176ecb5099e8e103acd146);
+            
+        
+
+        marker_3727cd5baf391c767ec7e2cde3b0a632.bindPopup(popup_43b214dae061eb522018c623caa0d749)
+        ;
+
+        
+    
+    
+            var marker_ab6b8abfa7222404b99351ff038568be = L.marker(
+                [36.268257539421974, 49.99901384528769],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_cdb1d936f30c655967555fba60d1dbd0 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_ab6b8abfa7222404b99351ff038568be.setIcon(icon_cdb1d936f30c655967555fba60d1dbd0);
+        
+    
+        var popup_849baa4b33fbb69010adb412eed100d9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_1f373dab9af012be3559df5f856f0b9e = $(`<div id="html_1f373dab9af012be3559df5f856f0b9e" style="width: 100.0%; height: 100.0%;">مسجدالنبی<br>Nabi Mosque<br>POINT (49.99901384528769 36.268257539421974)</div>`)[0];
+                popup_849baa4b33fbb69010adb412eed100d9.setContent(html_1f373dab9af012be3559df5f856f0b9e);
+            
+        
+
+        marker_ab6b8abfa7222404b99351ff038568be.bindPopup(popup_849baa4b33fbb69010adb412eed100d9)
+        ;
+
+        
+    
+    
+            var marker_df5e58265bcc99dbb4bb1cdf266760f9 = L.marker(
+                [36.26102310738666, 50.00193916259677],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_84ef88b536f0cd44b1afece23a62c829 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_df5e58265bcc99dbb4bb1cdf266760f9.setIcon(icon_84ef88b536f0cd44b1afece23a62c829);
+        
+    
+        var popup_9dd53626be02fd5272bd21d0e46aa7ce = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_31b85c8224b45b5e314aef7a4d6df57a = $(`<div id="html_31b85c8224b45b5e314aef7a4d6df57a" style="width: 100.0%; height: 100.0%;">مسجد جامع عتیق<br>Jameh Mosque of Qazvin<br>POINT (50.00193916259677 36.26102310738666)</div>`)[0];
+                popup_9dd53626be02fd5272bd21d0e46aa7ce.setContent(html_31b85c8224b45b5e314aef7a4d6df57a);
+            
+        
+
+        marker_df5e58265bcc99dbb4bb1cdf266760f9.bindPopup(popup_9dd53626be02fd5272bd21d0e46aa7ce)
+        ;
+
+        
+    
+    
+            var marker_1df1eaf843fc9a84459a64c7ee38e76a = L.marker(
+                [36.2643075397962, 50.004383322834826],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_9da818489e47d0c91bb7c143e8dc012e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_1df1eaf843fc9a84459a64c7ee38e76a.setIcon(icon_9da818489e47d0c91bb7c143e8dc012e);
+        
+    
+        var popup_7d410f830f0bd73577ee0d7a82458e13 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ee0e71c2d0f63459b9607b337089c6cb = $(`<div id="html_ee0e71c2d0f63459b9607b337089c6cb" style="width: 100.0%; height: 100.0%;">مسجد شیخ الاسلام<br>Sheykhol Eslam Mosque<br>POINT (50.004383322834826 36.2643075397962)</div>`)[0];
+                popup_7d410f830f0bd73577ee0d7a82458e13.setContent(html_ee0e71c2d0f63459b9607b337089c6cb);
+            
+        
+
+        marker_1df1eaf843fc9a84459a64c7ee38e76a.bindPopup(popup_7d410f830f0bd73577ee0d7a82458e13)
+        ;
+
+        
+    
+    
+            var marker_28935835cac230b6fb6d9b6f9112fecb = L.marker(
+                [36.266276348839895, 50.017873425692564],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_efece37c5fe86ffa25b1e0d472ac65f9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_28935835cac230b6fb6d9b6f9112fecb.setIcon(icon_efece37c5fe86ffa25b1e0d472ac65f9);
+        
+    
+        var popup_c916fb62d1cf498f4240dcc104035ed1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_d75cb3fd9c2b9b251ec3d744d3df7f81 = $(`<div id="html_d75cb3fd9c2b9b251ec3d744d3df7f81" style="width: 100.0%; height: 100.0%;">مسجد ولیعصر<br>Valiasr Mosque<br>POINT (50.017873425692564 36.266276348839895)</div>`)[0];
+                popup_c916fb62d1cf498f4240dcc104035ed1.setContent(html_d75cb3fd9c2b9b251ec3d744d3df7f81);
+            
+        
+
+        marker_28935835cac230b6fb6d9b6f9112fecb.bindPopup(popup_c916fb62d1cf498f4240dcc104035ed1)
+        ;
+
+        
+    
+    
+            var marker_04097cffed57bb7f3fe2488bacd01c62 = L.marker(
+                [36.272842573639856, 49.99758565261708],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_bfbdaea2834d4e97634ebb935210fdf3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_04097cffed57bb7f3fe2488bacd01c62.setIcon(icon_bfbdaea2834d4e97634ebb935210fdf3);
+        
+    
+        var popup_54b44d94bce2ad1f91a753ca5b928ea0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6197067363d5252099ce63962f1ab19c = $(`<div id="html_6197067363d5252099ce63962f1ab19c" style="width: 100.0%; height: 100.0%;">مسجد جوادالائمه<br>JavadolAemmeh Mosque<br>POINT (49.99758565261708 36.272842573639856)</div>`)[0];
+                popup_54b44d94bce2ad1f91a753ca5b928ea0.setContent(html_6197067363d5252099ce63962f1ab19c);
+            
+        
+
+        marker_04097cffed57bb7f3fe2488bacd01c62.bindPopup(popup_54b44d94bce2ad1f91a753ca5b928ea0)
+        ;
+
+        
+    
+    
+            var marker_fd567d99f627a57a991aaba120afb1b5 = L.marker(
+                [36.25034657786941, 50.0010573538874],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_4be749685f6a31e8d41bcc7198fbe445 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_fd567d99f627a57a991aaba120afb1b5.setIcon(icon_4be749685f6a31e8d41bcc7198fbe445);
+        
+    
+        var popup_2215ac57b2141d4d0544e7c546f4c8cd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_26c2c10c6f31680420bcaf7c4d675406 = $(`<div id="html_26c2c10c6f31680420bcaf7c4d675406" style="width: 100.0%; height: 100.0%;">مسجد طفلان مسلم<br>Teflane Moslem Mosque<br>POINT (50.0010573538874 36.25034657786941)</div>`)[0];
+                popup_2215ac57b2141d4d0544e7c546f4c8cd.setContent(html_26c2c10c6f31680420bcaf7c4d675406);
+            
+        
+
+        marker_fd567d99f627a57a991aaba120afb1b5.bindPopup(popup_2215ac57b2141d4d0544e7c546f4c8cd)
+        ;
+
+        
+    
+    
+            var marker_c608814032bc55ade96bf9951cea9341 = L.marker(
+                [36.25814660340166, 50.00440353486411],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_761ab84c17d649183630571d34b825e9 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_c608814032bc55ade96bf9951cea9341.setIcon(icon_761ab84c17d649183630571d34b825e9);
+        
+    
+        var popup_58e423d3702706dab69d1f43cd4f85b4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_8f941f5c3c38196cc4e5f41b701f0272 = $(`<div id="html_8f941f5c3c38196cc4e5f41b701f0272" style="width: 100.0%; height: 100.0%;">مسجد طاق بهلول مکتب الزهرا<br>Tagh Bohloul Mosque<br>POINT (50.00440353486411 36.25814660340166)</div>`)[0];
+                popup_58e423d3702706dab69d1f43cd4f85b4.setContent(html_8f941f5c3c38196cc4e5f41b701f0272);
+            
+        
+
+        marker_c608814032bc55ade96bf9951cea9341.bindPopup(popup_58e423d3702706dab69d1f43cd4f85b4)
+        ;
+
+        
+    
+    
+            var marker_da8b60fb80d2192082185fa2dcfd3769 = L.marker(
+                [36.258802529170495, 50.00162033164705],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_98aa3d4cae34ded9afc3d708e0ede32c = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_da8b60fb80d2192082185fa2dcfd3769.setIcon(icon_98aa3d4cae34ded9afc3d708e0ede32c);
+        
+    
+        var popup_c3425e36e770b3c723e3ea8cd713c2c5 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_35199339bc7af72a246ddd3b83c69d76 = $(`<div id="html_35199339bc7af72a246ddd3b83c69d76" style="width: 100.0%; height: 100.0%;">مسجد شهید ثالث<br>Shahid Sales Mosque<br>POINT (50.00162033164705 36.258802529170495)</div>`)[0];
+                popup_c3425e36e770b3c723e3ea8cd713c2c5.setContent(html_35199339bc7af72a246ddd3b83c69d76);
+            
+        
+
+        marker_da8b60fb80d2192082185fa2dcfd3769.bindPopup(popup_c3425e36e770b3c723e3ea8cd713c2c5)
+        ;
+
+        
+    
+    
+            var marker_b368bcf90f601460ea9c0d2dce84b42f = L.marker(
+                [36.259130049407936, 49.99995034318045],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_ff5f1e6f1cf75c99517eba6b01f80f8a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b368bcf90f601460ea9c0d2dce84b42f.setIcon(icon_ff5f1e6f1cf75c99517eba6b01f80f8a);
+        
+    
+        var popup_24839263710b01c244003236d09786c1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6842e37395a594f8f4860b27f3e3bf77 = $(`<div id="html_6842e37395a594f8f4860b27f3e3bf77" style="width: 100.0%; height: 100.0%;">مسجد دباغان<br>Dabbaghan Mosque<br>POINT (49.99995034318045 36.259130049407936)</div>`)[0];
+                popup_24839263710b01c244003236d09786c1.setContent(html_6842e37395a594f8f4860b27f3e3bf77);
+            
+        
+
+        marker_b368bcf90f601460ea9c0d2dce84b42f.bindPopup(popup_24839263710b01c244003236d09786c1)
+        ;
+
+        
+    
+    
+            var marker_b306a6aba054c6a3a566e607454e182f = L.marker(
+                [36.2697242929092, 50.000110255142395],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_66b763440b4cfcce4d91c33fe8eeb91e = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b306a6aba054c6a3a566e607454e182f.setIcon(icon_66b763440b4cfcce4d91c33fe8eeb91e);
+        
+    
+        var popup_bf5324b5569e556ca9c0c295275b1222 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b7b0e3484b436aeebd7554081b2fbeab = $(`<div id="html_b7b0e3484b436aeebd7554081b2fbeab" style="width: 100.0%; height: 100.0%;">مسجد حاج ملاآقا<br>Haj Molla Aqa Mosque<br>POINT (50.000110255142395 36.2697242929092)</div>`)[0];
+                popup_bf5324b5569e556ca9c0c295275b1222.setContent(html_b7b0e3484b436aeebd7554081b2fbeab);
+            
+        
+
+        marker_b306a6aba054c6a3a566e607454e182f.bindPopup(popup_bf5324b5569e556ca9c0c295275b1222)
+        ;
+
+        
+    
+    
+            var marker_8ae45b0315eb0226389ccdbf6bfbc6ee = L.marker(
+                [36.27498862321535, 49.990114851324435],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_df6389fcc2fbe57cff0bdb1110f3b6d1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_8ae45b0315eb0226389ccdbf6bfbc6ee.setIcon(icon_df6389fcc2fbe57cff0bdb1110f3b6d1);
+        
+    
+        var popup_33ce51f2d21ee20ee1eb0b03f65c0225 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3c350f3d4af1936b3d573a0dfa5b7ad5 = $(`<div id="html_3c350f3d4af1936b3d573a0dfa5b7ad5" style="width: 100.0%; height: 100.0%;">مسجد کریم اهل بیت<br>Karim Ahle Beyt Mosque<br>POINT (49.990114851324435 36.27498862321535)</div>`)[0];
+                popup_33ce51f2d21ee20ee1eb0b03f65c0225.setContent(html_3c350f3d4af1936b3d573a0dfa5b7ad5);
+            
+        
+
+        marker_8ae45b0315eb0226389ccdbf6bfbc6ee.bindPopup(popup_33ce51f2d21ee20ee1eb0b03f65c0225)
+        ;
+
+        
+    
+    
+            var marker_67fa36cc1f0d6f021a31aaee6fb7f05f = L.marker(
+                [36.275926310440106, 50.01679270703144],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_a8047dd5b0b6fe8a677b9da10546eefb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_67fa36cc1f0d6f021a31aaee6fb7f05f.setIcon(icon_a8047dd5b0b6fe8a677b9da10546eefb);
+        
+    
+        var popup_da87010b7b900845f60a477ade51f25c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3bfb3e74f4f21ce2bc098ea8867c454e = $(`<div id="html_3bfb3e74f4f21ce2bc098ea8867c454e" style="width: 100.0%; height: 100.0%;">مسجد قدس رضوی<br>Ghods Razavi Mosque<br>POINT (50.01679270703144 36.275926310440106)</div>`)[0];
+                popup_da87010b7b900845f60a477ade51f25c.setContent(html_3bfb3e74f4f21ce2bc098ea8867c454e);
+            
+        
+
+        marker_67fa36cc1f0d6f021a31aaee6fb7f05f.bindPopup(popup_da87010b7b900845f60a477ade51f25c)
+        ;
+
+        
+    
+    
+            var marker_5a2ce0386b452e20eb11cee44c9e60b3 = L.marker(
+                [36.27809155427159, 50.00628268341875],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_83d75a6f3da3ef656384bffbd8e9d352 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_5a2ce0386b452e20eb11cee44c9e60b3.setIcon(icon_83d75a6f3da3ef656384bffbd8e9d352);
+        
+    
+        var popup_c7fa83b0aeb86eb9cf717330efaca700 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_190defdb22d06ae4d4faf3c0470b973f = $(`<div id="html_190defdb22d06ae4d4faf3c0470b973f" style="width: 100.0%; height: 100.0%;">مسجد عدل قائم<br>Adl Ghaem Mosque<br>POINT (50.00628268341875 36.27809155427159)</div>`)[0];
+                popup_c7fa83b0aeb86eb9cf717330efaca700.setContent(html_190defdb22d06ae4d4faf3c0470b973f);
+            
+        
+
+        marker_5a2ce0386b452e20eb11cee44c9e60b3.bindPopup(popup_c7fa83b0aeb86eb9cf717330efaca700)
+        ;
+
+        
+    
+    
+            var marker_01a2fa72544ab49a8a01255efa30f7a3 = L.marker(
+                [36.281503158671306, 49.99847817383078],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_ad0d15704395f8c8619616d520c4dc94 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_01a2fa72544ab49a8a01255efa30f7a3.setIcon(icon_ad0d15704395f8c8619616d520c4dc94);
+        
+    
+        var popup_f4ef588f05019b40584774e386485d16 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cff4370585f484b98edf81aef80da7d3 = $(`<div id="html_cff4370585f484b98edf81aef80da7d3" style="width: 100.0%; height: 100.0%;">مسجد حضرت ابوالفضل<br>Hazrat Abolfazl Mosque<br>POINT (49.99847817383078 36.281503158671306)</div>`)[0];
+                popup_f4ef588f05019b40584774e386485d16.setContent(html_cff4370585f484b98edf81aef80da7d3);
+            
+        
+
+        marker_01a2fa72544ab49a8a01255efa30f7a3.bindPopup(popup_f4ef588f05019b40584774e386485d16)
+        ;
+
+        
+    
+    
+            var marker_60d07d158d1aef0cd08165fddcfd5d69 = L.marker(
+                [36.28820178212144, 50.001514468430834],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_e2574ea9b82e53279465dffe6ce41916 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_60d07d158d1aef0cd08165fddcfd5d69.setIcon(icon_e2574ea9b82e53279465dffe6ce41916);
+        
+    
+        var popup_746d269c9c1a431c5b9e9d316d513024 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6d50abf4c75981f4e0282026cccb79ff = $(`<div id="html_6d50abf4c75981f4e0282026cccb79ff" style="width: 100.0%; height: 100.0%;">مسجد امام موسی جعفر<br>Imam Musa Bn Ja'far Mosque<br>POINT (50.001514468430834 36.28820178212144)</div>`)[0];
+                popup_746d269c9c1a431c5b9e9d316d513024.setContent(html_6d50abf4c75981f4e0282026cccb79ff);
+            
+        
+
+        marker_60d07d158d1aef0cd08165fddcfd5d69.bindPopup(popup_746d269c9c1a431c5b9e9d316d513024)
+        ;
+
+        
+    
+    
+            var marker_d72762d70be170f1b8043a81a95478a9 = L.marker(
+                [36.28959492272296, 49.99821672243237],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_cd0d8b9a67f4709c8057bdfab47a9dcc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_d72762d70be170f1b8043a81a95478a9.setIcon(icon_cd0d8b9a67f4709c8057bdfab47a9dcc);
+        
+    
+        var popup_bdfeff2b174bb1cc5616beb99b20d889 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bc01ad722b14140a0c4f46f8e2042991 = $(`<div id="html_bc01ad722b14140a0c4f46f8e2042991" style="width: 100.0%; height: 100.0%;">مسجد سیدالشهدا<br>Seyedoshohada Mosque<br>POINT (49.99821672243237 36.28959492272296)</div>`)[0];
+                popup_bdfeff2b174bb1cc5616beb99b20d889.setContent(html_bc01ad722b14140a0c4f46f8e2042991);
+            
+        
+
+        marker_d72762d70be170f1b8043a81a95478a9.bindPopup(popup_bdfeff2b174bb1cc5616beb99b20d889)
+        ;
+
+        
+    
+    
+            var marker_0ee3ba826018b959a33308b4b1e05da2 = L.marker(
+                [36.29064033837748, 49.99942528547154],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_efa0e19ca7132b311fc00e5ef0dd83ff = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_0ee3ba826018b959a33308b4b1e05da2.setIcon(icon_efa0e19ca7132b311fc00e5ef0dd83ff);
+        
+    
+        var popup_941845beab41bac0de74ebc2872f9886 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ca0ad5f26df94db3bd10ede0ff53a6d0 = $(`<div id="html_ca0ad5f26df94db3bd10ede0ff53a6d0" style="width: 100.0%; height: 100.0%;">مسجد صاحب الزمان<br>Sahebazaman Mosque<br>POINT (49.99942528547154 36.29064033837748)</div>`)[0];
+                popup_941845beab41bac0de74ebc2872f9886.setContent(html_ca0ad5f26df94db3bd10ede0ff53a6d0);
+            
+        
+
+        marker_0ee3ba826018b959a33308b4b1e05da2.bindPopup(popup_941845beab41bac0de74ebc2872f9886)
+        ;
+
+        
+    
+    
+            var marker_55fa697f861a3bc48728bf8b84ac7f05 = L.marker(
+                [36.291522116190364, 49.99910699706973],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_109be55032bb4ad1708cc5e4bcb65293 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_55fa697f861a3bc48728bf8b84ac7f05.setIcon(icon_109be55032bb4ad1708cc5e4bcb65293);
+        
+    
+        var popup_4e146a2dafd9f40604173fecdce18ee9 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_6308a8c7a3e1026c2a0a1ba6678e3f5f = $(`<div id="html_6308a8c7a3e1026c2a0a1ba6678e3f5f" style="width: 100.0%; height: 100.0%;">مسجد امام حسین<br>Imam Hosein Mosque<br>POINT (49.99910699706973 36.291522116190364)</div>`)[0];
+                popup_4e146a2dafd9f40604173fecdce18ee9.setContent(html_6308a8c7a3e1026c2a0a1ba6678e3f5f);
+            
+        
+
+        marker_55fa697f861a3bc48728bf8b84ac7f05.bindPopup(popup_4e146a2dafd9f40604173fecdce18ee9)
+        ;
+
+        
+    
+    
+            var marker_af09cbe3cc98b56fc2483fd42e562d48 = L.marker(
+                [36.2915659709788, 50.006886582981615],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3e960bfd7a054ca01b51c77da702dc52 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_af09cbe3cc98b56fc2483fd42e562d48.setIcon(icon_3e960bfd7a054ca01b51c77da702dc52);
+        
+    
+        var popup_1ed570b5c14273f39715627c06cb9359 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_c402aa36c670d327f7766e1f870de27b = $(`<div id="html_c402aa36c670d327f7766e1f870de27b" style="width: 100.0%; height: 100.0%;">مسجد حضرت مهدی<br>Hazrat Mahdi Mosque<br>POINT (50.006886582981615 36.2915659709788)</div>`)[0];
+                popup_1ed570b5c14273f39715627c06cb9359.setContent(html_c402aa36c670d327f7766e1f870de27b);
+            
+        
+
+        marker_af09cbe3cc98b56fc2483fd42e562d48.bindPopup(popup_1ed570b5c14273f39715627c06cb9359)
+        ;
+
+        
+    
+    
+            var marker_03bae24108afc20578630a83382a0d75 = L.marker(
+                [36.2952032855706, 50.00798865660955],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_bdcc6340cdaa561d082e94cd61abc83d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_03bae24108afc20578630a83382a0d75.setIcon(icon_bdcc6340cdaa561d082e94cd61abc83d);
+        
+    
+        var popup_f4216fac6379ca2673a4accd0e14c563 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a1b5ea6a6daf5d5165fbbe986469990f = $(`<div id="html_a1b5ea6a6daf5d5165fbbe986469990f" style="width: 100.0%; height: 100.0%;">مسجد صاحب الزمان<br>Sahebazaman Mosque<br>POINT (50.00798865660955 36.2952032855706)</div>`)[0];
+                popup_f4216fac6379ca2673a4accd0e14c563.setContent(html_a1b5ea6a6daf5d5165fbbe986469990f);
+            
+        
+
+        marker_03bae24108afc20578630a83382a0d75.bindPopup(popup_f4216fac6379ca2673a4accd0e14c563)
+        ;
+
+        
+    
+    
+            var marker_9a708cbf21d86df881c5dac7dd3a25e5 = L.marker(
+                [36.321991448659084, 49.98693074842776],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3b3e72574778544d4c6cb31d9e8ca2c3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_9a708cbf21d86df881c5dac7dd3a25e5.setIcon(icon_3b3e72574778544d4c6cb31d9e8ca2c3);
+        
+    
+        var popup_29b32b96d662bb9326f8cf6dbbe1f424 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_557bd8d6983e03e5690200ab13aa233e = $(`<div id="html_557bd8d6983e03e5690200ab13aa233e" style="width: 100.0%; height: 100.0%;">مسجد مسلم بن عقیل<br>Moslem ebn Aghil Mosque<br>POINT (49.98693074842776 36.321991448659084)</div>`)[0];
+                popup_29b32b96d662bb9326f8cf6dbbe1f424.setContent(html_557bd8d6983e03e5690200ab13aa233e);
+            
+        
+
+        marker_9a708cbf21d86df881c5dac7dd3a25e5.bindPopup(popup_29b32b96d662bb9326f8cf6dbbe1f424)
+        ;
+
+        
+    
+    
+            var marker_a46ecf0ccc4d74e2270cea50c44dff56 = L.marker(
+                [36.31712040404389, 50.00071824355555],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_b7f20f03778d5fc28b5f9041d97fd45a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_a46ecf0ccc4d74e2270cea50c44dff56.setIcon(icon_b7f20f03778d5fc28b5f9041d97fd45a);
+        
+    
+        var popup_dacdabdbaaf2138e624ae8d542147431 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e22ca09db531e2b2b7af864b4f4a3282 = $(`<div id="html_e22ca09db531e2b2b7af864b4f4a3282" style="width: 100.0%; height: 100.0%;">مسجد امام هادی<br>Imam Hadi Mosque<br>POINT (50.00071824355555 36.31712040404389)</div>`)[0];
+                popup_dacdabdbaaf2138e624ae8d542147431.setContent(html_e22ca09db531e2b2b7af864b4f4a3282);
+            
+        
+
+        marker_a46ecf0ccc4d74e2270cea50c44dff56.bindPopup(popup_dacdabdbaaf2138e624ae8d542147431)
+        ;
+
+        
+    
+    
+            var marker_a74ada3dedcf01d248e12860fdae6748 = L.marker(
+                [36.31237869314739, 50.026064236494705],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_00eb447248d9d7af53342d7eac5b9cb5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_a74ada3dedcf01d248e12860fdae6748.setIcon(icon_00eb447248d9d7af53342d7eac5b9cb5);
+        
+    
+        var popup_369f8a3500e8b6277e3b3aae3ae670c4 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ba8cb02bd58c91e6a0355ecca6027556 = $(`<div id="html_ba8cb02bd58c91e6a0355ecca6027556" style="width: 100.0%; height: 100.0%;">مسجد فاطمه زهرا<br>Fatemeh Al-Zahra Mosque<br>POINT (50.026064236494705 36.31237869314739)</div>`)[0];
+                popup_369f8a3500e8b6277e3b3aae3ae670c4.setContent(html_ba8cb02bd58c91e6a0355ecca6027556);
+            
+        
+
+        marker_a74ada3dedcf01d248e12860fdae6748.bindPopup(popup_369f8a3500e8b6277e3b3aae3ae670c4)
+        ;
+
+        
+    
+    
+            var marker_1ad6bcdcbbec8931eaa68ba896cf8384 = L.marker(
+                [36.31017285803251, 50.020080534600424],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_4f0352e6af92c16dbfda77b1e7bd3fa5 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_1ad6bcdcbbec8931eaa68ba896cf8384.setIcon(icon_4f0352e6af92c16dbfda77b1e7bd3fa5);
+        
+    
+        var popup_54a88ce168ddc975eea93ff5e059df97 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_fd5e377cf335391b1a6e5d242e5ff334 = $(`<div id="html_fd5e377cf335391b1a6e5d242e5ff334" style="width: 100.0%; height: 100.0%;">مسجد صاحب الزمان<br>Sahebazaman Mosque<br>POINT (50.020080534600424 36.31017285803251)</div>`)[0];
+                popup_54a88ce168ddc975eea93ff5e059df97.setContent(html_fd5e377cf335391b1a6e5d242e5ff334);
+            
+        
+
+        marker_1ad6bcdcbbec8931eaa68ba896cf8384.bindPopup(popup_54a88ce168ddc975eea93ff5e059df97)
+        ;
+
+        
+    
+    
+            var marker_83db6c053edc570bf85d919465050b0e = L.marker(
+                [36.308082726669554, 50.0178773918557],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_13b977974e570ecb0eef6f30d18d886a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_83db6c053edc570bf85d919465050b0e.setIcon(icon_13b977974e570ecb0eef6f30d18d886a);
+        
+    
+        var popup_e603cc110b431a8776c67dc6924af788 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_2d1b1476f059f753b89fcea4c2508139 = $(`<div id="html_2d1b1476f059f753b89fcea4c2508139" style="width: 100.0%; height: 100.0%;">مسجد امام حسن عسگری<br>Imam Hasan Asgari Mosque<br>POINT (50.0178773918557 36.308082726669554)</div>`)[0];
+                popup_e603cc110b431a8776c67dc6924af788.setContent(html_2d1b1476f059f753b89fcea4c2508139);
+            
+        
+
+        marker_83db6c053edc570bf85d919465050b0e.bindPopup(popup_e603cc110b431a8776c67dc6924af788)
+        ;
+
+        
+    
+    
+            var marker_b27525c6633b5a3f2d78e4804a42a9ef = L.marker(
+                [36.244472170314104, 50.00679501237108],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_53b8d4bd879372571a83af6df154d7c4 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b27525c6633b5a3f2d78e4804a42a9ef.setIcon(icon_53b8d4bd879372571a83af6df154d7c4);
+        
+    
+        var popup_0550801839f9e8e0664224441665e9f0 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_89b578aba04943b670eba4ecbecf40b9 = $(`<div id="html_89b578aba04943b670eba4ecbecf40b9" style="width: 100.0%; height: 100.0%;">مسجد امام حسین<br>Imam Hosein Mosque<br>POINT (50.00679501237108 36.244472170314104)</div>`)[0];
+                popup_0550801839f9e8e0664224441665e9f0.setContent(html_89b578aba04943b670eba4ecbecf40b9);
+            
+        
+
+        marker_b27525c6633b5a3f2d78e4804a42a9ef.bindPopup(popup_0550801839f9e8e0664224441665e9f0)
+        ;
+
+        
+    
+    
+            var marker_2cc4192c40243b503658820526750965 = L.marker(
+                [36.24814339742096, 50.00558789356016],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_590911833d54a04b839a3089a232198a = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_2cc4192c40243b503658820526750965.setIcon(icon_590911833d54a04b839a3089a232198a);
+        
+    
+        var popup_400e32a93c28eac5a3fd3a7ce2421662 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_79f1b6ebab54ce2d452bb408b1aaffe6 = $(`<div id="html_79f1b6ebab54ce2d452bb408b1aaffe6" style="width: 100.0%; height: 100.0%;">مسجد جواد الائمه<br>JavadoAemeh Mosque<br>POINT (50.00558789356016 36.24814339742096)</div>`)[0];
+                popup_400e32a93c28eac5a3fd3a7ce2421662.setContent(html_79f1b6ebab54ce2d452bb408b1aaffe6);
+            
+        
+
+        marker_2cc4192c40243b503658820526750965.bindPopup(popup_400e32a93c28eac5a3fd3a7ce2421662)
+        ;
+
+        
+    
+    
+            var marker_fcbe29a4010ee2852d1c6f8b19ba6363 = L.marker(
+                [36.250331665386284, 50.00471235334238],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_da09e68b11f9642511965ab6c0f16506 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_fcbe29a4010ee2852d1c6f8b19ba6363.setIcon(icon_da09e68b11f9642511965ab6c0f16506);
+        
+    
+        var popup_202d6711001a71459381ac48568bb26d = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_0b9cdac11b51cc1ccea6d1e434a15993 = $(`<div id="html_0b9cdac11b51cc1ccea6d1e434a15993" style="width: 100.0%; height: 100.0%;">مسجد حسینی<br>Hossein Mosque<br>POINT (50.00471235334238 36.250331665386284)</div>`)[0];
+                popup_202d6711001a71459381ac48568bb26d.setContent(html_0b9cdac11b51cc1ccea6d1e434a15993);
+            
+        
+
+        marker_fcbe29a4010ee2852d1c6f8b19ba6363.bindPopup(popup_202d6711001a71459381ac48568bb26d)
+        ;
+
+        
+    
+    
+            var marker_57bf06b01e1718af99e51553df20c078 = L.marker(
+                [36.26114925528951, 49.99080321254382],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_d2f4809092b9c9a39657758816d80598 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_57bf06b01e1718af99e51553df20c078.setIcon(icon_d2f4809092b9c9a39657758816d80598);
+        
+    
+        var popup_4b52d5287cb118d433ea8d6da7ae3e49 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_9a5ea2e86d7ec1e9c02c3baa5f025046 = $(`<div id="html_9a5ea2e86d7ec1e9c02c3baa5f025046" style="width: 100.0%; height: 100.0%;">مسجد خواجه شهدا<br>Khajeh Shohada Mosque<br>POINT (49.99080321254382 36.26114925528951)</div>`)[0];
+                popup_4b52d5287cb118d433ea8d6da7ae3e49.setContent(html_9a5ea2e86d7ec1e9c02c3baa5f025046);
+            
+        
+
+        marker_57bf06b01e1718af99e51553df20c078.bindPopup(popup_4b52d5287cb118d433ea8d6da7ae3e49)
+        ;
+
+        
+    
+    
+            var marker_5416e4eca97b798515a0e72d3258164c = L.marker(
+                [36.25953530850777, 49.9851623680212],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_afcc4e0f1e7ec2341786f990c5b8c29f = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_5416e4eca97b798515a0e72d3258164c.setIcon(icon_afcc4e0f1e7ec2341786f990c5b8c29f);
+        
+    
+        var popup_b97ad78128d3319f1cf3bcd3bb9f2d02 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_bee87ecb817f1fb8b74fb34cca24074d = $(`<div id="html_bee87ecb817f1fb8b74fb34cca24074d" style="width: 100.0%; height: 100.0%;">مسجد حضرت فاطمه زهرا<br>Fatemeh Zahra Mosque<br>POINT (49.9851623680212 36.25953530850777)</div>`)[0];
+                popup_b97ad78128d3319f1cf3bcd3bb9f2d02.setContent(html_bee87ecb817f1fb8b74fb34cca24074d);
+            
+        
+
+        marker_5416e4eca97b798515a0e72d3258164c.bindPopup(popup_b97ad78128d3319f1cf3bcd3bb9f2d02)
+        ;
+
+        
+    
+    
+            var marker_0d649ddb4e367d49739424a11d3ade1c = L.marker(
+                [36.2621226049184, 49.99780899885943],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_d3f160340a4f341a47e3c04ae8bd8e04 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_0d649ddb4e367d49739424a11d3ade1c.setIcon(icon_d3f160340a4f341a47e3c04ae8bd8e04);
+        
+    
+        var popup_69faab12a83758f006d15db2a46b0c99 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_003afc8dd80fd055966762bf7c004180 = $(`<div id="html_003afc8dd80fd055966762bf7c004180" style="width: 100.0%; height: 100.0%;">مسجد آقا میرعبدالصمد تقوی<br>AghaMirAbdolSamad Taghavi Mosque<br>POINT (49.99780899885943 36.2621226049184)</div>`)[0];
+                popup_69faab12a83758f006d15db2a46b0c99.setContent(html_003afc8dd80fd055966762bf7c004180);
+            
+        
+
+        marker_0d649ddb4e367d49739424a11d3ade1c.bindPopup(popup_69faab12a83758f006d15db2a46b0c99)
+        ;
+
+        
+    
+    
+            var marker_b36b7d6b8441d11c89f3943f17e68047 = L.marker(
+                [36.26793363301575, 49.99670943509701],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_a40c42a533b01c58ce5351e1dbdec870 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b36b7d6b8441d11c89f3943f17e68047.setIcon(icon_a40c42a533b01c58ce5351e1dbdec870);
+        
+    
+        var popup_215ce2292666c5db18d7baeec8fe806c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_44d09594e61746afe953b7d7feb8766c = $(`<div id="html_44d09594e61746afe953b7d7feb8766c" style="width: 100.0%; height: 100.0%;">مسجد شهید ثالث<br>Shahid thales Mosque<br>POINT (49.99670943509701 36.26793363301575)</div>`)[0];
+                popup_215ce2292666c5db18d7baeec8fe806c.setContent(html_44d09594e61746afe953b7d7feb8766c);
+            
+        
+
+        marker_b36b7d6b8441d11c89f3943f17e68047.bindPopup(popup_215ce2292666c5db18d7baeec8fe806c)
+        ;
+
+        
+    
+    
+            var marker_ec50a29fad41d38e70be2cea6bfe5ee0 = L.marker(
+                [36.265797330002755, 49.99359284886826],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_037ece5ccf9d439e582fe162b9f205f1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_ec50a29fad41d38e70be2cea6bfe5ee0.setIcon(icon_037ece5ccf9d439e582fe162b9f205f1);
+        
+    
+        var popup_d16921005160d088e634f3fdf43e7944 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_ee18d5eff115728a4f2ff1f3285027ae = $(`<div id="html_ee18d5eff115728a4f2ff1f3285027ae" style="width: 100.0%; height: 100.0%;">مسجد چهارده معصوم<br>Chahardah Masoum Mosque<br>POINT (49.99359284886826 36.265797330002755)</div>`)[0];
+                popup_d16921005160d088e634f3fdf43e7944.setContent(html_ee18d5eff115728a4f2ff1f3285027ae);
+            
+        
+
+        marker_ec50a29fad41d38e70be2cea6bfe5ee0.bindPopup(popup_d16921005160d088e634f3fdf43e7944)
+        ;
+
+        
+    
+    
+            var marker_4c547c3001f803f17fbe2234bc5ae779 = L.marker(
+                [36.26721868425566, 49.9931181383814],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_098b1fa10510718fb0effa5e61714ade = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4c547c3001f803f17fbe2234bc5ae779.setIcon(icon_098b1fa10510718fb0effa5e61714ade);
+        
+    
+        var popup_11118507f99faddea7ff313a09230ff1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_cce0df81d07338e1a761eca7a55bfb61 = $(`<div id="html_cce0df81d07338e1a761eca7a55bfb61" style="width: 100.0%; height: 100.0%;">مسجد حاج غلامحسین توحید<br>Haj GholamHosein Mosque<br>POINT (49.9931181383814 36.26721868425566)</div>`)[0];
+                popup_11118507f99faddea7ff313a09230ff1.setContent(html_cce0df81d07338e1a761eca7a55bfb61);
+            
+        
+
+        marker_4c547c3001f803f17fbe2234bc5ae779.bindPopup(popup_11118507f99faddea7ff313a09230ff1)
+        ;
+
+        
+    
+    
+            var marker_3f6b91eb123d8c654563eead684e8a67 = L.marker(
+                [36.270693559070324, 49.99499547969556],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_3900dad5a609b6dce04c702cae3559f3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_3f6b91eb123d8c654563eead684e8a67.setIcon(icon_3900dad5a609b6dce04c702cae3559f3);
+        
+    
+        var popup_6fdc0b18e7fc428caa2929c420d979b1 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_05f4e2316b4f1749253e23a779c4aed2 = $(`<div id="html_05f4e2316b4f1749253e23a779c4aed2" style="width: 100.0%; height: 100.0%;">مسجد حجتی<br>Hojjati Mosque<br>POINT (49.99499547969556 36.270693559070324)</div>`)[0];
+                popup_6fdc0b18e7fc428caa2929c420d979b1.setContent(html_05f4e2316b4f1749253e23a779c4aed2);
+            
+        
+
+        marker_3f6b91eb123d8c654563eead684e8a67.bindPopup(popup_6fdc0b18e7fc428caa2929c420d979b1)
+        ;
+
+        
+    
+    
+            var marker_0b4f4d877251df9209b277fe344b3d6a = L.marker(
+                [36.27429883914203, 49.994051962166246],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_6d70f0c245a6a9b82c9a45715422f781 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_0b4f4d877251df9209b277fe344b3d6a.setIcon(icon_6d70f0c245a6a9b82c9a45715422f781);
+        
+    
+        var popup_edc720ad792fb951be34c2665a088575 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_f57b19dbba68c176d7ab776cbfa37da2 = $(`<div id="html_f57b19dbba68c176d7ab776cbfa37da2" style="width: 100.0%; height: 100.0%;">مسجد محمدخان بیگ<br>Mohammad Khan Beg Mosque<br>POINT (49.994051962166246 36.27429883914203)</div>`)[0];
+                popup_edc720ad792fb951be34c2665a088575.setContent(html_f57b19dbba68c176d7ab776cbfa37da2);
+            
+        
+
+        marker_0b4f4d877251df9209b277fe344b3d6a.bindPopup(popup_edc720ad792fb951be34c2665a088575)
+        ;
+
+        
+    
+    
+            var marker_554faf83e94a35d1644d2e7eba2bcc9a = L.marker(
+                [36.27478787104953, 49.997223100037516],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_db5da4ec9a90c91b15074173ffed5e4d = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_554faf83e94a35d1644d2e7eba2bcc9a.setIcon(icon_db5da4ec9a90c91b15074173ffed5e4d);
+        
+    
+        var popup_b66308a85c93dc7a1f499984ad772a96 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_b46422999ffd0da7b7f68a7f2c9db0bf = $(`<div id="html_b46422999ffd0da7b7f68a7f2c9db0bf" style="width: 100.0%; height: 100.0%;">مسجد ملکی جنوبی<br>Maleki Jonoubi Mosque<br>POINT (49.997223100037516 36.27478787104953)</div>`)[0];
+                popup_b66308a85c93dc7a1f499984ad772a96.setContent(html_b46422999ffd0da7b7f68a7f2c9db0bf);
+            
+        
+
+        marker_554faf83e94a35d1644d2e7eba2bcc9a.bindPopup(popup_b66308a85c93dc7a1f499984ad772a96)
+        ;
+
+        
+    
+    
+            var marker_5733cd2e83785698e6e3b5303a5e4ce8 = L.marker(
+                [36.2753506590197, 49.997455176082546],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_9ec70b4fd1526d677dccad8adae90b55 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_5733cd2e83785698e6e3b5303a5e4ce8.setIcon(icon_9ec70b4fd1526d677dccad8adae90b55);
+        
+    
+        var popup_01a6e3e82642f8514b5e42f1a38e02be = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_e0d8e93962db97ad9c2feaccde5b7b6c = $(`<div id="html_e0d8e93962db97ad9c2feaccde5b7b6c" style="width: 100.0%; height: 100.0%;">مسجد ملکی شمالی<br>Maleki Shomali Mosque<br>POINT (49.997455176082546 36.2753506590197)</div>`)[0];
+                popup_01a6e3e82642f8514b5e42f1a38e02be.setContent(html_e0d8e93962db97ad9c2feaccde5b7b6c);
+            
+        
+
+        marker_5733cd2e83785698e6e3b5303a5e4ce8.bindPopup(popup_01a6e3e82642f8514b5e42f1a38e02be)
+        ;
+
+        
+    
+    
+            var marker_b9ea9087293142444e2f010e61a6a43d = L.marker(
+                [36.292979821613, 49.99155745178975],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_7f9c9c2a6deca0ee446473d7671fb560 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_b9ea9087293142444e2f010e61a6a43d.setIcon(icon_7f9c9c2a6deca0ee446473d7671fb560);
+        
+    
+        var popup_63dfa5b900f226e52b58701826f31ffd = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3e5a377f1f8d0ba966769fb1e39dc82e = $(`<div id="html_3e5a377f1f8d0ba966769fb1e39dc82e" style="width: 100.0%; height: 100.0%;">حسینیه مسلم ابن عقیل<br>Molem ebn Aghil Hosseinieh<br>POINT (49.99155745178975 36.292979821613)</div>`)[0];
+                popup_63dfa5b900f226e52b58701826f31ffd.setContent(html_3e5a377f1f8d0ba966769fb1e39dc82e);
+            
+        
+
+        marker_b9ea9087293142444e2f010e61a6a43d.bindPopup(popup_63dfa5b900f226e52b58701826f31ffd)
+        ;
+
+        
+    
+    
+            var marker_4f8f88615f341a5201db039e5ebabd6c = L.marker(
+                [36.318034296696894, 50.02642825762715],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_e142bb537522682f2e4aef6e2df38de3 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_4f8f88615f341a5201db039e5ebabd6c.setIcon(icon_e142bb537522682f2e4aef6e2df38de3);
+        
+    
+        var popup_e74f6658997cf3886999f5a653a5ab01 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_628f58bb35a931c0ee26eaaf37349362 = $(`<div id="html_628f58bb35a931c0ee26eaaf37349362" style="width: 100.0%; height: 100.0%;">حسینیه یادگار امام<br>Yadegar Imam Hosseinieh<br>POINT (50.02642825762715 36.318034296696894)</div>`)[0];
+                popup_e74f6658997cf3886999f5a653a5ab01.setContent(html_628f58bb35a931c0ee26eaaf37349362);
+            
+        
+
+        marker_4f8f88615f341a5201db039e5ebabd6c.bindPopup(popup_e74f6658997cf3886999f5a653a5ab01)
+        ;
+
+        
+    
+    
+            var marker_ad45dc6c17a94db08cd5a311a3facfb5 = L.marker(
+                [36.26834205433692, 49.99619658447521],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_cbd4a00e16221f04a8843bf1abcb51d1 = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_ad45dc6c17a94db08cd5a311a3facfb5.setIcon(icon_cbd4a00e16221f04a8843bf1abcb51d1);
+        
+    
+        var popup_5be667bfde920fb07c24c92305bf1100 = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_a015a8be8d03f60daa2229af70917865 = $(`<div id="html_a015a8be8d03f60daa2229af70917865" style="width: 100.0%; height: 100.0%;">مسجد شهید آیت اله دستغیب<br>Dastgheyb Mosque<br>POINT (49.99619658447521 36.26834205433692)</div>`)[0];
+                popup_5be667bfde920fb07c24c92305bf1100.setContent(html_a015a8be8d03f60daa2229af70917865);
+            
+        
+
+        marker_ad45dc6c17a94db08cd5a311a3facfb5.bindPopup(popup_5be667bfde920fb07c24c92305bf1100)
+        ;
+
+        
+    
+    
+            var marker_8634bfba329acef6304c0fba136ce08f = L.marker(
+                [36.261834931590506, 50.00017145901467],
+                {}
+            ).addTo(map_817c31e9e4e365adbb54f66642ddd291);
+        
+    
+            var icon_4cd6a58f3462b991fafeb6f5de38f3fb = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "fa-solid fa-mosque", "iconColor": "white", "markerColor": "darkpurple", "prefix": "fa"}
+            );
+            marker_8634bfba329acef6304c0fba136ce08f.setIcon(icon_4cd6a58f3462b991fafeb6f5de38f3fb);
+        
+    
+        var popup_00bf748097fbdcf0dfe643382d2c0c4c = L.popup({"maxWidth": "100%"});
+
+        
+            
+                var html_3bc19172477b7ae5bdc8856583d8baad = $(`<div id="html_3bc19172477b7ae5bdc8856583d8baad" style="width: 100.0%; height: 100.0%;">حسینیه آقاسیدجمال<br>Agha Seyyed Jamal Hosseinieh<br>POINT (50.00017145901467 36.261834931590506)</div>`)[0];
+                popup_00bf748097fbdcf0dfe643382d2c0c4c.setContent(html_3bc19172477b7ae5bdc8856583d8baad);
+            
+        
+
+        marker_8634bfba329acef6304c0fba136ce08f.bindPopup(popup_00bf748097fbdcf0dfe643382d2c0c4c)
+        ;
+
+        
+    
+</script>
+</html>

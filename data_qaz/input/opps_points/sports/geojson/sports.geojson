@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "ورزشگاه شهید رجایی", "name:fa": "ورزشگاه شهید رجایی", "name:en": "Shahid Rajaei Stadium", "sport": null, "building": null, "leisure": "stadium", "lat": 36.267123037616017, "lon": 50.02201261762233 }, "geometry": { "type": "Point", "coordinates": [ 50.02201261762233, 36.267123037616017 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه ورزشی کانون رشد", "name:fa": null, "name:en": "Kanoon Roshd Sport Complex", "sport": null, "building": "yes", "leisure": "sports_centre", "lat": 36.325188866705361, "lon": 49.994050296009327 }, "geometry": { "type": "Point", "coordinates": [ 49.994050296009327, 36.325188866705361 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه ورزشی معلم", "name:fa": null, "name:en": "Moallem Sport Cpmplex", "sport": "running", "building": null, "leisure": "sports_centre", "lat": 36.258497303310918, "lon": 49.995274796008523 }, "geometry": { "type": "Point", "coordinates": [ 49.995274796008523, 36.258497303310918 ] } },
+{ "type": "Feature", "properties": { "name": "مجتمع ورزشی الغدیر", "name:fa": null, "name:en": "Ghadir Sport complex", "sport": null, "building": null, "leisure": "sports_centre", "lat": 36.291117378463042, "lon": 50.003311216945406 }, "geometry": { "type": "Point", "coordinates": [ 50.003311216945406, 36.291117378463042 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه فرهنگی ورزشی چمران", "name:fa": null, "name:en": "Chamran Sport Complex", "sport": null, "building": "yes", "leisure": "sports_centre", "lat": 36.308355703640089, "lon": 50.005050144437369 }, "geometry": { "type": "Point", "coordinates": [ 50.005050144437369, 36.308355703640089 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه ورزشی ریحانه حضرت رسول", "name:fa": null, "name:en": "Reyhane Hazrat Rasoul Sport complex", "sport": null, "building": null, "leisure": null, "lat": 36.313472243236859, "lon": 50.023127349157043 }, "geometry": { "type": "Point", "coordinates": [ 50.023127349157043, 36.313472243236859 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه ورزشی خلیج فارس", "name:fa": null, "name:en": "Persian Gulf sport complex", "sport": null, "building": null, "leisure": null, "lat": 36.315660837105654, "lon": 49.986720025732467 }, "geometry": { "type": "Point", "coordinates": [ 49.986720025732467, 36.315660837105654 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه ورزشی شهدای مدافع حرم", "name:fa": null, "name:en": "Shohadaye Modafe e Haram sport complex", "sport": null, "building": null, "leisure": null, "lat": 36.302004717733581, "lon": 50.003129158074671 }, "geometry": { "type": "Point", "coordinates": [ 50.003129158074671, 36.302004717733581 ] } },
+{ "type": "Feature", "properties": { "name": "مجموعه ورزشی کوثر", "name:fa": null, "name:en": "Kowsar Sport Complex", "sport": null, "building": null, "leisure": null, "lat": 36.270681588239675, "lon": 50.014470072445036 }, "geometry": { "type": "Point", "coordinates": [ 50.014470072445036, 36.270681588239675 ] } }
+]
+}

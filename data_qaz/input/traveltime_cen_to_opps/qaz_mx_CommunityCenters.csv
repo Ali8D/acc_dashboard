@@ -1,0 +1,736 @@
+from_id,to_id,travel_time
+22,Bano Cultural Center,26
+22,Pardis Cultural Center,39
+22,HadiAbad Cultural Center,46
+22,Navab Safavi Cultural center & Library,34
+22,Rose Cultural center,50
+22,Mohamadieh Cultural center & Library,45
+22,Specialized Family Cultural Center (Montazeri),55
+31,Bano Cultural Center,46
+31,Pardis Cultural Center,60
+31,HadiAbad Cultural Center,63
+31,Navab Safavi Cultural center & Library,49
+31,Rose Cultural center,8
+31,Mohamadieh Cultural center & Library,25
+31,Specialized Family Cultural Center (Montazeri),38
+32,Bano Cultural Center,46
+32,Pardis Cultural Center,60
+32,HadiAbad Cultural Center,61
+32,Navab Safavi Cultural center & Library,48
+32,Rose Cultural center,12
+32,Mohamadieh Cultural center & Library,25
+32,Specialized Family Cultural Center (Montazeri),36
+33,Bano Cultural Center,51
+33,Pardis Cultural Center,65
+33,HadiAbad Cultural Center,56
+33,Navab Safavi Cultural center & Library,47
+33,Rose Cultural center,18
+33,Mohamadieh Cultural center & Library,26
+33,Specialized Family Cultural Center (Montazeri),28
+36,Bano Cultural Center,37
+36,Pardis Cultural Center,50
+36,HadiAbad Cultural Center,53
+36,Navab Safavi Cultural center & Library,45
+36,Rose Cultural center,22
+36,Mohamadieh Cultural center & Library,18
+36,Specialized Family Cultural Center (Montazeri),31
+37,Bano Cultural Center,41
+37,Pardis Cultural Center,55
+37,HadiAbad Cultural Center,48
+37,Navab Safavi Cultural center & Library,39
+37,Rose Cultural center,16
+37,Mohamadieh Cultural center & Library,16
+37,Specialized Family Cultural Center (Montazeri),23
+38,Bano Cultural Center,40
+38,Pardis Cultural Center,54
+38,HadiAbad Cultural Center,44
+38,Navab Safavi Cultural center & Library,35
+38,Rose Cultural center,26
+38,Mohamadieh Cultural center & Library,18
+38,Specialized Family Cultural Center (Montazeri),15
+39,Bano Cultural Center,39
+39,Pardis Cultural Center,55
+39,HadiAbad Cultural Center,40
+39,Navab Safavi Cultural center & Library,31
+39,Rose Cultural center,35
+39,Mohamadieh Cultural center & Library,23
+39,Specialized Family Cultural Center (Montazeri),7
+40,Bano Cultural Center,45
+40,Pardis Cultural Center,63
+40,HadiAbad Cultural Center,44
+40,Navab Safavi Cultural center & Library,35
+40,Rose Cultural center,44
+40,Mohamadieh Cultural center & Library,31
+40,Specialized Family Cultural Center (Montazeri),16
+41,Bano Cultural Center,35
+41,Pardis Cultural Center,48
+41,HadiAbad Cultural Center,52
+41,Navab Safavi Cultural center & Library,43
+41,Rose Cultural center,24
+41,Mohamadieh Cultural center & Library,11
+41,Specialized Family Cultural Center (Montazeri),31
+42,Bano Cultural Center,40
+42,Pardis Cultural Center,54
+42,HadiAbad Cultural Center,45
+42,Navab Safavi Cultural center & Library,35
+42,Rose Cultural center,25
+42,Mohamadieh Cultural center & Library,15
+42,Specialized Family Cultural Center (Montazeri),13
+44,Bano Cultural Center,42
+44,Pardis Cultural Center,59
+44,HadiAbad Cultural Center,42
+44,Navab Safavi Cultural center & Library,32
+44,Rose Cultural center,38
+44,Mohamadieh Cultural center & Library,26
+44,Specialized Family Cultural Center (Montazeri),4
+45,Bano Cultural Center,27
+45,Pardis Cultural Center,40
+45,HadiAbad Cultural Center,45
+45,Navab Safavi Cultural center & Library,37
+45,Rose Cultural center,25
+45,Mohamadieh Cultural center & Library,16
+45,Specialized Family Cultural Center (Montazeri),36
+46,Bano Cultural Center,30
+46,Pardis Cultural Center,43
+46,HadiAbad Cultural Center,49
+46,Navab Safavi Cultural center & Library,42
+46,Rose Cultural center,36
+46,Mohamadieh Cultural center & Library,29
+46,Specialized Family Cultural Center (Montazeri),47
+47,Bano Cultural Center,38
+47,Pardis Cultural Center,52
+47,HadiAbad Cultural Center,50
+47,Navab Safavi Cultural center & Library,40
+47,Rose Cultural center,30
+47,Mohamadieh Cultural center & Library,8
+47,Specialized Family Cultural Center (Montazeri),30
+48,Bano Cultural Center,28
+48,Pardis Cultural Center,42
+48,HadiAbad Cultural Center,40
+48,Navab Safavi Cultural center & Library,29
+48,Rose Cultural center,26
+48,Mohamadieh Cultural center & Library,16
+48,Specialized Family Cultural Center (Montazeri),27
+49,Bano Cultural Center,33
+49,Pardis Cultural Center,48
+49,HadiAbad Cultural Center,36
+49,Navab Safavi Cultural center & Library,25
+49,Rose Cultural center,28
+49,Mohamadieh Cultural center & Library,14
+49,Specialized Family Cultural Center (Montazeri),21
+50,Bano Cultural Center,35
+50,Pardis Cultural Center,49
+50,HadiAbad Cultural Center,47
+50,Navab Safavi Cultural center & Library,37
+50,Rose Cultural center,30
+50,Mohamadieh Cultural center & Library,18
+50,Specialized Family Cultural Center (Montazeri),35
+51,Bano Cultural Center,28
+51,Pardis Cultural Center,42
+51,HadiAbad Cultural Center,42
+51,Navab Safavi Cultural center & Library,31
+51,Rose Cultural center,28
+51,Mohamadieh Cultural center & Library,16
+51,Specialized Family Cultural Center (Montazeri),26
+52,Bano Cultural Center,36
+52,Pardis Cultural Center,57
+52,HadiAbad Cultural Center,34
+52,Navab Safavi Cultural center & Library,20
+52,Rose Cultural center,39
+52,Mohamadieh Cultural center & Library,25
+52,Specialized Family Cultural Center (Montazeri),17
+53,Bano Cultural Center,43
+53,Pardis Cultural Center,63
+53,HadiAbad Cultural Center,39
+53,Navab Safavi Cultural center & Library,30
+53,Rose Cultural center,44
+53,Mohamadieh Cultural center & Library,31
+53,Specialized Family Cultural Center (Montazeri),19
+54,Bano Cultural Center,24
+54,Pardis Cultural Center,37
+54,HadiAbad Cultural Center,41
+54,Navab Safavi Cultural center & Library,33
+54,Rose Cultural center,37
+54,Mohamadieh Cultural center & Library,32
+54,Specialized Family Cultural Center (Montazeri),48
+55,Bano Cultural Center,36
+55,Pardis Cultural Center,50
+55,HadiAbad Cultural Center,44
+55,Navab Safavi Cultural center & Library,29
+55,Rose Cultural center,37
+55,Mohamadieh Cultural center & Library,29
+55,Specialized Family Cultural Center (Montazeri),40
+56,Bano Cultural Center,31
+56,Pardis Cultural Center,45
+56,HadiAbad Cultural Center,42
+56,Navab Safavi Cultural center & Library,28
+56,Rose Cultural center,32
+56,Mohamadieh Cultural center & Library,20
+56,Specialized Family Cultural Center (Montazeri),30
+57,Bano Cultural Center,34
+57,Pardis Cultural Center,48
+57,HadiAbad Cultural Center,45
+57,Navab Safavi Cultural center & Library,33
+57,Rose Cultural center,33
+57,Mohamadieh Cultural center & Library,24
+57,Specialized Family Cultural Center (Montazeri),38
+59,Bano Cultural Center,27
+59,Pardis Cultural Center,41
+59,HadiAbad Cultural Center,36
+59,Navab Safavi Cultural center & Library,21
+59,Rose Cultural center,24
+59,Mohamadieh Cultural center & Library,18
+59,Specialized Family Cultural Center (Montazeri),26
+60,Bano Cultural Center,30
+60,Pardis Cultural Center,44
+60,HadiAbad Cultural Center,43
+60,Navab Safavi Cultural center & Library,28
+60,Rose Cultural center,31
+60,Mohamadieh Cultural center & Library,19
+60,Specialized Family Cultural Center (Montazeri),29
+61,Bano Cultural Center,29
+61,Pardis Cultural Center,46
+61,HadiAbad Cultural Center,32
+61,Navab Safavi Cultural center & Library,16
+61,Rose Cultural center,29
+61,Mohamadieh Cultural center & Library,24
+61,Specialized Family Cultural Center (Montazeri),29
+62,Bano Cultural Center,30
+62,Pardis Cultural Center,52
+62,HadiAbad Cultural Center,31
+62,Navab Safavi Cultural center & Library,12
+62,Rose Cultural center,39
+62,Mohamadieh Cultural center & Library,29
+62,Specialized Family Cultural Center (Montazeri),28
+63,Bano Cultural Center,26
+63,Pardis Cultural Center,48
+63,HadiAbad Cultural Center,28
+63,Navab Safavi Cultural center & Library,10
+63,Rose Cultural center,44
+63,Mohamadieh Cultural center & Library,33
+63,Specialized Family Cultural Center (Montazeri),27
+64,Bano Cultural Center,30
+64,Pardis Cultural Center,45
+64,HadiAbad Cultural Center,43
+64,Navab Safavi Cultural center & Library,30
+64,Rose Cultural center,38
+64,Mohamadieh Cultural center & Library,28
+64,Specialized Family Cultural Center (Montazeri),38
+65,Bano Cultural Center,29
+65,Pardis Cultural Center,42
+65,HadiAbad Cultural Center,41
+65,Navab Safavi Cultural center & Library,36
+65,Rose Cultural center,41
+65,Mohamadieh Cultural center & Library,37
+65,Specialized Family Cultural Center (Montazeri),51
+66,Bano Cultural Center,27
+66,Pardis Cultural Center,41
+66,HadiAbad Cultural Center,41
+66,Navab Safavi Cultural center & Library,29
+66,Rose Cultural center,40
+66,Mohamadieh Cultural center & Library,27
+66,Specialized Family Cultural Center (Montazeri),38
+67,Bano Cultural Center,33
+67,Pardis Cultural Center,46
+67,HadiAbad Cultural Center,43
+67,Navab Safavi Cultural center & Library,38
+67,Rose Cultural center,45
+67,Mohamadieh Cultural center & Library,38
+67,Specialized Family Cultural Center (Montazeri),50
+68,Bano Cultural Center,23
+68,Pardis Cultural Center,37
+68,HadiAbad Cultural Center,37
+68,Navab Safavi Cultural center & Library,25
+68,Rose Cultural center,35
+68,Mohamadieh Cultural center & Library,27
+68,Specialized Family Cultural Center (Montazeri),37
+69,Bano Cultural Center,26
+69,Pardis Cultural Center,40
+69,HadiAbad Cultural Center,33
+69,Navab Safavi Cultural center & Library,17
+69,Rose Cultural center,37
+69,Mohamadieh Cultural center & Library,28
+69,Specialized Family Cultural Center (Montazeri),35
+70,Bano Cultural Center,32
+70,Pardis Cultural Center,46
+70,HadiAbad Cultural Center,42
+70,Navab Safavi Cultural center & Library,37
+70,Rose Cultural center,45
+70,Mohamadieh Cultural center & Library,37
+70,Specialized Family Cultural Center (Montazeri),48
+71,Bano Cultural Center,29
+71,Pardis Cultural Center,45
+71,HadiAbad Cultural Center,39
+71,Navab Safavi Cultural center & Library,35
+71,Rose Cultural center,47
+71,Mohamadieh Cultural center & Library,36
+71,Specialized Family Cultural Center (Montazeri),47
+72,Bano Cultural Center,26
+72,Pardis Cultural Center,42
+72,HadiAbad Cultural Center,37
+72,Navab Safavi Cultural center & Library,32
+72,Rose Cultural center,45
+72,Mohamadieh Cultural center & Library,33
+72,Specialized Family Cultural Center (Montazeri),43
+73,Bano Cultural Center,28
+73,Pardis Cultural Center,48
+73,HadiAbad Cultural Center,26
+73,Navab Safavi Cultural center & Library,7
+73,Rose Cultural center,41
+73,Mohamadieh Cultural center & Library,35
+73,Specialized Family Cultural Center (Montazeri),36
+74,Bano Cultural Center,25
+74,Pardis Cultural Center,47
+74,HadiAbad Cultural Center,33
+74,Navab Safavi Cultural center & Library,15
+74,Rose Cultural center,52
+74,Mohamadieh Cultural center & Library,41
+74,Specialized Family Cultural Center (Montazeri),35
+75,Bano Cultural Center,21
+75,Pardis Cultural Center,34
+75,HadiAbad Cultural Center,37
+75,Navab Safavi Cultural center & Library,30
+75,Rose Cultural center,38
+75,Mohamadieh Cultural center & Library,33
+75,Specialized Family Cultural Center (Montazeri),47
+76,Bano Cultural Center,27
+76,Pardis Cultural Center,49
+76,HadiAbad Cultural Center,27
+76,Navab Safavi Cultural center & Library,14
+76,Rose Cultural center,53
+76,Mohamadieh Cultural center & Library,43
+76,Specialized Family Cultural Center (Montazeri),38
+77,Bano Cultural Center,23
+77,Pardis Cultural Center,37
+77,HadiAbad Cultural Center,35
+77,Navab Safavi Cultural center & Library,29
+77,Rose Cultural center,45
+77,Mohamadieh Cultural center & Library,32
+77,Specialized Family Cultural Center (Montazeri),43
+78,Bano Cultural Center,24
+78,Pardis Cultural Center,38
+78,HadiAbad Cultural Center,28
+78,Navab Safavi Cultural center & Library,20
+78,Rose Cultural center,44
+78,Mohamadieh Cultural center & Library,32
+78,Specialized Family Cultural Center (Montazeri),41
+79,Bano Cultural Center,26
+79,Pardis Cultural Center,43
+79,HadiAbad Cultural Center,22
+79,Navab Safavi Cultural center & Library,13
+79,Rose Cultural center,50
+79,Mohamadieh Cultural center & Library,39
+79,Specialized Family Cultural Center (Montazeri),41
+80,Bano Cultural Center,29
+80,Pardis Cultural Center,51
+80,HadiAbad Cultural Center,24
+80,Navab Safavi Cultural center & Library,7
+80,Rose Cultural center,50
+80,Mohamadieh Cultural center & Library,42
+80,Specialized Family Cultural Center (Montazeri),39
+81,Bano Cultural Center,25
+81,Pardis Cultural Center,38
+81,HadiAbad Cultural Center,42
+81,Navab Safavi Cultural center & Library,33
+81,Rose Cultural center,44
+81,Mohamadieh Cultural center & Library,40
+81,Specialized Family Cultural Center (Montazeri),51
+82,Bano Cultural Center,22
+82,Pardis Cultural Center,36
+82,HadiAbad Cultural Center,37
+82,Navab Safavi Cultural center & Library,30
+82,Rose Cultural center,46
+82,Mohamadieh Cultural center & Library,39
+82,Specialized Family Cultural Center (Montazeri),48
+83,Bano Cultural Center,17
+83,Pardis Cultural Center,33
+83,HadiAbad Cultural Center,30
+83,Navab Safavi Cultural center & Library,29
+83,Rose Cultural center,44
+83,Mohamadieh Cultural center & Library,35
+83,Specialized Family Cultural Center (Montazeri),44
+84,Bano Cultural Center,25
+84,Pardis Cultural Center,38
+84,HadiAbad Cultural Center,45
+84,Navab Safavi Cultural center & Library,34
+84,Rose Cultural center,48
+84,Mohamadieh Cultural center & Library,44
+84,Specialized Family Cultural Center (Montazeri),54
+85,Bano Cultural Center,16
+85,Pardis Cultural Center,33
+85,HadiAbad Cultural Center,21
+85,Navab Safavi Cultural center & Library,28
+85,Rose Cultural center,47
+85,Mohamadieh Cultural center & Library,39
+85,Specialized Family Cultural Center (Montazeri),45
+86,Bano Cultural Center,11
+86,Pardis Cultural Center,29
+86,HadiAbad Cultural Center,30
+86,Navab Safavi Cultural center & Library,26
+86,Rose Cultural center,46
+86,Mohamadieh Cultural center & Library,39
+86,Specialized Family Cultural Center (Montazeri),45
+87,Bano Cultural Center,10
+87,Pardis Cultural Center,31
+87,HadiAbad Cultural Center,37
+87,Navab Safavi Cultural center & Library,31
+87,Rose Cultural center,42
+87,Mohamadieh Cultural center & Library,40
+87,Specialized Family Cultural Center (Montazeri),49
+88,Bano Cultural Center,19
+88,Pardis Cultural Center,34
+88,HadiAbad Cultural Center,38
+88,Navab Safavi Cultural center & Library,29
+88,Rose Cultural center,45
+88,Mohamadieh Cultural center & Library,41
+88,Specialized Family Cultural Center (Montazeri),49
+89,Bano Cultural Center,5
+89,Pardis Cultural Center,30
+89,HadiAbad Cultural Center,23
+89,Navab Safavi Cultural center & Library,33
+89,Rose Cultural center,45
+89,Mohamadieh Cultural center & Library,39
+89,Specialized Family Cultural Center (Montazeri),48
+90,Bano Cultural Center,30
+90,Pardis Cultural Center,46
+90,HadiAbad Cultural Center,13
+90,Navab Safavi Cultural center & Library,22
+90,Rose Cultural center,54
+90,Mohamadieh Cultural center & Library,48
+90,Specialized Family Cultural Center (Montazeri),46
+91,Bano Cultural Center,25
+91,Pardis Cultural Center,43
+91,HadiAbad Cultural Center,8
+91,Navab Safavi Cultural center & Library,24
+91,Rose Cultural center,57
+91,Mohamadieh Cultural center & Library,49
+91,Specialized Family Cultural Center (Montazeri),48
+92,Bano Cultural Center,28
+92,Pardis Cultural Center,41
+92,HadiAbad Cultural Center,53
+92,Navab Safavi Cultural center & Library,48
+92,Rose Cultural center,52
+92,Mohamadieh Cultural center & Library,49
+92,Specialized Family Cultural Center (Montazeri),62
+93,Bano Cultural Center,24
+93,Pardis Cultural Center,34
+93,HadiAbad Cultural Center,48
+93,Navab Safavi Cultural center & Library,43
+93,Rose Cultural center,49
+93,Mohamadieh Cultural center & Library,45
+93,Specialized Family Cultural Center (Montazeri),57
+94,Bano Cultural Center,12
+94,Pardis Cultural Center,36
+94,HadiAbad Cultural Center,16
+94,Navab Safavi Cultural center & Library,31
+94,Rose Cultural center,53
+94,Mohamadieh Cultural center & Library,47
+94,Specialized Family Cultural Center (Montazeri),51
+95,Bano Cultural Center,15
+95,Pardis Cultural Center,28
+95,HadiAbad Cultural Center,30
+95,Navab Safavi Cultural center & Library,41
+95,Rose Cultural center,51
+95,Mohamadieh Cultural center & Library,45
+95,Specialized Family Cultural Center (Montazeri),55
+96,Bano Cultural Center,19
+96,Pardis Cultural Center,31
+96,HadiAbad Cultural Center,43
+96,Navab Safavi Cultural center & Library,46
+96,Rose Cultural center,52
+96,Mohamadieh Cultural center & Library,46
+96,Specialized Family Cultural Center (Montazeri),58
+97,Bano Cultural Center,34
+97,Pardis Cultural Center,53
+97,HadiAbad Cultural Center,20
+97,Navab Safavi Cultural center & Library,32
+97,Rose Cultural center,66
+97,Mohamadieh Cultural center & Library,57
+97,Specialized Family Cultural Center (Montazeri),56
+99,Bano Cultural Center,27
+99,Pardis Cultural Center,27
+99,HadiAbad Cultural Center,44
+99,Navab Safavi Cultural center & Library,49
+99,Rose Cultural center,58
+99,Mohamadieh Cultural center & Library,53
+99,Specialized Family Cultural Center (Montazeri),66
+100,Bano Cultural Center,38
+100,Pardis Cultural Center,48
+100,HadiAbad Cultural Center,28
+100,Navab Safavi Cultural center & Library,34
+100,Rose Cultural center,69
+100,Mohamadieh Cultural center & Library,60
+100,Specialized Family Cultural Center (Montazeri),59
+98,Bano Cultural Center,31
+98,Pardis Cultural Center,38
+98,HadiAbad Cultural Center,23
+98,Navab Safavi Cultural center & Library,29
+98,Rose Cultural center,64
+98,Mohamadieh Cultural center & Library,55
+98,Specialized Family Cultural Center (Montazeri),54
+101,Bano Cultural Center,37
+101,Pardis Cultural Center,33
+101,HadiAbad Cultural Center,59
+101,Navab Safavi Cultural center & Library,54
+101,Rose Cultural center,59
+101,Mohamadieh Cultural center & Library,56
+101,Specialized Family Cultural Center (Montazeri),68
+102,Bano Cultural Center,36
+102,Pardis Cultural Center,28
+102,HadiAbad Cultural Center,57
+102,Navab Safavi Cultural center & Library,51
+102,Rose Cultural center,62
+102,Mohamadieh Cultural center & Library,55
+102,Specialized Family Cultural Center (Montazeri),66
+103,Bano Cultural Center,35
+103,Pardis Cultural Center,26
+103,HadiAbad Cultural Center,57
+103,Navab Safavi Cultural center & Library,53
+103,Rose Cultural center,60
+103,Mohamadieh Cultural center & Library,57
+103,Specialized Family Cultural Center (Montazeri),68
+104,Bano Cultural Center,45
+104,Pardis Cultural Center,30
+104,HadiAbad Cultural Center,66
+104,Navab Safavi Cultural center & Library,61
+104,Rose Cultural center,71
+104,Mohamadieh Cultural center & Library,65
+104,Specialized Family Cultural Center (Montazeri),76
+105,Bano Cultural Center,37
+105,Pardis Cultural Center,17
+105,HadiAbad Cultural Center,57
+105,Navab Safavi Cultural center & Library,58
+105,Rose Cultural center,63
+105,Mohamadieh Cultural center & Library,62
+105,Specialized Family Cultural Center (Montazeri),74
+107,Bano Cultural Center,37
+107,Pardis Cultural Center,47
+107,HadiAbad Cultural Center,28
+107,Navab Safavi Cultural center & Library,34
+107,Rose Cultural center,69
+107,Mohamadieh Cultural center & Library,60
+107,Specialized Family Cultural Center (Montazeri),59
+108,Bano Cultural Center,45
+108,Pardis Cultural Center,47
+108,HadiAbad Cultural Center,36
+108,Navab Safavi Cultural center & Library,42
+108,Rose Cultural center,77
+108,Mohamadieh Cultural center & Library,68
+108,Specialized Family Cultural Center (Montazeri),67
+109,Bano Cultural Center,39
+109,Pardis Cultural Center,50
+109,HadiAbad Cultural Center,31
+109,Navab Safavi Cultural center & Library,37
+109,Rose Cultural center,72
+109,Mohamadieh Cultural center & Library,63
+109,Specialized Family Cultural Center (Montazeri),62
+110,Bano Cultural Center,34
+110,Pardis Cultural Center,39
+110,HadiAbad Cultural Center,27
+110,Navab Safavi Cultural center & Library,35
+110,Rose Cultural center,69
+110,Mohamadieh Cultural center & Library,60
+110,Specialized Family Cultural Center (Montazeri),59
+111,Bano Cultural Center,23
+111,Pardis Cultural Center,25
+111,HadiAbad Cultural Center,34
+111,Navab Safavi Cultural center & Library,40
+111,Rose Cultural center,56
+111,Mohamadieh Cultural center & Library,51
+111,Specialized Family Cultural Center (Montazeri),61
+112,Bano Cultural Center,26
+112,Pardis Cultural Center,1
+112,HadiAbad Cultural Center,46
+112,Navab Safavi Cultural center & Library,52
+112,Rose Cultural center,59
+112,Mohamadieh Cultural center & Library,53
+112,Specialized Family Cultural Center (Montazeri),65
+113,Bano Cultural Center,46
+113,Pardis Cultural Center,27
+113,HadiAbad Cultural Center,69
+113,Navab Safavi Cultural center & Library,66
+113,Rose Cultural center,70
+113,Mohamadieh Cultural center & Library,70
+113,Specialized Family Cultural Center (Montazeri),81
+114,Bano Cultural Center,30
+114,Pardis Cultural Center,18
+114,HadiAbad Cultural Center,48
+114,Navab Safavi Cultural center & Library,54
+114,Rose Cultural center,61
+114,Mohamadieh Cultural center & Library,57
+114,Specialized Family Cultural Center (Montazeri),70
+115,Bano Cultural Center,43
+115,Pardis Cultural Center,51
+115,HadiAbad Cultural Center,34
+115,Navab Safavi Cultural center & Library,40
+115,Rose Cultural center,75
+115,Mohamadieh Cultural center & Library,66
+115,Specialized Family Cultural Center (Montazeri),65
+116,Bano Cultural Center,44
+116,Pardis Cultural Center,47
+116,HadiAbad Cultural Center,38
+116,Navab Safavi Cultural center & Library,46
+116,Rose Cultural center,80
+116,Mohamadieh Cultural center & Library,71
+116,Specialized Family Cultural Center (Montazeri),70
+117,Bano Cultural Center,28
+117,Pardis Cultural Center,23
+117,HadiAbad Cultural Center,44
+117,Navab Safavi Cultural center & Library,52
+117,Rose Cultural center,61
+117,Mohamadieh Cultural center & Library,56
+117,Specialized Family Cultural Center (Montazeri),67
+106,Bano Cultural Center,35
+106,Pardis Cultural Center,26
+106,HadiAbad Cultural Center,39
+106,Navab Safavi Cultural center & Library,48
+106,Rose Cultural center,67
+106,Mohamadieh Cultural center & Library,62
+106,Specialized Family Cultural Center (Montazeri),70
+118,Bano Cultural Center,38
+118,Pardis Cultural Center,41
+118,HadiAbad Cultural Center,34
+118,Navab Safavi Cultural center & Library,44
+118,Rose Cultural center,76
+118,Mohamadieh Cultural center & Library,67
+118,Specialized Family Cultural Center (Montazeri),66
+119,Bano Cultural Center,41
+119,Pardis Cultural Center,52
+119,HadiAbad Cultural Center,33
+119,Navab Safavi Cultural center & Library,39
+119,Rose Cultural center,74
+119,Mohamadieh Cultural center & Library,65
+119,Specialized Family Cultural Center (Montazeri),64
+120,Bano Cultural Center,30
+120,Pardis Cultural Center,43
+120,HadiAbad Cultural Center,45
+120,Navab Safavi Cultural center & Library,39
+120,Rose Cultural center,38
+120,Mohamadieh Cultural center & Library,35
+120,Specialized Family Cultural Center (Montazeri),49
+121,Bano Cultural Center,28
+121,Pardis Cultural Center,41
+121,HadiAbad Cultural Center,45
+121,Navab Safavi Cultural center & Library,36
+121,Rose Cultural center,33
+121,Mohamadieh Cultural center & Library,29
+121,Specialized Family Cultural Center (Montazeri),44
+122,Bano Cultural Center,21
+122,Pardis Cultural Center,38
+122,HadiAbad Cultural Center,16
+122,Navab Safavi Cultural center & Library,24
+122,Rose Cultural center,53
+122,Mohamadieh Cultural center & Library,43
+122,Specialized Family Cultural Center (Montazeri),46
+123,Bano Cultural Center,31
+123,Pardis Cultural Center,44
+123,HadiAbad Cultural Center,21
+123,Navab Safavi Cultural center & Library,28
+123,Rose Cultural center,61
+123,Mohamadieh Cultural center & Library,53
+123,Specialized Family Cultural Center (Montazeri),52
+124,Bano Cultural Center,9
+124,Pardis Cultural Center,28
+124,HadiAbad Cultural Center,26
+124,Navab Safavi Cultural center & Library,39
+124,Rose Cultural center,49
+124,Mohamadieh Cultural center & Library,43
+124,Specialized Family Cultural Center (Montazeri),53
+125,Bano Cultural Center,11
+125,Pardis Cultural Center,28
+125,HadiAbad Cultural Center,37
+125,Navab Safavi Cultural center & Library,41
+125,Rose Cultural center,50
+125,Mohamadieh Cultural center & Library,43
+125,Specialized Family Cultural Center (Montazeri),54
+126,Bano Cultural Center,33
+126,Pardis Cultural Center,32
+126,HadiAbad Cultural Center,55
+126,Navab Safavi Cultural center & Library,50
+126,Rose Cultural center,56
+126,Mohamadieh Cultural center & Library,51
+126,Specialized Family Cultural Center (Montazeri),64
+127,Bano Cultural Center,34
+127,Pardis Cultural Center,19
+127,HadiAbad Cultural Center,52
+127,Navab Safavi Cultural center & Library,53
+127,Rose Cultural center,59
+127,Mohamadieh Cultural center & Library,59
+127,Specialized Family Cultural Center (Montazeri),70
+128,Bano Cultural Center,23
+128,Pardis Cultural Center,12
+128,HadiAbad Cultural Center,41
+128,Navab Safavi Cultural center & Library,47
+128,Rose Cultural center,56
+128,Mohamadieh Cultural center & Library,50
+128,Specialized Family Cultural Center (Montazeri),62
+129,Bano Cultural Center,44
+129,Pardis Cultural Center,27
+129,HadiAbad Cultural Center,67
+129,Navab Safavi Cultural center & Library,62
+129,Rose Cultural center,70
+129,Mohamadieh Cultural center & Library,66
+129,Specialized Family Cultural Center (Montazeri),77
+130,Bano Cultural Center,39
+130,Pardis Cultural Center,20
+130,HadiAbad Cultural Center,58
+130,Navab Safavi Cultural center & Library,60
+130,Rose Cultural center,67
+130,Mohamadieh Cultural center & Library,64
+130,Specialized Family Cultural Center (Montazeri),78
+131,Bano Cultural Center,38
+131,Pardis Cultural Center,23
+131,HadiAbad Cultural Center,58
+131,Navab Safavi Cultural center & Library,59
+131,Rose Cultural center,66
+131,Mohamadieh Cultural center & Library,63
+131,Specialized Family Cultural Center (Montazeri),77
+132,Bano Cultural Center,39
+132,Pardis Cultural Center,33
+132,HadiAbad Cultural Center,32
+132,Navab Safavi Cultural center & Library,40
+132,Rose Cultural center,72
+132,Mohamadieh Cultural center & Library,65
+132,Specialized Family Cultural Center (Montazeri),65
+133,Bano Cultural Center,36
+133,Pardis Cultural Center,35
+133,HadiAbad Cultural Center,31
+133,Navab Safavi Cultural center & Library,40
+133,Rose Cultural center,72
+133,Mohamadieh Cultural center & Library,65
+133,Specialized Family Cultural Center (Montazeri),63
+134,Bano Cultural Center,36
+134,Pardis Cultural Center,44
+134,HadiAbad Cultural Center,27
+134,Navab Safavi Cultural center & Library,33
+134,Rose Cultural center,68
+134,Mohamadieh Cultural center & Library,59
+134,Specialized Family Cultural Center (Montazeri),58
+135,Bano Cultural Center,38
+135,Pardis Cultural Center,49
+135,HadiAbad Cultural Center,30
+135,Navab Safavi Cultural center & Library,36
+135,Rose Cultural center,71
+135,Mohamadieh Cultural center & Library,62
+135,Specialized Family Cultural Center (Montazeri),61
+157,Bano Cultural Center,19
+157,Pardis Cultural Center,39
+157,HadiAbad Cultural Center,46
+157,Navab Safavi Cultural center & Library,37
+157,Rose Cultural center,50
+157,Mohamadieh Cultural center & Library,46
+157,Specialized Family Cultural Center (Montazeri),55
+158,Bano Cultural Center,20
+158,Pardis Cultural Center,9
+158,HadiAbad Cultural Center,40
+158,Navab Safavi Cultural center & Library,46
+158,Rose Cultural center,53
+158,Mohamadieh Cultural center & Library,47
+158,Specialized Family Cultural Center (Montazeri),59
+160,Bano Cultural Center,20
+160,Pardis Cultural Center,27
+160,HadiAbad Cultural Center,37
+160,Navab Safavi Cultural center & Library,43
+160,Rose Cultural center,53
+160,Mohamadieh Cultural center & Library,47
+160,Specialized Family Cultural Center (Montazeri),57

@@ -1,0 +1,1471 @@
+from_id,to_id,travel_time
+22,City Star Shopping Center,37
+22,Tejarat Tower of Qazvin,36
+22,Narvan Shopping Center,24
+22,Mehr o Mah,38
+22,Abadgaran Shopping Center,39
+22,Persian Gulf Tower,32
+22,Alborz Commerical,38
+22,Pars Commercial Complex,30
+22,,46
+22,Clothing and textiles section of Qazvin Bazaar,39
+22,Noor Complex,32
+22,Dariush Shopping Center,33
+22,Alghadir Commercial Complex,38
+22,Iranian Shopping Center,39
+31,City Star Shopping Center,38
+31,Tejarat Tower of Qazvin,41
+31,Narvan Shopping Center,45
+31,Mehr o Mah,41
+31,Abadgaran Shopping Center,29
+31,Persian Gulf Tower,33
+31,Alborz Commerical,33
+31,Pars Commercial Complex,50
+31,,66
+31,Clothing and textiles section of Qazvin Bazaar,36
+31,Noor Complex,47
+31,Dariush Shopping Center,46
+31,Alghadir Commercial Complex,32
+31,Iranian Shopping Center,43
+32,City Star Shopping Center,38
+32,Tejarat Tower of Qazvin,41
+32,Narvan Shopping Center,45
+32,Mehr o Mah,41
+32,Abadgaran Shopping Center,29
+32,Persian Gulf Tower,33
+32,Alborz Commerical,33
+32,Pars Commercial Complex,50
+32,,64
+32,Clothing and textiles section of Qazvin Bazaar,36
+32,Noor Complex,47
+32,Dariush Shopping Center,46
+32,Alghadir Commercial Complex,32
+32,Iranian Shopping Center,43
+33,City Star Shopping Center,41
+33,Tejarat Tower of Qazvin,44
+33,Narvan Shopping Center,50
+33,Mehr o Mah,44
+33,Abadgaran Shopping Center,32
+33,Persian Gulf Tower,38
+33,Alborz Commerical,36
+33,Pars Commercial Complex,56
+33,,64
+33,Clothing and textiles section of Qazvin Bazaar,39
+33,Noor Complex,50
+33,Dariush Shopping Center,49
+33,Alghadir Commercial Complex,35
+33,Iranian Shopping Center,46
+36,City Star Shopping Center,36
+36,Tejarat Tower of Qazvin,39
+36,Narvan Shopping Center,37
+36,Mehr o Mah,39
+36,Abadgaran Shopping Center,27
+36,Persian Gulf Tower,26
+36,Alborz Commerical,28
+36,Pars Commercial Complex,45
+36,,58
+36,Clothing and textiles section of Qazvin Bazaar,34
+36,Noor Complex,39
+36,Dariush Shopping Center,40
+36,Alghadir Commercial Complex,29
+36,Iranian Shopping Center,41
+37,City Star Shopping Center,31
+37,Tejarat Tower of Qazvin,34
+37,Narvan Shopping Center,40
+37,Mehr o Mah,34
+37,Abadgaran Shopping Center,22
+37,Persian Gulf Tower,28
+37,Alborz Commerical,26
+37,Pars Commercial Complex,46
+37,,55
+37,Clothing and textiles section of Qazvin Bazaar,29
+37,Noor Complex,40
+37,Dariush Shopping Center,39
+37,Alghadir Commercial Complex,25
+37,Iranian Shopping Center,36
+38,City Star Shopping Center,32
+38,Tejarat Tower of Qazvin,33
+38,Narvan Shopping Center,39
+38,Mehr o Mah,35
+38,Abadgaran Shopping Center,23
+38,Persian Gulf Tower,30
+38,Alborz Commerical,27
+38,Pars Commercial Complex,46
+38,,52
+38,Clothing and textiles section of Qazvin Bazaar,26
+38,Noor Complex,39
+38,Dariush Shopping Center,38
+38,Alghadir Commercial Complex,26
+38,Iranian Shopping Center,35
+39,City Star Shopping Center,34
+39,Tejarat Tower of Qazvin,34
+39,Narvan Shopping Center,40
+39,Mehr o Mah,37
+39,Abadgaran Shopping Center,26
+39,Persian Gulf Tower,33
+39,Alborz Commerical,30
+39,Pars Commercial Complex,42
+39,,48
+39,Clothing and textiles section of Qazvin Bazaar,29
+39,Noor Complex,40
+39,Dariush Shopping Center,39
+39,Alghadir Commercial Complex,29
+39,Iranian Shopping Center,36
+40,City Star Shopping Center,42
+40,Tejarat Tower of Qazvin,42
+40,Narvan Shopping Center,48
+40,Mehr o Mah,45
+40,Abadgaran Shopping Center,34
+40,Persian Gulf Tower,41
+40,Alborz Commerical,38
+40,Pars Commercial Complex,46
+40,,52
+40,Clothing and textiles section of Qazvin Bazaar,36
+40,Noor Complex,47
+40,Dariush Shopping Center,46
+40,Alghadir Commercial Complex,37
+40,Iranian Shopping Center,44
+41,City Star Shopping Center,26
+41,Tejarat Tower of Qazvin,36
+41,Narvan Shopping Center,35
+41,Mehr o Mah,29
+41,Abadgaran Shopping Center,24
+41,Persian Gulf Tower,16
+41,Alborz Commerical,18
+41,Pars Commercial Complex,43
+41,,58
+41,Clothing and textiles section of Qazvin Bazaar,31
+41,Noor Complex,36
+41,Dariush Shopping Center,37
+41,Alghadir Commercial Complex,19
+41,Iranian Shopping Center,38
+42,City Star Shopping Center,29
+42,Tejarat Tower of Qazvin,33
+42,Narvan Shopping Center,39
+42,Mehr o Mah,32
+42,Abadgaran Shopping Center,20
+42,Persian Gulf Tower,28
+42,Alborz Commerical,22
+42,Pars Commercial Complex,45
+42,,53
+42,Clothing and textiles section of Qazvin Bazaar,16
+42,Noor Complex,39
+42,Dariush Shopping Center,38
+42,Alghadir Commercial Complex,21
+42,Iranian Shopping Center,35
+44,City Star Shopping Center,38
+44,Tejarat Tower of Qazvin,38
+44,Narvan Shopping Center,44
+44,Mehr o Mah,41
+44,Abadgaran Shopping Center,29
+44,Persian Gulf Tower,36
+44,Alborz Commerical,33
+44,Pars Commercial Complex,43
+44,,50
+44,Clothing and textiles section of Qazvin Bazaar,19
+44,Noor Complex,41
+44,Dariush Shopping Center,40
+44,Alghadir Commercial Complex,32
+44,Iranian Shopping Center,39
+45,City Star Shopping Center,24
+45,Tejarat Tower of Qazvin,33
+45,Narvan Shopping Center,27
+45,Mehr o Mah,25
+45,Abadgaran Shopping Center,23
+45,Persian Gulf Tower,9
+45,Alborz Commerical,16
+45,Pars Commercial Complex,34
+45,,50
+45,Clothing and textiles section of Qazvin Bazaar,27
+45,Noor Complex,30
+45,Dariush Shopping Center,31
+45,Alghadir Commercial Complex,16
+45,Iranian Shopping Center,33
+46,City Star Shopping Center,36
+46,Tejarat Tower of Qazvin,38
+46,Narvan Shopping Center,30
+46,Mehr o Mah,38
+46,Abadgaran Shopping Center,35
+46,Persian Gulf Tower,20
+46,Alborz Commerical,28
+46,Pars Commercial Complex,38
+46,,54
+46,Clothing and textiles section of Qazvin Bazaar,40
+46,Noor Complex,34
+46,Dariush Shopping Center,35
+46,Alghadir Commercial Complex,29
+46,Iranian Shopping Center,40
+47,City Star Shopping Center,18
+47,Tejarat Tower of Qazvin,31
+47,Narvan Shopping Center,37
+47,Mehr o Mah,21
+47,Abadgaran Shopping Center,14
+47,Persian Gulf Tower,13
+47,Alborz Commerical,10
+47,Pars Commercial Complex,45
+47,,56
+47,Clothing and textiles section of Qazvin Bazaar,23
+47,Noor Complex,36
+47,Dariush Shopping Center,36
+47,Alghadir Commercial Complex,10
+47,Iranian Shopping Center,30
+48,City Star Shopping Center,15
+48,Tejarat Tower of Qazvin,21
+48,Narvan Shopping Center,27
+48,Mehr o Mah,18
+48,Abadgaran Shopping Center,7
+48,Persian Gulf Tower,14
+48,Alborz Commerical,9
+48,Pars Commercial Complex,37
+48,,49
+48,Clothing and textiles section of Qazvin Bazaar,12
+48,Noor Complex,27
+48,Dariush Shopping Center,26
+48,Alghadir Commercial Complex,8
+48,Iranian Shopping Center,23
+49,City Star Shopping Center,24
+49,Tejarat Tower of Qazvin,27
+49,Narvan Shopping Center,33
+49,Mehr o Mah,28
+49,Abadgaran Shopping Center,16
+49,Persian Gulf Tower,23
+49,Alborz Commerical,18
+49,Pars Commercial Complex,35
+49,,44
+49,Clothing and textiles section of Qazvin Bazaar,6
+49,Noor Complex,31
+49,Dariush Shopping Center,30
+49,Alghadir Commercial Complex,17
+49,Iranian Shopping Center,29
+50,City Star Shopping Center,11
+50,Tejarat Tower of Qazvin,30
+50,Narvan Shopping Center,34
+50,Mehr o Mah,14
+50,Abadgaran Shopping Center,13
+50,Persian Gulf Tower,7
+50,Alborz Commerical,6
+50,Pars Commercial Complex,41
+50,,52
+50,Clothing and textiles section of Qazvin Bazaar,22
+50,Noor Complex,32
+50,Dariush Shopping Center,33
+50,Alghadir Commercial Complex,7
+50,Iranian Shopping Center,24
+51,City Star Shopping Center,7
+51,Tejarat Tower of Qazvin,21
+51,Narvan Shopping Center,27
+51,Mehr o Mah,11
+51,Abadgaran Shopping Center,3
+51,Persian Gulf Tower,12
+51,Alborz Commerical,5
+51,Pars Commercial Complex,39
+51,,50
+51,Clothing and textiles section of Qazvin Bazaar,16
+51,Noor Complex,27
+51,Dariush Shopping Center,26
+51,Alghadir Commercial Complex,4
+51,Iranian Shopping Center,19
+52,City Star Shopping Center,34
+52,Tejarat Tower of Qazvin,33
+52,Narvan Shopping Center,41
+52,Mehr o Mah,35
+52,Abadgaran Shopping Center,25
+52,Persian Gulf Tower,30
+52,Alborz Commerical,28
+52,Pars Commercial Complex,33
+52,,42
+52,Clothing and textiles section of Qazvin Bazaar,11
+52,Noor Complex,36
+52,Dariush Shopping Center,35
+52,Alghadir Commercial Complex,26
+52,Iranian Shopping Center,34
+53,City Star Shopping Center,42
+53,Tejarat Tower of Qazvin,42
+53,Narvan Shopping Center,48
+53,Mehr o Mah,44
+53,Abadgaran Shopping Center,34
+53,Persian Gulf Tower,41
+53,Alborz Commerical,38
+53,Pars Commercial Complex,41
+53,,47
+53,Clothing and textiles section of Qazvin Bazaar,30
+53,Noor Complex,45
+53,Dariush Shopping Center,44
+53,Alghadir Commercial Complex,37
+53,Iranian Shopping Center,44
+54,City Star Shopping Center,31
+54,Tejarat Tower of Qazvin,29
+54,Narvan Shopping Center,23
+54,Mehr o Mah,32
+54,Abadgaran Shopping Center,30
+54,Persian Gulf Tower,16
+54,Alborz Commerical,25
+54,Pars Commercial Complex,29
+54,,45
+54,Clothing and textiles section of Qazvin Bazaar,32
+54,Noor Complex,25
+54,Dariush Shopping Center,26
+54,Alghadir Commercial Complex,25
+54,Iranian Shopping Center,33
+55,City Star Shopping Center,7
+55,Tejarat Tower of Qazvin,23
+55,Narvan Shopping Center,30
+55,Mehr o Mah,7
+55,Abadgaran Shopping Center,16
+55,Persian Gulf Tower,14
+55,Alborz Commerical,16
+55,Pars Commercial Complex,40
+55,,53
+55,Clothing and textiles section of Qazvin Bazaar,24
+55,Noor Complex,25
+55,Dariush Shopping Center,27
+55,Alghadir Commercial Complex,15
+55,Iranian Shopping Center,17
+56,City Star Shopping Center,3
+56,Tejarat Tower of Qazvin,20
+56,Narvan Shopping Center,27
+56,Mehr o Mah,6
+56,Abadgaran Shopping Center,5
+56,Persian Gulf Tower,16
+56,Alborz Commerical,9
+56,Pars Commercial Complex,40
+56,,51
+56,Clothing and textiles section of Qazvin Bazaar,19
+56,Noor Complex,23
+56,Dariush Shopping Center,24
+56,Alghadir Commercial Complex,8
+56,Iranian Shopping Center,15
+57,City Star Shopping Center,12
+57,Tejarat Tower of Qazvin,27
+57,Narvan Shopping Center,33
+57,Mehr o Mah,13
+57,Abadgaran Shopping Center,13
+57,Persian Gulf Tower,8
+57,Alborz Commerical,13
+57,Pars Commercial Complex,42
+57,,53
+57,Clothing and textiles section of Qazvin Bazaar,24
+57,Noor Complex,29
+57,Dariush Shopping Center,30
+57,Alghadir Commercial Complex,12
+57,Iranian Shopping Center,21
+59,City Star Shopping Center,15
+59,Tejarat Tower of Qazvin,20
+59,Narvan Shopping Center,26
+59,Mehr o Mah,17
+59,Abadgaran Shopping Center,9
+59,Persian Gulf Tower,18
+59,Alborz Commerical,13
+59,Pars Commercial Complex,34
+59,,45
+59,Clothing and textiles section of Qazvin Bazaar,11
+59,Noor Complex,26
+59,Dariush Shopping Center,25
+59,Alghadir Commercial Complex,12
+59,Iranian Shopping Center,20
+60,City Star Shopping Center,8
+60,Tejarat Tower of Qazvin,21
+60,Narvan Shopping Center,28
+60,Mehr o Mah,11
+60,Abadgaran Shopping Center,4
+60,Persian Gulf Tower,17
+60,Alborz Commerical,12
+60,Pars Commercial Complex,39
+60,,52
+60,Clothing and textiles section of Qazvin Bazaar,18
+60,Noor Complex,24
+60,Dariush Shopping Center,25
+60,Alghadir Commercial Complex,11
+60,Iranian Shopping Center,15
+61,City Star Shopping Center,17
+61,Tejarat Tower of Qazvin,21
+61,Narvan Shopping Center,29
+61,Mehr o Mah,18
+61,Abadgaran Shopping Center,14
+61,Persian Gulf Tower,23
+61,Alborz Commerical,18
+61,Pars Commercial Complex,29
+61,,41
+61,Clothing and textiles section of Qazvin Bazaar,8
+61,Noor Complex,26
+61,Dariush Shopping Center,25
+61,Alghadir Commercial Complex,17
+61,Iranian Shopping Center,21
+62,City Star Shopping Center,25
+62,Tejarat Tower of Qazvin,25
+62,Narvan Shopping Center,36
+62,Mehr o Mah,25
+62,Abadgaran Shopping Center,22
+62,Persian Gulf Tower,28
+62,Alborz Commerical,24
+62,Pars Commercial Complex,27
+62,,37
+62,Clothing and textiles section of Qazvin Bazaar,9
+62,Noor Complex,31
+62,Dariush Shopping Center,31
+62,Alghadir Commercial Complex,23
+62,Iranian Shopping Center,25
+63,City Star Shopping Center,29
+63,Tejarat Tower of Qazvin,29
+63,Narvan Shopping Center,36
+63,Mehr o Mah,29
+63,Abadgaran Shopping Center,27
+63,Persian Gulf Tower,32
+63,Alborz Commerical,30
+63,Pars Commercial Complex,23
+63,,34
+63,Clothing and textiles section of Qazvin Bazaar,14
+63,Noor Complex,34
+63,Dariush Shopping Center,33
+63,Alghadir Commercial Complex,29
+63,Iranian Shopping Center,29
+64,City Star Shopping Center,5
+64,Tejarat Tower of Qazvin,16
+64,Narvan Shopping Center,23
+64,Mehr o Mah,3
+64,Abadgaran Shopping Center,14
+64,Persian Gulf Tower,15
+64,Alborz Commerical,15
+64,Pars Commercial Complex,40
+64,,52
+64,Clothing and textiles section of Qazvin Bazaar,25
+64,Noor Complex,19
+64,Dariush Shopping Center,20
+64,Alghadir Commercial Complex,13
+64,Iranian Shopping Center,11
+65,City Star Shopping Center,22
+65,Tejarat Tower of Qazvin,27
+65,Narvan Shopping Center,27
+65,Mehr o Mah,23
+65,Abadgaran Shopping Center,30
+65,Persian Gulf Tower,23
+65,Alborz Commerical,29
+65,Pars Commercial Complex,34
+65,,48
+65,Clothing and textiles section of Qazvin Bazaar,34
+65,Noor Complex,21
+65,Dariush Shopping Center,22
+65,Alghadir Commercial Complex,29
+65,Iranian Shopping Center,29
+66,City Star Shopping Center,7
+66,Tejarat Tower of Qazvin,14
+66,Narvan Shopping Center,21
+66,Mehr o Mah,5
+66,Abadgaran Shopping Center,13
+66,Persian Gulf Tower,20
+66,Alborz Commerical,16
+66,Pars Commercial Complex,38
+66,,50
+66,Clothing and textiles section of Qazvin Bazaar,25
+66,Noor Complex,17
+66,Dariush Shopping Center,18
+66,Alghadir Commercial Complex,15
+66,Iranian Shopping Center,8
+67,City Star Shopping Center,17
+67,Tejarat Tower of Qazvin,29
+67,Narvan Shopping Center,29
+67,Mehr o Mah,17
+67,Abadgaran Shopping Center,26
+67,Persian Gulf Tower,21
+67,Alborz Commerical,26
+67,Pars Commercial Complex,36
+67,,50
+67,Clothing and textiles section of Qazvin Bazaar,33
+67,Noor Complex,23
+67,Dariush Shopping Center,24
+67,Alghadir Commercial Complex,24
+67,Iranian Shopping Center,23
+68,City Star Shopping Center,11
+68,Tejarat Tower of Qazvin,10
+68,Narvan Shopping Center,20
+68,Mehr o Mah,10
+68,Abadgaran Shopping Center,13
+68,Persian Gulf Tower,25
+68,Alborz Commerical,21
+68,Pars Commercial Complex,34
+68,,48
+68,Clothing and textiles section of Qazvin Bazaar,21
+68,Noor Complex,17
+68,Dariush Shopping Center,18
+68,Alghadir Commercial Complex,19
+68,Iranian Shopping Center,8
+69,City Star Shopping Center,17
+69,Tejarat Tower of Qazvin,11
+69,Narvan Shopping Center,23
+69,Mehr o Mah,18
+69,Abadgaran Shopping Center,18
+69,Persian Gulf Tower,28
+69,Alborz Commerical,23
+69,Pars Commercial Complex,30
+69,,43
+69,Clothing and textiles section of Qazvin Bazaar,18
+69,Noor Complex,18
+69,Dariush Shopping Center,19
+69,Alghadir Commercial Complex,22
+69,Iranian Shopping Center,11
+70,City Star Shopping Center,15
+70,Tejarat Tower of Qazvin,20
+70,Narvan Shopping Center,22
+70,Mehr o Mah,13
+70,Abadgaran Shopping Center,24
+70,Persian Gulf Tower,21
+70,Alborz Commerical,24
+70,Pars Commercial Complex,37
+70,,50
+70,Clothing and textiles section of Qazvin Bazaar,33
+70,Noor Complex,19
+70,Dariush Shopping Center,21
+70,Alghadir Commercial Complex,23
+70,Iranian Shopping Center,14
+71,City Star Shopping Center,14
+71,Tejarat Tower of Qazvin,12
+71,Narvan Shopping Center,16
+71,Mehr o Mah,12
+71,Abadgaran Shopping Center,23
+71,Persian Gulf Tower,25
+71,Alborz Commerical,23
+71,Pars Commercial Complex,37
+71,,48
+71,Clothing and textiles section of Qazvin Bazaar,29
+71,Noor Complex,11
+71,Dariush Shopping Center,12
+71,Alghadir Commercial Complex,22
+71,Iranian Shopping Center,11
+72,City Star Shopping Center,13
+72,Tejarat Tower of Qazvin,9
+72,Narvan Shopping Center,13
+72,Mehr o Mah,11
+72,Abadgaran Shopping Center,18
+72,Persian Gulf Tower,25
+72,Alborz Commerical,22
+72,Pars Commercial Complex,34
+72,,46
+72,Clothing and textiles section of Qazvin Bazaar,27
+72,Noor Complex,8
+72,Dariush Shopping Center,10
+72,Alghadir Commercial Complex,21
+72,Iranian Shopping Center,7
+73,City Star Shopping Center,24
+73,Tejarat Tower of Qazvin,18
+73,Narvan Shopping Center,30
+73,Mehr o Mah,25
+73,Abadgaran Shopping Center,25
+73,Persian Gulf Tower,34
+73,Alborz Commerical,30
+73,Pars Commercial Complex,26
+73,,34
+73,Clothing and textiles section of Qazvin Bazaar,17
+73,Noor Complex,24
+73,Dariush Shopping Center,23
+73,Alghadir Commercial Complex,29
+73,Iranian Shopping Center,18
+74,City Star Shopping Center,35
+74,Tejarat Tower of Qazvin,35
+74,Narvan Shopping Center,37
+74,Mehr o Mah,35
+74,Abadgaran Shopping Center,36
+74,Persian Gulf Tower,43
+74,Alborz Commerical,40
+74,Pars Commercial Complex,22
+74,,37
+74,Clothing and textiles section of Qazvin Bazaar,25
+74,Noor Complex,37
+74,Dariush Shopping Center,37
+74,Alghadir Commercial Complex,39
+74,Iranian Shopping Center,35
+75,City Star Shopping Center,27
+75,Tejarat Tower of Qazvin,26
+75,Narvan Shopping Center,20
+75,Mehr o Mah,28
+75,Abadgaran Shopping Center,29
+75,Persian Gulf Tower,20
+75,Alborz Commerical,26
+75,Pars Commercial Complex,26
+75,,42
+75,Clothing and textiles section of Qazvin Bazaar,30
+75,Noor Complex,21
+75,Dariush Shopping Center,22
+75,Alghadir Commercial Complex,26
+75,Iranian Shopping Center,29
+76,City Star Shopping Center,39
+76,Tejarat Tower of Qazvin,32
+76,Narvan Shopping Center,37
+76,Mehr o Mah,39
+76,Abadgaran Shopping Center,39
+76,Persian Gulf Tower,46
+76,Alborz Commerical,42
+76,Pars Commercial Complex,24
+76,,36
+76,Clothing and textiles section of Qazvin Bazaar,27
+76,Noor Complex,33
+76,Dariush Shopping Center,32
+76,Alghadir Commercial Complex,41
+76,Iranian Shopping Center,32
+77,City Star Shopping Center,19
+77,Tejarat Tower of Qazvin,3
+77,Narvan Shopping Center,13
+77,Mehr o Mah,17
+77,Abadgaran Shopping Center,22
+77,Persian Gulf Tower,31
+77,Alborz Commerical,26
+77,Pars Commercial Complex,31
+77,,45
+77,Clothing and textiles section of Qazvin Bazaar,26
+77,Noor Complex,6
+77,Dariush Shopping Center,7
+77,Alghadir Commercial Complex,25
+77,Iranian Shopping Center,9
+78,City Star Shopping Center,23
+78,Tejarat Tower of Qazvin,8
+78,Narvan Shopping Center,19
+78,Mehr o Mah,21
+78,Abadgaran Shopping Center,22
+78,Persian Gulf Tower,31
+78,Alborz Commerical,26
+78,Pars Commercial Complex,30
+78,,39
+78,Clothing and textiles section of Qazvin Bazaar,25
+78,Noor Complex,11
+78,Dariush Shopping Center,10
+78,Alghadir Commercial Complex,25
+78,Iranian Shopping Center,9
+79,City Star Shopping Center,31
+79,Tejarat Tower of Qazvin,15
+79,Narvan Shopping Center,24
+79,Mehr o Mah,29
+79,Abadgaran Shopping Center,29
+79,Persian Gulf Tower,38
+79,Alborz Commerical,33
+79,Pars Commercial Complex,27
+79,,31
+79,Clothing and textiles section of Qazvin Bazaar,23
+79,Noor Complex,15
+79,Dariush Shopping Center,14
+79,Alghadir Commercial Complex,32
+79,Iranian Shopping Center,17
+80,City Star Shopping Center,33
+80,Tejarat Tower of Qazvin,24
+80,Narvan Shopping Center,35
+80,Mehr o Mah,33
+80,Abadgaran Shopping Center,33
+80,Persian Gulf Tower,42
+80,Alborz Commerical,36
+80,Pars Commercial Complex,25
+80,,32
+80,Clothing and textiles section of Qazvin Bazaar,23
+80,Noor Complex,26
+80,Dariush Shopping Center,26
+80,Alghadir Commercial Complex,35
+80,Iranian Shopping Center,25
+81,City Star Shopping Center,29
+81,Tejarat Tower of Qazvin,30
+81,Narvan Shopping Center,24
+81,Mehr o Mah,30
+81,Abadgaran Shopping Center,33
+81,Persian Gulf Tower,26
+81,Alborz Commerical,32
+81,Pars Commercial Complex,29
+81,,45
+81,Clothing and textiles section of Qazvin Bazaar,33
+81,Noor Complex,26
+81,Dariush Shopping Center,27
+81,Alghadir Commercial Complex,32
+81,Iranian Shopping Center,32
+82,City Star Shopping Center,26
+82,Tejarat Tower of Qazvin,15
+82,Narvan Shopping Center,5
+82,Mehr o Mah,25
+82,Abadgaran Shopping Center,29
+82,Persian Gulf Tower,29
+82,Alborz Commerical,31
+82,Pars Commercial Complex,26
+82,,42
+82,Clothing and textiles section of Qazvin Bazaar,30
+82,Noor Complex,11
+82,Dariush Shopping Center,12
+82,Alghadir Commercial Complex,30
+82,Iranian Shopping Center,20
+83,City Star Shopping Center,27
+83,Tejarat Tower of Qazvin,13
+83,Narvan Shopping Center,7
+83,Mehr o Mah,25
+83,Abadgaran Shopping Center,25
+83,Persian Gulf Tower,29
+83,Alborz Commerical,28
+83,Pars Commercial Complex,24
+83,,40
+83,Clothing and textiles section of Qazvin Bazaar,28
+83,Noor Complex,9
+83,Dariush Shopping Center,9
+83,Alghadir Commercial Complex,27
+83,Iranian Shopping Center,17
+84,City Star Shopping Center,36
+84,Tejarat Tower of Qazvin,32
+84,Narvan Shopping Center,18
+84,Mehr o Mah,35
+84,Abadgaran Shopping Center,38
+84,Persian Gulf Tower,30
+84,Alborz Commerical,36
+84,Pars Commercial Complex,30
+84,,46
+84,Clothing and textiles section of Qazvin Bazaar,38
+84,Noor Complex,28
+84,Dariush Shopping Center,29
+84,Alghadir Commercial Complex,36
+84,Iranian Shopping Center,34
+85,City Star Shopping Center,32
+85,Tejarat Tower of Qazvin,15
+85,Narvan Shopping Center,16
+85,Mehr o Mah,31
+85,Abadgaran Shopping Center,29
+85,Persian Gulf Tower,30
+85,Alborz Commerical,32
+85,Pars Commercial Complex,22
+85,,37
+85,Clothing and textiles section of Qazvin Bazaar,31
+85,Noor Complex,13
+85,Dariush Shopping Center,11
+85,Alghadir Commercial Complex,31
+85,Iranian Shopping Center,19
+86,City Star Shopping Center,33
+86,Tejarat Tower of Qazvin,22
+86,Narvan Shopping Center,11
+86,Mehr o Mah,32
+86,Abadgaran Shopping Center,30
+86,Persian Gulf Tower,31
+86,Alborz Commerical,32
+86,Pars Commercial Complex,22
+86,,38
+86,Clothing and textiles section of Qazvin Bazaar,30
+86,Noor Complex,19
+86,Dariush Shopping Center,18
+86,Alghadir Commercial Complex,31
+86,Iranian Shopping Center,23
+87,City Star Shopping Center,31
+87,Tejarat Tower of Qazvin,23
+87,Narvan Shopping Center,14
+87,Mehr o Mah,29
+87,Abadgaran Shopping Center,30
+87,Persian Gulf Tower,26
+87,Alborz Commerical,28
+87,Pars Commercial Complex,25
+87,,43
+87,Clothing and textiles section of Qazvin Bazaar,31
+87,Noor Complex,20
+87,Dariush Shopping Center,22
+87,Alghadir Commercial Complex,28
+87,Iranian Shopping Center,22
+88,City Star Shopping Center,29
+88,Tejarat Tower of Qazvin,25
+88,Narvan Shopping Center,13
+88,Mehr o Mah,28
+88,Abadgaran Shopping Center,32
+88,Persian Gulf Tower,29
+88,Alborz Commerical,31
+88,Pars Commercial Complex,25
+88,,41
+88,Clothing and textiles section of Qazvin Bazaar,32
+88,Noor Complex,22
+88,Dariush Shopping Center,23
+88,Alghadir Commercial Complex,30
+88,Iranian Shopping Center,24
+89,City Star Shopping Center,35
+89,Tejarat Tower of Qazvin,22
+89,Narvan Shopping Center,18
+89,Mehr o Mah,35
+89,Abadgaran Shopping Center,31
+89,Persian Gulf Tower,30
+89,Alborz Commerical,31
+89,Pars Commercial Complex,13
+89,,29
+89,Clothing and textiles section of Qazvin Bazaar,34
+89,Noor Complex,22
+89,Dariush Shopping Center,21
+89,Alghadir Commercial Complex,31
+89,Iranian Shopping Center,24
+90,City Star Shopping Center,38
+90,Tejarat Tower of Qazvin,27
+90,Narvan Shopping Center,30
+90,Mehr o Mah,36
+90,Abadgaran Shopping Center,40
+90,Persian Gulf Tower,40
+90,Alborz Commerical,42
+90,Pars Commercial Complex,24
+90,,29
+90,Clothing and textiles section of Qazvin Bazaar,28
+90,Noor Complex,23
+90,Dariush Shopping Center,22
+90,Alghadir Commercial Complex,41
+90,Iranian Shopping Center,30
+91,City Star Shopping Center,41
+91,Tejarat Tower of Qazvin,25
+91,Narvan Shopping Center,26
+91,Mehr o Mah,40
+91,Abadgaran Shopping Center,40
+91,Persian Gulf Tower,38
+91,Alborz Commerical,42
+91,Pars Commercial Complex,20
+91,,25
+91,Clothing and textiles section of Qazvin Bazaar,30
+91,Noor Complex,23
+91,Dariush Shopping Center,22
+91,Alghadir Commercial Complex,41
+91,Iranian Shopping Center,29
+92,City Star Shopping Center,34
+92,Tejarat Tower of Qazvin,35
+92,Narvan Shopping Center,29
+92,Mehr o Mah,35
+92,Abadgaran Shopping Center,41
+92,Persian Gulf Tower,36
+92,Alborz Commerical,40
+92,Pars Commercial Complex,43
+92,,60
+92,Clothing and textiles section of Qazvin Bazaar,43
+92,Noor Complex,32
+92,Dariush Shopping Center,34
+92,Alghadir Commercial Complex,40
+92,Iranian Shopping Center,36
+93,City Star Shopping Center,33
+93,Tejarat Tower of Qazvin,30
+93,Narvan Shopping Center,23
+93,Mehr o Mah,32
+93,Abadgaran Shopping Center,36
+93,Persian Gulf Tower,33
+93,Alborz Commerical,35
+93,Pars Commercial Complex,36
+93,,53
+93,Clothing and textiles section of Qazvin Bazaar,39
+93,Noor Complex,27
+93,Dariush Shopping Center,29
+93,Alghadir Commercial Complex,35
+93,Iranian Shopping Center,29
+94,City Star Shopping Center,42
+94,Tejarat Tower of Qazvin,30
+94,Narvan Shopping Center,22
+94,Mehr o Mah,42
+94,Abadgaran Shopping Center,39
+94,Persian Gulf Tower,34
+94,Alborz Commerical,39
+94,Pars Commercial Complex,7
+94,,29
+94,Clothing and textiles section of Qazvin Bazaar,34
+94,Noor Complex,29
+94,Dariush Shopping Center,28
+94,Alghadir Commercial Complex,39
+94,Iranian Shopping Center,32
+95,City Star Shopping Center,41
+95,Tejarat Tower of Qazvin,29
+95,Narvan Shopping Center,24
+95,Mehr o Mah,42
+95,Abadgaran Shopping Center,38
+95,Persian Gulf Tower,35
+95,Alborz Commerical,38
+95,Pars Commercial Complex,10
+95,,29
+95,Clothing and textiles section of Qazvin Bazaar,41
+95,Noor Complex,29
+95,Dariush Shopping Center,28
+95,Alghadir Commercial Complex,37
+95,Iranian Shopping Center,31
+96,City Star Shopping Center,39
+96,Tejarat Tower of Qazvin,30
+96,Narvan Shopping Center,24
+96,Mehr o Mah,38
+96,Abadgaran Shopping Center,37
+96,Persian Gulf Tower,36
+96,Alborz Commerical,38
+96,Pars Commercial Complex,26
+96,,47
+96,Clothing and textiles section of Qazvin Bazaar,41
+96,Noor Complex,28
+96,Dariush Shopping Center,29
+96,Alghadir Commercial Complex,37
+96,Iranian Shopping Center,29
+97,City Star Shopping Center,50
+97,Tejarat Tower of Qazvin,41
+97,Narvan Shopping Center,34
+97,Mehr o Mah,49
+97,Abadgaran Shopping Center,50
+97,Persian Gulf Tower,47
+97,Alborz Commerical,53
+97,Pars Commercial Complex,22
+97,,23
+97,Clothing and textiles section of Qazvin Bazaar,38
+97,Noor Complex,38
+97,Dariush Shopping Center,38
+97,Alghadir Commercial Complex,52
+97,Iranian Shopping Center,44
+99,City Star Shopping Center,44
+99,Tejarat Tower of Qazvin,38
+99,Narvan Shopping Center,30
+99,Mehr o Mah,44
+99,Abadgaran Shopping Center,45
+99,Persian Gulf Tower,42
+99,Alborz Commerical,44
+99,Pars Commercial Complex,36
+99,,43
+99,Clothing and textiles section of Qazvin Bazaar,49
+99,Noor Complex,35
+99,Dariush Shopping Center,37
+99,Alghadir Commercial Complex,44
+99,Iranian Shopping Center,37
+100,City Star Shopping Center,53
+100,Tejarat Tower of Qazvin,47
+100,Narvan Shopping Center,36
+100,Mehr o Mah,53
+100,Abadgaran Shopping Center,53
+100,Persian Gulf Tower,49
+100,Alborz Commerical,56
+100,Pars Commercial Complex,25
+100,,11
+100,Clothing and textiles section of Qazvin Bazaar,41
+100,Noor Complex,43
+100,Dariush Shopping Center,44
+100,Alghadir Commercial Complex,55
+100,Iranian Shopping Center,49
+98,City Star Shopping Center,48
+98,Tejarat Tower of Qazvin,42
+98,Narvan Shopping Center,29
+98,Mehr o Mah,48
+98,Abadgaran Shopping Center,48
+98,Persian Gulf Tower,42
+98,Alborz Commerical,51
+98,Pars Commercial Complex,18
+98,,17
+98,Clothing and textiles section of Qazvin Bazaar,36
+98,Noor Complex,38
+98,Dariush Shopping Center,39
+98,Alghadir Commercial Complex,50
+98,Iranian Shopping Center,44
+101,City Star Shopping Center,44
+101,Tejarat Tower of Qazvin,41
+101,Narvan Shopping Center,34
+101,Mehr o Mah,44
+101,Abadgaran Shopping Center,47
+101,Persian Gulf Tower,43
+101,Alborz Commerical,46
+101,Pars Commercial Complex,50
+101,,60
+101,Clothing and textiles section of Qazvin Bazaar,50
+101,Noor Complex,38
+101,Dariush Shopping Center,40
+101,Alghadir Commercial Complex,46
+101,Iranian Shopping Center,40
+102,City Star Shopping Center,46
+102,Tejarat Tower of Qazvin,38
+102,Narvan Shopping Center,32
+102,Mehr o Mah,44
+102,Abadgaran Shopping Center,45
+102,Persian Gulf Tower,46
+102,Alborz Commerical,46
+102,Pars Commercial Complex,47
+102,,61
+102,Clothing and textiles section of Qazvin Bazaar,49
+102,Noor Complex,35
+102,Dariush Shopping Center,37
+102,Alghadir Commercial Complex,46
+102,Iranian Shopping Center,37
+103,City Star Shopping Center,48
+103,Tejarat Tower of Qazvin,40
+103,Narvan Shopping Center,33
+103,Mehr o Mah,46
+103,Abadgaran Shopping Center,47
+103,Persian Gulf Tower,44
+103,Alborz Commerical,46
+103,Pars Commercial Complex,48
+103,,61
+103,Clothing and textiles section of Qazvin Bazaar,51
+103,Noor Complex,37
+103,Dariush Shopping Center,39
+103,Alghadir Commercial Complex,45
+103,Iranian Shopping Center,39
+104,City Star Shopping Center,56
+104,Tejarat Tower of Qazvin,48
+104,Narvan Shopping Center,42
+104,Mehr o Mah,54
+104,Abadgaran Shopping Center,55
+104,Persian Gulf Tower,55
+104,Alborz Commerical,56
+104,Pars Commercial Complex,56
+104,,68
+104,Clothing and textiles section of Qazvin Bazaar,59
+104,Noor Complex,45
+104,Dariush Shopping Center,47
+104,Alghadir Commercial Complex,55
+104,Iranian Shopping Center,47
+105,City Star Shopping Center,54
+105,Tejarat Tower of Qazvin,46
+105,Narvan Shopping Center,38
+105,Mehr o Mah,52
+105,Abadgaran Shopping Center,53
+105,Persian Gulf Tower,47
+105,Alborz Commerical,51
+105,Pars Commercial Complex,50
+105,,59
+105,Clothing and textiles section of Qazvin Bazaar,57
+105,Noor Complex,43
+105,Dariush Shopping Center,45
+105,Alghadir Commercial Complex,51
+105,Iranian Shopping Center,45
+107,City Star Shopping Center,53
+107,Tejarat Tower of Qazvin,47
+107,Narvan Shopping Center,35
+107,Mehr o Mah,53
+107,Abadgaran Shopping Center,53
+107,Persian Gulf Tower,48
+107,Alborz Commerical,56
+107,Pars Commercial Complex,24
+107,,12
+107,Clothing and textiles section of Qazvin Bazaar,41
+107,Noor Complex,43
+107,Dariush Shopping Center,44
+107,Alghadir Commercial Complex,55
+107,Iranian Shopping Center,49
+108,City Star Shopping Center,61
+108,Tejarat Tower of Qazvin,55
+108,Narvan Shopping Center,43
+108,Mehr o Mah,61
+108,Abadgaran Shopping Center,61
+108,Persian Gulf Tower,56
+108,Alborz Commerical,64
+108,Pars Commercial Complex,32
+108,,20
+108,Clothing and textiles section of Qazvin Bazaar,49
+108,Noor Complex,51
+108,Dariush Shopping Center,52
+108,Alghadir Commercial Complex,63
+108,Iranian Shopping Center,57
+109,City Star Shopping Center,56
+109,Tejarat Tower of Qazvin,50
+109,Narvan Shopping Center,37
+109,Mehr o Mah,56
+109,Abadgaran Shopping Center,56
+109,Persian Gulf Tower,50
+109,Alborz Commerical,59
+109,Pars Commercial Complex,26
+109,,17
+109,Clothing and textiles section of Qazvin Bazaar,44
+109,Noor Complex,46
+109,Dariush Shopping Center,47
+109,Alghadir Commercial Complex,58
+109,Iranian Shopping Center,52
+110,City Star Shopping Center,53
+110,Tejarat Tower of Qazvin,46
+110,Narvan Shopping Center,36
+110,Mehr o Mah,53
+110,Abadgaran Shopping Center,53
+110,Persian Gulf Tower,49
+110,Alborz Commerical,56
+110,Pars Commercial Complex,21
+110,,19
+110,Clothing and textiles section of Qazvin Bazaar,41
+110,Noor Complex,42
+110,Dariush Shopping Center,42
+110,Alghadir Commercial Complex,55
+110,Iranian Shopping Center,48
+111,City Star Shopping Center,47
+111,Tejarat Tower of Qazvin,37
+111,Narvan Shopping Center,30
+111,Mehr o Mah,50
+111,Abadgaran Shopping Center,44
+111,Persian Gulf Tower,40
+111,Alborz Commerical,43
+111,Pars Commercial Complex,29
+111,,32
+111,Clothing and textiles section of Qazvin Bazaar,44
+111,Noor Complex,35
+111,Dariush Shopping Center,34
+111,Alghadir Commercial Complex,43
+111,Iranian Shopping Center,39
+112,City Star Shopping Center,48
+112,Tejarat Tower of Qazvin,38
+112,Narvan Shopping Center,33
+112,Mehr o Mah,48
+112,Abadgaran Shopping Center,45
+112,Persian Gulf Tower,43
+112,Alborz Commerical,46
+112,Pars Commercial Complex,38
+112,,48
+112,Clothing and textiles section of Qazvin Bazaar,49
+112,Noor Complex,36
+112,Dariush Shopping Center,36
+112,Alghadir Commercial Complex,45
+112,Iranian Shopping Center,39
+113,City Star Shopping Center,61
+113,Tejarat Tower of Qazvin,53
+113,Narvan Shopping Center,46
+113,Mehr o Mah,59
+113,Abadgaran Shopping Center,60
+113,Persian Gulf Tower,54
+113,Alborz Commerical,58
+113,Pars Commercial Complex,58
+113,,68
+113,Clothing and textiles section of Qazvin Bazaar,64
+113,Noor Complex,50
+113,Dariush Shopping Center,52
+113,Alghadir Commercial Complex,58
+113,Iranian Shopping Center,52
+114,City Star Shopping Center,51
+114,Tejarat Tower of Qazvin,42
+114,Narvan Shopping Center,35
+114,Mehr o Mah,50
+114,Abadgaran Shopping Center,49
+114,Persian Gulf Tower,45
+114,Alborz Commerical,49
+114,Pars Commercial Complex,42
+114,,52
+114,Clothing and textiles section of Qazvin Bazaar,53
+114,Noor Complex,39
+114,Dariush Shopping Center,41
+114,Alghadir Commercial Complex,49
+114,Iranian Shopping Center,41
+115,City Star Shopping Center,59
+115,Tejarat Tower of Qazvin,53
+115,Narvan Shopping Center,41
+115,Mehr o Mah,59
+115,Abadgaran Shopping Center,59
+115,Persian Gulf Tower,54
+115,Alborz Commerical,62
+115,Pars Commercial Complex,30
+115,,24
+115,Clothing and textiles section of Qazvin Bazaar,47
+115,Noor Complex,49
+115,Dariush Shopping Center,50
+115,Alghadir Commercial Complex,61
+115,Iranian Shopping Center,55
+116,City Star Shopping Center,64
+116,Tejarat Tower of Qazvin,57
+116,Narvan Shopping Center,47
+116,Mehr o Mah,64
+116,Abadgaran Shopping Center,64
+116,Persian Gulf Tower,62
+116,Alborz Commerical,67
+116,Pars Commercial Complex,31
+116,,33
+116,Clothing and textiles section of Qazvin Bazaar,52
+116,Noor Complex,53
+116,Dariush Shopping Center,53
+116,Alghadir Commercial Complex,66
+116,Iranian Shopping Center,59
+117,City Star Shopping Center,52
+117,Tejarat Tower of Qazvin,42
+117,Narvan Shopping Center,35
+117,Mehr o Mah,55
+117,Abadgaran Shopping Center,49
+117,Persian Gulf Tower,45
+117,Alborz Commerical,48
+117,Pars Commercial Complex,36
+117,,48
+117,Clothing and textiles section of Qazvin Bazaar,51
+117,Noor Complex,40
+117,Dariush Shopping Center,39
+117,Alghadir Commercial Complex,48
+117,Iranian Shopping Center,44
+106,City Star Shopping Center,58
+106,Tejarat Tower of Qazvin,49
+106,Narvan Shopping Center,41
+106,Mehr o Mah,61
+106,Abadgaran Shopping Center,55
+106,Persian Gulf Tower,51
+106,Alborz Commerical,55
+106,Pars Commercial Complex,30
+106,,39
+106,Clothing and textiles section of Qazvin Bazaar,52
+106,Noor Complex,47
+106,Dariush Shopping Center,46
+106,Alghadir Commercial Complex,54
+106,Iranian Shopping Center,51
+118,City Star Shopping Center,60
+118,Tejarat Tower of Qazvin,53
+118,Narvan Shopping Center,45
+118,Mehr o Mah,60
+118,Abadgaran Shopping Center,60
+118,Persian Gulf Tower,60
+118,Alborz Commerical,63
+118,Pars Commercial Complex,25
+118,,32
+118,Clothing and textiles section of Qazvin Bazaar,47
+118,Noor Complex,50
+118,Dariush Shopping Center,49
+118,Alghadir Commercial Complex,61
+118,Iranian Shopping Center,55
+119,City Star Shopping Center,58
+119,Tejarat Tower of Qazvin,52
+119,Narvan Shopping Center,39
+119,Mehr o Mah,58
+119,Abadgaran Shopping Center,58
+119,Persian Gulf Tower,52
+119,Alborz Commerical,61
+119,Pars Commercial Complex,28
+119,,23
+119,Clothing and textiles section of Qazvin Bazaar,46
+119,Noor Complex,48
+119,Dariush Shopping Center,49
+119,Alghadir Commercial Complex,60
+119,Iranian Shopping Center,54
+120,City Star Shopping Center,22
+120,Tejarat Tower of Qazvin,32
+120,Narvan Shopping Center,28
+120,Mehr o Mah,23
+120,Abadgaran Shopping Center,29
+120,Persian Gulf Tower,16
+120,Alborz Commerical,25
+120,Pars Commercial Complex,35
+120,,51
+120,Clothing and textiles section of Qazvin Bazaar,33
+120,Noor Complex,26
+120,Dariush Shopping Center,27
+120,Alghadir Commercial Complex,25
+120,Iranian Shopping Center,31
+121,City Star Shopping Center,18
+121,Tejarat Tower of Qazvin,32
+121,Narvan Shopping Center,28
+121,Mehr o Mah,19
+121,Abadgaran Shopping Center,23
+121,Persian Gulf Tower,10
+121,Alborz Commerical,19
+121,Pars Commercial Complex,33
+121,,49
+121,Clothing and textiles section of Qazvin Bazaar,28
+121,Noor Complex,29
+121,Dariush Shopping Center,30
+121,Alghadir Commercial Complex,19
+121,Iranian Shopping Center,27
+122,City Star Shopping Center,36
+122,Tejarat Tower of Qazvin,19
+122,Narvan Shopping Center,21
+122,Mehr o Mah,35
+122,Abadgaran Shopping Center,34
+122,Persian Gulf Tower,34
+122,Alborz Commerical,37
+122,Pars Commercial Complex,23
+122,,33
+122,Clothing and textiles section of Qazvin Bazaar,29
+122,Noor Complex,16
+122,Dariush Shopping Center,15
+122,Alghadir Commercial Complex,36
+122,Iranian Shopping Center,23
+123,City Star Shopping Center,45
+123,Tejarat Tower of Qazvin,41
+123,Narvan Shopping Center,32
+123,Mehr o Mah,45
+123,Abadgaran Shopping Center,46
+123,Persian Gulf Tower,45
+123,Alborz Commerical,48
+123,Pars Commercial Complex,18
+123,,19
+123,Clothing and textiles section of Qazvin Bazaar,33
+123,Noor Complex,37
+123,Dariush Shopping Center,37
+123,Alghadir Commercial Complex,47
+123,Iranian Shopping Center,42
+124,City Star Shopping Center,39
+124,Tejarat Tower of Qazvin,27
+124,Narvan Shopping Center,23
+124,Mehr o Mah,40
+124,Abadgaran Shopping Center,36
+124,Persian Gulf Tower,34
+124,Alborz Commerical,36
+124,Pars Commercial Complex,11
+124,,34
+124,Clothing and textiles section of Qazvin Bazaar,39
+124,Noor Complex,27
+124,Dariush Shopping Center,26
+124,Alghadir Commercial Complex,35
+124,Iranian Shopping Center,29
+125,City Star Shopping Center,37
+125,Tejarat Tower of Qazvin,26
+125,Narvan Shopping Center,22
+125,Mehr o Mah,35
+125,Abadgaran Shopping Center,34
+125,Persian Gulf Tower,35
+125,Alborz Commerical,36
+125,Pars Commercial Complex,24
+125,,44
+125,Clothing and textiles section of Qazvin Bazaar,38
+125,Noor Complex,25
+125,Dariush Shopping Center,25
+125,Alghadir Commercial Complex,35
+125,Iranian Shopping Center,26
+126,City Star Shopping Center,38
+126,Tejarat Tower of Qazvin,37
+126,Narvan Shopping Center,30
+126,Mehr o Mah,37
+126,Abadgaran Shopping Center,43
+126,Persian Gulf Tower,40
+126,Alborz Commerical,42
+126,Pars Commercial Complex,46
+126,,58
+126,Clothing and textiles section of Qazvin Bazaar,45
+126,Noor Complex,34
+126,Dariush Shopping Center,36
+126,Alghadir Commercial Complex,42
+126,Iranian Shopping Center,36
+127,City Star Shopping Center,50
+127,Tejarat Tower of Qazvin,42
+127,Narvan Shopping Center,35
+127,Mehr o Mah,48
+127,Abadgaran Shopping Center,49
+127,Persian Gulf Tower,43
+127,Alborz Commerical,47
+127,Pars Commercial Complex,45
+127,,50
+127,Clothing and textiles section of Qazvin Bazaar,53
+127,Noor Complex,39
+127,Dariush Shopping Center,41
+127,Alghadir Commercial Complex,47
+127,Iranian Shopping Center,41
+128,City Star Shopping Center,47
+128,Tejarat Tower of Qazvin,36
+128,Narvan Shopping Center,30
+128,Mehr o Mah,49
+128,Abadgaran Shopping Center,43
+128,Persian Gulf Tower,40
+128,Alborz Commerical,43
+128,Pars Commercial Complex,34
+128,,40
+128,Clothing and textiles section of Qazvin Bazaar,46
+128,Noor Complex,34
+128,Dariush Shopping Center,33
+128,Alghadir Commercial Complex,42
+128,Iranian Shopping Center,38
+129,City Star Shopping Center,57
+129,Tejarat Tower of Qazvin,49
+129,Narvan Shopping Center,42
+129,Mehr o Mah,55
+129,Abadgaran Shopping Center,56
+129,Persian Gulf Tower,54
+129,Alborz Commerical,55
+129,Pars Commercial Complex,56
+129,,67
+129,Clothing and textiles section of Qazvin Bazaar,60
+129,Noor Complex,46
+129,Dariush Shopping Center,48
+129,Alghadir Commercial Complex,55
+129,Iranian Shopping Center,48
+130,City Star Shopping Center,58
+130,Tejarat Tower of Qazvin,50
+130,Narvan Shopping Center,41
+130,Mehr o Mah,56
+130,Abadgaran Shopping Center,57
+130,Persian Gulf Tower,51
+130,Alborz Commerical,55
+130,Pars Commercial Complex,51
+130,,61
+130,Clothing and textiles section of Qazvin Bazaar,61
+130,Noor Complex,47
+130,Dariush Shopping Center,49
+130,Alghadir Commercial Complex,55
+130,Iranian Shopping Center,49
+131,City Star Shopping Center,57
+131,Tejarat Tower of Qazvin,49
+131,Narvan Shopping Center,40
+131,Mehr o Mah,55
+131,Abadgaran Shopping Center,56
+131,Persian Gulf Tower,50
+131,Alborz Commerical,54
+131,Pars Commercial Complex,50
+131,,60
+131,Clothing and textiles section of Qazvin Bazaar,60
+131,Noor Complex,46
+131,Dariush Shopping Center,48
+131,Alghadir Commercial Complex,54
+131,Iranian Shopping Center,48
+132,City Star Shopping Center,58
+132,Tejarat Tower of Qazvin,50
+132,Narvan Shopping Center,41
+132,Mehr o Mah,58
+132,Abadgaran Shopping Center,58
+132,Persian Gulf Tower,53
+132,Alborz Commerical,59
+132,Pars Commercial Complex,26
+132,,29
+132,Clothing and textiles section of Qazvin Bazaar,46
+132,Noor Complex,48
+132,Dariush Shopping Center,48
+132,Alghadir Commercial Complex,58
+132,Iranian Shopping Center,52
+133,City Star Shopping Center,57
+133,Tejarat Tower of Qazvin,50
+133,Narvan Shopping Center,40
+133,Mehr o Mah,57
+133,Abadgaran Shopping Center,57
+133,Persian Gulf Tower,54
+133,Alborz Commerical,59
+133,Pars Commercial Complex,23
+133,,26
+133,Clothing and textiles section of Qazvin Bazaar,45
+133,Noor Complex,47
+133,Dariush Shopping Center,47
+133,Alghadir Commercial Complex,58
+133,Iranian Shopping Center,52
+134,City Star Shopping Center,52
+134,Tejarat Tower of Qazvin,46
+134,Narvan Shopping Center,35
+134,Mehr o Mah,52
+134,Abadgaran Shopping Center,52
+134,Persian Gulf Tower,48
+134,Alborz Commerical,55
+134,Pars Commercial Complex,24
+134,,10
+134,Clothing and textiles section of Qazvin Bazaar,40
+134,Noor Complex,42
+134,Dariush Shopping Center,43
+134,Alghadir Commercial Complex,54
+134,Iranian Shopping Center,48
+135,City Star Shopping Center,55
+135,Tejarat Tower of Qazvin,49
+135,Narvan Shopping Center,36
+135,Mehr o Mah,55
+135,Abadgaran Shopping Center,55
+135,Persian Gulf Tower,49
+135,Alborz Commerical,58
+135,Pars Commercial Complex,25
+135,,20
+135,Clothing and textiles section of Qazvin Bazaar,43
+135,Noor Complex,45
+135,Dariush Shopping Center,46
+135,Alghadir Commercial Complex,57
+135,Iranian Shopping Center,51
+157,City Star Shopping Center,34
+157,Tejarat Tower of Qazvin,30
+157,Narvan Shopping Center,21
+157,Mehr o Mah,33
+157,Abadgaran Shopping Center,37
+157,Persian Gulf Tower,34
+157,Alborz Commerical,36
+157,Pars Commercial Complex,33
+157,,49
+157,Clothing and textiles section of Qazvin Bazaar,38
+157,Noor Complex,27
+157,Dariush Shopping Center,29
+157,Alghadir Commercial Complex,35
+157,Iranian Shopping Center,29
+158,City Star Shopping Center,44
+158,Tejarat Tower of Qazvin,33
+158,Narvan Shopping Center,27
+158,Mehr o Mah,46
+158,Abadgaran Shopping Center,40
+158,Persian Gulf Tower,37
+158,Alborz Commerical,40
+158,Pars Commercial Complex,32
+158,,42
+158,Clothing and textiles section of Qazvin Bazaar,43
+158,Noor Complex,31
+158,Dariush Shopping Center,30
+158,Alghadir Commercial Complex,39
+158,Iranian Shopping Center,35
+160,City Star Shopping Center,44
+160,Tejarat Tower of Qazvin,31
+160,Narvan Shopping Center,29
+160,Mehr o Mah,44
+160,Abadgaran Shopping Center,40
+160,Persian Gulf Tower,39
+160,Alborz Commerical,40
+160,Pars Commercial Complex,27
+160,,35
+160,Clothing and textiles section of Qazvin Bazaar,43
+160,Noor Complex,31
+160,Dariush Shopping Center,30
+160,Alghadir Commercial Complex,39
+160,Iranian Shopping Center,33
